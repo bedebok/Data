@@ -1,0 +1,9 @@
+#+TITLE: Bible passages
+
+* Old Testament
+
+|----------------------+--------+----------------|
+| Passage              | Danish | Low German     |
+|----------------------+--------+----------------|
+| Lamentations 1:18-21 |        | AM08_0070-254r |
+|                      |        |                |
