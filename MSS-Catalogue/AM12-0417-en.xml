@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="https://handrit.is/schema/handrit-2.0.rnc" type="compact"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">AM 417 12mo</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Den Arnamagnæanske Samling</authority>
+                <pubPlace>København</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="AM12-0417-en" xml:lang="en">
+                    <msIdentifier>
+                        <country>Denmark</country>
+                        <settlement>København</settlement>
+                        <institution key="AMS"/>
+                        <repository>Den Arnamagnæanske Samling</repository>
+                        <collection key="AM"/>
+                        <idno>AM 417 12mo</idno>
+                        <altIdentifier type="internal" subtype="KKKat">
+                            <idno>2497</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="parallel" xml:lang="en">Low German Prayer
+                            Book</title></summary>
+                        <msItem n="1" class="banb">
+                            <locus from="1r" to="87v">1r-87v</locus>
+                            <title type="parallel" xml:lang="en">Low German Prayer Book</title>
+                            <textLang mainLang="nds">Middle Low German</textLang>
+                        </msItem>
+                      <msItem n="1" class="banb">
+                        <locus from="1r" to="34v">1r-34v</locus>
+                        <title type="parallel">Hours of the Holy Spirit</title>
+                        <title type="parallel"></title>
+                        <textLang mainLang="mld">Middle Low German</textLang>
+                        <rubric>Hijr beghynnet des hillige geistes tijde to dude aldus</rubric>
+                        <incipit>DE gnade des hillige geistes sy mit uns</incipit>
+                        <explicit>God si benediet un<expan>de</expan> sin hulpe bliue myt uns allen Amen</explicit>
+                      </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="perg">
+                                <support>
+                                    <p>
+                                        <material>Parchment</material>.</p>
+                                </support>
+                                <extent>87. <dimensions type="leaf" scope="all">
+                                        <height unit="mm">122</height>
+                                        <width unit="mm">87</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">
+                                    <p>The manuscript is ruled and written in long lines
+                                        throughout.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote type="mixed">
+                                <p>The initials are mainly red and blue, and the rubrics are
+                                    red.</p>
+                            </decoNote>
+                            <decoNote type="border" subtype="foliate">
+                                <p>The borders are foliated with birds.</p>
+                            </decoNote>
+                            <decoNote type="mixed">
+                                <p>On fol. <locus from="34v" to="34v">34v</locus> there is a miniature of <term
+                                        type="motive">the Trinity</term> which is surrounded by a
+                                    foliated border.</p>
+                            </decoNote>
+                            <decoNote type="mixed">
+                                <p>On fol. <locus from="62v" to="62v">62v</locus> is a miniature of St Anne and the
+                                    Virgin holding the Christ Child, and in front of them a nobleman
+                                    is kneeling in adoration, his coat of arms (belonging to the house of Oldenburg) lying on the ground in
+                                    front of him. The miniature is surrounded by a foliated
+                                    border.</p><p>According to <bibl><ref target="Vrieland2020a">Vrieland
+                                        2020</ref></bibl> this nobleman can be identified as king of Denmark, <name type="person"
+                                            key="Kri000004">Christian I</name>'s youngest brother Gerhard, Count of Oldenburg-Delmenhorst
+                                        (1430-1500).</p>
+                            </decoNote>
+                        </decoDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Red tooled leather binding with clasps.</p>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore="1460" notAfter="1470" cert="high" evidence="conjecture"
+                            resp="CHD">
+                            <p>The manuscript is written in <name type="place">Germany</name>. <name type="person" key="KriKaa001"
+                                    >Kålund</name> (<bibl>
+                                    <ref type="secondary-1" target="KKKat">Katalog</ref>
+                                    <biblScope unit="volume">II</biblScope>
+                                    <biblScope unit="pages">475</biblScope>
+                                </bibl>) dated it to the fifteenth
+                                    century. Drigsdahl (<bibl>
+                                        <ref target="CHD1997-2007">Drigsdahl 1997-2007</ref>
+                                </bibl>) however, subsequently dated it more precisely to <origDate
+                                    notBefore="1460" notAfter="1470">ca. 1460/1470</origDate>. </p>
+                            <p>According to <bibl><ref target="Vrieland2020a">Vrieland
+                                    2020</ref></bibl> the manuscript could possibly have been
+                                commissioned by Christian I's youngest brother Gerhard.</p>
+                        </origin>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <p>Catalogued by AWS <date when="2000-04-07"
+                                        >07.04.2000</date>.</p>
+                                </source>
+                            </recordHist>
+                            <custodialHist>
+                                <custEvent notBefore="1989" notAfter="1989" type="photography">
+                                    <p>The manuscript was photographed <date when="1989-05-30"
+                                            >30.05.1989</date>.</p>
+                                </custEvent>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates>
+                            <list>
+                                <item>Microfilm (master), <idno>Neg. 799</idno>, s.d. </item>
+                                <item>Microfilm (archive), <idno>Pos. 730 </idno>, from <date
+                                        when="1989">1989</date>. </item>
+                                <item>Black and white prints from <date when="1990">1990</date>.
+                                </item>
+                            </list>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Kålund, <ref type="secondary-1" target="KKKat">Katalog</ref>
+                                <biblScope unit="volume">II</biblScope>
+                                <biblScope unit="pages">475</biblScope>
+                            </bibl>
+                            <bibl xml:id="CHD1997-2007">
+                                <ref type="url" target="http://www.chd.dk">List of described Books
+                                    of Hours - Psalters - Prayerbooks c. 1300–1530 in Danish
+                                    Collections</ref>
+                            </bibl>
+                            <bibl><ref type="secondary-1" target="Vrieland2020a">Vrieland 2020</ref>
+                                <biblScope unit="page">265-268</biblScope></bibl>
+                        </listBibl>
+
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2004-02-02" who="JonAda001">Amended.</change>
+            <change when="2021-09-07" who="EvaWed001">Updated markup, amended origDate and added
+                listBibl.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface/>
+    </facsimile>
+</TEI>
