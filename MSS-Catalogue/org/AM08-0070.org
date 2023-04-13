@@ -1,0 +1,26 @@
+#+TITLE AM 70 8vo
+
+* Physical Description
+|--------------+------|
+| SUPPORT      | perg |
+| NUMBER       |      |
+| SIZE         |      |
+| WRITING AREA |      |
+| COLUMNS      |      |
+| LINES        |      |
+| FOLIATION    |      |
+|--------------+------|
+
+* History
+|------------+--------------|
+| PLACE      | #DE #DK      |
+| DATE       | XV           |
+| PROVENANCE | Rostgård 356 |
+|------------+--------------|
+
+* Contents
+** St. Birgitta's Revelationes book XI ('The Angel Book')
+*** Antiphony
+- Jtem hir volghet na eyne Antiphona van sunte birgitten ::
+*** (something missing bw ff 2-3)
+*** 
