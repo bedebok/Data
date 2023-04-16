@@ -1,8 +1,11 @@
 #+TITLE 
 # AM 70 8vo, 254r-254v
 # BIBLE: Lamentations 1:18-
+
 *Til affte(n)sagn oc til ottesagn*
-#Cap(itu)l(u)m Audite obsecro vniu(er)si# [[I]]k bidde nw hø-
+
+*Cap(itu)l(u)m Audite obsecro vniu(er)si* [[I]]k bidde nw hø-
+
 ret alle volke vn(de) seet my(n) droffnisse myner iu(n)c-
 vvroue(n) vn(de) myne(n) iu(n)gelinghe in der vengenisse
 ginge(n) se van my ik rep myne vru(n)de vnde se
