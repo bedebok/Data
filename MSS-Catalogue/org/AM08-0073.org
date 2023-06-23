@@ -23,6 +23,6 @@
 |-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
 | 1v    |     | MINIATURE   |                       |     |                               |                                      |          |        |
 | 2r    | 11v | CALENDARIUM | Calendarium ad uso XX |     | Januari(us) heft .xxxi. daghe | De nacht is xviij stunde de dagh vj. | MLG      | main   |
-| 11v   |     | [[file:../../Prayers/org/AM08-0073_0011v.org][PRAYER]]      | Added prayer          |     | Gudtz Guodhied will wi prise  | est Anima mea                        | Dan, Lat | added  |
+| 11v   |     | [[file:../../Prayers/org/AM08-0073_011v.org][PRAYER]]      | Added prayer          |     | Gudtz Guodhied will wi prise  | est Anima mea                        | Dan, Lat | added  |
 | 12r   |     | COMPUTUS    | Computus              |     |                               |                                      | Lat      | main   |
 |       |     |             |                       |     |                               |                                      |          |        |
