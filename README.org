@@ -3,27 +3,29 @@ Open Access Data
 
 
 * Catalogue
-|-------------+--------------------------+----------------+-----------+------------------------------------------------------------+-----------------------------------------------------------|
-| Shelfmark   | Name                     | Language(s)    |    Dating | Handrit                                                    | IMG                                                       |
-|-------------+--------------------------+----------------+-----------+------------------------------------------------------------+-----------------------------------------------------------|
-| AM 782 4to  | En dansk nonnes bønnebog | Danish         | 1500-1525 | https://handrit.is/manuscript/view/da/AM04-0782/0#mode/2up | yes                                                       |
-| AM 784 4to  |                          | Danish, Latin  |      1523 | https://handrit.is/manuscript/view/da/AM04-0784            | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/12601 |
-| AM 785 4to  |                          | (High?) German | 1400-1599 | https://handrit.is/manuscript/view/da/AM04-0785            | no                                                        |
-| AM 786 4to  |                          | Low German     | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-0786            | no                                                        |
-| AM 789 4to  |                          |                |           |                                                            |                                                           |
-| AM 790 4to  |                          |                |           |                                                            |                                                           |
-| AM 1056 4to |                          |                |           |                                                            |                                                           |
-| AM 11 8vo   |                          |                |           |                                                            |                                                           |
-| AM 70 8vo   |                          |                |           |                                                            |                                                           |
-| AM 72 8vo   |                          |                |           |                                                            |                                                           |
-| AM 73 8vo   |                          |                |           |                                                            |                                                           |
-| AM 74 8vo   |                          |                |           |                                                            |                                                           |
-| AM 75 8vo   |                          |                |           |                                                            |                                                           |
-| AM 79 8vo   |                          |                |           |                                                            |                                                           |
-| AM 417 12mo |                          |                |           |                                                            |                                                           |
-| AM 418 12mo |                          |                |           |                                                            |                                                           |
-| AM 420 12mo |                          |                |           |                                                            |                                                           |
-| AM 421 12mo |                          |                |           |                                                            |                                                           |
-| AM 423 12mo |                          |                |           |                                                            |                                                           |
-|-------------+--------------------------+----------------+-----------+------------------------------------------------------------+-----------------------------------------------------------|
-
+|--------------+--------------------------+----------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
+| Shelfmark    | Name                     | Language(s)    |    Dating | Handrit                                         | IMG                                                       |
+|--------------+--------------------------+----------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
+| AM 782 4to   | En dansk nonnes bønnebog | Danish         | 1500-1525 | https://handrit.is/manuscript/view/da/AM04-0782 | handrit                                                   |
+| AM 783 4to   | Grinderslev-håndskriftet | Danish         | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-0783 | no                                                        |
+| AM 784 4to   |                          | Danish, Latin  |      1523 | https://handrit.is/manuscript/view/da/AM04-0784 | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/12601 |
+| AM 785 4to   |                          | (High?) German | 1400-1599 | https://handrit.is/manuscript/view/da/AM04-0785 | no                                                        |
+| AM 786 4to   |                          | Low German     | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-0786 | no                                                        |
+| {AM 787 4to} |                          | {Swedish}      |           | https://handrit.is/manuscript/view/da/AM04-0787 |                                                           |
+| AM 788 4to   |                          | {Latin}        |           | https://handrit.is/manuscript/view/da/AM04-0788 |                                                           |
+| AM 789 4to   |                          | Danish         |           | https://handrit.is/manuscript/view/da/AM04-0790 | handrit                                                   |
+| AM 790 4to   |                          |                |           |                                                 |                                                           |
+| AM 1056 4to  |                          |                |           |                                                 |                                                           |
+| AM 11 8vo    |                          |                |           |                                                 |                                                           |
+| AM 70 8vo    |                          |                |           |                                                 |                                                           |
+| AM 72 8vo    |                          |                |           |                                                 |                                                           |
+| AM 73 8vo    |                          |                |           |                                                 |                                                           |
+| AM 74 8vo    |                          |                |           |                                                 |                                                           |
+| AM 75 8vo    |                          |                |           |                                                 |                                                           |
+| AM 79 8vo    |                          |                |           |                                                 |                                                           |
+| AM 417 12mo  |                          |                |           |                                                 |                                                           |
+| AM 418 12mo  |                          |                |           |                                                 |                                                           |
+| AM 420 12mo  |                          |                |           |                                                 |                                                           |
+| AM 421 12mo  |                          |                |           |                                                 |                                                           |
+| AM 423 12mo  |                          |                |           |                                                 |                                                           |
+|--------------+--------------------------+----------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
