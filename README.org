@@ -3,29 +3,66 @@ Open Access Data
 
 
 * Catalogue
-|--------------+--------------------------+----------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
-| Shelfmark    | Name                     | Language(s)    |    Dating | Handrit                                         | IMG                                                       |
-|--------------+--------------------------+----------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
-| AM 782 4to   | En dansk nonnes bønnebog | Danish         | 1500-1525 | https://handrit.is/manuscript/view/da/AM04-0782 | handrit                                                   |
-| AM 783 4to   | Grinderslev-håndskriftet | Danish         | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-0783 | no                                                        |
-| AM 784 4to   |                          | Danish, Latin  |      1523 | https://handrit.is/manuscript/view/da/AM04-0784 | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/12601 |
-| AM 785 4to   |                          | (High?) German | 1400-1599 | https://handrit.is/manuscript/view/da/AM04-0785 | no                                                        |
-| AM 786 4to   |                          | Low German     | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-0786 | no                                                        |
-| {AM 787 4to} |                          | {Swedish}      |           | https://handrit.is/manuscript/view/da/AM04-0787 |                                                           |
-| AM 788 4to   |                          | {Latin}        |           | https://handrit.is/manuscript/view/da/AM04-0788 |                                                           |
-| AM 789 4to   |                          | Danish         |           | https://handrit.is/manuscript/view/da/AM04-0790 | handrit                                                   |
-| AM 790 4to   |                          |                |           |                                                 |                                                           |
-| AM 1056 4to  |                          |                |           |                                                 |                                                           |
-| AM 11 8vo    |                          |                |           |                                                 |                                                           |
-| AM 70 8vo    |                          |                |           |                                                 |                                                           |
-| AM 72 8vo    |                          |                |           |                                                 |                                                           |
-| AM 73 8vo    |                          |                |           |                                                 |                                                           |
-| AM 74 8vo    |                          |                |           |                                                 |                                                           |
-| AM 75 8vo    |                          |                |           |                                                 |                                                           |
-| AM 79 8vo    |                          |                |           |                                                 |                                                           |
-| AM 417 12mo  |                          |                |           |                                                 |                                                           |
-| AM 418 12mo  |                          |                |           |                                                 |                                                           |
-| AM 420 12mo  |                          |                |           |                                                 |                                                           |
-| AM 421 12mo  |                          |                |           |                                                 |                                                           |
-| AM 423 12mo  |                          |                |           |                                                 |                                                           |
-|--------------+--------------------------+----------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
+|---------------+-------------------------------------------+--------------------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
+| Shelfmark     | Name                                      | Language(s)              |    Dating | Handrit                                         | IMG                                                       |
+|---------------+-------------------------------------------+--------------------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
+| AM 782 4to    | En dansk nonnes bønnebog                  | Danish                   | 1500-1525 | https://handrit.is/manuscript/view/da/AM04-0782 | handrit                                                   |
+| AM 783 4to    | Grinderslev-håndskriftet                  | Danish                   | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-0783 | no                                                        |
+| AM 784 4to    |                                           | Danish, Latin            |      1523 | https://handrit.is/manuscript/view/da/AM04-0784 | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/12601 |
+| AM 785 4to    |                                           | (High?) German           | 1400-1599 | https://handrit.is/manuscript/view/da/AM04-0785 | no                                                        |
+| AM 786 4to    |                                           | Low German               | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-0786 | no                                                        |
+| {AM 787 4to}  |                                           | {Swedish}                |           | https://handrit.is/manuscript/view/da/AM04-0787 |                                                           |
+| {AM 788 4to}  |                                           | {Latin}                  |           | https://handrit.is/manuscript/view/da/AM04-0788 |                                                           |
+| AM 789 4to    |                                           | Danish                   | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-0789 | handrit                                                   |
+| AM 790 4to    |                                           |                          | 1500-1525 | https://handrit.is/manuscript/view/da/AM04-0790 | handrit                                                   |
+| AM 807 4to    | Sydrach                                   | Low German               |      1479 | https://handrit.is/manuscript/view/da/AM04-0807 | n-drive                                                   |
+| AM 1056 4to   | (Fragments)                               |                          |           |                                                 |                                                           |
+| AM 11 8vo     | Legal manuscript with added prayers       | Danish, (Swedish?) Latin | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0011 | handrit                                                   |
+| AM 70 8vo     | Birgittine Prayer Book (Sermo Ang)        | German, Danish           | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0070 |                                                           |
+| {AM 71 8vo}   | Geert Grotes Book of Hours                | Dutch                    | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0071 | handrit                                                   |
+| AM 72 8vo     |                                           | Danish                   | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0072 | handrit                                                   |
+| AM 73 8vo     | German book of hours(?) with Danish notes | German, Danish           | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0073 | n-drive                                                   |
+| AM 74 8vo     |                                           | German                   | 1475-1499 | https://handrit.is/manuscript/view/da/AM08-0074 | no                                                        |
+| AM 75 8vo     |                                           | Danish                   | 1490-1510 | https://handrit.is/manuscript/view/da/AM08-0075 | handrit                                                   |
+| AM 76 8vo     | Per Rævs håndskrift                       | Danish, Latin            | 1460-1480 | https://handrit.is/manuscript/view/da/AM08-0076 | handrit                                                   |
+| AM 79 8vo     | (Fragments)                               |                          |           | https://handrit.is/manuscript/view/da/AM08-0079 |                                                           |
+| AM 417 12mo   | Oldeborg prayer book                      | German                   | 1400-1499 | https://handrit.is/manuscript/view/da/AM12-0417 | no                                                        |
+| AM 418 12mo   | En dansk nonnes bønnebog                  | Danish, Latin            | 1490-1510 | https://handrit.is/manuscript/view/da/AM12-0418 | handrit (b/w)                                             |
+| AM 419 12mo   | Vor frue tider (Christiern Pedersen)      | Danish                   | 1514-1525 | https://handrit.is/manuscript/view/da/AM12-0419 | n-drive                                                   |
+| AM 420 12mo   |                                           | Danish, Latin            | 1490-1510 | https://handrit.is/manuscript/view/da/AM12-0420 | no                                                        |
+| AM 421 12mo   | Marine Jespersdatters bønnebog            | Danish, Latin            |      1514 | https://handrit.is/manuscript/view/da/AM12-0421 | n-drive                                                   |
+| {AM 422 12mo} | En Vadstena-nunnas bönbok                 | Swedish, Latin           | 1400-1499 | https://handrit.is/manuscript/view/da/AM12-0422 | no                                                        |
+| AM 423 12mo   | Marine Lauridsdatters bønnebog            | Danish (Latin?)          | 1500-1599 | https://handrit.is/manuscript/view/da/AM12-0423 | handrit                                                   |
+|---------------+-------------------------------------------+--------------------------+-----------+-------------------------------------------------+-----------------------------------------------------------|
+*** Fragments
+|---------------------+---------------------------------------------------+---------------+-----------+------------------------------------------------------------+-----|
+| Shelfmark           | Name                                              | Language(s)   |    Dating | Handrit                                                    | IMG |
+|---------------------+---------------------------------------------------+---------------+-----------+------------------------------------------------------------+-----|
+| AM 1056 X 4to       | Jærtegnspostil                                    | Danish        | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-X          |     |
+| AM 1056 XI 4to      | Dialog mellem sapiencia og discipulen             | Danish        | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-1056-XI         |     |
+| AM 1056 XII 4to     | En tidebog                                        | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XII        |     |
+| AM 1056 XIII 4to    | En tidebog                                        | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XIII       |     |
+| AM 1056 XIV 4to     | En opbyggelsesbog                                 | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XIV        |     |
+| AM 1056 XV 4to      | Birgittes åbenbaringer  --> AM 79 8vo             | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XV         |     |
+| AM 1056 XVI 4to     | Birgittes åbenbaringer                            | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XVI        |     |
+| AM 1056 XVII 4to    | Om klosterlævned                                  | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XVII       |     |
+| AM 1056 XVIII 4to   | Jærtegnspostil                                    | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XVIII      |     |
+| AM 1056 XIX 4to     | Kristi lidelseshistorie                           | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XIX        |     |
+| AM 1056 XX 4to      | Et gudelgt skrift                                 | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XX         |     |
+| AM 1056 XXI 4to     | Et gudelgt skrift                                 | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXI        |     |
+| AM 1056 XXV 4to     | Birgittes åbenbaringer                            | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXV        |     |
+| AM 1056 XXVI-II 4to | Birgittes åbenbaringer                            | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXVI-XXVII |     |
+| AM 1056 XXIX 4to    | Om katolske kirkeskikke m.v., særlig konfirmation | Danish, Latin |           | https://handrit.is/manuscript/view/da/AM04-1056-XXIX       |     |
+| AM 1056 XXX 4to     | En bønnebog                                       | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXX        |     |
+| AM 1056 XXXI 4to    | En bønnebog                                       | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXI       |     |
+| AM 1056 XXXII 4to   | En bønnebog                                       | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXII      |     |
+| AM 1056 XXXIII 4to  | Passionale                                        | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXIII     |     |
+| AM 1056 XXXIV 4to   | En bønnebog                                       | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXIV      |     |
+| AM 1056 XXXV 4to    | En bønnebog                                       | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXV       |     |
+| AM 1056 XXXVI 4to   | Samtale mellem gud og sjælen                      | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXVI      |     |
+| AM 1056 XXXVIII 4to | En moralsk vers                                   | Danish        |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXVIIII   |     |
+| AM 1056 XXXIX 4to   | De tre vanskelige spørgsmål                       | Danish        | 1500-1599 | https://handrit.is/manuscript/view/da/AM04-1056-XXXIX      |     |
+|---------------------+---------------------------------------------------+---------------+-----------+------------------------------------------------------------+-----|
+
+
+
