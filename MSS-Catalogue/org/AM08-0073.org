@@ -18,11 +18,29 @@
 | PROVENANCE |         |
 |------------+---------|
 * Contents
-|-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
-| start | end | text type   | text                  | MDB | incipit                       | explicit                             | language | status |
-|-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
-| 1v    |     | MINIATURE   |                       |     |                               |                                      |          |        |
-| 2r    | 11v | CALENDARIUM | Calendarium ad uso XX |     | Januari(us) heft .xxxi. daghe | De nacht is xviij stunde de dagh vj. | MLG      | main   |
-| 11v   |     | [[file:../../Prayers/org/AM08-0073_011v.org][PRAYER]]      | Added prayer          |     | Gudtz Guodhied will wi prise  | est Anima mea                        | Dan, Lat | added  |
-| 12r   |     | COMPUTUS    | Computus              |     |                               |                                      | Lat      | main   |
-|       |     |             |                       |     |                               |                                      |          |        |
+|-------+-----+--------------+-----------------------+-----+--------------------------------------------+--------------------------------------+----------+--------|
+| start | end | text type    | text                  | MDB | incipit                                    | explicit                             | language | status |
+|-------+-----+--------------+-----------------------+-----+--------------------------------------------+--------------------------------------+----------+--------|
+| 1v    |     | MINIATURE    |                       |     |                                            |                                      |          |        |
+| 2r    | 11v | CALENDARIUM  | Calendarium ad uso XX |     | Januari(us) heft .xxxi. daghe              | De nacht is xviij stunde de dagh vj. | MLG      | main   |
+| 11v   |     | [[file:/Prayers/org/AM08-0073_011v.org][PRAYER]]       | Added prayer          |     | Gudtz Guodhied will wi prise               | est Anima mea                        | Dan, Lat | added  |
+| 12r   |     | COMPUTUS     | Computus              |     |                                            |                                      | Lat      | main   |
+| 12v   |     | PROGNOSTICON |                       |     | Første dagh i ny manæ                      | gør me(n)nisken ??                   | Dan      | added  |
+| 13r   |     | RUBRIC       |                       |     | Hir begynne(n) soue(n) salme(n)            |                                      | MLG      | meta   |
+| 13r   |     | INCIPIT      |                       |     | [[D]]Omine ne in furo(r)e tuo                  |                                      | Lat      | meta   |
+| 13r   | 14r | PRAYER       | SEVEN_PSALMS_1        |     | [[H]]ere en schelt my nicht in dyneme vmmode   | vnde deme hilgen geyste. Amen.       | MLG      | main   |
+| 14r   |     | RUBRIC       |                       |     | Ps(almus)                                  |                                      | Lat      | meta   |
+| 14r   |     | INCIPIT      |                       |     | Beati quo?                                 |                                      | Lat      | meta   |
+| 14r   | 15v | PRAYER       | SEVEN_PSALMS_2        |     | Salich sint de den ere bosheyt is vorgeue: | vnde deme hilge(n) geyste.           | MLG      | main   |
+| 15v   |     | INCIPIT      |                       |     | [[D]](omi)ne ne in furore tuo ar.              |                                      | Lat      | meta   |
+| 15v   | 17v | PRAYER       | SEVEN_PSALMS_3        |     | [[H]]ere en schelt my nicht yn dineme vmmode:  | vn(de) deme hilgen geyste. Ame(n).   | MLG      | main   |
+| 17v   |     | INCIPIT      |                       |     | [[M]]iser(er)e mei d(ominu)s:                  |                                      | Lat      | meta   |
+| 17v   | 19v | PRAYER       | SEVEN_PSALMS_4        |     | Got vorbarme dy ouer my:                   | vn(de) d(eme) h(ilgen) g(eyste)      | MLG      | main   |
+| 19v   |     | INCIPIT      |                       |     | [[D]]Omine exaudi or(?)om mea(m)               |                                      | Lat      | meta   |
+| 19v   | 22r | PRAYER       | SEVEN_PSALMS_5        |     | [[H]]ere twide myn beth:                       |                                      | MLG      | main   |
+| 22r   |     | INCIPIT      |                       |     | [[D]]e profundis dama... ad te.                |                                      | Lat      | meta   |
+| 22r   | 22v | PRAYER       | SEVEN_PSALMS_6        |     | [[H]]ere ik rep to dy van der dupe:            | vn(de)                               | MLG      | main   |
+| 22v   |     | INCIPIT      |                       |     | [[D]]omine exaudi om(?)em mea(m) auxib(???)    |                                      | Lat      | meta   |
+| 22v   | 24r | PRAYER       | SEVEN_PSALMS_7        |     | [[H]]ere twide my(n) bet                       | vn(de) deme hilge(n) geyste. Amen:   | MLG      | main   |
+| 24r   |     | INCIPIT      |                       |     | [[K]]yrieleyson. [[K]](yri)eleyson.                |                                      | Lat      | meta   |
+| 24r   |     | PRAYER       | LITANY_SAINTS         |     | [[H]]ere ih(es)u (christ)e: vorlose vns        |                                      | MLG      | main   |
