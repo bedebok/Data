@@ -1,4 +1,4 @@
-#+TITLE AM 70 8vo
+#+TITLE: AM 70 8vo
 
 * Physical Description
 |--------------+------|
