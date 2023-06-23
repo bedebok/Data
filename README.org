@@ -13,7 +13,7 @@ Open Access Data
 | AM 786 4to    |                                           | Low German               | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-0786 | no                                                        |
 | {AM 787 4to}  |                                           | {Swedish}                |           | https://handrit.is/manuscript/view/da/AM04-0787 |                                                           |
 | {AM 788 4to}  |                                           | {Latin}                  |           | https://handrit.is/manuscript/view/da/AM04-0788 |                                                           |
-| AM 789 4to    |                                           | Danish                   | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-0789 | handrit                                                   |
+| [[file:MSS-Catalogue/org/AM04-0789.org][AM 789 4to]] |                                           | Danish                   | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-0789 | handrit                                                   |
 | AM 790 4to    |                                           |                          | 1500-1525 | https://handrit.is/manuscript/view/da/AM04-0790 | handrit                                                   |
 | AM 807 4to    | Sydrach                                   | Low German               |      1479 | https://handrit.is/manuscript/view/da/AM04-0807 | n-drive                                                   |
 | AM 1056 4to   | (Fragments)                               |                          |           |                                                 |                                                           |
