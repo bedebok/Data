@@ -21,3 +21,5 @@
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
 | start | end | text type  | text          | MDB   | incipit                                                | explicit | language | status |
 |-------+-----+------------+------------
+| 1v | | MINIATURE |
+| 2r | | CALENDARIUM | Calendarium ad uso XX | | Januari(us) heft •xxxi• daghe | | MLG | main |
