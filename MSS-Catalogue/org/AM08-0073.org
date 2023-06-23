@@ -12,17 +12,17 @@
 |--------------+-------------|
 
 * History
-|------------+--------------|
-| PLACE      |          |
-| DATE       |         |
-| PROVENANCE |  |
-|------------+--------------|
+|------------+---------|
+| PLACE      | #DE #DK |
+| DATE       | xv      |
+| PROVENANCE |         |
+|------------+---------|
 * Contents
 |-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
 | start | end | text type   | text                  | MDB | incipit                       | explicit                             | language | status |
 |-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
 | 1v    |     | MINIATURE   |                       |     |                               |                                      |          |        |
 | 2r    | 11v | CALENDARIUM | Calendarium ad uso XX |     | Januari(us) heft .xxxi. daghe | De nacht is xviij stunde de dagh vj. | MLG      | main   |
-| 11v   |     | [[file:../../Prayers/AM08-0073-0011v.org][PRAYER]]      | Added prayer          |     | Gudtz G                       |                                      |          | added  |
+| 11v   |     | [[file:/Users/Prayers/AM08-0073_0011v.org][PRAYER]]      | Added prayer          |     | Gudtz Guodhied will wi prise  | est Anima mea                        | Dan, Lat | added  |
 | 12r   |     | COMPUTUS    | Computus              |     |                               |                                      | Lat      | main   |
 |       |     |             |                       |     |                               |                                      |          |        |
