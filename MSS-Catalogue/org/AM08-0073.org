@@ -1,15 +1,51 @@
 #+TITLE: AM 73 8vo
 
 * PhysDesc
-|--------------+-------------|
-| SUPPORT      |         |
-| NUMBER       | |
-| SIZE         |      |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
-| FOLIATION    |      |
-|--------------+-------------|
+|--------------+---|
+| SUPPORT      |   |
+| NUMBER       |   |
+| SIZE         |   |
+| WRITING AREA |   |
+| COLUMNS      |   |
+| LINES        |   |
+| FOLIATION    |   |
+|--------------+---|
+
+** Quire structure
+| Quire   |  Leaves | Structure    | Changes                                                   |
+|---------+---------+--------------+-----------------------------------------------------------|
+| I.      |       1 | singleton    |                                                           |
+| II.     |    2-11 | quinternion  |                                                           |
+| III.    |      12 | singleton    |                                                           |
+| IV.     |   13-22 | quinternion  |                                                           |
+| V.      |   23-32 | quinternion  |                                                           |
+| VI.     |   33-42 | quinternion  | Loose guard between 37v-38r                               |
+| VII.    |   43-54 | quinternion  | 43 & 46 added, flap inserted at 48v                       |
+| a.      |   55-58 | singletons?  | attatched to guards                                       |
+| VIII.   |   59-70 | quinternion  | 67 & 68 added                                             |
+| IX.     |   71-80 | quinternion  |                                                           |
+| X.      |   81-90 | quinternion  |                                                           |
+| XI.     |   91-99 | unclear      | 91, 92, 98, 99 on guards                                  |
+| XII.    | 100-109 | quinternion  | loose guard between 100v-109r                             |
+| XIII.   | 110-119 | quinternion  |                                                           |
+| XIV.    | 120-129 | quinternion  |                                                           |
+| XV.     | 130-139 | quinternion  |                                                           |
+| XVI.    | 140-149 | quinternion  |                                                           |
+| XVII.   | 150-159 | quinternion  |                                                           |
+| XVIII.  | 160-170 | quinternion  | 167 added                                                 |
+| XIX.    | 171-181 | quinternion  | 173 added                                                 |
+| XX.     | 182-189 | quaternion   |                                                           |
+| XXI.    | 190-198 | quaternion   | 197 added                                                 |
+| XXII.   | 199-209 | quinternion  | 199 added                                                 |
+| XXIII.  | 210-219 | quinternion  |                                                           |
+| XXIV.   | 220-229 | quinternion  |                                                           |
+| XXV.    | 230-240 | quinternion  | 230 added                                                 |
+| XXVI.   | 241-250 | quinternion  |                                                           |
+| XXVII.  | 251-260 | quinternion  |                                                           |
+| XXVIII. | 261-270 | quinternion  |                                                           |
+| XXIX.   | 271-272 | bifolium     |                                                           |
+| XXX.    | 273-281 | quinternion? | final leaf missing?                                       |
+| XXXI.   | 283-288 | ternion      | Loose guard between 283r-288v, pastedown on guard to 283r |
 
 * History
 |------------+---------|
@@ -18,43 +54,78 @@
 | PROVENANCE |         |
 |------------+---------|
 * Contents
-|-------+-----+--------------+-----------------------+-----+--------------------------------------------+--------------------------------------+----------+--------|
-| start | end | text type    | text                  | MDB | incipit                                    | explicit                             | language | status |
-|-------+-----+--------------+-----------------------+-----+--------------------------------------------+--------------------------------------+----------+--------|
-| 1v    |     | MINIATURE    |                       |     |                                            |                                      |          |        |
-| 2r    | 11v | CALENDARIUM  | Calendarium ad uso XX |     | Januari(us) heft .xxxi. daghe              | De nacht is xviij stunde de dagh vj. | MLG      | main   |
-| 11v   |     | [[file:/Prayers/org/AM08-0073_011v.org][PRAYER]]       | Added prayer          |     | Gudtz Guodhied will wi prise               | est Anima mea                        | Dan, Lat | added  |
-| 12r   |     | COMPUTUS     | Computus              |     |                                            |                                      | Lat      | main   |
-| 12v   |     | PROGNOSTICON |                       |     | Første dagh i ny manæ                      | gør me(n)nisken ??                   | Dan      | added  |
-| 13r   |     | RUBRIC       |                       |     | Hir begynne(n) soue(n) salme(n)            |                                      | MLG      | meta   |
-| 13r   |     | INCIPIT      |                       |     | [[D]]Omine ne in furo(r)e tuo                  |                                      | Lat      | meta   |
-| 13r   | 14r | [[file:../../Prayers/org/AM08-073_013r.org][PRAYER]]       | SEVEN_PSALMS_1        |     | [[H]]ere en schelt my nicht in dyneme vmmode   | vnde deme hilgen geyste. Amen.       | MLG      | main   |
-| 14r   |     | RUBRIC       |                       |     | Ps(almus)                                  |                                      | Lat      | meta   |
-| 14r   |     | INCIPIT      |                       |     | Beati quo?                                 |                                      | Lat      | meta   |
-| 14r   | 15v | PRAYER       | SEVEN_PSALMS_2        |     | Salich sint de den ere bosheyt is vorgeue: | vnde deme hilge(n) geyste.           | MLG      | main   |
-| 15v   |     | INCIPIT      |                       |     | [[D]](omi)ne ne in furore tuo ar.              |                                      | Lat      | meta   |
-| 15v   | 17v | PRAYER       | SEVEN_PSALMS_3        |     | [[H]]ere en schelt my nicht yn dineme vmmode:  | vn(de) deme hilgen geyste. Ame(n).   | MLG      | main   |
-| 17v   |     | INCIPIT      |                       |     | [[M]]iser(er)e mei d(ominu)s:                  |                                      | Lat      | meta   |
-| 17v   | 19v | PRAYER       | SEVEN_PSALMS_4        |     | Got vorbarme dy ouer my:                   | vn(de) d(eme) h(ilgen) g(eyste)      | MLG      | main   |
-| 19v   |     | INCIPIT      |                       |     | [[D]]Omine exaudi or(?)om mea(m)               |                                      | Lat      | meta   |
-| 19v   | 22r | PRAYER       | SEVEN_PSALMS_5        |     | [[H]]ere twide myn beth:                       |                                      | MLG      | main   |
-| 22r   |     | INCIPIT      |                       |     | [[D]]e profundis dama... ad te.                |                                      | Lat      | meta   |
-| 22r   | 22v | PRAYER       | SEVEN_PSALMS_6        |     | [[H]]ere ik rep to dy van der dupe:            | vn(de)                               | MLG      | main   |
-| 22v   |     | INCIPIT      |                       |     | [[D]]omine exaudi om(?)em mea(m) auxib(???)    |                                      | Lat      | meta   |
-| 22v   | 24r | PRAYER       | SEVEN_PSALMS_7        |     | [[H]]ere twide my(n) bet                       | vn(de) deme hilge(n) geyste. Amen:   | MLG      | main   |
-| 24r   |     | INCIPIT      |                       |     | [[K]]yrieleyson. [[X]](rist)eleyson.                |                                      | Lat      | meta   |
-| 24r  |     | PRAYER       | LITANY_SAINTS         |     | [[H]]ere ih(es)u (christ)e: vorlose vns        |                                      | MLG      | main   |
-| 37v    |     | RUBRIC |                            |     | Vnser leue(n) vrowe(n) letanie               |                       | MLG | meta|
-| 37v|         | PRAYER | LITANY_MARY                 | | [[K]]yriel(eyson) [[X]](rist)el(eyson) | | MLG | main|
-| 42v | 43r | PRAYER | ave | [[G]]rot sistu maria lilien | barmhertichet. Amen | MLG | added|
-| 43v |  | MINIATURE|
-| 44r | |  PRAYER| HOURS_VIRGIN |
-| 46r | 46v | PRAYER | Quem terra pontus | | [[D]]at lyf der iuncvrowen | inde ewigen werlt. amen. | MLG | added|
-| 47r | 54v | PRAYER | HOURS_VIRGIN | 
-| 55r | 57r (missing 58?) | PRAYER | te deum | | | | MLG | added |
-| 58v | | PRAYER x3? | | | | | Dan | added | 
-| 59r | | PRAYER | HOURS_VIRGIN | | | | MLG | main | 
-| 59v | | PRAYER | | | | | Dan | added | 
-| 67r | 67v | PRAYER | | | | | MLG | added | 
-| | | | | | | | | | 
-| | | | | | | | | | 
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| Quire | start     | end               | text type    | text                  | incipit                                                          | explicit                             | language | status |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| I     | 1r        | 1v                |              |                       |                                                                  |                                      |          |        |
+|       | 1v        |                   | MINIATURE    |                       |                                                                  |                                      |          |        |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| II    | 2r        | 11v               |              |                       |                                                                  |                                      |          |        |
+|       | 2r        | 11v               | CALENDARIUM  | Calendarium ad uso XX | Januari(us) heft .xxxi. daghe                                    | De nacht is xviij stunde de dagh vj. | MLG      | main   |
+|       | 11v       |                   | [[file:/Prayers/org/AM08-0073_011v.org][PRAYER]]       | Added prayer          | Gudtz Guodhied will wi prise                                     | est Anima mea                        | Dan, Lat | added  |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| III   | 12r       | 12v               |              |                       |                                                                  |                                      |          |        |
+|       | 12r       |                   | COMPUTUS     | Computus              |                                                                  |                                      | Lat      | main   |
+|       | 12v       |                   | PROGNOSTICON |                       | Første dagh i ny manæ                                            | gør me(n)nisken ??                   | Dan      | added  |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| IV-   | 13r       |                   |              |                       |                                                                  |                                      |          |        |
+|       | 13r       |                   | RUBRIC       |                       | Hir begynne(n) soue(n) salme(n)                                  |                                      | MLG      | meta   |
+|       | 13r       |                   | INCIPIT      |                       | [[D]]Omine ne in furo(r)e tuo                                        |                                      | Lat      | meta   |
+|       | 13r       | 14r               | [[file:../../Prayers/org/AM08-073_013r.org][PRAYER]]       | SEVEN_PSALMS_1        | [[H]]ere en schelt my nicht in dyneme vmmode                         | vnde deme hilgen geyste. Amen.       | MLG      | main   |
+|       | 14r       |                   | RUBRIC       |                       | Ps(almus)                                                        |                                      | Lat      | meta   |
+|       | 14r       |                   | INCIPIT      |                       | Beati quo?                                                       |                                      | Lat      | meta   |
+|       | 14r       | 15v               | PRAYER       | SEVEN_PSALMS_2        | Salich sint de den ere bosheyt is vorgeue:                       | vnde deme hilge(n) geyste.           | MLG      | main   |
+|       | 15v       |                   | INCIPIT      |                       | [[D]](omi)ne ne in furore tuo ar.                                    |                                      | Lat      | meta   |
+|       | 15v       | 17v               | PRAYER       | SEVEN_PSALMS_3        | [[H]]ere en schelt my nicht yn dineme vmmode:                        | vn(de) deme hilgen geyste. Ame(n).   | MLG      | main   |
+|       | 17v       |                   | INCIPIT      |                       | [[M]]iser(er)e mei d(ominu)s:                                        |                                      | Lat      | meta   |
+|       | 17v       | 19v               | PRAYER       | SEVEN_PSALMS_4        | Got vorbarme dy ouer my:                                         | vn(de) d(eme) h(ilgen) g(eyste)      | MLG      | main   |
+|       | 19v       |                   | INCIPIT      |                       | [[D]]Omine exaudi or(?)om mea(m)                                     |                                      | Lat      | meta   |
+|       | 19v       | 22r               | PRAYER       | SEVEN_PSALMS_5        | [[H]]ere twide myn beth:                                             |                                      | MLG      | main   |
+|       | 22r       |                   | INCIPIT      |                       | [[D]]e profundis dama... ad te.                                      |                                      | Lat      | meta   |
+|       | 22r       | 22v               | PRAYER       | SEVEN_PSALMS_6        | [[H]]ere ik rep to dy van der dupe:                                  | vn(de)                               | MLG      | main   |
+|       | 22v       |                   | INCIPIT      |                       | [[D]]omine exaudi om(?)em mea(m) auxib(???)                          |                                      | Lat      | meta   |
+|       | 22v       | 24r               | PRAYER       | SEVEN_PSALMS_7        | [[H]]ere twide my(n) bet                                             | vn(de) deme hilge(n) geyste. Amen:   | MLG      | main   |
+|       | 24r       |                   | INCIPIT      |                       | [[K]]yrieleyson. [[X]](rist)eleyson.                                     |                                      | Lat      | meta   |
+|       | 24r       |                   | PRAYER       | LITANY_SAINTS         | [[H]]ere ih(es)u (christ)e: vorlose vns                              |                                      | MLG      | main   |
+|       | 37v       |                   | RUBRIC       |                       | Vnser leue(n) vrowe(n) letanie                                   |                                      | MLG      | meta   |
+|       | 37v       |                   | PRAYER       | LITANY_MARY           | [[K]]yriel(eyson) [[X]](rist)el(eyson)                                   |                                      | MLG      | main   |
+|       | 42v       | 43r               | PRAYER       | ave                   | [[G]]rot sistu maria lilien                                          | barmhertichet. Amen                  | MLG      | added  |
+|       | 43v       |                   | MINIATURE    |                       |                                                                  |                                      |          |        |
+|       | 44r       |                   | PRAYER       | HOURS_VIRGIN          |                                                                  |                                      |          |        |
+|       | 46r       | 46v               | PRAYER       | Quem terra pontus     | [[D]]at lyf der iuncvrowen                                           | inde ewigen werlt. amen.             | MLG      | added  |
+|       | 47r       | 54v               | PRAYER       | HOURS_VIRGIN          |                                                                  |                                      |          |        |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| VIIa  | 55r       | 58v               |              |                       |                                                                  |                                      |          |        |
+|       | 55r       | 57r (missing 58?) | PRAYER       | te deum               |                                                                  |                                      | MLG      | added  |
+|       | 58v       |                   | PRAYER x3?   |                       |                                                                  |                                      | Dan      | added  |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+|       | 59v       |                   | PRAYER       |                       |                                                                  |                                      | Dan      | added  |
+|       | 67r       |                   | RUBRIC       |                       | O gloriosa domina.                                               |                                      | Lat      | meta   |
+|       | 67r       | 67v               | PRAYER       | O gloriosa domina     | [[O]] aller hogishte vrowe                                           | ewyliken benedyde iu(n)curowen.      | MLG      | added  |
+|       | 68v       |                   | MINIATURE    | John the Baptist      |                                                                  |                                      |          |        |
+|       | 69r       |                   | PRAYER       | HOURS_VIRGIN          |                                                                  |                                      | MLG      | main   |
+|-------+-----------+-------------------+--------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+--------|
+| XI    | 91r (93r) |                   |              |                       |                                                                  |                                      |          |        |
+|       | 93r       |                   | RUBRIC       |                       | Anna rede(m)ptoris                                               |                                      |          |        |
+|       | 93r       |                   | PRAYER       |                       | O du gutlike moder godes                                         |                                      | MLG      |        |
+|       | 98r       |                   | PRAYER       |                       | Herre                                                            |                                      | Dan      | added  |
+|       | 98v       |                   | MINIATURE    | Anna Selbdritt        |                                                                  |                                      |          | added  |
+|       | 99r       |                   | RUBRIC       |                       | Van S. Annen                                                     |                                      | MLG      | meta   |
+|       | 99r       |                   | PRAYER       | HOURS_ANNE            | [[G]]ot denke an myne hulpe                                          |                                      | MLG      | main   |
+|       | 109r      |                   | RUBRIC       |                       | De hilge drieualdicheit                                          |                                      | MLG      | meta   |
+|       | 109r      |                   | PRAYER       | HOURS_TRINITY         | [[O]] Hilghe dreualdicheit                                           |                                      | MLG      | main   |
+|       | 119v      | 120r              | MARGINAL     | drawings              |                                                                  |                                      |          |        |
+|       | 130r      |                   | RUBRIC       |                       | Hir beghinnen sik de tide van deme lydende godes                 |                                      | MLG      | meta   |
+|       | 130r      |                   | PRAYER       | HOURS_PASSION         | Wy anbeden dy cristus vnd(e) benedien dy                         |                                      | MLG      | main   |
+|       | 130v      |                   | PRAYER       | HOURS_PASSION         | [[H]]Ere opene myne lippen vnde mynde mundt schal ku(n)digen dyn lof |                                      | MLG      | main   |
+|       | 136v      | 137r              | CREDO        |                       | [[I]]k loue in got vader alweldich                               | vnd(e) in dat ewighe leuent. Ame(n)  | MLG      | main   |
+|       | 137v      |                   | LECTIO       |                       |                                                              |                                      |          |        |
+|       | 149v      |                   | MARGIN       | owner's note?         |                                                              |                                      |          |        |
+|       | 165v      |                   | RUBRIC       |                       | En ghut becht na deme lydende to losende.                    |                                      | MLG      | meta   |
+|       | 165v      | 166r              | PRAYER       |                       | [[I]]k bidde dy leue here ih(es)u (christ)e                  | alle dyner leuen hilghen. Amen.      | MLG      | main   |
+|       | 166v      |                   | RUBRIC       |                       | Hir begynne(n) de tide va(n) deme hilghen gheiste        |                                      | MLG      | meta   |
+|       | 166v      |                   | PRAYER       | HOURS_HOLYSPIRIT      | [[D]]e vader und(e) de sone in der ewicheit              |                                      | MLG      | main   |
+|       | 167r      |                   | MINIATURE    | Pentecost             |                                                      |                                      |          | added  |
+|       | 167v      |                   | DRAFT        | Draft of charter      | Wy christiann Met Gudz Nade                          | Och Dellmennhorst (etcetera)         | Dan      | added  |
+|       | 168v      | 169r              | [[file:../../Other/org/AM08-073_169r.org][MARGINAL]] | Owner's note          | Denn bog hør mig thill medt [rette]                  |                                      |          |        |
+|       |           |                   |              |                       |                                                      |                                      |          |        |
