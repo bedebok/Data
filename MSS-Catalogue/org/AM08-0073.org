@@ -51,6 +51,10 @@
 | 44r | |  PRAYER| HOURS_VIRGIN |
 | 46r | 46v | PRAYER | Quem terra pontus | | [[D]]at lyf der iuncvrowen | inde ewigen werlt. amen. | MLG | added|
 | 47r | 54v | PRAYER | HOURS_VIRGIN | 
-| 55r | 57r | PRAYER | te deum | | | | MLG | added |
-
-
+| 55r | 57r (missing 58?) | PRAYER | te deum | | | | MLG | added |
+| 58v | | PRAYER x3? | | | | | Dan | added | 
+| 59r | | PRAYER | HOURS_VIRGIN | | | | MLG | main | 
+| 59v | | PRAYER | | | | | Dan | added | 
+| 67r | 67v | PRAYER | | | | | MLG | added | 
+| | | | | | | | | | 
+| | | | | | | | | | 
