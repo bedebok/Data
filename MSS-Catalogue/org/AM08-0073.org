@@ -46,3 +46,11 @@
 | 24r  |     | PRAYER       | LITANY_SAINTS         |     | [[H]]ere ih(es)u (christ)e: vorlose vns        |                                      | MLG      | main   |
 | 37v    |     | RUBRIC |                            |     | Vnser leue(n) vrowe(n) letanie               |                       | MLG | meta|
 | 37v|         | PRAYER | LITANY_MARY                 | | [[K]]yriel(eyson) [[X]](rist)el(eyson) | | MLG | main|
+| 42v | 43r | PRAYER | ave | [[G]]rot sistu maria lilien | barmhertichet. Amen | MLG | added|
+| 43v |  | MINIATURE|
+| 44r | |  PRAYER| HOURS_VIRGIN |
+| 46r | 46v | PRAYER | Quem terra pontus | | [[D]]at lyf der iuncvrowen | inde ewigen werlt. amen. | MLG | added|
+| 47r | 54v | PRAYER | HOURS_VIRGIN | 
+| 55r | 57r | PRAYER | te deum | | | | MLG | added |
+
+
