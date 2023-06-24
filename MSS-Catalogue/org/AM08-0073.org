@@ -42,5 +42,7 @@
 | 22r   | 22v | PRAYER       | SEVEN_PSALMS_6        |     | [[H]]ere ik rep to dy van der dupe:            | vn(de)                               | MLG      | main   |
 | 22v   |     | INCIPIT      |                       |     | [[D]]omine exaudi om(?)em mea(m) auxib(???)    |                                      | Lat      | meta   |
 | 22v   | 24r | PRAYER       | SEVEN_PSALMS_7        |     | [[H]]ere twide my(n) bet                       | vn(de) deme hilge(n) geyste. Amen:   | MLG      | main   |
-| 24r   |     | INCIPIT      |                       |     | [[K]]yrieleyson. [[K]](yri)eleyson.                |                                      | Lat      | meta   |
-| 24r   |     | PRAYER       | LITANY_SAINTS         |     | [[H]]ere ih(es)u (christ)e: vorlose vns        |                                      | MLG      | main   |
+| 24r   |     | INCIPIT      |                       |     | [[K]]yrieleyson. [[X]](rist)eleyson.                |                                      | Lat      | meta   |
+| 24r  |     | PRAYER       | LITANY_SAINTS         |     | [[H]]ere ih(es)u (christ)e: vorlose vns        |                                      | MLG      | main   |
+| 37v    |     | RUBRIC |                            |     | Vnser leue(n) vrowe(n) letanie               |                       | MLG | meta|
+| 37v|         | PRAYER | LITANY_MARY                 | | [[K]]yriel(eyson) [[X]](rist)el(eyson) | | MLG | main|
