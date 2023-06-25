@@ -174,8 +174,8 @@ uen sint [[E]]re sy deme vadere
 --- <<15v>> ---
 
 vnde deme sone vnde deme hilge(n)
-[[
-D]] _(omi)ne ne in fu-_ § geyste. <<PSALM_37>>
+
+[[D]] _(omi)ne ne in fu-_ § geyste. <<PSALM_37>>
 
 _rore tuo ar._ [[H]]ere en schelt
 
@@ -191,7 +191,7 @@ vnde du hefst dine hant geste-
 
 deget boue(n) my [[I]]n myneme
 
-vlesche ene is nene zuntheyt[fn:Lasch §330. I. /z/ for anlaut /s/ especially popular in west.]
+vlesche ene is nene zuntheyt                      [fn:ZUNTHEYT Lasch §330. I. /z/ for anlaut /s/ especially popular in west.]
 
 van dyme antlate dines tornes
 
@@ -253,9 +253,9 @@ ok macht de myne zele sachte(n)
 
 de hebbe(n) uppe ydelecheit gespra-
 
-ken:[fn:Why <a> in participle?] vn(de) dachten alle den gan-
+ken: vn(de) dachten alle den gan-                 [fn:GESPRAKEN Why <a> in participle?]
 
-czen[fn:Note <cz> for /ts/] dach drogene [[S]]e ik was
+czen dach drogene [[S]]e ik was                       [fn:GANCZEN Note <cz> for /ts/] 
 
 eyn doue de nicht en horde: vn(de)
 
@@ -269,7 +269,7 @@ twide(n): vnde also sik myne
 
 --- <<17r>> ---
 
-viende bewegede(n). Se[fn:S highlighted with red] spreken
+viende bewegede(n). Se spreken                    [fn:SE S highlighted with red]
 
 grote dink uppe my vn(de) hebbe(n)
 
@@ -281,7 +281,7 @@ ne [[W]]ente ik bin bereyde in
 
 der geysele(n): vnde myne rode
 
-de is yu(m)mer[fn:Misspelling? Or is jummer elsewhere attested for jammer?] an dyme angesich-
+de is yu(m)mer an dyme angesich-                  [fn:JUMMER Misspelling? Or is jummer elsewhere attested for jammer?]
 
 te [[W]]ente ik wil kundigen
 
@@ -311,6 +311,6 @@ ke an myne hulpe [[E]]re sy
 
 deme uadere vnde deme sone 
 
-vn(de) deme hilgen geyste. Ame(n).[fn:A highlighted with red]
+vn(de) deme hilgen geyste. Ame(n).                [fn:AMEN A highlighted with red]
 
 [[M]] _Jser(er)e mei d(eu)s:_ [[G]]ot vor- <<PSALM_50>>
