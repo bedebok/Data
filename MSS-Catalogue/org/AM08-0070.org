@@ -18,14 +18,62 @@
 | PROVENANCE | Rostgård 356 |
 |------------+--------------|
 
-* Contents
-** St. Birgitta's Revelationes book XI ('The Angel Book')
-*** Antiphony
-- Jtem hir volghet na eyne Antiphona van sunte birgitten ::
-*** (something missing bw ff 2-3)
-*** 
+* Quire Structure
+|--------+--------+-----------+----------------------|
+| Quires | Leaves | Structure | Changes              |
+|--------+--------+-----------+----------------------|
+| I      |        |           |                      |
+|        |    -18 |           | (catchword)          |
+|        |    -28 |           | (catchword)          |
+|        |    -58 |           | (catchword)          |
+|        |  64-65 |           | Added leaves         |
+|        |    -70 |           | (catchword)          |
+|        |    -80 |           | (catchword)          |
+|        |    -86 |           | (catchword)          |
+|        |    -96 |           | (catchword)          |
+|        |    107 |           | pages missing before |
+|        |    109 |           | pages missing after  |
+|        |   -113 |           | (catchword)          |
+|        |   -123 |           | (catchword)          |
+|        |   -133 |           | (catchword)          |
+|        |   -143 |           | (catchword)          |
+|        |    172 |           | pages missing after  |
+|        |   -181 |           | (catchword)          |
+|        |   -191 |           | (catchword)          |
+|        |   -201 |           | (catchword)          |
+|        |   -211 |           | (catchword)          |
+|        |    219 |           | pages missing after  |
+|        |   -220 |           | (catchword)          |
+|        |   -230 |           | (catchword)          |
+|--------+--------+-----------+----------------------|
 
 * Contents
-|-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
-| start | end | text type   | text                  | MDB | incipit                       | explicit                             | language | status |
-|-------+-----+-------------+-----------------------+-----+-------------------------------+--------------------------------------+----------+--------|
+|-------+------+--------------+-----------------+-----+-------------------------------------+----------+----------+--------|
+| start | end  | text type    | text            | MDB | incipit                             | explicit | language | status |
+|-------+------+--------------+-----------------+-----+-------------------------------------+----------+----------+--------|
+| 1r    |      |              | BIRGITTA_XI     |     |                                     |          |          |        |
+| 2r    | 2v   | PRAYER       | Antiphony       |     |                                     |          |          |        |
+| 2v    | 3r   | LACUNA       |                 |     |                                     |          |          |        |
+| 3r    | 5v   | PRAYER       | BIRGITTA_MATINS |     |                                     |          |          |        |
+| 5v    |      |              |                 |     | Antiphona Int(er)ueniente te        |          |          |        |
+| 6r    |      |              | BIRGITTA_XI_1   |     |                                     |          |          |        |
+| 47r   |      |              | BIRGITTA_XI_4   |     |                                     |          |          |        |
+| 80r   |      |              | BIRGITTA_XI_7   |     |                                     |          |          |        |
+| 109v  |      |              | BIRGITTA_XI_10  |     |                                     |          |          |        |
+| 111r  |      |              | BIRGITTA_XI_411 |     |                                     |          |          |        |
+| 114r  |      |              | BIRGITTA_XI_412 |     |                                     |          |          |        |
+| 141v  | 142r |              | BIRGITTA_XI_13  |     |                                     |          |          |        |
+| 145v  |      |              | BIRGITTA_XI_14  |     |                                     |          |          |        |
+| 148v  |      |              |                 |     |                                     |          |          |        |
+| 177r  |      |              | BIRGITTA_XI_16  |     |                                     |          |          |        |
+|       |      |              | BIRGITTA_XI_17  |     |                                     |          |          |        |
+| 184v  |      |              | BIRGITTA_XI_18  |     |                                     |          |          |        |
+| 222r  |      |              | BIRGITTA_XI_19  |     |                                     |          |          |        |
+|       |      |              | BIRGITTA_XI_20  |     |                                     |          |          |        |
+| 229v  |      |              | BIRGITTA_XI_21  |     |                                     |          |          |        |
+| 233r  |      |              |                 |     | Hir endeghet sik de rede des engels |          |          |        |
+| 247r  |      | PRAYER       | REGINA_COELI    |     |                                     |          |          |        |
+| 247r  |      | ADDED_PRAYER |                 |     |                                     |          | DA       | added  |
+|       |      |              |                 |     |                                     |          |          |        |
+|-------+------+--------------+-----------------+-----+-------------------------------------+----------+----------+--------|
+
