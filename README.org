@@ -62,11 +62,11 @@ Open Access Data
 | AM 1056 XXXVI 4to   | Samtale mellem gud og sjælen                      | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXVI      |     |
 | AM 1056 XXXVIII 4to | En moralsk vers                                   | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXVIIII   |     |
 | AM 1056 XXXIX 4to   | De tre vanskelige spørgsmål                       | Danish          | 1500-1599 | https://handrit.is/manuscript/view/da/AM04-1056-XXXIX      |     |
-| AM 79 I γ 4to       | Birgittes åbenbaringer                            | Danish          |           |    https://handrit.is/manuscript/view/da/AM08-0079-I-gamma|     |
-| AM 79 I δ 4to       | Legenda aurea: Cecilia, Clemens                   | Danish          |           |                                                            |     |
+| AM 79 I γ 4to       | Birgittes åbenbaringer                            | Danish          |           | https://handrit.is/manuscript/view/da/AM08-0079-I-gamma    |     |
+| AM 79 I δ 4to       | Legenda aurea: Cecilia, Clemens                   | Danish          |           | https://handrit.is/manuscript/view/da/AM08-0079-I-delta    |     |
 | AM 79 I ε 4to       | Om klostertugt                                    | Danish          |           |                                                            |     |
-| AM 79 I ζ 4to       | En klosterregl                                    | Danish          |           |                                                            |     |
-| AM 79 I η 4to       | Passionale                                        | Danish          |           |                                                            |     |
+| AM 79 I ζ 4to       | En klosterregl                                    | Danish          |           |https://handrit.is/manuscript/view/da/AM08-0079-I-zeta      |     |
+| AM 79 I η 4to       | Passionale                                        | Danish          |           |https://handrit.is/manuscript/view/da/AM08-0079-I-eta       |     |
 | AM 79 I θ 4to       | Opbyggelige fortællinger for klosterfolk          | Dano-Norwegian? |           |                                                            |     |
 | AM 79 II α 4to      | Birgittes åbenbaringer                            | Low German      |           |                                                            |     |
 | {AM 79 II β 4to}    | Mellemtysk opbyggelsesskrift                      | High German     |           |                                                            |     |
