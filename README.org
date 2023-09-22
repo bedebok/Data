@@ -62,18 +62,18 @@ Open Access Data
 | AM 1056 XXXVI 4to   | Samtale mellem gud og sjælen                      | Danish          | 1475-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXXVI      |     |
 | AM 1056 XXXVIII 4to | Et moralsk vers                                   | Danish          | 1582-1626 | https://handrit.is/manuscript/view/da/AM04-1056-XXXVIII    |     |
 | AM 1056 XXXIX 4to   | De tre vanskelige spørgsmål                       | Danish          | 1500-1599 | https://handrit.is/manuscript/view/da/AM04-1056-XXXIX      |     |
-| AM 79 I γ 8vo       | Birgittes åbenbaringer                            | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-gamma    |     |
-| AM 79 I δ 8vo       | Legenda aurea: Cecilia, Clemens                   | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-delta    |     |
-| AM 79 I ε 8vo       | Om klostertugt                                    | Danish          | 1490-1510 | https://handrit.is/manuscript/view/da/AM08-0079-I-epsilon  |     |
+| AM 79 I γ 8vo       | Birgittes åbenbaringer                            | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-gamma    | handrit |
+| AM 79 I δ 8vo       | Legenda aurea: Cecilia, Clemens                   | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-delta    | handrit |
+| AM 79 I ε 8vo       | Om klostertugt                                    | Danish          | 1490-1510 | https://handrit.is/manuscript/view/da/AM08-0079-I-epsilon  | handrit |
 | AM 79 I ζ 8vo       | En klosterregl                                    | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-zeta     |     |
-| AM 79 I η 8vo       | Passionale                                        | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-eta      |     |
-| AM 79 I θ 8vo       | Opbyggelige fortællinger for klosterfolk          | Dano-Norwegian? | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-theta    |     |
-| AM 79 II α 8vo      | Birgittes åbenbaringer                            | Low German      | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-II-alpha   |     |
-| {AM 79 II β 8vo}    | Mellemtysk opbyggelsesskrift                      | High German     | 1390-1410 | https://handrit.is/manuscript/view/da/AM08-0079-II-beta    |     |
-| {AM 79 II γ 8vo}    | Der jüngere Titurel                               | High German     | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0079-II-gamma   |     |
-| {AM 79 II δ 8vo}    | Der jüngere Titurel                               | High German     | 1290-1310 | https://handrit.is/manuscript/view/da/AM08-0079-II-delta   |     |
-| {AM 79 II ε 8vo}    | Ein niederländisches Margarethenleben             | Dutch           | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0079-II-epsilon |     |
-| AM 79 II ζ 8vo      | Latinsk-tysk interlinear-glossar                  | German          | 1290-1310 |  https://handrit.is/manuscript/view/da/AM08-0079-II-zeta   |     |
+| AM 79 I η 8vo       | Passionale                                        | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-eta      | handrit |
+| AM 79 I θ 8vo       | Opbyggelige fortællinger for klosterfolk          | Dano-Norwegian? | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-theta    | handrit |
+| AM 79 II α 8vo      | Birgittes åbenbaringer                            | Low German      | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-II-alpha   | handrit |
+| {AM 79 II β 8vo}    | Mellemtysk opbyggelsesskrift                      | High German     | 1390-1410 | https://handrit.is/manuscript/view/da/AM08-0079-II-beta    | handrit |
+| {AM 79 II γ 8vo}    | Der jüngere Titurel                               | High German     | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0079-II-gamma   | handrit |
+| {AM 79 II δ 8vo}    | Der jüngere Titurel                               | High German     | 1290-1310 | https://handrit.is/manuscript/view/da/AM08-0079-II-delta   | handrit |
+| {AM 79 II ε 8vo}    | Ein niederländisches Margarethenleben             | Dutch           | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0079-II-epsilon | handrit |
+| AM 79 II ζ 8vo      | Latinsk-tysk interlinear-glossar                  | German, Latin   | 1290-1310 |  https://handrit.is/manuscript/view/da/AM08-0079-II-zeta   |     |
 |---------------------+---------------------------------------------------+-----------------+-----------+------------------------------------------------------------+-----|
 
 
