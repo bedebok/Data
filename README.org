@@ -43,7 +43,7 @@ Open Access Data
 | AM 1056 XII 4to     | En tidebog                                        | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XII        |     |
 | AM 1056 XIII 4to    | En tidebog                                        | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XIII       |     |
 | AM 1056 XIV 4to     | En opbyggelsesbog                                 | Swedish         | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XIV        |     |
-| AM 1056 XV 4to      | Birgittes åbenbaringer  --> AM 79 8vo             | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XV         |     |
+| AM 1056 XV 4to      | Birgittes åbenbaringer  --> AM 79 8vo             | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XV         |     |
 | AM 1056 XVI 4to     | Birgittes åbenbaringer                            | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XVI        |     |
 | AM 1056 XVII 4to    | Om klosterlævned                                  | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XVII       |     |
 | AM 1056 XVIII 4to   | Jærtegnspostil                                    | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XVIII      |     |
@@ -73,7 +73,7 @@ Open Access Data
 | {AM 79 II γ 8vo}    | Der jüngere Titurel                               | High German     | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0079-II-gamma   |     |
 | {AM 79 II δ 8vo}    | Der jüngere Titurel                               | High German     | 1290-1310 | https://handrit.is/manuscript/view/da/AM08-0079-II-delta   |     |
 | {AM 79 II ε 8vo}    | Ein niederländisches Margarethenleben             | Dutch           | 1300-1399 | https://handrit.is/manuscript/view/da/AM08-0079-II-epsilon |     |
-| AM 79 II ζ 8vo      | Latinsk-tysk interlinear-glossar                  | German          | 1290-1310 |  https://handrit.is/manuscript/view/da/AM08-0079-II-zeta    |     |
+| AM 79 II ζ 8vo      | Latinsk-tysk interlinear-glossar                  | German          | 1290-1310 |  https://handrit.is/manuscript/view/da/AM08-0079-II-zeta   |     |
 |---------------------+---------------------------------------------------+-----------------+-----------+------------------------------------------------------------+-----|
 
 
