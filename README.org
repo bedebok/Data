@@ -40,29 +40,29 @@ Open Access Data
 |---------------------+---------------------------------------------------+-----------------+-----------+------------------------------------------------------------+-----|
 | AM 1056 X 4to       | Jærtegnspostil                                    | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-X          |     |
 | AM 1056 XI 4to      | Dialog mellem sapiencia og discipulen             | Danish          | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-1056-XI         |     |
-| AM 1056 XII 4to     | En tidebog                                        | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XII        |     |
-| AM 1056 XIII 4to    | En tidebog                                        | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XIII       |     |
-| AM 1056 XIV 4to     | En opbyggelsesbog                                 | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XIV        |     |
+| AM 1056 XII 4to     | En tidebog                                        | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XII        |     |
+| AM 1056 XIII 4to    | En tidebog                                        | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XIII       |     |
+| AM 1056 XIV 4to     | En opbyggelsesbog                                 | Swedish         | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XIV        |     |
 | AM 1056 XV 4to      | Birgittes åbenbaringer  --> AM 79 8vo             | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XV         |     |
-| AM 1056 XVI 4to     | Birgittes åbenbaringer                            | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XVI        |     |
-| AM 1056 XVII 4to    | Om klosterlævned                                  | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XVII       |     |
-| AM 1056 XVIII 4to   | Jærtegnspostil                                    | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XVIII      |     |
-| AM 1056 XIX 4to     | Kristi lidelseshistorie                           | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XIX        |     |
-| AM 1056 XX 4to      | Et gudelgt skrift                                 | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XX         |     |
-| AM 1056 XXI 4to     | Et gudelgt skrift                                 | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXI        |     |
-| AM 1056 XXV 4to     | Birgittes åbenbaringer                            | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXV        |     |
-| AM 1056 XXVI-II 4to | Birgittes åbenbaringer                            | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXVI-XXVII |     |
-| AM 1056 XXIX 4to    | Om katolske kirkeskikke m.v., særlig konfirmation | Danish, Latin   |           | https://handrit.is/manuscript/view/da/AM04-1056-XXIX       |     |
-| AM 1056 XXX 4to     | En bønnebog                                       | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXX        |     |
-| AM 1056 XXXI 4to    | En bønnebog                                       | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXI       |     |
-| AM 1056 XXXII 4to   | En bønnebog                                       | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXII      |     |
-| AM 1056 XXXIII 4to  | Passionale                                        | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXIII     |     |
-| AM 1056 XXXIV 4to   | En bønnebog                                       | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXIV      |     |
-| AM 1056 XXXV 4to    | En bønnebog                                       | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXV       |     |
-| AM 1056 XXXVI 4to   | Samtale mellem gud og sjælen                      | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXVI      |     |
-| AM 1056 XXXVIII 4to | En moralsk vers                                   | Danish          |           | https://handrit.is/manuscript/view/da/AM04-1056-XXXVIIII   |     |
+| AM 1056 XVI 4to     | Birgittes åbenbaringer                            | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XVI        |     |
+| AM 1056 XVII 4to    | Om klosterlævned                                  | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XVII       |     |
+| AM 1056 XVIII 4to   | Jærtegnspostil                                    | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XVIII      |     |
+| AM 1056 XIX 4to     | Kristi lidelseshistorie                           | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XIX        |     |
+| AM 1056 XX 4to      | Et gudelgt (teologisk) skrift                     | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XX         |     |
+| AM 1056 XXI 4to     | Et gudelgt (religiøst) skrift                     | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXI        |     |
+| AM 1056 XXV 4to     | Birgittes åbenbaringer                            | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXV        |     |
+| AM 1056 XXVI-II 4to | Birgittes åbenbaringer                            | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXVI-XXVII |     |
+| AM 1056 XXIX 4to    | Om katolske kirkeskikke m.v., særlig konfirmation | Danish, Latin   | 1550-1599 | https://handrit.is/manuscript/view/da/AM04-1056-XXIX       |     |
+| AM 1056 XXX 4to     | En bønnebog                                       | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXX        |     |
+| AM 1056 XXXI 4to    | En bønnebog                                       | Danish          | 1475-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXXI       |     |
+| AM 1056 XXXII 4to   | En bønnebog                                       | Danish          | 1475-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXXII      |     |
+| AM 1056 XXXIII 4to  | Passionale                                        | Danish          | 1475-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXXIII     |     |
+| AM 1056 XXXIV 4to   | En bønnebog                                       | Danish          | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-1056-XXXIV      |     |
+| AM 1056 XXXV 4to    | En bønnebog                                       | Danish          | 1490-1510 | https://handrit.is/manuscript/view/da/AM04-1056-XXXV       |     |
+| AM 1056 XXXVI 4to   | Samtale mellem gud og sjælen                      | Danish          | 1475-1499 | https://handrit.is/manuscript/view/da/AM04-1056-XXXVI      |     |
+| AM 1056 XXXVIII 4to | Et moralsk vers                                   | Danish          | 1582-1626 | https://handrit.is/manuscript/view/da/AM04-1056-XXXVIII    |     |
 | AM 1056 XXXIX 4to   | De tre vanskelige spørgsmål                       | Danish          | 1500-1599 | https://handrit.is/manuscript/view/da/AM04-1056-XXXIX      |     |
-| AM 79 I γ 8vo       | Birgittes åbenbaringer                            | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-gamma    |     |
+| AM 79 I γ 8vo       | Birgittes åbenbaringer                            | Danish          | 1450-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-gamma    |     |
 | AM 79 I δ 8vo       | Legenda aurea: Cecilia, Clemens                   | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-delta    |     |
 | AM 79 I ε 8vo       | Om klostertugt                                    | Danish          | 1490-1510 | https://handrit.is/manuscript/view/da/AM08-0079-I-epsilon  |     |
 | AM 79 I ζ 8vo       | En klosterregl                                    | Danish          | 1400-1499 | https://handrit.is/manuscript/view/da/AM08-0079-I-zeta     |     |
