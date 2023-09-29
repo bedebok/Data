@@ -2,9 +2,9 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | Paper       |
+| NUMBER       | 202         |
+| SIZE         | 215 145     |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,9 +13,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #TY           |
+| DATE       | 1450-1499 XV² |
+| PROVENANCE | Rostgaard     |
 |------------+---------------|
 
 * Contents
