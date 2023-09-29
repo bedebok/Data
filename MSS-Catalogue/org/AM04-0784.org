@@ -2,9 +2,9 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | Perg        |
+| NUMBER       | 346         |
+| SIZE         | 192 130     |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,9 +13,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK           |
+| DATE       | 1523          |
+| PROVENANCE | Rostgård 353  |
 |------------+---------------|
 
 * Contents
