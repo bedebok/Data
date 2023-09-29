@@ -15,7 +15,7 @@
 |------------+---------------|
 | PLACE      |               |
 | DATE       | 1400-1599     |
-| PROVENANCE | Helmesdorff, Molhusen, Rostgaard 28B |
+| PROVENANCE | Helmesdorff, Molhusen, Rostgård 28B |
 |------------+---------------|
 
 * Contents
