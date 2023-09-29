@@ -1,1 +1,11 @@
 #+Title: AM 782 4to
+* PhysDesc
+|--------------+-------------|
+| SUPPORT      |             |
+| NUMBER       |             |
+| SIZE         |             |
+| WRITING AREA |             |
+| COLUMNS      |             |
+| LINES        |             |
+| FOLIATION    |             |
+|--------------+-------------|
