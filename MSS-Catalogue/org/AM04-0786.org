@@ -15,7 +15,7 @@
 |------------+---------------|
 | PLACE      | #TY           |
 | DATE       | 1450-1499 XV² |
-| PROVENANCE | Rostgaard     |
+| PROVENANCE | Rostgård 305  |
 |------------+---------------|
 
 * Contents
