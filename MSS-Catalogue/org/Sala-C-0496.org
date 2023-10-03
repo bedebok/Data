@@ -2,14 +2,26 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
-| FOLIATION    |             |
+| SUPPORT      |   perg          |
+| NUMBER       |      i + 151 + i      |
+| SIZE         |   192 x 137          |
+| WRITING AREA |   156 x 195          |
+| COLUMNS      |    1         |
+| LINES        |   23          |
+| FOLIATION    |   f 1-150          |
 |--------------+-------------|
+
+* Binding
+|-
+| TYPE | Modern half |
+| AGE | 19th c |
+| SIZE | 197 x 143 x 48 |
+|-
+
+** Quire structure
+| Quire   |  Leaves | Structure    | Changes                                                   |
+|---------+---------+--------------+-----------------------------------------------------------|
+| I. | 1-11 | 
 
 * History
 |------------+---------------|
