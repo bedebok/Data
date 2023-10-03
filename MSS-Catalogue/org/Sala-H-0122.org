@@ -1,1 +1,53 @@
+#+Title: UBB H 122. Jyske lov.
 
+* PhysDesc
+|--------------+-------------|
+| SUPPORT      | perg        |
+| NUMBER       | i + 98 + iii|
+| SIZE         | 125 93      |
+| WRITING AREA | 105 76      |
+| COLUMNS      | 1           |
+| LINES        | 21          |
+| FOLIATION    | 1-98        |
+|--------------+-------------|
+
+** Binding
+|--------------+-------------|
+| TYPE         | Parchment   |
+| DATE         | 18 c        |
+| SIZE         | 130 100 35  |
+|--------------+-------------|
+
+** Quire structure
+|---------|---------+--------------+-----------------------------------------------------------|
+| Quire   |  Leaves | Structure    | Changes                                                   |
+|---------+---------+--------------+-----------------------------------------------------------|
+| I.      | 1-14    |              |                                                           |
+| II.     | 15-26   |              |                                                           |
+| III.    | 27-38   |              |                                                           |
+| IV.     | 39-50   |              |                                                           |
+| V.      | 51-62   |              |                                                           |
+| VI.     | 63-74   |              |                                                           |
+| VII.    | 75-88   |              |                                                           |
+| VIII.   | 89-98   |              |                                                           |
+|---------|---------+--------------+-----------------------------------------------------------|
+
+* History
+|------------+---------------|
+| PLACE      |   #DK            |
+| DATE       |   1450-1499            |
+| PROVENANCE |               |
+|------------+---------------|
+
+* Contents
+|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
+| start | MDB | text type  | text          | end   | incipit                                                | explicit | language | status |
+|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
+
+1r-3r Jyske lovs fortale. #Swa tak(e)r een fortalæn til for logh bokæ(n) a danskæ th(e)r lærthæ mæ(n) kallæ p(ro)logus# Mæth logh skal land byggæs ... oc th(e)r til allæ de bestæ mænz math(?) th(e)r i ha(n)s rykæ ware
+3r-78r JyL books 1-3 (#hær takær cap(ital) af th(e)n førstæ book.)
+78r-81r Erik Glippings Nyborgske forordninger for Nørrejylland, 1284 [no introduction; see AM 22 4to, 209v]
+81r-95r Erik Glippings Stadsret, 1269
+
+95r-96v Alphabetical poem in Low German
+97r-98r Sayings from saints (Low German)
