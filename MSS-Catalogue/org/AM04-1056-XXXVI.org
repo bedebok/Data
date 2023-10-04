@@ -1,10 +1,10 @@
-#+Title: AM 000 4to
+#+Title: AM 1056 XXXVI 4to
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg            |
+| NUMBER       | 1            |
+| SIZE         | 215 151            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -28,8 +28,8 @@
 * History
 |------------+---------------|
 | PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| DATE       | XV^{4/4}/^{2}               |
+| PROVENANCE | Rigsarkivet (1632)               |
 |------------+---------------|
 
 * Contents
