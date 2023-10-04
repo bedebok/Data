@@ -2,7 +2,7 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
+| SUPPORT      | perg            |
 | NUMBER       |             |
 | SIZE         |             |
 | WRITING AREA |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | XV              |
+| PROVENANCE | Rigsarkivet (1613-1614)               |
 |------------+---------------|
 
 * Contents
