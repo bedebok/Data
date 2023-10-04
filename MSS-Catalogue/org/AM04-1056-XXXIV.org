@@ -1,10 +1,10 @@
-#+Title: AM 000 4to
+#+Title: AM XXXIV 4to
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg        |
+| NUMBER       | 1            |
+| SIZE         | 170 120            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | 1490-1510              |
+| PROVENANCE | Sølvesborg Rigsarkivet (1632)             |
 |------------+---------------|
 
 * Contents
