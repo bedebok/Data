@@ -28,7 +28,7 @@
 * History
 |------------+---------------|
 | PLACE      | #DK              |
-| DATE       | XVI2              |
+| DATE       | XVI²              |
 | PROVENANCE | Laholm (1613) Rigsarkivet               |
 |------------+---------------|
 
