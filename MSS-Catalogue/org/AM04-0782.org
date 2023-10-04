@@ -20,7 +20,7 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         | Leather, wood|
+| TYPE         | leather, wood|
 | DATE         | XVI         |
 | SIZE         |             |
 |--------------+-------------|
