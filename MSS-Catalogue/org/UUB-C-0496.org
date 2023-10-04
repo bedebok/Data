@@ -88,7 +88,7 @@
 |17r [16v]|2 (flourished)|Desse na gescreuen bede schole gy gerne lesen vor de pestilencien|Urouwe dy koningy(n)ne des hemmels vrouwe|||||
 |17r  |1|v|Jn allen|||||
 |17r|2|coll(ec)ta|Almechtige ewige vn(de) gnedige god|||||
-|17v [17r]|2|Eyne ander gude segeni(n)ge || vor de pestelencie|Ick tekene my myd Sunte Anthonius cruce||||PESTILENCE|
+|17v [17r]|2|Eyne ander gude segeni(n)ge || vor de pestelencie|Ick tekene my myd Sunte Anthonius cruce||PESTILENCE|
 |17v  |2|Ene ander gude segeninge vor dat sulue|Hutene benedie my de keyserlike maiestaet|||||
 |17v|2|Van sunte sebastianus||||||
 |18r|1 [inline]|v |Bidde vor vns |||||
