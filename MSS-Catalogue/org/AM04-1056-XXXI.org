@@ -28,7 +28,7 @@
 * History
 |------------+---------------|
 | PLACE      | #DK               |
-| DATE       | XV<4/4>              |
+| DATE       | XV^{4/4}              |
 | PROVENANCE | Rigsarkivet              |
 |------------+---------------|
 
