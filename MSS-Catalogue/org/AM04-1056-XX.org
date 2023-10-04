@@ -2,9 +2,9 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg        |
+| NUMBER       | 1            |
+| SIZE         | 327 65            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | XV               |
+| PROVENANCE | Danish National Archives (1626)              |
 |------------+---------------|
 
 * Contents
