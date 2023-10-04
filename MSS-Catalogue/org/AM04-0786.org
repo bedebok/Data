@@ -13,7 +13,7 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         | red leather, perg|
+| TYPE         | leather, perg|
 | DATE         |             |
 | SIZE         |             |
 |--------------+-------------|
