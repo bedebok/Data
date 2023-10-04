@@ -27,7 +27,7 @@
 
 * History
 |------------+---------------|
-| PLACE      | #Is           |
+| PLACE      | #IS           |
 | DATE       | 1100-1199 ?   |
 | PROVENANCE | Ormur Daðason |
 |------------+---------------|
