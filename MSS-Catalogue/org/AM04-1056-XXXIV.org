@@ -29,7 +29,7 @@
 |------------+---------------|
 | PLACE      | #DK              |
 | DATE       | 1490-1510              |
-| PROVENANCE | Sølvesborg Rigsarkivet (1632)             |
+| PROVENANCE | Sølvesborg (1632) Rigsarkivet              |
 |------------+---------------|
 
 * Contents
