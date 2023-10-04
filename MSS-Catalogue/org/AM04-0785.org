@@ -15,7 +15,7 @@
 |--------------+-------------|
 | TYPE         | metal, leather|
 | DATE         |  ?          |
-| SIZE         |   ?         |
+| SIZE         |  ?          |
 |--------------+-------------|
 
 ** Quire structure
@@ -27,7 +27,7 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
+| PLACE      | #TY??         |
 | DATE       | 1400-1599     |
 | PROVENANCE | Helmesdorff, Molhusen, Rostgård 28B |
 |------------+---------------|
