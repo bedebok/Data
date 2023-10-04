@@ -14,8 +14,8 @@
 ** Binding
 |--------------+-------------|
 | TYPE         | metal, leather|
-| DATE         |  ?          |
-| SIZE         |  ?          |
+| DATE         |  |
+| SIZE         |           |
 |--------------+-------------|
 
 ** Quire structure
