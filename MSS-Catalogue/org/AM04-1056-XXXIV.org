@@ -1,4 +1,4 @@
-#+Title: AM XXXIV 4to
+#+Title: AM 1056 XXXIV 4to
 
 * PhysDesc
 |--------------+-------------|
