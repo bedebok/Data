@@ -1,10 +1,10 @@
-#+Title: AM 000 8vo
+#+Title: AM 71 8vo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg            |
+| NUMBER       | i + 172 + i             |
+| SIZE         | 143 102            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,9 +13,9 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
+| TYPE         | leather             |
 | DATE         |             |
-| SIZE         |             |
+| SIZE         | 103 46            |
 |--------------+-------------|
 
 ** Quire structure
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #NL              |
+| DATE       | XV              |
+| PROVENANCE | Rostgård 345 (1726)             |
 |------------+---------------|
 
 * Contents
