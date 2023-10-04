@@ -1,4 +1,4 @@
-#+Title: AM 000 12mo
+#+Title: Brahe A IV 10
 
 * PhysDesc
 |--------------+-------------|
