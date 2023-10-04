@@ -31,7 +31,9 @@
 |------------+---------------|
 
 * Contents
+|-|-|-|-|-|-|-|-|
 |Start|Initial height|Rubric|Incipit|End|Explicit|||
+|-|-|-|-|-|-|-|-|
 |1r|x|x|...sere in den sunden byn liggende|1v|vn(de) sik vorbarme auer my armen sunder ynne(n) Amen|||
 |1v|2|x|O Alder hilligeste zele ihu xpi|2r|dat ik myt dynen hilgen engeln moge louen dy to ewigen tyden Amen|||
 |2r|2|De pawes Johannes heft gegeuen cccc dage afflates to desseme vorscreuen bede|O Alweldige ewige genidige god|3r|vn(de) myt dem hilgen geiste nw vn(de) to ewigen tyden Amen|||
@@ -88,7 +90,7 @@
 |17r [16v]|2 (flourished)|Desse na gescreuen bede schole gy gerne lesen vor de pestilencien|Urouwe dy koningy(n)ne des hemmels vrouwe|||||
 |17r  |1|v|Jn allen|||||
 |17r|2|coll(ec)ta|Almechtige ewige vn(de) gnedige god|||||
-|17v [17r]|2|Eyne ander gude segeni(n)ge || vor de pestelencie|Ick tekene my myd Sunte Anthonius cruce||PESTILENCE|
+|17v [17r]|2|Eyne ander gude segeni(n)ge vor de pestelencie|Ick tekene my myd Sunte Anthonius cruce||| |PESTILENCE|
 |17v  |2|Ene ander gude segeninge vor dat sulue|Hutene benedie my de keyserlike maiestaet|||||
 |17v|2|Van sunte sebastianus||||||
 |18r|1 [inline]|v |Bidde vor vns |||||
