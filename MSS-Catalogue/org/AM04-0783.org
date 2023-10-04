@@ -2,7 +2,7 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      | Paper       |
+| SUPPORT      | paper       |
 | NUMBER       | 361         |
 | SIZE         | 210 140     |
 | WRITING AREA |             |
