@@ -2,9 +2,9 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | pap         |
+| NUMBER       | 1            |
+| SIZE         | 295 212            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | XV2              |
+| PROVENANCE | Laholm (1613)               |
 |------------+---------------|
 
 * Contents
