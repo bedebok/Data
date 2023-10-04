@@ -27,7 +27,7 @@
 
 * History
 |------------+---------------|
-| PLACE      | #SV              |
+| PLACE      | #SE|
 | DATE       | XV               |
 | PROVENANCE | Rigsarkivet (1618-1622)              |
 |------------+---------------|
