@@ -28,7 +28,7 @@
 * History
 |------------+---------------|
 | PLACE      | #DK              |
-| DATE       | XV2              |
+| DATE       | XVI2              |
 | PROVENANCE | Laholm (1613)               |
 |------------+---------------|
 
