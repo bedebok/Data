@@ -1,10 +1,10 @@
-#+Title: AM 000 4to
+#+Title: AM 1056 XXXIX 4to
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | pap         |
+| NUMBER       | 1            |
+| SIZE         | 295 212            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | XVI               |
+| PROVENANCE | Rigsarkivet              |
 |------------+---------------|
 
 * Contents
