@@ -1,19 +1,19 @@
-#+Title: AM 000 8vo
+#+Title: AM 72 8vo [[file:MS/MDB/AM08-0072.csv][AM 72 8vo]]
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg            |
+| NUMBER       | 148            |
+| SIZE         | 158 118            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
-| FOLIATION    |             |
+| FOLIATION    | f 1-148             |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
+| TYPE         | calfskin, wood, iron            |
 | DATE         |             |
 | SIZE         |             |
 |--------------+-------------|
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK               |
+| DATE       | XV              |
+| PROVENANCE | Bircherod,               |
 |------------+---------------|
 
 * Contents
