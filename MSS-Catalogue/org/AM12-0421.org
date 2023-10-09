@@ -1,21 +1,21 @@
-#+Title: AM 000 12mo
+#+Title: AM 421 12mo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg            |
+| NUMBER       | i + 120            |
+| SIZE         | 95 65            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
-| FOLIATION    |             |
+| FOLIATION    | f 1-120            |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
-| SIZE         |             |
+| TYPE         | calfskin, wood             |
+| DATE         | 1514             |
+| SIZE         | 103 68 47            |
 |--------------+-------------|
 
 ** Quire structure
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | 1514^{(1517)}              |
+| PROVENANCE | Seefeldt, Rostgård 352              |
 |------------+---------------|
 
 * Contents
