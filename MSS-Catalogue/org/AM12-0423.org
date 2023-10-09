@@ -1,10 +1,10 @@
-#+Title: AM 000 12mo
+#+Title: AM 423 12mo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | pap             |
+| NUMBER       | 186            |
+| SIZE         | 98 74           |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,7 +13,7 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
+| TYPE         | perg, silk             |
 | DATE         |             |
 | SIZE         |             |
 |--------------+-------------|
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK              |
+| DATE       | XVI^{(1531-)}              |
+| PROVENANCE | Marine Erick, Marine Louenbalch              |
 |------------+---------------|
 
 * Contents
