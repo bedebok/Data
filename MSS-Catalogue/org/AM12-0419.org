@@ -1,10 +1,10 @@
-#+Title: AM 000 12mo
+#+Title: AM 419 12mo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg             |
+| NUMBER       | 9            |
+| SIZE         | 112 80            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DK             |
+| DATE       | 1514-1525              |
+| PROVENANCE | Rostgård 355             |
 |------------+---------------|
 
 * Contents
