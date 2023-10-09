@@ -1,20 +1,20 @@
-#+Title: AM 000 12mo
+#+Title: AM 418 12mo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg             |
+| NUMBER       | 75            |
+| SIZE         | 117 90            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
-| FOLIATION    |             |
+| FOLIATION    | f 1-67            |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
+| TYPE         | halfbinding leather             |
+| DATE         | XVI            |
 | SIZE         |             |
 |--------------+-------------|
 
@@ -27,8 +27,8 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
+| PLACE      | #DK               |
+| DATE       | 1490-1510               |
 | PROVENANCE |               |
 |------------+---------------|
 
