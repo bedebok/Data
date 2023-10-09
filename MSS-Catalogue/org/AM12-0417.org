@@ -1,10 +1,10 @@
-#+Title: AM 000 12mo
+#+Title: AM 417 12mo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg             |
+| NUMBER       | 87            |
+| SIZE         | 122 87            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,7 +13,7 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
+| TYPE         | pressed leather            |
 | DATE         |             |
 | SIZE         |             |
 |--------------+-------------|
@@ -27,8 +27,8 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
+| PLACE      | #DE               |
+| DATE       | XV-^{1460/70}              |
 | PROVENANCE |               |
 |------------+---------------|
 
