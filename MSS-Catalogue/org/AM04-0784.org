@@ -1,5 +1,8 @@
 #+Title: AM 784 4to
 
+https://handrit.is/manuscript/view/da/AM04-0784
+https://github.com/bedebok/Research/blob/00ea7a5a8d0b420ba7a68b75f2a92ddf29dd1c99/MS/MDB/AM04-0784.csv
+
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | Perg        |
