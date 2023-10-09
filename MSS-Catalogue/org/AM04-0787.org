@@ -1,5 +1,7 @@
 #+Title: AM 787 4to
 
+https://handrit.is/manuscript/view/da/AM04-0787
+
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | perg        |
