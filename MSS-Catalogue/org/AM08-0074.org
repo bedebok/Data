@@ -1,10 +1,10 @@
-#+Title: AM 000 8vo
+#+Title: AM 74 8vo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | pap            |
+| NUMBER       | 289            |
+| SIZE         | 143 104            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,9 +27,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #DE               |
+| DATE       | XV^{4/4}              |
+| PROVENANCE | Frankcenau               |
 |------------+---------------|
 
 * Contents
