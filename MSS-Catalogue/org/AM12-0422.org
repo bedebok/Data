@@ -1,19 +1,21 @@
 #+Title: AM 000 12mo
 
+https://handrit.is/manuscript/view/da/AM12-0422
+
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg, pap            |
+| NUMBER       | 89           |
+| SIZE         | 101 74            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
-| FOLIATION    |             |
+| FOLIATION    | (red roman num. ?)            |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
+| TYPE         | perg            |
 | DATE         |             |
 | SIZE         |             |
 |--------------+-------------|
@@ -27,9 +29,9 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      | #SE              |
+| DATE       | XV              |
+| PROVENANCE | Rostgård 351               |
 |------------+---------------|
 
 * Contents
