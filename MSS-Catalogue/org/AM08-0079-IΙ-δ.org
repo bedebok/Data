@@ -1,5 +1,7 @@
 #+Title: AM 79 II δ 8vo
 
+https://handrit.is/manuscript/view/da/AM08-0079-II-delta
+
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | perg             |
