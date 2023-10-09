@@ -1,10 +1,10 @@
-#+Title: AM 000 8vo
+#+Title: AM 79 II ζ 8vo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg            |
+| NUMBER       | 1            |
+| SIZE         | 130 110            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,8 +13,8 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
+| TYPE         | #DE            |
+| DATE         | 1290-1310             |
 | SIZE         |             |
 |--------------+-------------|
 
