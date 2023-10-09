@@ -1,5 +1,7 @@
 #+Title: AM 79 II ε 8vo
 
+https://handrit.is/manuscript/view/da/AM08-0079-II-epsilon
+
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | perg             |
