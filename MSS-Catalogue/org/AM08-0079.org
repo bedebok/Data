@@ -1,4 +1,4 @@
-#+Title: AM 000 8vo
+#+Title: AM 79 8vo
 
 * PhysDesc
 |--------------+-------------|
