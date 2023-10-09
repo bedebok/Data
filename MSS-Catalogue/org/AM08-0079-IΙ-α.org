@@ -1,10 +1,10 @@
-#+Title: AM 000 8vo
+#+Title: AM 79 II α 8vo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | perg            |
+| NUMBER       | 1            |
+| SIZE         | 253 196          |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -27,8 +27,8 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
+| PLACE      | #DE              |
+| DATE       | XV              |
 | PROVENANCE |               |
 |------------+---------------|
 
