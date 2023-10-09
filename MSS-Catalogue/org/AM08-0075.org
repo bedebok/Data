@@ -1,10 +1,10 @@
-#+Title: AM 000 8vo
+#+Title: AM 75 8vo
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      | pap, perg            |
+| NUMBER       | 251            |
+| SIZE         | 140 102            |
 | WRITING AREA |             |
 | COLUMNS      |             |
 | LINES        |             |
@@ -13,7 +13,7 @@
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
+| TYPE         | calfskin, wood             |
 | DATE         |             |
 | SIZE         |             |
 |--------------+-------------|
@@ -27,8 +27,8 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
+| PLACE      | #DK              |
+| DATE       | 1490-1510               |
 | PROVENANCE |               |
 |------------+---------------|
 
