@@ -1,4 +1,4 @@
-#+Title: AM 72 8vo [[file:MS/MDB/AM08-0072.csv][AM 72 8vo]]
+#+Title: AM 72 8vo [[file:Research/MS/MDB/AM08-0072.csv][AM 72 8vo]]
 
 * PhysDesc
 |--------------+-------------|
