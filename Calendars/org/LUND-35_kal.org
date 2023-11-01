@@ -1,0 +1,46 @@
+#+TITLE: Calendar (AM 73 8vo)
+
+* January
+* February
+* March
+* April
+* May
+* June
+* July
+* August
+* September
+* October
+* November
+|----+---+--------+-------------------------+-----+------------+-------|
+|  1 | d |        | omn(is) s(an)c(t)o(rum) | red | ALL_SAINTS |       |
+|  2 | e | iiii   | Euchachii socior(um)    |     | EUSTACE    | xiii  |
+|  3 | f | ii     |                         |     |            | xii   |
+|  4 | g | i      |                         |     |            |       |
+|  5 | A | nonas  |                         |     |            | x     |
+|  6 | b | viii   |                         |     |            |       |
+|  7 | c | vii    | Willebrodi ep(iscop)i   |     | WILLIBRORD | xviii |
+|  8 | d | vi     | Willehadi ep(iscop)i    |     | WILLEHAD   | vii   |
+|  9 | e | v      |                         |     |            |       |
+| 10 | f | iiii   |                         |     |            | xv    |
+| 11 | g | iii    | Martini ep(iscop)i      | red | MARTIN     | iiii  |
+| 12 | A | ii     |                         |     |            |       |
+| 13 | b | Id(us) | Brictii ep(iscop)i      |     | BRICTIUS   | xii   |
+| 14 | c | xviii  |                         |     |            | i     |
+| 15 | d | xvii   |                         |     |            |       |
+| 16 | e | xvi    |                         |     | OTHMAR     | ix    |
+| 17 | f | xv     |                         |     |            |       |
+| 18 | g | xiiii  |                         |     |            | xvii  |
+| 19 | A | xiii   | Elyzabet vidue          |     | ELIZABETH  | vi    |
+| 20 | b | xii    |                         |     |            |       |
+| 21 | c | xi     | p(e)n(e)tacionis marie  | red |            | xiiii |
+| 22 | d | x      | Cecilie v(ir)g(inis)    |     | CECILIA    | iii   |
+| 23 | e | ix     | Clementis ppe           | red | CLEMENS    |       |
+| 24 | f | viii   |                         |     |            | xi    |
+| 25 | g | vii    | katherinie v(irginis)   | red | CATHERINE  | xix   |
+| 26 | A | vi     |                         |     |            |       |
+| 27 | b | v      |                         |     |            | viii  |
+| 28 | c | iiii   |                         |     |            |       |
+| 29 | d | iii    |                         |     |            | xvi   |
+| 30 | e | ii     | Adreas. Apostel.        | red | ANDREW     | v     |
+|----+---+--------+-------------------------+-----+------------+-------|
+* December

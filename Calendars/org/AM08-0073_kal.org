@@ -11,36 +11,36 @@
 * September
 * October
 * November
-|----+---+---+------+-----------------------+-----+------------+------|
-|  1 | e | d |      | Alle godes hilgen     | red | ALL_SAINTS |      |
-|  2 | f | e | iiii |                       |     |            | xiii |
-|  3 | g | f |      |                       |     |            |      |
-|  4 | h | g |      |                       |     |            |      |
-|  5 | i | A |      |                       |     |            |      |
-|  6 | k | b |      |                       |     |            |      |
-|  7 | l | c |      | Willebrordus .biscop. |     | WILLIBRORD |      |
-|  8 | m | d |      |                       |     |            |      |
-|  9 | n | e |      |                       |     |            |      |
-| 10 | o | f |      |                       |     |            |      |
-| 11 | p | g |      |                       |     |            |      |
-| 12 | q | A |      |                       |     |            |      |
-| 13 | r | b |      |                       |     |            |      |
-| 14 | s | c |      |                       |     |            |      |
-| 15 | t | d |      |                       |     |            |      |
-| 16 | v | e |      |                       |     |            |      |
-| 17 | x | f |      |                       |     |            |      |
-| 18 | y | g |      |                       |     |            |      |
-| 19 | z | A |      |                       |     |            |      |
-| 20 |   | b |      |                       |     |            |      |
-| 21 |   |   |      |                       |     |            |      |
-| 22 |   |   |      |                       |     |            |      |
-| 23 |   |   |      |                       |     |            |      |
-| 24 |   |   |      |                       |     |            |      |
-| 25 |   |   |      |                       |     |            |      |
-| 26 |   |   |      |                       |     |            |      |
-| 27 |   |   |      |                       |     |            |      |
-| 28 |   |   |      |                       |     |            |      |
-| 29 |   |   |      |                       |     |            |      |
-| 30 |   |   |      |                       |     |            |      |
-|----+---+---+------+-----------------------+-----+------------+------|
+|----+---+---+---------+-------------------------+-----+------------+------|
+|  1 | e | d |         | Alle godes hilgen       | red | ALL_SAINTS |      |
+|  2 | f | e | iiii    |                         |     |            | xiii |
+|  3 | g | f | ii      |                         |     |            |      |
+|  4 | h | g | i       |                         |     |            |      |
+|  5 | i | A | No(ne)s |                         |     |            |      |
+|  6 | k | b | viii    |                         |     |            |      |
+|  7 | l | c | vii     | Willebrordus .biscop.   |     | WILLIBRORD |      |
+|  8 | m | d | vi      | Willehad(us) .bisc(op). |     | WILLEHAD   |      |
+|  9 | n | e | v       |                         |     |            |      |
+| 10 | o | f | iiii    | Martin(us) .pawes.      |     | MARTIN     |      |
+| 11 | p | g | iii     | Martinus .biscop.       | red | MARTIN     |      |
+| 12 | q | A | ii      |                         |     |            |      |
+| 13 | r | b | Id(us)  | Brictius .bis(cop).     |     | BRICTIUS   |      |
+| 14 | s | c | xviii   |                         |     |            |      |
+| 15 | t | d | xvii    |                         |     |            |      |
+| 16 | v | e | xvi     | Othmar(us) abbet        |     | OTHMAR     |      |
+| 17 | x | f | xv      |                         |     |            |      |
+| 18 | y | g | xiiii   |                         |     |            |      |
+| 19 | z | A | xiii    | Elyzab(et) weddue.      | red | ELIZABETH  |      |
+| 20 |   | b | xii     |                         |     |            |      |
+| 21 |   | c | xi      |                         |     |            |      |
+| 22 |   | d | x       | Cecilie. Juncvrow.      |     | CECILIA    |      |
+| 23 |   | e | ix      | Clemens. pawes.         |     | CLEMENS    |      |
+| 24 |   | f | viii    |                         |     |            |      |
+| 25 | A | g | vii     | Katherina. Juncvrow.    | red | CATHERINE  |      |
+| 26 | b | A | vi      |                         |     |            |      |
+| 27 | c | b | v       |                         |     |            |      |
+| 28 | d | c | iiii    |                         |     |            |      |
+| 29 | e | d | iii     | Saturnini(us)           |     | SATURNINUS |      |
+| 30 | f | e | ii      | Adreas. Apostel.        | red | ANDREW     |      |
+|----+---+---+---------+-------------------------+-----+------------+------|
 * December
