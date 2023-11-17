@@ -60,7 +60,7 @@ https://handrit.is/manuscript/view/da/AM04-0789
 | 4v    |     | MARGINAL   | PATER_NOSTER  |       | p(ate)r n(oste)r                                       |          | la       |        |
 | 4v    |     | RUBRIC     |               | 45.   | Her børies een god bøn aff Jomffrw Mariæ               |          | da       |        |
 |       |     | PRAYER     |               | 45    | [M]Aria moder thw ther all                             |          | da       |        |
-|       |     | RUBRIC     |               | 105.  | Ultu weten wo dit beth vp erden is gekomen             |          | lg       |        |
+|       |     | RUBRIC     |               | 105.  | Uultu weten wo dit beth vp erden is gekomen            |          | lg       |        |
 |       |     | PRAYER     |               | 105a  | [MA]ria iech beder tigh for                            | Am(en)   | da       |        |
 | 6r    |     | MARGINAL   | AVE_MARIA     |       | aue maria x                                            |          | la       |        |
 | 6r-6v | 6v  | PRAYER     |               | 105b  | MAria iech beder tich for th(e)n                       |          | da       |        |
