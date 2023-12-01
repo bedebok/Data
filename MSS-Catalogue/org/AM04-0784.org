@@ -75,7 +75,7 @@ https://github.com/bedebok/Research/blob/00ea7a5a8d0b420ba7a68b75f2a92ddf29dd1c9
 | 25v   |  918 |                |                 |     |                                |                             |          |        |
 | 26r   | 1120 |                |                 |     |                                |                             |          |        |
 | 26v   | 1121 |                |                 |     |                                |                             |          |        |
-| 26v   |      | [[file:Prayers/org/AM04-0784_026v_m.org][PRAYER]]         |                 |     |                                |                             | da       | added  |
+| 26v   |      | [[file:../../Prayers/org/AM04-0784_026v_m.org][PRAYER]]         |                 |     |                                |                             | da       | added  |
 | 27r   | 1122 |                |                 |     |                                |                             |          |        |
 | 27r   | 1123 |                |                 |     |                                |                             |          |        |
 | 27r   | 1124 |                |                 |     |                                |                             |          |        |
