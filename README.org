@@ -4,6 +4,8 @@ This repository contains open access data for the project /When Danes Prayed in 
 
 * List of manuscripts
 ** Prayer Books
+
+Thott 159 8vo
 |--------+-------------+----------------------------+------------------------------------------------------+---------------------------------+--------------+--------+--------|
 | <6>    |             |                            |                                                      |                                 |              | <6>    | <6>    |
 | Code   | Rep         | Shelfmark                  | Name                                                 | Language(s)                     |       Dating | Catalogue Link | IMG    |
