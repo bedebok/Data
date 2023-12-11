@@ -4,8 +4,6 @@ This repository contains open access data for the project /When Danes Prayed in 
 
 * List of manuscripts
 ** Prayer Books
-
-Thott 159 8vo
 |--------+-------------+----------------------------+------------------------------------------------------+---------------------------------+--------------+--------+--------|
 | <6>    |             |                            |                                                      |                                 |              | <6>    | <6>    |
 | Code   | Rep         | Shelfmark                  | Name                                                 | Language(s)                     |       Dating | Catalogue Link | IMG    |
@@ -38,6 +36,7 @@ Thott 159 8vo
 | NKS08-0044 | KBK         | [[file:MSS-Catalogue/org/NKS08-0044.org][NKS 44 8vo]]                 | Jesu Passionale                                      | German                          |              |        |        |
 | NKS08-0044-b | KBK         | [[file:MSS-Catalogue/org/NKS08-0044-b.org][NKS 44 b 8vo]]               | Gudelige bønner (prayers of god?)                    | Danish                          |              |        |        |
 | NKS08-0045 | KBK         | [[file:MSS-Catalogue/org/NKS08-0045.org][NKS 45 8vo]]                 |                                                      | Danish                          |              |        |        |
+|        | KBK         | Thott 159 8vo              |                                                      |                                 |              |        |        |
 | Thott04-0108 | KBK         | [[file:MSS-Catalogue/org/Thott04-0108.org][Thott 108 4to]]              | Birgitta (NL?)                                       | German                          |              |        |        |
 | Thott04-0553 | KBK         | [[file:MSS-Catalogue/org/Thott04-0553.org][Thott 553 4to]]              | Anne Brade's prayer book                             | Danish                          |              |        |        |
 | Thott08-0008 | KBK         | [[file:MSS-Catalogue/org/Thott08-0008.org][Thott 8 8vo]]                |                                                      | German                          |              |        |        |
