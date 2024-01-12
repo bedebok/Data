@@ -3,6 +3,15 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 
 [[../imgs/AM08-0073.jpg]]
 
+* History
+|--------+---------------+-------+-----------|
+| TYPE   | NAME          | PLACE |      DATE |
+|--------+---------------+-------+-----------|
+| ORIGIN |               | N_DE  | 1400-1499 |
+| USER   | Lars Pedersen |       |           |
+|--------+---------------+-------+-----------|
+
+
 * PhysDesc
 |--------------+---------|
 | SUPPORT      | perg    |
@@ -50,13 +59,6 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 | XXX.    | 273-281 | quinternion? | final leaf missing?                                       |
 | XXXI.   | 283-288 | ternion      | Loose guard between 283r-288v, pastedown on guard to 283r |
 
-* History
-|--------+---------------+-------+-----------|
-| TYPE   | NAME          | PLACE |      DATE |
-|--------+---------------+-------+-----------|
-| ORIGIN |               | N_DE  | 1400-1499 |
-| USER   | Lars Pedersen |       |           |
-|--------+---------------+-------+-----------|
 
 * Contents
 |-------+-----------+-------------------+--------------+----------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+------------|
