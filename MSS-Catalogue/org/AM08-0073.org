@@ -1,6 +1,7 @@
 #+TITLE: AM 73 8vo
+A fifteenth-century prayer book in Low German with many full-page miniatures.
 
-https://handrit.is/manuscript/view/da/AM08-0073
+[[././imgs/AM08-0073.jpg]]
 
 * PhysDesc
 |--------------+---|
@@ -205,3 +206,5 @@ https://handrit.is/manuscript/view/da/AM08-0073
 |       | 245r      |                   | RUBRIC       |                | PSALM_24              | Ad te ddomine leuaui a(n)i(m)am mea(m)                           |                                      |          |            |
 |       | 245r      |                   | PRAYER       |                | PSALM_24              |                                                                  |                                      |          |            |
 
+* Bibliography
+- Handrit :: https://handrit.is/manuscript/view/da/AM08-0073
