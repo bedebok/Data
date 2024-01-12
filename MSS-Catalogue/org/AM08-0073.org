@@ -1,18 +1,18 @@
 #+TITLE: AM 73 8vo
-A fifteenth-century prayer book in Low German with many full-page miniatures.
+A fifteenth-century prayer book in Low German with many full-page miniatures. It contains added prayers in Danish.
 
 [[../imgs/AM08-0073.jpg]]
 
 * PhysDesc
-|--------------+---|
-| SUPPORT      | perg   |
-| NUMBER       | 288  |
-| SIZE         | 157 112  |
-| WRITING AREA |   |
-| COLUMNS      |   |
-| LINES        |   |
-| FOLIATION    |   |
-|--------------+---|
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 288     |
+| SIZE         | 157 112 |
+| WRITING AREA |         |
+| COLUMNS      |         |
+| LINES        |         |
+| FOLIATION    |         |
+|--------------+---------|
 
 ** Quire structure
 | Quire   |  Leaves | Structure    | Changes                                                   |
@@ -51,11 +51,13 @@ A fifteenth-century prayer book in Low German with many full-page miniatures.
 | XXXI.   | 283-288 | ternion      | Loose guard between 283r-288v, pastedown on guard to 283r |
 
 * History
-|------------+---------|
-| PLACE      | #DE #DK |
-| DATE       | XV      |
-| PROVENANCE | Lars Pedersen        |
-|------------+---------|
+|--------+---------------+-------+-----------|
+| TYPE   | NAME          | PLACE |      DATE |
+|--------+---------------+-------+-----------|
+| ORIGIN |               | N_DE  | 1400-1499 |
+| USER   | Lars Pedersen |       |           |
+|--------+---------------+-------+-----------|
+
 * Contents
 |-------+-----------+-------------------+--------------+----------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+------------|
 | Quire | start     | end               | text type    | initial height | text                  | incipit                                                          | explicit                             | language | status     |
@@ -151,16 +153,23 @@ A fifteenth-century prayer book in Low German with many full-page miniatures.
 |       | 173r      | 173r              | PRAYER       |              2 |                       | Exaudi d(omi)ne ih(es)u                                          |                                      | Lat      | added_leaf |
 |-------+-----------+-------------------+--------------+----------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+------------|
 |       | 174r      |                   | PRAYER       |              2 |                       | De apostole hebben ghesproken                                    |                                      |          |            |
-|       | 174r      |                   | RUBRIC       |                |                       | P(salmus) D(S/avidi?)                                            |                                      |          |            |
-|       | 174r      |                   | PRAYER       |              2 |                       | Benedict sy de here van allen louighen herte(n)                  |                                      |          |            |
+|       | 174r      |                   | RUBRIC       |                |                       | P(salmus) D(avidis)                                              |                                      |          |            |
+|       | 174r      |                   | PSALM        |              2 |                       | Benedict sy de here van allen louighen herte(n)                  |                                      |          |            |
 |       | 175v      |                   | RUBRIC       |                |                       | Collecta                                                         |                                      |          |            |
 |       | 176r      |                   | PRAYER       |              2 |                       | Alwedghe ewige got                                               |                                      |          |            |
+|       | 176v      |                   |              |                |                       | To der p(ri)me                                                   |                                      |          |            |
+|       | 176v      |                   |              |              2 |                       | De vader vnde de so[n] in der ewicheit                           |                                      |          |            |
+|       | 177r      |                   |              |                |                       | ympnus                                                           |                                      |          |            |
+|       | 177r      |                   |              |              2 |                       | De sterne des lichtes ys up gegha(n)                             |                                      |          |            |
+|       | 178r      |                   | RUBRIC       |                |                       | P(salmus) D(avidis)                                              |                                      |          |            |
+|       |           |                   | PSALM        |              2 | PSALM_15              | [[H]]ere we schal wonen in dyneme husu                               |                                      |          |            |
 |-------+-----------+-------------------+--------------+----------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+------------|
 |-------+-----------+-------------------+--------------+----------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+------------|
 |       | 200r      |                   | RUBRIC       |                |                       | Vigilie                                                          |                                      |          |            |
 |       |           |                   |              |                |                       | God here nym der cristenheyt bet vor alle cristene sele          |                                      |          |            |
 |       |           |                   |              |                |                       | Psalmus                                                          |                                      |          |            |
 |       |           |                   |              |                |                       | Neghe here dyne oren to myneme bede                              |                                      |          |            |
+|       |           |                   |              |                |                       |                                                                  |                                      |          |            |
 |-------+-----------+-------------------+--------------+----------------+-----------------------+------------------------------------------------------------------+--------------------------------------+----------+------------|
 |       | 231r      | 231r              |              |              3 | PSALM_114             | DIlexi quoniam exaudiet dominus                                  |                                      |          |            |
 |       | 231r      | 232v              |              |                | PSALM_114             | Ik hebbe de gude myt leue des heren                              |                                      |          |            |
@@ -200,11 +209,12 @@ A fifteenth-century prayer book in Low German with many full-page miniatures.
 |       | 244r      |                   | RESPONSORIUM |                |                       | Here wen du komest vn(de) richtest ouer de erde                  |                                      |          |            |
 |       | 244r      |                   | VERSICLE     |                |                       | Ak vruchte my vor mynen sunde                                    |                                      |          |            |
 |       | 244r      |                   |              |                | ?                     | Wente                                                            |                                      |          |            |
-|       | 244r      |                   | RUBRIC       |                | PSALM_22              | Dominus regit me (et) nichil                                     |                                      |          |            |
+|       | 244r      |                   | RUBRIC       |              2 | PSALM_22              | Dominus regit me (et) nichil                                     |                                      |          |            |
 |       | 244r      |                   | PRAYER       |                | PSALM_22              | De here steyt my vore vnde my mach nicht vnbreken                |                                      |          |            |
 |       | 245r      |                   | ANTIPHONE    |                |                       | In der stede der wyde heft my got gesat                          |                                      |          |            |
-|       | 245r      |                   | RUBRIC       |                | PSALM_24              | Ad te ddomine leuaui a(n)i(m)am mea(m)                           |                                      |          |            |
+|       | 245r      |                   | RUBRIC       |              2 | PSALM_24              | Ad te domine leuaui a(n)i(m)am mea(m)                            |                                      |          |            |
 |       | 245r      |                   | PRAYER       |                | PSALM_24              |                                                                  |                                      |          |            |
+|       |           |                   |              |                |                       |                                                                  |                                      |          |            |
 
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0073
