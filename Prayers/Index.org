@@ -1,8 +1,11 @@
 #+TITLE: Index of Prayers
 
 * By Latin Title
-|--------------------------------+--------+----------------|
-| Title                          | Danish | Low German     |
-|--------------------------------+--------+----------------|
-| Audite obsecro universi populi |        | AM08_0070-254r |
-| XV Pater Noster (Pseudo-Birgitta)|        | GKS08-3423_211r                |
+|----------------------------------+--------+------------------|
+| Title                            | Danish | Low German       |
+|----------------------------------+--------+------------------|
+| Audite obsecro universi populi   |        | AM08_0070-254r   |
+| XV Pater Noster (Pseudo-Birgitta)|        | GKS08-3423_211r  |
+| O Bone Jesu                      |        | GKS08-3423_001r  |
+| Raccolta 89 (Virgin, St. Anne)   | AM04-0784_92r |           |
+| Regina cœli                      |        | AM08-0070_247r   |
