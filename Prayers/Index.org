@@ -1,6 +1,5 @@
 #+TITLE: Index of Prayers
 
-* By Latin Title
 |----------------------------------+--------+------------------|
 | Title                            | Danish | Low German       |
 |----------------------------------+--------+------------------|
@@ -9,3 +8,4 @@
 | O Bone Jesu                      |        | GKS08-3423_001r  |
 | Raccolta 89 (Virgin, St. Anne)   | AM04-0784_92r |           |
 | Regina cœli                      |        | AM08-0070_247r   |
+| Seven Penitential Psalms         |        | AM08-073_013r    |
