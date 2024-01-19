@@ -1,6 +1,5 @@
 #+TITLE: Sermo Angelicus (Revelationes Santæ Birgittæ liber XI)
 #+AUTHOR: AM 70 8vo
-* Metadata
 | MS   | AM 70 8vo |
 | Date | 1500      |
 
