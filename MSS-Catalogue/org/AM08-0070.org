@@ -1,7 +1,6 @@
 #+TITLE: AM 70 8vo
-
-https://handrit.is/manuscript/view/da/AM08-0070
-
+A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
+[[../imgs/AM08-0070.jpg]]
 * Physical Description
 |--------------+------|
 | SUPPORT      | perg |
@@ -57,32 +56,47 @@ https://handrit.is/manuscript/view/da/AM08-0070
 |--------+--------+-----------+----------------------|
 
 * Contents
-|-------+------+--------------+-----------------+-----+-------------------------------------+----------+----------+--------|
-| start | end  | text type    | text            | MDB | incipit                             | explicit | language | status |
-|-------+------+--------------+-----------------+-----+-------------------------------------+----------+----------+--------|
-| 1r    |      |              | BIRGITTA_XI     |     |                                     |          |          |        |
-| 2r    | 2v   | PRAYER       | Antiphony       |     |                                     |          |          |        |
-| 2v    | 3r   | LACUNA       |                 |     |                                     |          |          |        |
-| 3r    | 5v   | PRAYER       | BIRGITTA_MATINS |     |                                     |          |          |        |
-| 5v    |      |              |                 |     | Antiphona Int(er)ueniente te        |          |          |        |
-| 6r    |      |              | BIRGITTA_XI_1   |     |                                     |          |          |        |
-| 47r   |      |              | BIRGITTA_XI_4   |     |                                     |          |          |        |
-| 80r   |      |              | BIRGITTA_XI_7   |     |                                     |          |          |        |
-| 109v  |      |              | BIRGITTA_XI_10  |     |                                     |          |          |        |
-| 111r  |      |              | BIRGITTA_XI_411 |     |                                     |          |          |        |
-| 114r  |      |              | BIRGITTA_XI_412 |     |                                     |          |          |        |
-| 141v  | 142r |              | BIRGITTA_XI_13  |     |                                     |          |          |        |
-| 145v  |      |              | BIRGITTA_XI_14  |     |                                     |          |          |        |
-| 148v  |      |              |                 |     |                                     |          |          |        |
-| 177r  |      |              | BIRGITTA_XI_16  |     |                                     |          |          |        |
-|       |      |              | BIRGITTA_XI_17  |     |                                     |          |          |        |
-| 184v  |      |              | BIRGITTA_XI_18  |     |                                     |          |          |        |
-| 222r  |      |              | BIRGITTA_XI_19  |     |                                     |          |          |        |
-|       |      |              | BIRGITTA_XI_20  |     |                                     |          |          |        |
-| 229v  |      |              | BIRGITTA_XI_21  |     |                                     |          |          |        |
-| 233r  |      |              |                 |     | Hir endeghet sik de rede des engels |          |          |        |
-| 247r  |      | PRAYER       | REGINA_COELI    |     |                                     |          |          |        |
-| 247r  |      | ADDED_PRAYER |                 |     |                                     |          | DA       | added  |
-|       |      |              |                 |     |                                     |          |          |        |
-|-------+------+--------------+-----------------+-----+-------------------------------------+----------+----------+--------|
+|-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
+| start | end  | text type    | text            |  MDB | incipit                             | explicit                           | language | status |
+|-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
+| 1r    |      |              | BIRGITTA_XI:7   |      | [...]gantze jnnichliken             |                                    | LG       |        |
+| 2r    | 2v   | PRAYER       | Antiphony       |      | O Birgitta ene mylde modh(e)r       |                                    |          |        |
+| 2v    | 2v   | PRAYER       | Collecta        |      | Wod de du woldest                   |                                    |          |        |
+| 2v    | 2v   | PRAYER       |                 |  980 | O herre ihu                         | th(et)te v(er)duge                 | DA       | added  |
+| 2v    | 3r   | LACUNA       |                 |      |                                     |                                    |          |        |
+| 3r    | 5v   | PRAYER       | BIRGITTA_MATINS |      |                                     |                                    |          |        |
+| 5v    |      |              |                 |      | Antiphona Int(er)ueniente te        |                                    |          |        |
+| 6r    |      |              | BIRGITTA_XI_1   |      |                                     |                                    |          |        |
+| 47r   |      |              | BIRGITTA_XI_4   |      |                                     |                                    |          |        |
+| 75v   |      |              |                 |  180 |                                     |                                    |          |        |
+| 80r   |      |              | BIRGITTA_XI_7   |      |                                     |                                    |          |        |
+| 106v  | 106v | RUBRIC       |                 |      | Hwo th(en)n(e) efft(er)sc(ri)ffnæ   |                                    | DA       | added  |
+| 106v  | 107r | LACUNA       |                 |      |                                     |                                    |          |        |
+| 109v  |      |              | BIRGITTA_XI_10  |      |                                     |                                    |          |        |
+| 109v  | 110r | LACUNA       |                 |      |                                     |                                    |          |        |
+| 111r  |      |              | BIRGITTA_XI_11  |      |                                     |                                    |          |        |
+| 114r  |      |              | BIRGITTA_XI_12  |      |                                     |                                    |          |        |
+| 141v  | 142r |              | BIRGITTA_XI_13  |      |                                     |                                    |          |        |
+| 145v  |      |              | BIRGITTA_XI_14  |      |                                     |                                    |          |        |
+| 148v  |      |              |                 |      |                                     |                                    |          |        |
+| 177r  |      |              | BIRGITTA_XI_16  |      |                                     |                                    |          |        |
+|       |      |              | BIRGITTA_XI_17  |      |                                     |                                    |          |        |
+| 184v  |      |              | BIRGITTA_XI_18  |      |                                     |                                    |          |        |
+| 222r  |      |              | BIRGITTA_XI_19  |      |                                     |                                    |          |        |
+|       |      |              | BIRGITTA_XI_20  |      |                                     |                                    |          |        |
+| 229v  |      |              | BIRGITTA_XI_21  |      |                                     |                                    |          |        |
+| 233r  |      |              |                 |      | Hir endeghet sik de rede des engels |                                    |          |        |
+| 247r  |      | PRAYER       | REGINA_COELI    |      |                                     |                                    |          |        |
+| 247r  |      | ADDED_PRAYER |                 | 1068 | Virgo mater resurgentis             | bliffuendes liiffs fødhæ. Alleluya | DA       | added  |
+| 253v  |      |              |                 |   78 | O helghe [???] atskillielighe       | vndh(e)n ænde Ame(n)               | DA       | added  |
+| 254r  |      | CAPITULUM    |                 |      | Ik bidde iw høret                   |                                    |          |        |
+| 254v  |      |              |                 | 1069 | O iomffrw kirke(n)s moder           |                                    |          |        |
+| 254v  |      |              |                 | 1070 | Heel thu som æst                    |                                    |          |        |
+| 255r  |      |              |                 | 1071 | Aue maria Ancilla trinitatis        |                                    | LAT      |        |
+| 255v  |      |              |                 | 1072 | Heel maria the helghe traffalighets |                                    |          |        |
+| 255v  |      |              |                 | 1073 |                                     |                                    |          |        |
+| 256r  |      |              |                 | 1074 |                                     |                                    |          |        |
+|-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
 
+* Bibliography
+- Handrit :: https://handrit.is/manuscript/view/da/AM08-0070
