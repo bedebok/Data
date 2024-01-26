@@ -22,25 +22,25 @@ A prayer book in Danish with many added woodcuts.
 |---------|---------+--------------+-----------------------------------------------------------|
 | Quire   |  Leaves | Structure    | Changes                                                   |
 |---------+---------+--------------+-----------------------------------------------------------|
-|         |  fly - 9|              |                                                           |
-10-19 /handshift
-20-28? (24+fals)
-29-43?
-44-50?
-51-60? /handshift
-?61
-62-71 (fals bw 67-68)
-71-78
-79-86?
-87-93 (diff hand in middle of 90v)
-94-103 (back to main hand)
-104-113
-114-122 (fals bw 116-117; hand shift 119v)
-123-130 (main hand)
-131-136 (handshift 134r; 134v-135r different hand; 135v-136r blank; 136v added woodcut)
-137-146 (new hand)
-147-154
-two flyleaves in parchment, four paper (first attachet to parchment, last = pastedown, thus only two "fly")
+|  I       |  fly - 9|              |                                                           |
+| II      | 10-19   |  /handshift
+| III     | 20-28? (24+fals)
+| IV      | 29-43?
+| V       | 44-50?
+| VI | 51-60? /handshift
+| VIa |?61
+| VII | 62-71 (fals bw 67-68)
+| VIII |71-78
+| IX | 79-86?
+| X | 87-93 (diff hand in middle of 90v)
+| XI | 94-103 (back to main hand)
+| XII | 104-113
+| XIII | 114-122 (fals bw 116-117; hand shift 119v)
+| XIV | 123-130 (main hand)
+| XV | 131-136 (handshift 134r; 134v-135r different hand; 135v-136r blank; 136v added woodcut)
+| XVI | 137-146 (new hand)
+| XVII | 147-154
+| | two flyleaves in parchment, four paper (first attachet to parchment, last = pastedown, thus only two "fly")
 
 |---------|---------+--------------+-----------------------------------------------------------|
 
