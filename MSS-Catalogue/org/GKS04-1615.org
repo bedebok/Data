@@ -2,27 +2,46 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
-| FOLIATION    |             |
+| SUPPORT      |    perg         |
+| NUMBER       |  i + 154 + iv           |
+| SIZE         |    165 115         |
+| WRITING AREA |   115 85 (52r) 130 95 (131r)         |
+| COLUMNS      |  1           |
+| LINES        |   20 (52r) 22 (131r)         |
+| FOLIATION    | 2-154            |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
-| SIZE         |             |
+| TYPE         |   wood, cloth          |
+| DATE         |  16c ?          |
+| SIZE         |  175 120 53           |
 |--------------+-------------|
 
 ** Quire structure
 |---------|---------+--------------+-----------------------------------------------------------|
 | Quire   |  Leaves | Structure    | Changes                                                   |
 |---------+---------+--------------+-----------------------------------------------------------|
-|         |         |              |                                                           |
+|         |  fly - 9|              |                                                           |
+10-19 /handshift
+20-28? (24+fals)
+29-43?
+44-50?
+51-60? /handshift
+?61
+62-71 (fals bw 67-68)
+71-78
+79-86?
+87-93 (diff hand in middle of 90v)
+94-103 (back to main hand)
+104-113
+114-122 (fals bw 116-117; hand shift 119v)
+123-130 (main hand)
+131-136 (handshift 134r; 134v-135r different hand; 135v-136r blank; 136v added woodcut)
+137-146 (new hand)
+147-154
+two flyleaves in parchment, four paper (first attachet to parchment, last = pastedown, thus only two "fly")
+
 |---------|---------+--------------+-----------------------------------------------------------|
 
 * History
@@ -36,8 +55,13 @@
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
 | start | MDB | text type  | text          | end   | incipit                                                | explicit | language | status |
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
+1r table
+2r-7v calendar
+8r table
+8v description of table
+9r-v description of table
 |10r	|1031	
-|20r	|69	
+|20r	|69	(new hand)
 |20v	|846	
 |21v	|1032	
 |22r	|1033	
@@ -83,8 +107,8 @@
 |59r|	71	
 |59r	|72	
 |59v	|70	
-|61r	|1040	
-|62r	|1041	
+|61r	|1040	(new hand) = insertion
+|62r	|1041	(back to previous hand)
 |62r	|92	
 |63r	|93	
 |64r	|191	
@@ -105,10 +129,10 @@
 |87r	|171	
 |88r	|1044	
 |89r	|944	
-|90v	|1045	
+|90v	|1045	(new hand)
 |92r	|1046	
 |92v	|1047	
-|94r	|105	
+|94r	|105	(back to previous hand)
 |97r	|130	
 |98r	|119	
 |99r	|266	
@@ -134,8 +158,8 @@
 |118r	|125	
 |118v	|112	
 |119r	|113	
-|119v	|1052	
-|123r	|133	
+|119v	|1052	(new hand)
+|123r	|133	(back to main hand)
 |124v	|137	
 |125r|	138	
 |125r	|139	
@@ -161,12 +185,12 @@
 |133r	|879	
 |133v	|880	
 |133v	|959	
-|134r	|1054	
-|134v	|165
-|135r	|78	
+|134r	|1054	(added by different hand)
+|134v	|165 (different hand again)
+|135r	|78	(same as 134v)
 |137r	|1139	
 |138r	|1055	
-|138v	|I 184	
+|138v	|I 184	(= Penitential psalms with litany)
 |148v	|888	
 |150v	|1141	
 |152r	|1143	
