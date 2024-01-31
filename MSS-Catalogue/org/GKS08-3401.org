@@ -2,34 +2,28 @@
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
+| SUPPORT      |    Pap         |
+| NUMBER       |       1029      |
+| SIZE         |   145 x 105          |
 | WRITING AREA |             |
-| COLUMNS      |             |
+| COLUMNS      |    1         |
 | LINES        |             |
-| FOLIATION    |             |
+| FOLIATION    |   Modern in pencil          |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
-| SIZE         |             |
+| TYPE         |  Leather           |
+| DATE         |  16th cent?           |
+| SIZE         | 155 110 120            |
 |--------------+-------------|
 
-** Quire structure
-|---------|---------+--------------+-----------------------------------------------------------|
-| Quire   |  Leaves | Structure    | Changes                                                   |
-|---------+---------+--------------+-----------------------------------------------------------|
-|         |         |              |                                                           |
-|---------|---------+--------------+-----------------------------------------------------------|
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
-| PROVENANCE |               |
+| PLACE      |  Cismar Monastery             |
+| DATE       |  1500             |
+| PROVENANCE | Cismar Monastery; Gottorp              |
 |------------+---------------|
 
 * Contents
