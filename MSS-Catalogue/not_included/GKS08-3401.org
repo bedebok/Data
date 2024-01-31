@@ -5,9 +5,9 @@
 | SUPPORT      |    Pap         |
 | NUMBER       |       1029      |
 | SIZE         |   145 x 105          |
-| WRITING AREA |             |
+| WRITING AREA |     120 85        |
 | COLUMNS      |    1         |
-| LINES        |             |
+| LINES        |    20         |
 | FOLIATION    |   Modern in pencil          |
 |--------------+-------------|
 
