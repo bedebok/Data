@@ -1,3 +1,14 @@
+#+TITLE: Prayer for a traveller
+| Manuscript | AM 784 4to |
+| Locus      | 26v margin |
+| Language   | Danish     |
+
+** Parallels
+| Danish     |                                     |
+| Low German |                                     |
+| Latin      | [[file:UUB-C-496-136r.org][UUB C 495 (136r)]], MDB 1121 Collecta |
+
+* Transcription
 O herre gud tw som haffuer send tobie din
 hellig profete oc tienere din hellig engel
 sancte raphael at gømme och beskerme ha(n)-
@@ -5,7 +16,3 @@ nu(m) for alt veyzens oc verdens faare oc med-
 gong saa giffuer oss oc verlene oss at wij
 som vandre mue beskermess aff then
 sa(m)me hellig engel aff alt ondskaff oc
-
-* Parallels
-[[file:UUB-C-496-136r.org][UUB C 495 (136r)]]
-(Loose) translation of MDB 1121 Collecta

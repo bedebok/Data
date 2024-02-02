@@ -1,3 +1,15 @@
+#+TITLE: Prayers for a traveller
+| Manuscript | UUB C 496 |
+| Locus      | 136r-v    |
+| Language   | Danish    |
+
+** Parallels
+| Danish     | [[file:AM04-0784_026v_m.org][AM 784 4to (26v bottom margin)]] |
+| Low German |                                |
+| Latin      | MDB 1121 Collecta              |
+
+* Transcription
+** Text
 It(em) nar thu vilt far(e) thit erinde tha giff
 
 jet fattigt folk ii pe(n)nige j s(an)c(t)e raphaelss er(e)
@@ -6,6 +18,7 @@ och s(an)c(t)e tobiass er(e) och less iii p(ate)r n(oste)r om mori-
 
 gen
 
+** Text
 It(em) om thin brodh(e)r ell(e)r thin ven nog(e)r sted 
 
 far(e) vil tha skalt thu hanem signe sa de(us) 
@@ -30,6 +43,7 @@ til helvid(is) foor th(e)n thredie th(e)n vey th(e)r han til
 
 he(m)merig(is) foor
 
+** Text
 De(us) qvi tobie famvlo tvo beatvm raphaelem socivm (con)cra viorv(m) p(er)icvla depvtasti tribve q(ui)s eodem angelo tvo
 
 --136v--
@@ -37,7 +51,6 @@ De(us) qvi tobie famvlo tvo beatvm raphaelem socivm (con)cra viorv(m) p(er)icvla
 avtem inter agentess ab omni ad ver
 
 sitate descendantvr per xpm dnm nrm
-	amen
 
-** Parallels
-[[file:AM04-0784_026v_m.org][AM 784 4to (26v bottom margin)]]
+amen
+
