@@ -2,6 +2,7 @@
 #+AUTHOR: AM 70 8vo
 | MS   | AM 70 8vo |
 | Date | 1500      |
+| Language | Low German |
 
 * Transcription
 gantze jnnichliken van deme munde
