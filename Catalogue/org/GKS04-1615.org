@@ -1,6 +1,6 @@
 #+Title: GKS 1615 4to
 A sixteenth-century prayer book in Danish. It contains many added woodcuts and copperplates which are much later.
-[[./imgs/GKS04-1615.jpg]]
+[[../imgs/GKS04-1615.jpg]]
 * PhysDesc
 |--------------+----------------------------|
 | SUPPORT      | perg                       |
