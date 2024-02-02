@@ -4,12 +4,12 @@ En catholsk Bønnebog, med Calender
 
 * PhysDesc
 |--------------+-------------|
-| SUPPORT      |             |
+| SUPPORT      | Pap            |
 | NUMBER       |             |
-| SIZE         |             |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
+| SIZE         | 135 110            |
+| WRITING AREA | 95-105 70-80            |
+| COLUMNS      | 1            |
+| LINES        | 12 17            |
 | FOLIATION    |             |
 |--------------+-------------|
 
