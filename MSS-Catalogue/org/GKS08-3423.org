@@ -53,9 +53,29 @@ En catholsk Bønnebog, med Calender
 | 109v  | 110r | prayer    | MAGNIFICAT             | Myne sele grot make de(n) here(n) | 
 | 110v  | 110v | prayer    | (end of office)        | O here yh(es)u (christe) yk anbede dy | vn(de) leyde(n) my to deme ewyghe(n) leue(n)de Amen |
 | 111r  | 111r | prayer    | PSALM_130[V129]        | bosheyt Here gyf en de ewygen rowe          | su(n)der ende myt dy vrowe(n) Ame(n) | continued from above |
-| 111r  | 118r |           |                        | Hijr begijnnet eijne medijtacio auer der y(m)nu(s) Veni redemtor genciu(m)                                                                                                                                                          |          |          |        |     |                                                                                   |
-| 118r  | 121v |           |                        | Hijr na volge(n) achte(n) verssche vt deme salter dauid de de duuel su(n)te bernardo apenbarde nijcht gerne                                                                                                                         |          |          |        |     | (St. Bernhard of Clairvaux? Cistercian?)̍                                          |
+| 111r  | 118r |           | VENI_REDEMTOR          | Hijr begijnnet eijne medijtacio auer der y(m)nu(s) Veni redemtor genciu(m)                                                                                                                                                          |          |          |        |     |                                                                                   |
+| 111v  | 112r | prayer    |                        | Ik danke dy leue here yh(es)u (christi) vt allen krefte(n) mynes herten | synget to dyne(n) laue de hylge kerke |
+| 112r  |      | prayer    | VENI_REDEMPTOR         | Kum du vorlose alles volkes bewys wo eyne yu(n)cfrowe      | 
+| 113r  |      | prayer    | NON_EX_VIRILI          | Dat worth gades ys flesk gheworde(n) |
+| 113v  |      |           | ALVUS_TUMESCIT_VIRGINIS | Der yu(n)cfrowen lycham de warth |
+| 114v |      |            | PROCEDAT_E_THALAMO     | He ys van syner slapkamere(n) |
+| 115r  |      |           | EGRESSUS_EIUS          | Syn vtgank ys van deme vadere | 
+| 115v  |      |           | EQUALIS_AETERNO_PATRIS | O du ghelyke deme ewyghen |
+| 115v  |      | RUBRIC    |                        | Dyt na gheschreue(n) beth vn(de) versk schalme lesen yn des |
+| 116r |       | prayer    |                         | Nu danke yk dy sundegen myn alder leueste here |
+| 116v |       | prayer    | PRAESEPE_IAM           | O yh(es)u dyne krubbe de schynet nu |
+| 117r |       | prayer    |                        | O du alder hogeste vader o du ewyge sone |
+| 117v | 118r  | prayer    | DEO_PATRI_SIT_GLORIA   | Gade dem vader sy lof vn(de) ere | vnsem troster dem hylghe(n) geste nu vn(de) to ga(n)ser ewycheit AMEN |
+| 118r  | 121v |           | psalter                | Hijr na volge(n) achte(n) verssche vt deme salter dauid de de duuel su(n)te bernardo apenbarde nijcht gerne                                                                                                                         |          |          |        |     | (St. Bernhard of Clairvaux? Cistercian?)̍                                          |
 | 121v  | 128v |           |                        | Dijt ijs santifijca nos to dude eijne segenij(n)ge van deme cruce                                                                                                                                                                   |          |          |        |     | (Pope Alexander VI)                                                               |
+| 122v | 123r  | rubric    |                        | Eyne ander schone segy(n)e Des moge(n)s wen du erste(n) vp steyt | vn(de) sla vor dyne borst othmodyge(n) seggende |
+| 123r  | 124r | prayer    |                        | Gef --- de du my welde(n) ge(n) schape(n) heft vn(de) barmhertyge(n) vorloset hefft | des vorklarende(n) licha(m)mes dat sche yndeme soten name(n) yh(es)u Amen |
+| 124r | 124r  | rubric    |                        | Eyne ander segenynge ok va(n) deme cruce |
+| 124r |  124v | prayer    |                        | DE vrede vnses here(n) yh(es)u (christi) de kraft vn(de) macht synes | vnsychtlyk yn dem name(n) des vaders Ame(n) |
+| 124v | 124v | rubric | | Eyn schone bet van deme werde(n) hylghen cruce |
+| 124v | | prayer | | O here ih(es)u cryste des benedyeden gades sone | 
+| 125v | | | | Eyn ander |
+| 126r | | | | Eyn ander |
 | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:259][129r]]  | 140v |           | (St. Anna Rosary)      | Hijr na volget de rosen krans van der werdijge(n) moder sante anne(n)                                                                                                                                                               |          |          |        |     |                                                                                   |
 | 154r  | 168r |           | prayers without rubric |                                                                                                                                                                                                                                     |          |          |        |     |                                                                                   |
 | 159v  |      |           |                        | De desse dancknamecheit alle dage lyst deme wyl god va(n) he(m)melen sunderge gnade vor leuen yn lyff vn(de) yn sele deyt he des nycht he is de brodes nych werdych dat he de dages ych alse sunde Augustinus sprikt vn(de) betyget |          |          |        |     |                                                                                   |
