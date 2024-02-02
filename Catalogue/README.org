@@ -82,7 +82,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 |-----------+----------------------------+-------------+------|
 | Kalmar 33 | Knud Bille's book of hours | Danish      |      |
 |-----------+----------------------------+-------------+------|
-** Linköping
+** Linköping, City Library
 |-----------------+------------------------------------+-------------+------|
 | Shelmark        | Description                        | Language(s) | Date |
 |-----------------+------------------------------------+-------------+------|
