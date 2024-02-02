@@ -5,19 +5,19 @@ En catholsk Bønnebog, med Calender
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | Pap            |
-| NUMBER       |             |
+| NUMBER       |  227 + i           |
 | SIZE         | 135 110            |
 | WRITING AREA | 95-105 70-80            |
 | COLUMNS      | 1            |
 | LINES        | 12 17            |
-| FOLIATION    |             |
+| FOLIATION    | fol            |
 |--------------+-------------|
 
 ** Binding
 |------+--------|
 | TYPE | Girdle |
-| DATE |        |
-| SIZE |        |
+| DATE |  XVI      |
+| SIZE | 150 105 50       |
 |------+--------|
 
 ** Quire structure
