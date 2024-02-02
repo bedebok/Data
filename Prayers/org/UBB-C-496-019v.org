@@ -1,38 +1,50 @@
-*Desse nascreuen bede scal*
+#+TITLE: Prayers for the entire day
+| MS       | UBB C 496 |
+| Date     |           |
+| Language | Low German |
 
-*men gerne lesen van deme lydende*
+* Transcription
+** Rubric
+Desse nascreuen bede scal
 
-*xpi vn(de) dat schal eyn jewelik my(n)sche*
+men gerne lesen van deme lydende
 
-*gerne lesen my groter Jnnicheit wol*
+xpi vn(de) dat schal eyn jewelik my(n)sche
 
-*dat eyn Jewelik mynsche alle dage*
+gerne lesen my groter Jnnicheit wol
 
-*schal gode danken v(m)me syn bittere*
+dat eyn Jewelik mynsche alle dage
 
-*lydent vn(de) dat gerne ouer denken*
+schal gode danken v(m)me syn bittere
 
-*schal vn(de) io besundergen des vridages*
+lydent vn(de) dat gerne ouer denken
 
-*also vaken also du de klocken horest*
+schal vn(de) io besundergen des vridages
 
-*slan du sist in kerken efte in dem ar-*
+also vaken also du de klocken horest
 
-*beide So schaltu spreken edder denken*
+slan du sist in kerken efte in dem ar-
 
+beide So schaltu spreken edder denken
+
+** Text
 [[O]] leue here ihu xpe in wat pyne we-
 
 restu in desser stunde {v}n(de) wor du ene
 
 vindest dar was he in groter droffe-
 
-nisse vn(de) pyne *To der midder nacht*
+nisse vn(de) pyne 
 
+** Rubric 
+To der midder nacht
+
+** Text
 [[S]]o denke wo dyn schepper wart ge-
 
 vangen vn(de) gebunden also swarliken
 
-—20r—
+---20r---
 
 dat dat blot vte synen hilgen nege-
 
@@ -54,9 +66,15 @@ nacht. vn(de) den morgen ouer {w}ente dat
 
 id dach wart. {v}n(de) do dat was to vyuen
 
-tijt *Wen de klocke viue sleit v(m)me de*
+tijt 
 
-*tijd So denke* {W}o dyn schepper vn(de) dyn
+** Rubric
+Wen de klocke viue sleit v(m)me de
+
+tijd So denke 
+
+** Text
+{W}o dyn schepper vn(de) dyn
 
 vorloser. wart gebracht vor pylatus
 
@@ -66,22 +84,30 @@ do vorsmade ene herodes vn(de) sande ene
 
 pilato wedder myt. eneme doren klede
 
-vn(de) myt sware(n) slegen *Wen de klocke*
+vn(de) myt sware(n) slegen 
 
-*sos sleit v(m)me de tijt so denke ofte sprekt*
+** Rubric
+Wen de klocke
 
+sos sleit v(m)me de tijt so denke ofte sprekt
+
+** Text
 [[O]] myn leue schepper nw wordestu so 
 
 swarliken vn(de) vnbarmhertichliken ge-
 
 geiselt. dat men dyne ribben in dyne-
 
-me hilgen licha(m)me sach *Wen de klocke*
+me hilgen licha(m)me sach 
 
-*souen sleit v(m)me de tijt so denke ofte sprek*
+** Rubric
+Wen de klocke
+
+souen sleit v(m)me de tijt so denke ofte sprek
 
 —20v—
 
+** Text
 [[O]] myn leue vorloser nw wordestu
 
 swarliken gekronet dat dyne oge(n)
@@ -92,8 +118,10 @@ blode vn(de) dat vnschuldige richte des
 
 bitteren dodes wart ouer dy gegeue(n)
 
-*Wen de klocke achte sleit So denke*
+** Rubric
+Wen de klocke achte sleit So denke
 
+** Text
 [[O]] leue here ihu xpe nw drogestu dat
 
 sware cruce suluen uppe dynen bene-
@@ -104,11 +132,17 @@ swaren slegen {V}n(de) denke vort der gro-
 
 ten droffenisse syner leuen moder de
 
-eme na volgede to deme dode *Wen*
+eme na volgede to deme dode
 
-*de kloke negen sleit v(m)me de tijt so den-*
+** Rubric
+Wen
 
-*ke ofte sprek* [[O]] myn leue schepper 
+de kloke negen sleit v(m)me de tijt so den-
+
+ke ofte sprek
+
+** Text
+[[O]] myn leue schepper 
 
 nw worden dy dyne cleyder vt geto-
 
@@ -126,11 +160,17 @@ dre stunden leuendich. {V}n(de) du han-
 
 gedest leue here in groter quale vn(de)
 
-pyne *Wen de klokke x sleyt v(m)me de*
+pyne 
+
+** Rubric
+Wen de klokke x sleyt v(m)me de
 
 —21r—
 
-*tijt So denke* [[O]] myn leue vorloser
+tijt So denke
+
+** Text
+[[O]] myn leue vorloser
 
 nw werestu noch nicht doet. {V}n(de) denke
 
@@ -144,19 +184,31 @@ ter vn(de) pyne trat vte dynen munden
 
 to syne(n) herten vn(de) syn doet vorlengede
 
-sik also in groter bitterheit *Wen de*
+sik also in groter bitterheit 
 
-*klocke eluen sleyt v(m)me de tijd So den-*
+** Rubric
+Wen de
 
-*ke* [[D]]at dyn schepper noch an deme 
+klocke eluen sleyt v(m)me de tijd So den-
+
+ke
+
+** Text
+[[D]]at dyn schepper noch an deme 
 
 cruce henk vn(de) dat eme wart etik vn(de)
 
 gallen geschenket vn(de) io neger deme
 
-dode io swarer pyne *Wen de klocke xij*
+dode io swarer pyne 
 
-*sleyt v(m)me de tijt so denke* [[D]]at he
+** Rubric
+Wen de klocke xij
+
+sleyt v(m)me de tijt so denke 
+
+** Text
+[[D]]at he
 
 syne moder sunte ioha(n)nes beuol vn(de)
 
