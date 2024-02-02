@@ -1,8 +1,16 @@
 #+TITLE: O Bone Jesu
-#+AUTHOR: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:3
+#+AUTHOR: 
+| Manuscript | GKS 3423 8vo |
+| Locus      | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:3][1r]]-2v        |
+| Language   | Low German   |
+
+** Parallels
+| Danish     |   |
+| Low German |   |
+| Latin      |   |
 
 * Text
-O du gude iesu o du mile
+O du gude iesu o du milde
 
 ihesu o du alder soteste
 
@@ -64,7 +72,7 @@ gheschape(n) hefft so lat my
 
 doch nycht vordomet mer
 
----2r---
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:4][2r]]---
 
 de(n) den du van nychte ghescha-
 
@@ -96,7 +104,7 @@ tycheit vn(de) vordome my nycht
 
 in der tyd dynes rychtes wat
 
----2v---
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:5][2v]]---
 
 nutticheit were dy van myne?
 
