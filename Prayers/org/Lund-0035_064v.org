@@ -1,5 +1,10 @@
-* 105
-** 105.
+#+TITLE: Prayers of Our Lady (MDB 105)
+| Manuscript | Mh 35 |
+| Locus | 64v-69v |
+| Language | Danish |
+
+* Transcription
+** Rubric
 Hære byriæs vor fruæ bonær
 
 --- 65r---
@@ -102,4 +107,23 @@ fonger vissæligh hielp aff iomfrw ma(ria) j
 
 alle thieres bøn
 
-** 105a
+** Text 105a
+[[M]]aria jech bedær
+
+thik och paa my(n)-
+
+ner frygdh och
+
+ouer flodughæ
+
+frygdh ære och
+
+værdugh(et) so(m) thin
+
+siæl och liiff vnt
+
+sik och anamaæde
+
+then tidh gudh fa-
+
+dhær och søn
