@@ -22,6 +22,6 @@
 | [[org/GKS08-3423_211r.org]]  | GKS 3423 8vo | 15 Pater Noster          | German         |          |     |
 | [[org/Hagen1930_077.org]]    | Hagen (1930) |                          | German         |          |     |
 | [[org/Lund-0035_064v.org]]   | Mh 35        |                          | Danish         |          | 105 |
-| [[org/UBB-C-496-019v.org]]   | UBB C 496    |                          | German         |          |     |
+| [[org/UBB-C-496-019v.org]]   | UBB C 496    | Prayers for every waking hour | German         |          |     |
 | [[org/UUB-C-496-136r.org]]   | UBB C 496    |                          | German         |          |     |
 |----------------------------------+--------------+--------------------------+----------------+----------+-----|
