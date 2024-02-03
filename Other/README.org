@@ -6,5 +6,5 @@
 | [[org/AM04-0622_4v.org]] | AM 622 4to | Latin and Low German prayer in Icelandic mansucript | Latin, Low German | x |
 | [[org/AM04-0622_5r.org]] | AM 622 4to | Danish Lutheran hymn in Icelandic manuscript | Danish | x |
 | [[org/AM08-0073_169r.org]] | AM 73 8vo | Owner's mark in rhyme | Danish | x |
-| [[org/UUB-H-0122_095r.org]] | Acrostic rhyme at end of Jyske Lov | Low German | x |
+| [[org/UUB-H-0122_095r.org]] | UUB H 122 | Acrostic rhyme at end of Jyske Lov | Low German | x |
 
