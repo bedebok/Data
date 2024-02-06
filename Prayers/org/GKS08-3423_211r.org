@@ -1,7 +1,17 @@
-* GKS 2423 8vo, 211r
+#+TITLE: XV Pater Noster
+| Manuscript | GKS 3423 8vo |
+| Locus      | 211r-        |
+| Language   | Low German   |
+
+** Parallels
+| Danish     | MDB 21         |
+| Low German | UUB C 496 (3r) |
+| Latin      |                |
+
+* Transcription
 ** Rubric
 hyr na volgen de xv p(ate)r n(oste)r
-** Text
+** Text 1
 [H]ere *[[y]]h(es)u (christ)y* du byst eyne ewy-
 
 ghe sotycheyt der de dy lef heb-
@@ -36,7 +46,7 @@ yk bydde du wes andechtych dat
 
 du de my(n)scheit an dy nemest
 
----211v---
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:424][211v]]---
 
 v(m)me des my(n)sche(n) wylle(n) vn(de) wo
 
@@ -74,7 +84,7 @@ ene dyn anstande lyde(n)t to vo-
 
 re(n) vppe dat se syk nycht alto
 
----212r---
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:425][212r]]---
 
 sere bedroue(n) scholde(n) [[D]]u troste-
 
@@ -112,5 +122,360 @@ vlot we(n)te an de erde(n) va(n) dyne(n)
 
 ege(n) ui(n)gere(n) wordestu vorrade(n)
 
----122v---
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:426][122v]]---
 
+[[D]]en ioden den du vele gudes
+
+bewyset haddest van en wor-
+
+destu vyentlyke(n) vn(de) vaste ghe-
+
+bu(n)den myt valsche(n) tughe(n) bystu
+
+an gheklaget [[V]]an dren rych-
+
+tere(n) bystu vnrechte vorrych-
+
+tet [[J]]n der stat ierusale(m) de de
+
+hyllych was ghehete(n) wordestu
+
+yn dem paske feste vnschuldy-
+
+chlyke(n) vorrade(n) vn(de) vordomet
+
+to deme dode yn der bloye(n)de(n) tyd
+
+dynes vu(n)lle(n)kame(n) wasdomes
+
+se toghe(n) vn(de) ropede(n) dyne har
+
+se spyede(n) yn dyn hylghe anghe-
+
+sychte [[D]]yn egen klet toghe(n) se
+
+vt vn(de) vromde kleder toghe
+
+se dy an se bespottede(n) dy se 
+
+vorbu(n)den dyne oge(n) vn(de) an-
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:427][213r]]---
+
+ghesychte se sloghe(n) dy an dynen
+
+hylghe(n) hals vn(de) wa(n)ghe(n) [[D]]u here
+
+wordest to der sule(n) ghebu(n)den
+
+vn(de) v(n)my(n)schlyke(n) ghegeyselet
+
+[[E]]yne dorne krone wart dy yn 
+
+dyn houet ghedrucket so vn-
+
+gnedyghe(n) dat dat blot dynes
+
+houedes auer dyn anghesych-
+
+te vlot [[O]] du sote ih(es)u gyf my
+
+v(m)me der ghedechtenysse dyner
+
+pyne vor myne(n) dode waraf-
+
+tyghe ruwe myner sunde lut-
+
+tere bycht vn(de) vullenkame(n) bo-
+
+te vn(de) vorlatynghe alle myner
+
+sunde vppe dat yk dyne(n) hylghe(n)
+
+lycha(m) mote entfanghe(n) to myner
+
+ewyghe(n) salycheyt [[O]] du alder
+
+guderterenste here yesu roes
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:428][213v]]---
+
+ghegrotet vn(de) vorbarme dy auer
+
+my sunder
+
+** Rubric
+Pater noster Aue
+
+** Text 2
+[[H]]ere *ih(es)u (christ)e* eyne waraf-
+
+tyghe vrygheyt alle der 
+
+engele eyn paradys aller iwl-
+
+lustycheyt [[D]]at ander pater
+
+n(oste)r hebbe yk ghesprake(n) leue
+
+here yn de ere vnde dechte-
+
+nysse der gruwelycheyt vn(de)
+
+der entfettynghe de du le-
+
+dest do alle dyne vyende v(m)me 
+
+dy her stu(n)de(n) also gry(m)myghe
+
+louwen vn(de) myt spye(n)de 
+
+myt sla(n)de vn(de) myt andere(n)
+
+vngheborde(n) pyne(n) dede(n) se 
+
+dy grote ghewalt [[D]]orch al-
+
+le dusse(n) harde(n) sleghe vnde
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:429][214r]]---
+
+me(n)nyger hande pyne dar dyne 
+
+vye(n)de dy mede bedrouede(n) so
+
+bydde yk dy leue here lose my
+
+va(n) alle myne(n) vyende(n) sychtlyk
+
+vn(de) vn(n)sychtlyk vn(de) dat yk my
+
+vnder de beschermy(n)ghe dyner 
+
+gotlyke(n) bewarynghe my ewy-
+
+ch mote vrowe(n) [[A]]me(n) |-p(ate)r n(oste)r aue-|
+
+** Rubric
+pater n(oste)r
+
+** Text 3
+[[H]]ere *yh(es)u (christ)e* schep-
+
+per der werlt den nema(n)t 
+
+vnder ene(n) waraftyghe(n) ende
+
+kan mete(n) de du myt dyner got-
+
+lyke(n) hant alle de werlt beslu-
+
+test [[D]]at drudde p(ate)r n(oste)r hebbe yk
+
+ghesprake(n) yn de ere vn(de) dech-
+
+tenysse des byttere(n) lydendes dat
+
+du haddest do dy dyne ghebene-
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:430][214v]]---
+
+dyeden hende erst myt den stu(m)-
+
+pen negelen worden vaste an
+
+dat cruuce ghenegelt vn(de) do dy-
+
+ne ghebenedyede(n) vote nycht
+
+bequeme were(n) also vort to ne-
+
+gelen na ereme bosen wylle(n) do
+
+leden se drofenysse vppe drofe-
+
+nyse vn(de) toge(n) dy myt harden
+
+repen vnbarmhertychlyke(n)
+
+vn(de) se reckeden dy yn de lenge
+
+vn(de) yn de brede des cruces so
+
+dat dar worden gheloset alle
+
+de vogynghe dyner hylghen
+
+lytmate [[Y]]k bydde dy dorch de
+
+dechtenysse dynes bytteren
+
+lydendes dattu haddest an de-
+
+me cruce gyf my myn leuent
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:431][215r]]---
+
+to endyghe(n) to dyner leuen vn(de) fru-
+
+chte(n) [[A]]men
+
+** Rubric
+Pater noster aue
+
+** Text 4
+[[H]]ere *yh(es)u (christ)e* he(m)melsche arste
+
+[[D]]at verde pater n(oste)r hebbe yk
+
+ghesprake(n) yn de ere vn(de) dechte-
+
+nysse dyner mystaldycheyt kra(n)k-
+
+heyt vn(de) der vnvtprekelyken
+
+bedrofenysse de an dy was do du 
+
+myt deme cruce wrodest vpghe-
+
+rychtet [[V]]a(n) welker hanteryn-
+
+ghe dyn hlghe lycham vn(de) dy-
+
+ne vu(n)de(n) worden to schoret vn(de)
+
+to reten also dat nen van dy-
+
+ne(n) ledemate(n) yn syner rech-
+
+te(n) schykkynghe blef [[V]]n(de) ok so
+
+dat nene drofenysse wert ghe-
+
+vu(n)den lyk dyner [[W]]e(n)te van
+
+den versen dyner vote we(n)te
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:432][215v]]---
+
+an de schetelen dynes houedes
+
+blef nycht heles [[V]]n(de) du doch
+
+vt groter leue vorgetest aller
+
+bedrofenysse vn(de) bedest myl-
+
+dychlyke(n) dyne(n) he(m)melschen va-
+
+der vor dyne vyende de dy py-
+
+negede(n) vn(de) sprekest vader
+
+vorgyf en we(n)te se wete(n) nyc-
+
+ht was se don [[V]]mme desser
+
+ghedechtenysse vn(de) barmher-
+
+tychlyken leue so bydde yk dy
+
+leue here gyf my dat desse
+
+dechtenysse dynes lydendes
+
+sy eyne vorlatynghe alle my-
+
+ner sunde [[A]]men 
+
+** Rubric 
+p(ate)r n(oste)r
+
+** Text 5
+[[H]]ere *yh(es)u (christ)e* du gotlyke 
+
+spegel der ewyghe(n) klar-
+
+heyt dat vofte pater n(oste)r heb-
+
+--- [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:433][216r]]---
+
+be yk ghespraken yn de ere der
+
+dechtenysse dattu vt gotlyker
+
+ghewalt bekandest den stat
+
+dyner vtuorkare(n) dede scholden
+
+salych werde(n) dorch dat vordenst
+
+dynes hylghe(n) lydendes vn(de) alsus
+
+beschowedest du ok de vorlust
+
+vn(de) velheyt der vordomede(n) vn(de)
+
+vth der dupe dyner barmherty-
+
+cheyt hefstu dy yn wendyghen
+
+bedrouet desser myscrostyghen
+
+vordomeden vn(de) du hefst dy yn
+
+medelydynghe entsettet vor ere
+
+vnsalycheyt we(n)te dyn sware 
+
+durbar lydent en nycht to hul-
+
+pe kamen mach [[D]]esse drofe-
+
+nysse wasdy ok eyne grote yn-
+
+wendyghe pyne du bewyse
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:434][216v]]---
+
+dest ok de auervlodyghe(n) barm-
+
+herticheyt dem rouer an dem
+
+cruce vn(de) sprekest to em [[H]]ute(n)
+
+schaltu myt my wesen yn de-
+
+me paradyse [[J]]k bydde dy myl-
+
+de yh(es)u bewys my dyne barm-
+
+herticheyt vn(de) spryk to my 
+
+dat sulue wort yn der stu(n)de 
+
+mynes dodes dat du dem ro-
+
+uer so leflyke(n) to sprekest [[A]]me(n)
+
+[[A]]men
+
+** Rubric
+pater noster Aue
+
+** Text 6
+[[H]]ere *yh(es)u (christ)e* leflyke ko-
+
+ny(n)k vn(de) gans begerych
+
+[[D]]at soste pater n(oste)r hebbe yk
+
+ghespraken yn de ere vnde
+
+dechtenysse dyner nakeden
+
+blotheyt vn(de) des armelyken
+
+hange(n)des an deme cruce vn(de) 
+
+---[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:435][217r]]---
