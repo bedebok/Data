@@ -1,6 +1,8 @@
 #+Title: GKS 3423 8vo
 
-En catholsk Bønnebog, med Calender
+A Low German girdle book from the fifteenth century, possibly written in Denmark. In the Hours of the Virgin, a later hand (a protestant?) has deleted much text, including references to Mary.
+
+[[./imgs/GKS08-3423.jpg]]
 
 * PhysDesc
 |--------------+--------------|
@@ -36,8 +38,8 @@ En catholsk Bønnebog, med Calender
 
 * Contents
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
-| start | end  | text type | text                    | incipit              | explicit             | language | status | MDB | Notes                                                                             |
 |       |      |           |                         | <20>                 | <20>                 |          |        |     |                                                                                   |
+| start | End  | text type | text                    | incipit              | explicit             | language | status | MDB | Notes                                                                             |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
 | 1r    | 2v   | [[File:../../Prayers/org/GKS08-3423_001r.org][prayer]]    | O_BONE_JESU             |                      |                      | lg       |        |     | Hand1                                                                             |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
@@ -100,3 +102,5 @@ En catholsk Bønnebog, med Calender
 | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:423][211r]]  | 224r |           | 15_PATER_NOSTER         | Hijr na volgen de xv pr nr |                      |          |        |     | Hand3                                                                             |
 | 224v  | 227r |           | prayers to Christ       |                      |                      |          |        |     |                                                                                   |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
+* Bibliography
+- Images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da 
