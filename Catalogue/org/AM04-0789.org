@@ -26,7 +26,8 @@ A fragmentary manuscript of only ten leaves, of which the final is in the wrong 
 |---------|---------+--------------+-----------------------------------------------------------|
 | Quire   |  Leaves | Structure    | Changes                                                   |
 |---------+---------+--------------+-----------------------------------------------------------|
-|         |         |              |                                                           |
+|  I      | 1-8     |  quaternion  |   originally a quinternion with the following bifolium    |
+| Ia      | 9-10    | bifolium     | originally the first and final leaves of a quinternion    |
 |---------|---------+--------------+-----------------------------------------------------------|
 
 * History
