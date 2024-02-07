@@ -1,9 +1,14 @@
 #+TITLE: Seven Penitential Psalms
-** AM08-073_013r 
-AM 73 8vo, f. 13r-
-*** Parallel texts
-Latin text with English translation: http://medievalist.net/hourstxt/penpss.htm
-*** TOC
+| Manuscript | AM 73 8vo |
+| Locus | f. 13r- |
+| Language | Low German |
+
+** Parallels
+| Danish | |
+| Low German | GKS 3423 f. 79r |
+| Latin | http://medievalist.net/hourstxt/penpss.htm (with English translation |
+
+** TOC
 [[PSALM_6][Psalm 6: Domine ne in furore tuo arguas me.]]
 
 [[PSALM_31][Psalm 31: Beati quorum remissae sunt iniquitates.]]
@@ -18,10 +23,13 @@ Latin text with English translation: http://medievalist.net/hourstxt/penpss.htm
 
 [[PSALM_142][Psalm 142 (143): Domine, exaudi orationem meam: auribus percipe obsecrationem meam in veritate tua.]]
 
-*** Text
-*Hir begynne(n) soue(n) salme(n)*
+* Transcription
+** Rubric
+Hir begynne(n) soue(n) salme(n)
 
-[[D]] _Omine ne in furo(r)e_ <<PSALM_6>>
+** Text 1 <<PSALM_6>>
+
+[[D]] _Omine ne in furo(r)e_ 
 
 _tuo arugas me: ne-_
 
@@ -49,7 +57,7 @@ zele vnde make my salich dor
 
 dine barmherticheit [[W]]ente
 
---- <<13v>> ---
+---13v---
 
 nement de is in deme dode: de
 
@@ -91,8 +99,12 @@ lichlik [[E]]re sy deme uadere
 
 vnde deme sone: vnde deme 
 
-hilgen geyste. Amen. *P(salmu)s* <<PSALM_31>>
+hilgen geyste. Amen. 
 
+** Rubric
+P(salmu)s
+
+** Text 2 <<PSALM_31>>
 [[B]] _eati quo(rum) remisse sunt_
 
 _iniq(ui)tates_: [[S]]alich sint
