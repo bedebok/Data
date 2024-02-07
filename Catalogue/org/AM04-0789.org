@@ -2,7 +2,7 @@
 
 A fragmentary manuscript of only ten leaves, of which the final is in the wrong position and should in fact be the first. Many of the enlarged initials, which were probably gold leaf, have been cut out, leaving lacunæ on the reverse.
 
-[[../../imgs/AM04-0789.jpg]]
+[[../imgs/AM04-0789.jpg]]
 
 * PhysDesc
 |--------------+-------------|
