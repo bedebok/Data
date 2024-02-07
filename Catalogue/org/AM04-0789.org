@@ -1,6 +1,8 @@
 #+TITLE: AM 789 4to
 
-https://handrit.is/manuscript/view/da/AM04-0789
+A fragmentary manuscript of only ten leaves, of which the final is in the wrong position and should in fact be the first. Many of the enlarged initials, which were probably gold leaf, have been cut out, leaving lacunæ on the reverse.
+
+[[../../imgs/AM04-0789.jpg]]
 
 * PhysDesc
 |--------------+-------------|
@@ -96,3 +98,5 @@ https://handrit.is/manuscript/view/da/AM04-0789
 | 10v   | 10v    |  PRAYER          |  15_PATER_NOSTER              | 21j   |                                                        |          |          |        |
 | 10v   | 10v    | PRAYER           | 15_PATER_NOSTER               | 21k   |                                                        |          |          |        |
 
+* Bibliography
+- Handrit :: https://handrit.is/manuscript/view/da/AM04-0789 
