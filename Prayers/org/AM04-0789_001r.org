@@ -1,6 +1,6 @@
 #+TITLE: 15 Pater Noster
 | Manuscript | AM 789 4to     |
-| Locus      | 10r-10v, 1r-1v |
+| Locus      | 10r-10v, 1r-2v |
 | Language   | Danish         |
  - NB :: Out of order in Manuscript
 
@@ -173,4 +173,148 @@ meth myne fødder søndet modh tik ame(n)
 
 alle thine saar ther thu haffde poo
 
-tith helge lego(m)me i thin pyne
+tith helge lego(m)me i thin pyne [[J]]ech
+
+beder tich for tine dyr(e) saar ath thu frælsse
+
+---[[https://handrit.is/manuscript/view/da/AM04-0789/2?iabr=on#page/1v/mode/1up][1v]]---
+
+mich aff alle the saar iech hawer till my søn-
+
+duge siel Amen
+
+** Text (??)
+[[O]] [[S]]øde [[J]]h(es)u (christe) iech beder tigh for thesse
+
+bøner dygth(e)r schyll giff mich først
+
+[[R]]ygelsse och hiærthens sorg for alle
+
+myne sønder iech hawer modh tig søndet fra(m)
+
+myn barndom ock størck mich i got leffnede
+
+efft(e)r thin willie [[O]]c giff myne ve(n)ner oc fræ(n)-
+
+der frælsse aff skerselds pine the th(e)r wdi
+
+stedde ær(e) [[O]]ch the som i sønd ære at the skul-
+
+le omwændes och størck th(e)m i godh stadughet
+
+ther gode ær(e) Och giff my siel this helge lego(m)-
+
+me til størcke oc til andelig føde oc thith helge
+
+blod til rænselsse aff dødelig sonder oc thit
+
+helge kors till wærnelsse for alle my(ne) uwe(n)-
+
+ner [[O]]c werduge tigh till at ko(m)me m(et) thin
+
+ker(e) moder maria J myn døtz thime oc tage
+
+my siel oc lede he(n)ne til thet ewerdelig liff
+
+och giff he(n)ne een særlig drick aff thin gud-
+
+[[d]]oms kalk som thu hawer loffuet th(e)m ther
+
+thesse bøner fulko(m)me gudelig *[[A]]me(n)*
+
+** Rubric
+[[T]]het war een hethe(r)lig qwi(n)ne och mærcke-
+
+lig hwn atstwndethe at wide taal aff
+
+gudz saar Och hwn bat gud ther om
+
+at han schulle he(n)ne thet thee Gudh thedes for he(nne)
+
+oc sagde Myne legoms saar the ware fæmtwsin
+
+---[[https://handrit.is/manuscript/view/da/AM04-0789/3?iabr=on#page/2r/mode/1up][2r]]---
+
+och fir(e) hundret och sextiwge Om thu wilt th(e)m
+
+hedhre tha schalt thu hwær dag læse xv p(ate)r n(oste)r
+
+oc xv Aue maria Tha areth ær omgangith
+
+tha hawer thu hedreth hwart thet saar aa mit
+
+legome war Hwilken thesse for(skreffne) bøner læs eth
+
+aar om kringh hwær dag Aff hans slecth schal
+
+frælses xv siele aff skiærsoldz pyne. oc xv søndu-
+
+ghe me(n)niske schal omwendes. oc xv vise stad-
+
+fæst(es) i gode giærni(n)ge oc stadugheit. oc selffuer
+
+faar han fulko(m)melsse i dyght oc weth(e)rkie(n)nelsse
+
+J hiærttet aff alle syne sønder Siden sagde gud
+
+till he(n)ne hwo som thesse bøn[er ...]
+
+ligh Jech schal hanu(m) giffue [...]
+
+xv dage før han dør at han [...]
+
+ewrdelig hwnger. oc aff m[...]
+
+schal iech hanu(m) dricke giffu[e ...]
+
+thørste ewinnelig. oc korssen [...]
+
+for hanu(m) sætte till wærn for [...]
+
+hans død schal iech ko(m)me m[...]
+
+oc tage hans siel oc lede he(n)ne til then ewerde-
+
+lig glede. oc tha hwn ær tidh ledh tha wil iech
+
+skiæncke he(n)ne een særlig drick aff myn guddoms
+
+kielde Siden schalt thu thet wide om nog(er) hafde
+
+war(e)t stad i dødelig sønder thretwge aar och
+
+wilde han læse thesse bøner tha wil iech hanu(m)
+
+alle syne sønder forlade ther han haffde giort
+
+aff sin barndom oc til th(en)n(e) thime han th(e)m
+
+læs oc siden [scal han] war(e) bedre m(et) nade een
+
+førr(e). Oc huat han bedes aff mich ell(e)r aff my(n)
+
+moder maria th(et) schal ha(num) wides. oc siden.
+
+schal iech lade ha(num) fulko(m)me i gudeligt leffnede
+
+---[[https://handrit.is/manuscript/view/da/AM04-0789/4?iabr=on#page/2v/mode/1up][2v]]---
+
+och stadfæste hans hiærtte i gode giærni(n)ge som ha(n)
+
+haffde alle hans dage effter myn willie giort oc
+
+leffnet Oc wilde iech hans liff længe om han J
+
+morgen schulle døø Swo offte som thesse bøne siges
+
+tha giffs fyr(e)tiwge dage afflat. oc hwo som thesse
+
+bøner kie(n)ner noge(r) an(n)en hans glede oc hans
+
+løøn schal øghes i hwær stadh Oc naar thesse bøne
+
+læses tha er gudh nærwær(e)nd(is) oc gøm(m)er hanu(m)
+
+fram alt ilt swo som han frælste s(an)c(t)e pouel aff
+
+haffzens wode Amen
