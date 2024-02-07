@@ -1,12 +1,26 @@
-* AM 784 4to, 92r
-** Notes
-[[https://www.liturgialatina.org/raccolta/mary.htm#89][Raccolta nr. 89]]
-** Text
+#+TITLE: A prayer to Mary and Anna
+| Manuscript | AM 784 4to ]
+| Locus | 92r |
+| Language | Danish |
+
+** Parallels
+| Danish | |
+| Low German | |
+| Latin | [[https://www.liturgialatina.org/raccolta/mary.htm#89][Raccolta nr. 89]] |
+
+** Transcription
 [[H]]Ell maria fwld met naade herren
+
 er met teg tyn nade wæræ met
+
 meg Tw esth benedidiæ offh(e)r alle
+
 qwinde benedidiæ wære tyn modher
+
 ffrwæ s(anc)ta a(n)næ som oprand iomff(rv) ma-
+
 ria for_wdh(e)n smitthæ oc for_wdh(e)n
+
 synd oc sydh(e)n off teg iomffrw maria
+
 er fød i(hesus) (christus) leffwind(is) gwdz søn Amen
