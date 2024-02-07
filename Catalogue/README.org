@@ -8,7 +8,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 |-------------+-------------------------------------------+-----------------------+-----------|
 | [[file:org/AM04-0782.org][AM 782 4to]]  | A Danish Nun's Prayer Book                | Danish                | 1500-1525 |
 | [[file:org/AM04-0784.org][AM 784 4to]]  | Prayer Book                               | Danish, Latin         |      1523 |
-| [[file:org/AM04-0789.org][AM 789 4to]]  | An Old Danish prayerbook                  | Danish, German        | 1400-1499 |
+| [[file:org/AM04-0789.org][AM 789 4to]]  | Fragment of an old Danish prayerbook                  | Danish, German        | 1400-1499 |
 | [[file:org/AM04-0790.org][AM 790 4to]]  | An Old Danish prayerbook                  | Danish                | 1500-1525 |
 | [[file:org/AM08-0070.org][AM 70 8vo]]   | Cantus Sororum                            | German, Danish, Latin | 1400-1499 |
 | [[file:org/AM08-0072.org][AM 72 8vo]]   | A prayer book                             | Danish, Latin         | 1400-1499 |
