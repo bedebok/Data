@@ -101,6 +101,10 @@ A Low German girdle book from the fifteenth century, possibly written in Denmark
 | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:409][204r]]  | 210v |           | prayers                 |                      |                      |          |        |     | Hand2, new CU                                                                     |
 | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:423][211r]]  | 224r |           | [[../../Prayers/org/GKS08-3423_211r.org][15_PATER_NOSTER]]  | Hijr na volgen de xv pr nr |                      |          |        |     | Hand3                                                                             |
 | 224v  | 227r |           | prayers to Christ       |                      |                      |          |        |     |                                                                                   |
+| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:450][224v]] | 224v rubric | | We(n) eyn my(n)sche des auendes bede(n) wyl so schal he spreke(n( aldus |
+| 224v | 226v | prayer | evening prayer | [[I]]k bydde dy my(n) leue here | to ewyghe(n) tyden [[A]]men |
+| 226v | 227v | prayer | seventeen? | [[I]]k bydde dy leue here dat du yn deme vure | vtuorkare(n) vru(n)den [[A]]men |
+| 227v | 227v | prayer | (defect) | [[I]]k bydde dy leue here yh(es)u | |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
 * Bibliography
 - Images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da 
