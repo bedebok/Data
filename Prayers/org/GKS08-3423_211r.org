@@ -1,6 +1,6 @@
 #+TITLE: XV Pater Noster
 | Manuscript | GKS 3423 8vo |
-| Locus      | 211r-        |
+| Locus      | 211r-[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:449][224r]] |
 | Language   | Low German   |
 
 ** Parallels
