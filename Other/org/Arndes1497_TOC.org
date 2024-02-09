@@ -1,186 +1,179 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2759
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+#+TITLE: Contents of Seven tyde unser lieven vrouwen (Arndes 1497)
 
-\f0\fs24 \cf0 #+TITLE: Contents of Seven tyde unser lieven vrouwen (Arndes 1497)\
-\
-* Transcription\
-** Rubric\
-Dat register desse bokes.\
-\
-** Text\
-\'a7 Jnt erste. eyne schone \
-\
-seghenynge des morge(n)s \
-\
-to leze(n)de mit de(n) (versiculus) vn(de) col(lecta)\
-\
-\'a7 Een seer ghut ghebet\
-\
-va(n) vnser leue(n) vrouwen\
-\
-in der sonne(n). Dar grot af\
-\
-lath to gheuen is. \'a7 De\
-\
-soue(n) dagetyde der iu(n)c-\
-\
-\'97\
-\
-frouwe(n) marie(n). \'a7 Alma\
-\
-rede(m)toris to d\'fcde \'a7 Sal-\
-\
-ue regina to d\'fcde \'a7 Re-\
-\
-cordare tho d\'fcde. \'a7 De\
-\
-soue(n) psalmen \'a7 De xv.\
-\
-Pater noster \'a7 De(n) gul.\
-\
-de(n) rosenkra(n)tz. \'a7 De viij.\
-\
-krefftighe versche. de de \
-\
-duuel sunte bernde nicht \
-\
-gerne ape(n)barde. mit kor-\
-\
-ter glosen vn(de) v(er)s(cul)i vn(de) col(lecta)\
-\
-\'a7 De vij bede van sunte\
-\
-gregorius ape(n)baringe.\
-\
-\'a7 Va(n) der hylge(n) dreuol-\
-\
-dicheit \'a7 Va(n) vnseme le-\
-\
-\'97\
-uen here(n) ih(es)u (christ)o \'a7 Va(n)\
-\
-vnser leue(n) vrowe(n) \'a7 Va(n) \
-\
-allen hyllighe(n) enghelen\
-\
-\'a7 Va(n) dyne(n) eghe(n) engel.\
-\
-\'a7 Va(n) sunte Johannes \
-\
-baptiste \'a7 Va(n) sunte Pe-\
-\
-ter vn(de) Pawel. vn(de) vorta(n)\
-\
-va(n) alle xij apostelen een \
-\
-sunderlich bet \'a7 Va(n) sun-\
-\
-te Steffen erste merteler\
-\
-\'a7 Va(n) sunte Anthonio.\
-\
-\'a7 Va(n) su(n)te Sebastiano.\
-\
-\'a7 Va(n) su(n)te Jurge(n) \'a7 Va(n)\
-\
-sunte Erasmo \'a7 Va(n) su(n)-\
-\
-te Cristofero \'a7 Va(n) den \
-\
-\'97-\
-\
-teyen dusent ridderen.\
-\
-\'a7 Va(n) sunte Laurencio\
-\
-\'a7 Van den xv. truwen\
-\
-nothelpers. \'a7 Jnt ghe-\
-\
-mene va(n) eyne(n) yuwelike(n)\
-\
-merteler wor va(n) du wult\
-\
-\'a7 Va(n) sunte Jheronimo\
-\
-\'a7 Va(n) su(n)te Bonaue(n)tura\
-\
-\'a7 Jnt ghemene va(n) eme(n)\
-\
-yuwelyken bychigher.\
-\
-\'a7 Van sunte Annen\
-\
-\'a7 Van sunte Elizabeth\
-\
-\'a7 Va(n) sunte Katherine(n).\
-\
-\'a7 Van sunte Barbare(n)\
-\
-\'a7 Va(n) sunte Margarete(n)\
-\
-\'97\
-\
-\'a7 Va(n) sunte Dorotheen\
-\
-\'a7 Van sunte Gertrud.\
-\
-\'a7 Va(n) sunte Appolonien\
-\
-\'a7 Va(n) su(n)te Marie(n) mag-\
-\
-dalene(n) \'a7 Va(n) sunte Ag-\
-\
-nete(n) \'a7 Va(n) sunte agathe(n)\
-\
-\'a7 Va(n) de(n) xi dusent yunc-\
-\
-frouwe(n) \'a7 Jnt ghemene\
-\
-van eyner yu(n)cfrouwen\
-\
-wor va(n) du wult. \'a7 Va(n)\
-\
-alle gades hillige(n). \'a7 Va(n)\
-\
-alle criste(n) zele(n) \'a7 Van de-\
-\
-me pasche daghe. \'a7 Een\
-\
-bed dat me(n) lest vnder de- \
-\
-\'97\
-\
-me stylnisse \'a7 Vele scho-\
-\
-noer bede we(n) du dat hyl-\
-\
-lighe sacreame(n)te entfan-\
-\
-ghest. Vn(de) we(n) du dat ent-\
-\
-fanghe(n) hefst \'a7 Van den\
-\
-hyllighe(n) dren ko(n)nynge(n).\
-\
-\'a7 Va(n) dem(e) antlathe vn-\
-\
-ses leue(n) here(n). \'a7 Va(n) den\
-\
-hyllighen vyf wunden.\
-\
-\'a7 Een seer ynnych bed\
-\
-van groteme vordenste.\
-\
-va(n) deme soete(n) name(n) ih(es)u\
-\
-\'a7 Een bed vor de pestile(n)-\
-\
-cie. \'a7 De vyllige de me(n)\
-\
-lyst vor de doden.}
+* Transcription
+** Rubric
+Dat register desse bokes.
+
+** Text
+§ Jnt erste. eyne schone 
+
+seghenynge des morge(n)s 
+
+to leze(n)de mit de(n) (versiculus) vn(de) col(lecta)
+
+§ Een seer ghut ghebet
+
+va(n) vnser leue(n) vrouwen
+
+in der sonne(n). Dar grot af
+
+lath to gheuen is. § De
+
+soue(n) dagetyde der iu(n)c-
+
+—
+
+frouwe(n) marie(n). § Alma
+
+rede(m)toris to düde § Sal-
+
+ue regina to düde § Re-
+
+cordare tho düde. § De
+
+soue(n) psalmen § De xv.
+
+Pater noster § De(n) gul.
+
+de(n) rosenkra(n)tz. § De viij.
+
+krefftighe versche. de de 
+
+duuel sunte bernde nicht 
+
+gerne ape(n)barde. mit kor-
+
+ter glosen vn(de) v(er)s(cul)i vn(de) col(lecta)
+
+§ De vij bede van sunte
+
+gregorius ape(n)baringe.
+
+§ Va(n) der hylge(n) dreuol-
+
+dicheit § Va(n) vnseme le-
+
+—
+uen here(n) ih(es)u (christ)o § Va(n)
+
+vnser leue(n) vrowe(n) § Va(n) 
+
+allen hyllighe(n) enghelen
+
+§ Va(n) dyne(n) eghe(n) engel.
+
+§ Va(n) sunte Johannes 
+
+baptiste § Va(n) sunte Pe-
+
+ter vn(de) Pawel. vn(de) vorta(n)
+
+va(n) alle xij apostelen een 
+
+sunderlich bet § Va(n) sun-
+
+te Steffen erste merteler
+
+§ Va(n) sunte Anthonio.
+
+§ Va(n) su(n)te Sebastiano.
+
+§ Va(n) su(n)te Jurge(n) § Va(n)
+
+sunte Erasmo § Va(n) su(n)-
+
+te Cristofero § Va(n) den 
+
+—-
+
+teyen dusent ridderen.
+
+§ Va(n) sunte Laurencio
+
+§ Van den xv. truwen
+
+nothelpers. § Jnt ghe-
+
+mene va(n) eyne(n) yuwelike(n)
+
+merteler wor va(n) du wult
+
+§ Va(n) sunte Jheronimo
+
+§ Va(n) su(n)te Bonaue(n)tura
+
+§ Jnt ghemene va(n) eme(n)
+
+yuwelyken bychigher.
+
+§ Van sunte Annen
+
+§ Van sunte Elizabeth
+
+§ Va(n) sunte Katherine(n).
+
+§ Van sunte Barbare(n)
+
+§ Va(n) sunte Margarete(n)
+
+—
+
+§ Va(n) sunte Dorotheen
+
+§ Van sunte Gertrud.
+
+§ Va(n) sunte Appolonien
+
+§ Va(n) su(n)te Marie(n) mag-
+
+dalene(n) § Va(n) sunte Ag-
+
+nete(n) § Va(n) sunte agathe(n)
+
+§ Va(n) de(n) xi dusent yunc-
+
+frouwe(n) § Jnt ghemene
+
+van eyner yu(n)cfrouwen
+
+wor va(n) du wult. § Va(n)
+
+alle gades hillige(n). § Va(n)
+
+alle criste(n) zele(n) § Van de-
+
+me pasche daghe. § Een
+
+bed dat me(n) lest vnder de- 
+
+—
+
+me stylnisse § Vele scho-
+
+noer bede we(n) du dat hyl-
+
+lighe sacreame(n)te entfan-
+
+ghest. Vn(de) we(n) du dat ent-
+
+fanghe(n) hefst § Van den
+
+hyllighe(n) dren ko(n)nynge(n).
+
+§ Va(n) dem(e) antlathe vn-
+
+ses leue(n) here(n). § Va(n) den
+
+hyllighen vyf wunden.
+
+§ Een seer ynnych bed
+
+van groteme vordenste.
+
+va(n) deme soete(n) name(n) ih(es)u
+
+§ Een bed vor de pestile(n)-
+
+cie. § De vyllige de me(n)
+
+lyst vor de doden.
