@@ -1,27 +1,43 @@
 #+TITLE: Prayer
 | Manuscript | GKS 3423 8vo |
-| Locus      | 20r-         |
+| Locus      | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:41][20r]]          |
 | Language   | Low German   |
 
 ** Parallels
 
 ** Keywords
 | Pope | Sixtus |
+| Indulgences | 11000 years |
+
+** Bibliography
+- Transcription :: Oosterman 2016: 94
 
 * Transcription
 ** Rubric
 Sixtus de pawes gift al den gen-
+
 nen de dit bet lesen vor der figuro(m)
+
 des namen ih(esu)s in der summe(n) xi m
+
 iar aflates
 
 ** Text
 Wes gegrotet O gude ih(es)u.
+
 eyn vorwy(n)ner des dodes. ey(n)
+
 mylde gheuer der gnaden:
+
 ey(n) troster aller bedroueden
+
 herten. Ghewerdighe dy my
+
 to trostende nach dineme al-
+
 derleuesten willen Amen
+
+** Rubric
 Hyr na ey(n) pater n(oste)r to lesende
-voert delastich iiij(e) missen
+
+wert delaftich iiij(e) missen
