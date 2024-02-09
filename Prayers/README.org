@@ -20,7 +20,7 @@
 | [[org/AM12-0412_030r.org]]   | AM 412 12mo  | Stabat Mater                  | Danish   |          |     |
 | [[org/GKS08-3423_001r.org]]  | GKS 3423 8vo | O Bone Jesu                   | German   | Transcribed         |     |
 | [[org/GKS08-3423_20r.org]]   | GKS 3423 8vo |                               | German   |          |     |
-| [[org/GKS08-3423_211r.org]]  | GKS 3423 8vo | 15 Pater Noster               | German   | 2/3 transcribed         |     |
+| [[org/GKS08-3423_211r.org]]  | GKS 3423 8vo | 15 Pater Noster               | German   | Transcribed         |     |
 | [[org/Hagen1930_077.org]]    | Hagen (1930) |                               | German   | Transcribed         |     |
 | [[org/Lund-0035_064v.org]]   | Mh 35        |                               | Danish   | Transcription begun         | 105 |
 | [[org/UBB-C-496-019v.org]]   | UBB C 496    | Prayers for every waking hour | German   | Transcribed          |     |
