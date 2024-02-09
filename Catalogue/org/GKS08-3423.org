@@ -1,6 +1,6 @@
 #+Title: GKS 3423 8vo
 
-A Low German girdle book from the fifteenth century, possibly written in Denmark. In the Hours of the Virgin, a later hand (a protestant?) has deleted much text, including references to Mary.
+A Low German girdle book from the fifteenth century, possibly written in Denmark as St. Anne is placed in the calendar. In the Hours of the Virgin, a later hand (a protestant?) has deleted much text, including references to Mary.
 
 [[../imgs/GKS08-3423.jpg]]
 
@@ -109,3 +109,6 @@ A Low German girdle book from the fifteenth century, possibly written in Denmark
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
 * Bibliography
 - Images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da 
+- Oosterman 2016 :: 92-94
+- Bruckner 1995 :: 
+- Borchling 1900 :: 35-37
