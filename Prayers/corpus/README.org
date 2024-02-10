@@ -1,11 +1,8 @@
 #+TITLE: Corpus of Hours and Prayers
 
-* Hours and Divine Offices
-** Hours of the Virgin
-** Hours of the Cross
-** Hours of the Holy Spirit
-** Office of the Dead
-** Seven Penitential Psalms
-** Hours of St. Anne
-
-* Individual Prayers
+|-
+| Title (English) | Title (Latin) | Code |
+|-
+| Hours of the Virgin | Horae Beatae Mariae Virginis | HOURS_VIRGIN |
+| Hours of the Cross  | Officium Sanctae Crucis | HOURS_CROSS |
+|-
