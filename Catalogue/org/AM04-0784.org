@@ -1,8 +1,5 @@
 #+Title: AM 784 4to
 
-https://handrit.is/manuscript/view/da/AM04-0784
-https://github.com/bedebok/Research/blob/00ea7a5a8d0b420ba7a68b75f2a92ddf29dd1c99/MS/MDB/AM04-0784.csv
-
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | Perg        |
@@ -30,10 +27,12 @@ https://github.com/bedebok/Research/blob/00ea7a5a8d0b420ba7a68b75f2a92ddf29dd1c9
 
 * History
 |------------+---------------|
-| PLACE      | #DK           |
+| PLACE      | Faaborg #DK   |
 | DATE       | 1523          |
 | PROVENANCE | Rostgård 353  |
 |------------+---------------|
+
+A large part of the manuscript was written by Johannes Johannessen, an underteacher in Faaborg (colophon ff. 338r-v) in 1523. This dating has since been misinterpreted as the founding year of the Latin school in Faaborg (Jørgensen 209 fn. 2; Danmarks Kirker "Helligåndskirken Faaborg" pg. 619) though at best must bu the school's /terminus ante quem/. According to Resen's Atlas (1672) the school building was on the same grounds as the Church of the Holy Spirit (Helligåndskirken), which also hosted a monastery of the Order of the Holy Spirit (Helligåndskloster) from 1477-1530 (though munks lived there until 1540).
 
 * Contents
 |-------+------+----------------+-----------------+-----+--------------------------------+-----------------------------+----------+--------|
@@ -223,3 +222,5 @@ https://github.com/bedebok/Research/blob/00ea7a5a8d0b420ba7a68b75f2a92ddf29dd1c9
 | 346v  | 1160 |                |                 |     |                                |                             |          |        |
 | 346v  | 1161 |                |                 |     |                                |                             |          |        |
 
+* Bibliography
+- Handrit :: https://handrit.is/manuscript/view/da/AM04-0784
