@@ -16,12 +16,14 @@ The Hours of the Virgin follow the eight canonical hours. Every hour opens with 
 
 ** Matins
 - Psalm 95 [Vulgate 94] Venite exultemus :: Come let us sing to the Lord
-- Antiphony :: Blessed art thou
 - Psalm 8 Domine Dominus noster :: Oh Lord, our Lor, how marvelous is thy name
-- Antiphony :: Blessed art thou
-- Antiphony :: Even as elected
 - Psalm 19 [Vulgate 18] Cœli :: The heavens declare the glory of God
-- Antiphony :: As an elected myrrh
-- Antiphony :: Sing ...
 - Psalm 24 [Vulgate 23] Domini est terra :: The earth is the Lord's and everything in it
+*** Lesson 1
+- Ecclesiasticus (Sirach) 24:7-9 :: In all things I sought rest
+*** Lesson 2
+- Ecclesiasticus (Sirach) 24:10-12 :: And so in Zion I was established
+*** Lesson 3 
+- Ecclesiasticus (Sirach) 24:13-15 :: I am exalted as a cedar in Lebanon
+*** Te deum
 
