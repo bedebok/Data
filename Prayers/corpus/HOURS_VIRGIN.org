@@ -1,0 +1,27 @@
+#+TITLE: Hours of the Virgin (Horae Beatae Mariae Virginis)
+
+The Hours of the Virgin are undoubtedly the most important liturgy for lay devotion. 
+
+* Examples in the corpus
+
+* Structure of the text
+The Hours of the Virgin follow the eight canonical hours. Every hour opens with the ()
+
+- V :: Lord open my lips;
+- R :: and my mouth shall declare thy praise.
+- V :: Oh God, come to my assistance;
+- R :: Oh Lord, make haste to help me.
+- Gloria patri ...
+- Invitation :: In the honor ...
+
+** Matins
+- Psalm 95 [Vulgate 94] Venite exultemus :: Come let us sing to the Lord
+- Antiphony :: Blessed art thou
+- Psalm 8 Domine Dominus noster :: Oh Lord, our Lor, how marvelous is thy name
+- Antiphony :: Blessed art thou
+- Antiphony :: Even as elected
+- Psalm 19 [Vulgate 18] Cœli :: The heavens declare the glory of God
+- Antiphony :: As an elected myrrh
+- Antiphony :: Sing ...
+- Psalm 24 [Vulgate 23] Domini est terra :: The earth is the Lord's and everything in it
+
