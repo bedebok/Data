@@ -1,5 +1,5 @@
-#+Title: Lund Medeltidshandskr 35
-
+#+Title: Mh35 Karen Ludvigsdatter's Book of Hours
+A sixteenth-century book of hours belonging to the noblewoman Karen Ludvigsdatter Rosenkrantz (ca. 1480-1535).
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      |             |
@@ -27,14 +27,17 @@
 
 * History
 |------------+---------------|
-| PLACE      |               |
-| DATE       |               |
+| PLACE      | DK (Jutland)  |
+| DATE       | 16th              |
 | PROVENANCE |               |
 |------------+---------------|
+
+
 
 * Contents
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
 | start | MDB | text type  | text          | end   | incipit                                                | explicit | language | status |
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
 
-
+* Bibliography
+- Alvin-Portal :: https://www.alvin-portal.org/alvin/view.jsf?dswid=3319&searchType=EXTENDED&query=ludvigsdatters&aq=%5B%5B%7B%22A_FQ%22%3A%22ludvigsdatters%22%7D%5D%5D&aqe=%5B%5D&af=%5B%5D&pid=alvin-record%3A14461&c=1#alvin-record%3A14461
