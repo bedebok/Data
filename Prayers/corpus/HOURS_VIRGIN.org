@@ -28,11 +28,7 @@ The Hours of the Virgin follow the eight canonical hours. Every hour opens with 
 - Psalm 8 Domine Dominus noster :: Oh Lord, our Lor, how marvelous is thy name
 - Psalm 19 [Vulgate 18] Cœli :: The heavens declare the glory of God
 - Psalm 24 [Vulgate 23] Domini est terra :: The earth is the Lord's and everything in it
-*** Lesson 1
-- Ecclesiasticus (Sirach) 24:7-9 :: In all things I sought rest
-*** Lesson 2
-- Ecclesiasticus (Sirach) 24:10-12 :: And so in Zion I was established
-*** Lesson 3 
-- Ecclesiasticus (Sirach) 24:13-15 :: I am exalted as a cedar in Lebanon
+*** Three lessons
+Unlike in some books of hours (Roman rite?), the Hours of the Virgin in Danish, Low German and Dutch do not include the lesson readings from Ecclesiasticus (Sirach) 24.
 *** Te deum
 
