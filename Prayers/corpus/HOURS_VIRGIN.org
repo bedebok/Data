@@ -14,8 +14,6 @@ The Hours of the Virgin follow the eight canonical hours. Every hour opens with 
 - Gloria patri ...
 - Invitation :: In the honor ...
 
-[[** Matins]]
-
 ** Matins
 - Psalm 95 [Vulgate 94] Venite exultemus :: Come let us sing to the Lord
 - Psalm 8 Domine Dominus noster :: Oh Lord, our Lor, how marvelous is thy name
