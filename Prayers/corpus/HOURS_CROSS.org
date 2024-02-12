@@ -1,0 +1,12 @@
+#+TITLE: Hours of the Holy Cross
+A much simpler set of hours than the Hours of the Virgin. There are for example no psalms or readings. It is often referred to as the Shorter Hours of the Cross.
+
+* Examples in the corpus
+|-----------------+----------------------+----------+-------+------|
+| Shelfmark       | Manuscript / Print   | Language | Locus |  MDB |
+|-----------------+----------------------+----------+-------+------|
+| GKS 1615 4to    | A Danish Prayer Book | Danish   | 61r-  | 1040 |
+| AM 1056 XII 4to | Fragment             | Danish   | 5r-   | 1166 |
+|-----------------+----------------------+----------+-------+------|
+
+* Structure of the text

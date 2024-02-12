@@ -3,15 +3,17 @@
 The Hours of the Virgin are undoubtedly the most important liturgy for lay devotion. 
 
 * Examples in the corpus
-|-
-| Shelfmark | Manuscript / Print | Language | Locus |
-|-
-| Mh 35     | Karen Ludvigsdatter's book of hours | Danish | 8r- |
-| AM 73 8vo | Book of hours                       | German | 44r- |
-| GKS 3423 8v | A Catholoic Prayer Book           | German | 21r- |
-| Arndes     | De seven tyde unser lieven vrouwen | German |     |
-| Pedersen   | Vor frue tider                     | Danish |     |
-| AM 419 12mo | Copy of Christiern Pedersen       | Danish |     |
+|-------------+-------------------------------------+----------+-------+------|
+| Shelfmark   | Manuscript / Print                  | Language | Locus | MCH  |
+|-------------+-------------------------------------+----------+-------+------|
+| Mh 35       | Karen Ludvigsdatter's book of hours | Danish   | 8r-   | 155  |
+| AM 73 8vo   | Book of hours                       | German   | 44r-  |      |
+| GKS 3423 8v | A Catholoic Prayer Book             | German   | 21r-  |      |
+| Arndes      | De seven tyde unser lieven vrouwen  | German   |       |      |
+| Pedersen    | Vor frue tider                      | Danish   |       |      |
+| AM 419 12mo | Copy of Christiern Pedersen         | Danish   |       |      |
+| Holm A 42   | Johanne Nielsdatters book of hours  | Latin    | 13r-  | I.15 |
+|-------------+-------------------------------------+----------+-------+------|
 
 * Structure of the text
 The Hours of the Virgin follow the eight canonical hours. Every hour opens with the ()
