@@ -7,17 +7,17 @@
 | SUPPORT      | perg             |
 | NUMBER       | 87            |
 | SIZE         | 122 87            |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
-| FOLIATION    |             |
+| WRITING AREA | 80 60            |
+| COLUMNS      |  1           |
+| LINES        |   14 15          |
+| FOLIATION    |  fol           |
 |--------------+-------------|
 
 ** Binding
 |--------------+-------------|
 | TYPE         | pressed leather            |
-| DATE         |             |
-| SIZE         |             |
+| DATE         |  xv           |
+| SIZE         |  125 90 30           |
 |--------------+-------------|
 
 ** Quire structure
