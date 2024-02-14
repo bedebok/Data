@@ -1,6 +1,6 @@
 #+Title: AM 417 12mo
 
-https://handrit.is/manuscript/view/da/AM12-0417
+
 
 * PhysDesc
 |--------------+-------------|
@@ -38,4 +38,20 @@ https://handrit.is/manuscript/view/da/AM12-0417
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
 | start | MDB | text type  | text          | end   | incipit                                                | explicit | language | status |
 |-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
+1r Hijr begynnet des hillige(n) geistes tyde to dude aldus
+DE gnade des hillige(n) geistes
 
+35r Hijr beginnet de seuen tyde van der hilligen dreuoldich(eit)
+O hillige dreuoldicheit
+
+49v Hir beginnet vnser leue(n) vrowe(n) letanie to dude
+50r HEre vorbarme di Criste vorbarme di
+
+63r Hijr beginnet de seuen tyde van Sunte Annen to dude
+GOd dencke an myne hulpe
+
+73v Hijr beginet de seue(n) psalme
+HEre bechelt my nicht in dinen unmode
+
+* Bibliography
+- Handrit :: https://handrit.is/manuscript/view/da/AM12-0417
