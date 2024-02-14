@@ -1,76 +1,65 @@
 #+Title: AM 417 12mo
-
-
+A fifteenth century book of hours in Low German commissioned by the Count of Oldenburg.
 
 * PhysDesc
-|--------------+-------------|
-| SUPPORT      | perg             |
-| NUMBER       | 87            |
-| SIZE         | 122 87            |
-| WRITING AREA | 80 60            |
-| COLUMNS      |  1           |
-| LINES        |   14 15          |
-| FOLIATION    |  fol           |
-|--------------+-------------|
+|--------------+--------|
+| SUPPORT      | perg   |
+| NUMBER       | 87     |
+| SIZE         | 122 87 |
+| WRITING AREA | 80 60  |
+| COLUMNS      | 1      |
+| LINES        | 14 15  |
+| FOLIATION    | fol    |
+|--------------+--------|
 
 ** Binding
-|--------------+-------------|
-| TYPE         | pressed leather            |
-| DATE         |  xv           |
-| SIZE         |  125 90 30           |
-|--------------+-------------|
+|------+-----------------|
+| TYPE | pressed leather |
+| DATE | xv              |
+| SIZE | 125 90 30       |
+|------+-----------------|
 
 ** Quire structure
-|---------|---------+--------------+-----------------------------------------------------------|
-| Quire   |  Leaves | Structure    | Changes                                                   |
-|---------+---------+--------------+-----------------------------------------------------------|
-1-9 (9 added?)
-10-19
-20-29
-30-39
-40-49
-50-59
-60-69 
-70-79
-80-fly
-
+|-------+--------+-------------+----------|
+| Quire | Leaves | Structure   | Changes  |
+|-------+--------+-------------+----------|
+| I     |    1-9 | quaternion  | 9 added? |
+| II    |  10-19 | quinternion |          |
+| III   |  20-29 | quinternion |          |
+| IV    |  30-39 | quinternion |          |
+| V     |  40-49 | quinternion |          |
+| VI    |  50-59 | quinternion |          |
+| VII   |  60-69 | quinternion |          |
+| VIII  |  70-79 | quinternion |          |
+| IX    | 80-fly | quinternion |          |
+|-------+--------+-------------+----------|
 * History
 |------------+---------------|
-| PLACE      | Oldenburg #DE               |
-| DATE       | XV-^{1460/70}              |
+| PLACE      | Oldenburg #DE |
+| DATE       | XV-^{1460/70} |
 | PROVENANCE |               |
 |------------+---------------|
-Commissioned by Gerhard __
+Commissioned by Gerhard, count of Oldenburg, brother of the Danish king Christian I.
 
 * Contents
-|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
-| start | MDB | text type  | text          | end   | incipit                                                | explicit | language | status |
-|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
-1r Hijr begynnet des hillige(n) geistes tyde to dude aldus
-DE gnade des hillige(n) geistes
-34r sin hulpe bliue myt uns allen Amen
-
-34v Trinity
-35r Hijr beginnet de seuen tyde van der hilligen dreuoldich(eit)
-O hillige dreuoldicheit
-49v dat ik van dy behgerende byn Amen
-
-49v Hir beginnet vnser leue(n) vrowe(n) letanie to dude
-50r HEre vorbarme di Criste vorbarme di
-54v dat ik sin vrolike antlaet moge beseen Amen
-
-55r Hir gan an des hilgen cruces tide
-55v HEre opene myne lippen
-62r vn(de) barmherticheit de(n) [defect]
-
-62v Anna Selbdritt
-63r Hijr beginnet de seuen tyde van Sunte Annen to dude
-GOd dencke an myne hulpe
-73v kum my to hulpe hilghe vrouwe sunte Anna
-
-73v Hijr beginet de seue(n) psalme
-HEre bechelt my nicht in dinen unmode
-87v De dar leuet vnde regneret ewichliken Amen
-
+|-------+-----+-----------+---------------------+-----+--------------------------------------------------------------+---------------------------------------------+----------+--------|
+| start | MDB | text type | text                | end | incipit                                                      | explicit                                    | language | status |
+|-------+-----+-----------+---------------------+-----+--------------------------------------------------------------+---------------------------------------------+----------+--------|
+| 1r    |     | RUBRIC    | HOURS_HOLY_SPIRIT   | 1r  | Hijr begynnet des hillige(n) geistes tyde to dude aldus      |                                             | LG       |        |
+| 1r    |     | PRAYER    | HOURS_HOLY_SPIRIT   | 34r | DE gnade des hillige(n) geistes                              | sin hulpe bliue myt uns allen Amen          | LG       |        |
+| 34r   |     | MINIATURE | TRINITY             | 34r |                                                              |                                             |          |        |
+| 35r   |     | RUBRIC    | HOURS_TRINITY       | 35r | Hijr beginnet de seuen tyde van der hilligen dreuoldich(eit) |                                             | LG       |        |
+| 35r   |     | PRAYER    | HOURS_TRINITY       | 49v | O hillige dreuoldicheit                                      | dat ik van dy behgerende byn Amen           | LG       |        |
+| 49v   |     | RUBRIC    | LITANY_VIRGIN       | 49v | Hir beginnet vnser leue(n) vrowe(n) letanie to dude          |                                             | LG       |        |
+| 50r   |     | PRAYER    | LITANY_VIRGIN       | 54v | HEre vorbarme di Criste vorbarme di                          | dat ik sin vrolike antlaet moge beseen Amen | LG       |        |
+| 55r   |     | RUBRIC    | HOURS_CROSS         | 55r | Hir gan an des hilgen cruces tide                            |                                             | LG       |        |
+| 55v   |     | PRAYER    | HOURS_CROSS         | 62r | HEre opene myne lippen                                       | vn(de) barmherticheit de(n) [defect]        | LG       |        |
+| 62v   |     | MINIATURE | ANNA SELBDRITT      |     |                                                              |                                             |          |        |
+| 63r   |     | RUBRIC    | HOURS_ANNE          | 63r | Hijr beginnet de seuen tyde van Sunte Annen to dude          |                                             | LG       |        |
+| 63r   |     | PRAYER    | HOURS_ANNE          | 73v | GOd dencke an myne hulpe                                     | kum my to hulpe hilghe vrouwe sunte Anna    | LG       |        |
+| 73v   |     | RUBRIC    | PENITENTIAL_PSALMS  | 73v | Hijr beginet de seue(n) psalme                               |                                             | LG       |        |
+| 73v   |     | PRAYER    | PENINTENTIAL_PSALMS | 87v | HEre bechelt my nicht in dinen unmode                        | De dar leuet vnde regneret ewichliken Amen  | LG       |        |
+|-------+-----+-----------+---------------------+-----+--------------------------------------------------------------+---------------------------------------------+----------+--------|
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM12-0417
+- Vrieland 2020 ::
