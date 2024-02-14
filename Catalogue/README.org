@@ -15,7 +15,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/AM08-0073.org][AM 73 8vo]]   | German book of hours with Danish notes    | German, Danish        | 1400-1499 |
 | [[file:org/AM08-0074.org][AM 74 8vo]]   | A prayer book                             | German                | 1475-1499 |
 | [[file:org/AM08-0075.org][AM 75 8vo]]   | A prayer book                             | Danish                | 1490-1510 |
-| [[file:org/AM12-0417.org][AM 417 12mo]] | Oldenborg prayer book                     | German                | 1400-1499 |
+| [[file:org/AM12-0417.org][AM 417 12mo]] | Count Gerhard's book of hours                    | German                | 1400-1499 |
 | [[file:org/AM12-0418.org][AM 418 12mo]] | A Danish Nun's Prayer Book                | Danish, Latin         | 1490-1510 |
 | [[file:org/AM12-0419.org][AM 419 12mo]] | Hours of the Virgin (Christiern Pedersen) | Danish                | 1514-1525 |
 | [[file:org/AM12-0420.org][AM 420 12mo]] | An Old Danish prayer book                 | Danish, Latin         | 1490-1510 |
