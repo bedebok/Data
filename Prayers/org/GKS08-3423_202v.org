@@ -7,11 +7,11 @@
 |------------+--------------|
 
 ** Parallels
-|------------+-----------------------|
-| Danish     | MDB 31, 109, 246, 351 |
-| Low German |                       |
-| Latin      |                       |
-|------------+-----------------------|
+|------------+------------------------|
+| Danish     | MDB 31, 109, 246, 351  |
+| Low German | Beinecke 218 ff. 157r- |
+| Latin      |                        |
+|------------+------------------------|
 
 * Transcription
 ** Rubric
@@ -55,7 +55,7 @@ ter armot
 ** Text 5
 [[O]] Du wu(n)ne myn-
 ---203v---
-nychick wo -schynestu- is my
+nych[l]ick wo -schynestu- is my
 dyn antlat nu aldus rechte
 iamerhlick 
 
