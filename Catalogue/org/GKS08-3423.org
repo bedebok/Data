@@ -36,15 +36,15 @@ A Low German girdle book from the fifteenth century, possibly written in Denmark
 | PROVENANCE |               |
 |------------+---------------|
 
-* Contents
+* TODO Contents
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
 |       |      |           |                         | <20>                 | <20>                 |          |        |     |                                                                                   |
 | start | End  | text type | text                    | incipit              | explicit             | language | status | MDB | Notes                                                                             |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
-| 1r    | 2v   | [[File:../../Prayers/org/GKS08-3423_001r.org][prayer]]    | [[../../Prayers/org/GKS08-3423_001r.org][O_BONE_JESU]]             |                      |                      | lg       |        |     | Hand1                                                                             |
+| 1r    | 2v   | [[File:../../Prayers/org/GKS08-3423_001r.org][prayer]]    | O_BONE_JESU             |                      |                      | lg       |        |     | Hand1                                                                             |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
 | 3r    | 19v  | calendar  |                         |                      |                      |          |        |     | f. 20 missing                                                                     |
-| 20r   | 20r  | prayer    |                         | Wes gegrotet         | alderleueste willen Amen | lg   | added  |     | First and final rubrics deleted                                                   |
+| 20r   | 20r  | prayer    |                         | Wes gegrotet         | alderleueste willen Amen | lg       | added  |     | First and final rubrics deleted                                                   |
 | 21r   | 78v  | prayer    | HOURS_VIRGIN            |                      |                      |          |        |     | All instances of the Virgin Mary have been struck through by a strict protestant. |
 | 79r   | 103v |           | PENITENTIAL_PSALMS      |                      |                      |          |        |     |                                                                                   |
 |       |      |           | -added prayers-         |                      |                      |          |        |     |                                                                                   |
@@ -98,14 +98,14 @@ A Low German girdle book from the fifteenth century, possibly written in Denmark
 | 191v  | 197v |           |                         | Hir begij(n)net sik de souen dage tide vnses leue(n) here(n) ih(es)u (christi) |                      |          |        |     |                                                                                   |
 | 197v  | 200r |           | prayers                 |                      |                      |          |        |     |                                                                                   |
 | 200v  | 202v |           | rhymed evening prayer   | Dit les wen de prester dat hilge(n) licham sacrere(m) wil vn(de) dat makede pawes honorius to latijne vnde dit is vort vte deme latijne ghemaket to dude. |                      |          |        |     | (Similar rhymed prayer in Wolfenb.-Helmst. 1231, pp. 213 f.)                      |
-| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:406][202v]]  | 203v |           |                         | Hijr begij(n)net sijk de souen wort de vnse leue vrouwe bij deme cruce sprak do ere leue kijnt dot in ereme schote lach |                      |          |        |     |                                                                                   |
+| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:406][202v]]  | 203v | [[../../Prayers/org/GKS08-3423_202v.org][prayer]]    | 7_WORDS_MARY            | Hijr begij(n)net sijk de souen wort de vnse leue vrouwe bij deme cruce sprak do ere leue kijnt dot in ereme schote lach |                      |          |        |     |                                                                                   |
 | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:409][204r]]  | 210v |           | prayers                 |                      |                      |          |        |     | Hand2, new CU                                                                     |
-| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:423][211r]]  | 224r |           | [[../../Prayers/org/GKS08-3423_211r.org][15_PATER_NOSTER]]  | Hijr na volgen de xv pr nr |                      |          |        |     | Hand3                                                                             |
+| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:423][211r]]  | 224r | [[../../Prayers/org/GKS08-3423_211r.org][prayer]]    | 15_PATER_NOSTER         | Hijr na volgen de xv pr nr |                      |          |        |     | Hand3                                                                             |
 | 224v  | 227r |           | prayers to Christ       |                      |                      |          |        |     |                                                                                   |
-| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:450][224v]] | 224v rubric | | We(n) eyn my(n)sche des auendes bede(n) wyl so schal he spreke(n( aldus |
-| 224v | 226v | prayer | evening prayer | [[I]]k bydde dy my(n) leue here | to ewyghe(n) tyden [[A]]men |
-| 226v | 227v | prayer | seventeen? | [[I]]k bydde dy leue here dat du yn deme vure | vtuorkare(n) vru(n)den [[A]]men |
-| 227v | 227v | prayer | (defect) | [[I]]k bydde dy leue here yh(es)u | |
+| [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:450][224v]]  | 224v | rubric    |                         | We(n) eyn my(n)sche des auendes bede(n) wyl so schal he spreke(n( aldus |                      |          |        |     |                                                                                   |
+| 224v  | 226v | prayer    | evening prayer          | Ik bydde dy my(n) leue here | to ewyghe(n) tyden [[A]]men |          |        |     |                                                                                   |
+| 226v  | 227v | prayer    | seventeen?              | Ik bydde dy leue here dat du yn deme vure | vtuorkare(n) vru(n)den [[A]]men |          |        |     |                                                                                   |
+| 227v  | 227v | prayer    | (defect)                | Ik bydde dy leue here yh(es)u |                      |          |        |     |                                                                                   |
 |-------+------+-----------+-------------------------+----------------------+----------------------+----------+--------+-----+-----------------------------------------------------------------------------------|
 * Bibliography
 - Images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da 

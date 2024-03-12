@@ -39,67 +39,67 @@ One rubric is given in Low German; the manuscript is otherwise only in Danish.
 | PROVENANCE | Rostgård 360 |
 |------------+--------------|
 * Contents
-|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
-| start | end | text type  | text          | MDB   | incipit                                                | explicit | language | status |
-|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
-| 1r    | 1r    | PRAYER     | 15_PATER_NOSTER | 21l   | O Jhesu criste                                         | ame(n)   | da       |        |
-| 1r    | 1r    | PRAYER     | 15_PATER_NOSTER      | 21m   | O Jhesu criste                                         | Amen     | da       |        |
-| 1r    | 1r    | PRAYER     | 15_PATER_NOSTER            | 21n   | O Jhesu criste                                         | ame(n)   | da       |        |
-| 1r    | 1v  | PRAYER     | 15_PATER_NOSTER              | 21o   | O Gode Jh(es)u x(riste)                                | Amen     | da       |        |
-| 1v    | 1v    | PRAYER     | 15_PATER_NOSTER              | 21*   | O Gode Jh(es)u x(riste)                                | Ame(n)   | da       |        |
-| 1v    | 2v  | RUBRIC     | 15_PATER_NOSTER              | 21.   | Thet war een hethe(r)lig quin(n)e                      | Amen     | da       |        |
-| 2v    | 2v    | RUBRIC     | MARY_SORROW   | 1162. | Her byries wor ffrwe sorgher (etc)                     |          | da       |        |
-| 2v    | 2v    | PRAYER     | MARY_SORROW_1 | 1162a | [M]Jn kiære Jomffrw Maria Jech beder                   | Am(en)   | da       |        |
-| 2v    | 2v    | PRAYER     | MARY_SORROW_2 | 1162b | MJn ker(e) Jomffrw maria Jech beder                    | ame(n)   | da       |        |
-| 2v | 3r  | PRAYER     | MARY_SORROW_3 | 1162c | MJn kiær(e) Jomffrw s(anc)ta Maria                     | Amen     | da       |        |
-| 3r    | 3r    | PRAYER     | MARY_SORROW_4 | 1162d | MJn kiære Jomffrw s(anc)ta maria                       | am(en)   | da       |        |
-| 3r    | 3r    | PRAYER     | MARY_SORROW_5 | 1162e | MJn kiær(e) Jomffrw s(anc)ta maria                     | Amen     | da       |        |
-| 3r    | 3r    | RUBRIC     | MARY_JOY      | 951.  | Her byries Jomffrw Maria he(n)nes gleder (etc)         |          | da       |        |
-| 3r | 3v  | PRAYER     | MARY_JOY_1    | 951a  | MJn ker(e) Jomffrw Maria                               |          | da       |        |
-| 3v    | 3v    | PRAYER     | MARY_JOY_2    | 951b  | MJn kiær(e) Jomfrw sancta Maria                        |          | da       |        |
-| 3v | 4r  | PRAYER     | MARY_JOY_3    | 951c  |                                                        |          | da       |        |
-| 4r    | 4r    | PRAYER     | MARY_JOY_4    | 951d  |                                                        |          | da       |        |
-| 4r    | 4r    | PRAYER     | MARY_JOY_5    | 951e  |                                                        |          | da       |        |
-| 4r-4v | 4v  | PRAYER     | MARY_JOY_6    | 951f  |                                                        |          | da       |        |
-| 4v    | 4v    | PRAYER     | MARY_JOY_7    | 951g  |                                                        |          | da       |        |
-| 4v    | 4v    | RUBRIC     |               | 45.   | Her børies een god bøn aff Jomffrw Mariæ               |          | da       |        |
-|  5r     | 5v    | PRAYER     |               | 45    | [M]Aria moder thw ther all                             |          | da       |        |
-| 5v      | 6r    | RUBRIC     |               | 105.  | Uultu weten wo dit beth vp erden is gekomen            |          | lg       |        |
-| 6r      | 6r    | PRAYER     |               | 105a  | [MA]ria iech beder tigh for                            | Am(en)   | da       |        |
-| 6r | 6v  | PRAYER     |               | 105b  | MAria iech beder tich for th(e)n                       |          | da       |        |
-| 6v    | 6v    | PRAYER     |               | 105c  | Maria iech be[...]                                     |          | da       |        |
-| 7r    | 7r    | PRAYER     |               | 105d  | MAria iech beder tich ffor then store                  |          |          |        |
-| 7r    | 7r    | PRAYER     |               | 105e  | MAria iech beder tich for th(e)n store gledhe          |          |          |        |
-| 7r | 7v  | PRAYER     |               | 105f  | MAria Jech beder tich for then stor(e) glede           |          |          |        |
-| 7v    | 7v    | PRAYER     |               | 105g  | MAria iech beder ig for then stor(e) glede             |          |          |        |
-| 7v    | 7v    | PRAYER     |               | 105h  | MAria Iech beder tich for then stor(e) glede           |          |          |        |
-| 7v | 8r  | PRAYER     |               | 105i  | MAria Iech beder tich for then stor(e) glede           |          |          |        |
-| 8r    | 8r    | PRAYER     |               | 105j  | MAria iech beder t[...]                                |          |          |        |
-| 8r | 8v  | RUBRIC     |               | 133.  | Hwo som thesse efft(erschreffne) xv gleder gwdelig læs |          |          |        |
-| 8v      | 8v    | PRAYER           |               | 133a  | [Gl]eds ærfulle ffrwe sancta Anna                      |          |          |        |
-| 8v      | 8v    | PRAYER           |               | 133b  | Gleds hellige ffrw sancta Anna                         |          |          |        |
-| 8v      | 8v    | PRAYER           |               | 133c  | Gleds helge ffrw sancta Anna                           |          |          |        |
-| 8v | 9r  | PRAYER           |               | 133d  | Gleds helge ffrw sancta Annæ                           |          |          |        |
-| 9r    | 9r    | PRAYER           |               | 133e  | Gleds helge ffrw s(anc)ta Annæ                         |          |          |        |
-| 9r    | 9r    | PRAYER           |               | 133f  | Gleds helge ffrw sancta Anna                           |          |          |        |
-| 9r    | 9r    | PRAYER           |               | 133g  | Gleds helge ffrw sancta Annæ                           |          |          |        |
-| 9r    | 9r    | PRAYER           |               | 133h  | Gleds helige ffrw sancta Anna                          |          |          |        |
-| 9r    | 9r    | PRAYER           |               | 133i  | Gleds helge ffrw sancta Anna                           |          |          |        |
-| 9r    | 9r    | PRAYER           |               | 133j  | Gleds helligæ ffrw sancta Anna                         |          |          |        |
-| 9v    | 9v    | PRAYER           |               | 133k  | Gleds hellige ffrw sancta anna                         |          |          |        |
-| 9v    | 9v    | PRAYER           |               | 133l  | Gleds hellige frw sancta annæ                          |          |          |        |
-| 9v    | 9v    | PRAYER           |               | 133m  | Gleds hellige frw s(anc)ta Annæ                        |          |          |        |
-| 9v    | 9v    | PRAYER           |               | 133n  | Gleds selige frw sancta anna                           |          |          |        |
-| 9v    | 9v    | PRAYER           |               | 133o  | Gleds salige frw s(anc)ta Anne                         |          |          |        |
-| 9v    | 9v    | VERSICULUS |               | 133*  | Helige ffrw sancta Anna oc thin                        |          |          |        |
-| 10r   | 10r    | PRAYER           |  15_PATER_NOSTER             | 21c   |                                                        |          |          |        |
-| 10r   | 10r    | PRAYER           |  15_PATER_NOSTER              | 21d   |                                                        |          |          |        |
-| 10r   | 10r    | PRAYER           |  15_PATER_NOSTER              | 21f   |                                                        |          |          |        |
-| 10r   | 10v    |  PRAYER          |  15_PATER_NOSTER              | 21g   |                                                        |          |          |        |
-| 10v   | 10v    | PRAYER           |  15_PATER_NOSTER              | 21h   |                                                        |          |          |        |
-| 10v   | 10v     |  PRAYER          |  15_PATER_NOSTER              | 21i   |                                                        |          |          |        |
-| 10v   | 10v    |  PRAYER          |  15_PATER_NOSTER              | 21j   |                                                        |          |          |        |
-| 10v   | 10v    | PRAYER           | 15_PATER_NOSTER               | 21k   |                                                        |          |          |        |
+|-------+-----+------------+-----------------+-------+--------------------------------------------------------+----------+----------+--------|
+| start | end | text type  | text            | MDB   | incipit                                                | explicit | language | status |
+|-------+-----+------------+-----------------+-------+--------------------------------------------------------+----------+----------+--------|
+| 1r    | 1r  | PRAYER     | 15_PATER_NOSTER | 21l   | O Jhesu criste                                         | ame(n)   | da       |        |
+| 1r    | 1r  | PRAYER     | 15_PATER_NOSTER | 21m   | O Jhesu criste                                         | Amen     | da       |        |
+| 1r    | 1r  | PRAYER     | 15_PATER_NOSTER | 21n   | O Jhesu criste                                         | ame(n)   | da       |        |
+| 1r    | 1v  | PRAYER     | 15_PATER_NOSTER | 21o   | O Gode Jh(es)u x(riste)                                | Amen     | da       |        |
+| 1v    | 1v  | PRAYER     | 15_PATER_NOSTER | 21*   | O Gode Jh(es)u x(riste)                                | Ame(n)   | da       |        |
+| 1v    | 2v  | RUBRIC     | 15_PATER_NOSTER | 21.   | Thet war een hethe(r)lig quin(n)e                      | Amen     | da       |        |
+| 2v    | 2v  | RUBRIC     | MARY_SORROW     | 1162. | Her byries wor ffrwe sorgher (etc)                     |          | da       |        |
+| 2v    | 2v  | PRAYER     | MARY_SORROW_1   | 1162a | [M]Jn kiære Jomffrw Maria Jech beder                   | Am(en)   | da       |        |
+| 2v    | 2v  | PRAYER     | MARY_SORROW_2   | 1162b | MJn ker(e) Jomffrw maria Jech beder                    | ame(n)   | da       |        |
+| 2v    | 3r  | PRAYER     | MARY_SORROW_3   | 1162c | MJn kiær(e) Jomffrw s(anc)ta Maria                     | Amen     | da       |        |
+| 3r    | 3r  | PRAYER     | MARY_SORROW_4   | 1162d | MJn kiære Jomffrw s(anc)ta maria                       | am(en)   | da       |        |
+| 3r    | 3r  | PRAYER     | MARY_SORROW_5   | 1162e | MJn kiær(e) Jomffrw s(anc)ta maria                     | Amen     | da       |        |
+| 3r    | 3r  | RUBRIC     | MARY_JOY        | 951.  | Her byries Jomffrw Maria he(n)nes gleder (etc)         |          | da       |        |
+| 3r    | 3v  | PRAYER     | MARY_JOY_1      | 951a  | MJn ker(e) Jomffrw Maria                               |          | da       |        |
+| 3v    | 3v  | PRAYER     | MARY_JOY_2      | 951b  | MJn kiær(e) Jomfrw sancta Maria                        |          | da       |        |
+| 3v    | 4r  | PRAYER     | MARY_JOY_3      | 951c  |                                                        |          | da       |        |
+| 4r    | 4r  | PRAYER     | MARY_JOY_4      | 951d  |                                                        |          | da       |        |
+| 4r    | 4r  | PRAYER     | MARY_JOY_5      | 951e  |                                                        |          | da       |        |
+| 4r-4v | 4v  | PRAYER     | MARY_JOY_6      | 951f  |                                                        |          | da       |        |
+| 4v    | 4v  | PRAYER     | MARY_JOY_7      | 951g  |                                                        |          | da       |        |
+| 4v    | 4v  | RUBRIC     |                 | 45.   | Her børies een god bøn aff Jomffrw Mariæ               |          | da       |        |
+| 5r    | 5v  | PRAYER     |                 | 45    | [M]Aria moder thw ther all                             |          | da       |        |
+| 5v    | 6r  | RUBRIC     | 10_JOYS_MARY    | 105.  | Uultu weten wo dit beth vp erden is gekomen            |          | lg       |        |
+| 6r    | 6r  | PRAYER     | 10_JOYS_MARY_1  | 105a  | [MA]ria iech beder tigh for                            | Am(en)   | da       |        |
+| 6r    | 6v  | PRAYER     | 10_JOYS_MARY_2  | 105b  | MAria iech beder tich for th(e)n                       |          | da       |        |
+| 6v    | 6v  | PRAYER     | 10_JOYS_MARY_3  | 105c  | Maria iech be[...]                                     |          | da       |        |
+| 7r    | 7r  | PRAYER     | 10_JOYS_MARY_4  | 105d  | MAria iech beder tich ffor then store                  |          |          |        |
+| 7r    | 7r  | PRAYER     | 10_JOYS_MARY_5  | 105e  | MAria iech beder tich for th(e)n store gledhe          |          |          |        |
+| 7r    | 7v  | PRAYER     | 10_JOYS_MARY_6  | 105f  | MAria Jech beder tich for then stor(e) glede           |          |          |        |
+| 7v    | 7v  | PRAYER     | 10_JOYS_MARY_7  | 105g  | MAria iech beder ig for then stor(e) glede             |          |          |        |
+| 7v    | 7v  | PRAYER     | 10_JOYS_MARY_8  | 105h  | MAria Iech beder tich for then stor(e) glede           |          |          |        |
+| 7v    | 8r  | PRAYER     | 10_JOYS_MARY_9  | 105i  | MAria Iech beder tich for then stor(e) glede           |          |          |        |
+| 8r    | 8r  | PRAYER     | 10_JOYS_MARY_10 | 105j  | MAria iech beder t[...]                                |          |          |        |
+| 8r    | 8v  | RUBRIC     | 15_JOYS_ANNE    | 133.  | Hwo som thesse efft(erschreffne) xv gleder gwdelig læs |          |          |        |
+| 8v    | 8v  | PRAYER     | 15_JOYS_ANNE_1  | 133a  | [Gl]eds ærfulle ffrwe sancta Anna                      |          |          |        |
+| 8v    | 8v  | PRAYER     | 15_JOYS_ANNE_2  | 133b  | Gleds hellige ffrw sancta Anna                         |          |          |        |
+| 8v    | 8v  | PRAYER     | 15_JOYS_ANNE_3  | 133c  | Gleds helge ffrw sancta Anna                           |          |          |        |
+| 8v    | 9r  | PRAYER     | 15_JOYS_ANNE_4  | 133d  | Gleds helge ffrw sancta Annæ                           |          |          |        |
+| 9r    | 9r  | PRAYER     | 15_JOYS_ANNE_5  | 133e  | Gleds helge ffrw s(anc)ta Annæ                         |          |          |        |
+| 9r    | 9r  | PRAYER     | 15_JOYS_ANNE_6  | 133f  | Gleds helge ffrw sancta Anna                           |          |          |        |
+| 9r    | 9r  | PRAYER     | 15_JOYS_ANNE_7  | 133g  | Gleds helge ffrw sancta Annæ                           |          |          |        |
+| 9r    | 9r  | PRAYER     | 15_JOYS_ANNE_8  | 133h  | Gleds helige ffrw sancta Anna                          |          |          |        |
+| 9r    | 9r  | PRAYER     | 15_JOYS_ANNE_9  | 133i  | Gleds helge ffrw sancta Anna                           |          |          |        |
+| 9r    | 9r  | PRAYER     | 15_JOYS_ANNE_10 | 133j  | Gleds helligæ ffrw sancta Anna                         |          |          |        |
+| 9v    | 9v  | PRAYER     | 15_JOYS_ANNE_11 | 133k  | Gleds hellige ffrw sancta anna                         |          |          |        |
+| 9v    | 9v  | PRAYER     | 15_JOYS_ANNE_12 | 133l  | Gleds hellige frw sancta annæ                          |          |          |        |
+| 9v    | 9v  | PRAYER     | 15_JOYS_ANNE_13 | 133m  | Gleds hellige frw s(anc)ta Annæ                        |          |          |        |
+| 9v    | 9v  | PRAYER     | 15_JOYS_ANNE_14 | 133n  | Gleds selige frw sancta anna                           |          |          |        |
+| 9v    | 9v  | PRAYER     | 15_JOYS_ANNE_15 | 133o  | Gleds salige frw s(anc)ta Anne                         |          |          |        |
+| 9v    | 9v  | VERSICULUS | 15_JOYS_ANNE    | 133*  | Helige ffrw sancta Anna oc thin                        |          |          |        |
+| 10r   | 10r | PRAYER     | 15_PATER_NOSTER | 21c   |                                                        |          |          |        |
+| 10r   | 10r | PRAYER     | 15_PATER_NOSTER | 21d   |                                                        |          |          |        |
+| 10r   | 10r | PRAYER     | 15_PATER_NOSTER | 21f   |                                                        |          |          |        |
+| 10r   | 10v | PRAYER     | 15_PATER_NOSTER | 21g   |                                                        |          |          |        |
+| 10v   | 10v | PRAYER     | 15_PATER_NOSTER | 21h   |                                                        |          |          |        |
+| 10v   | 10v | PRAYER     | 15_PATER_NOSTER | 21i   |                                                        |          |          |        |
+| 10v   | 10v | PRAYER     | 15_PATER_NOSTER | 21j   |                                                        |          |          |        |
+| 10v   | 10v | PRAYER     | 15_PATER_NOSTER | 21k   |                                                        |          |          |        |
 
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM04-0789 
