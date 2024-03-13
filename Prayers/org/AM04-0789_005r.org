@@ -1,4 +1,19 @@
-* 105
+#+TITLE: Golden Crown Prayer of Mary
+|------------+------------|
+| Manuscript | AM 789 4to |
+| Locus      | 5r-        |
+| Language   | MLG, DA    |
+|------------+------------|
+
+** Parallels
+|------------+----------------------|
+| Danish     | MDB 105              |
+| Low German | [[https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf%5Bid%5D=41819&tx_dlf%5Bpage%5D=5&tx_dlf_navigation%5Baction%5D=main&tx_dlf_navigation%5Bcontroller%5D=Navigation&cHash=011a5b690b2231a903e3113fa06a0ada][Hamburg Cod. Conv. 6]] |
+| Latin      |                      |
+|------------+----------------------|
+
+* Transcription
+
 ** Rubric
 Uultu weten wo dit beth vp erden is gekomen
 

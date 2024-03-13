@@ -1,0 +1,96 @@
+#+TITLE: Goldene Krongebet
+|------------+-----------------------|
+| Manuscript | Hamburg, Cod. conv. 6 |
+| Locus      | [[https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf%5Bid%5D=41819&tx_dlf%5Bpage%5D=8&tx_dlf_navigation%5Baction%5D=main&tx_dlf_navigation%5Bcontroller%5D=Navigation&cHash=6681880d9fa72a0c35e33f23d12c4d25][2r-]]             |
+| Language   | LG                    |
+|------------+-----------------------|
+
+** Parallels
+|------------+---------|
+| Danish     | MDB 105 |
+| Low German |         |
+| Latin      |         |
+|------------+---------|
+
+* Transcription
+** Rubric
+Wultu weten wo diit nascreuen(n)
+beth vppe erden ghekome(n) is
+Dat schach de ey(n) ju(n)cvrouwe was
+an en closter ghetoghen vn(de) had-
+de eren maghetdome vnsem leue(n)
+here(n) ghelouet des worden ere 
+vrunt to male quat vn(de) nemen
+ere deel gudes eres vaders erue
+Des vortzaghede se sere vn(de) en 
+wustu nicht was se don wolde
+men se nam vore den hilghe(n)
+engel su(n)te gabriel vn(de) denede
+eme also se besten konde vp
+dat he se trostede an ereme
+bede Do se enes nachtes lach
+in ereme bede do quam de hilge
+engel gabriel to er vn(de) lerde
+er we dijt beth preket de mach
+---2v---
+vnser leue(n) vrowen enen danken
+denst don des sin sele wol mach
+ghetrostet werden vn(de) desse my(n)-
+sche scal hu(n)dert Aue maria
+spreken also hijr na steyt ghe-
+screue(n) Dijt beth scal he druttich
+daghe spreke(n) vn(de) scal en licht
+berne(n) na siner macht vnde
+ware(n) sik vor dotlike sunde
+so he besten kan so mach he
+ghetwidet werden wes he bid-
+det dat mach he wis hebbe(n) dat
+sy ere efte gud vn(de) de drofnisse
+en is nu(m)mer also grot dar he
+dijt beth v(m)me deyt dat en wil
+maria vnghetwidet laten vn(de)
+dat were mogheliker dat de he(m)-
+---3r---
+mele vn(de) erde beweghet worde(n)
+wan dat desse my(n)sche vnghe-
+twidet bleue we(n)te dijt beth is
+van deme he(m)mele komen vn(de)
+wan du dijt beth sprekest so
+scholtu stan vor vnser leuen
+vrouwe(n) bidde vn(de) sprek teyn
+Aue maria vn(de) valle nedder
+vp dine knee vn(de) sprik dit beth
+** Text 1
+Maria ik vormane dy der ouer-
+vlodighe(n) vroude ere vn(de) wer-
+dicheit de din lijf vn(de) din sele vnt-
+fink. do de vader vn(de) de sone vn(de)
+de hilghe gheyst dy sik sulue(n) to
+ener moder gaf. in deme rade der 
+hilghen drevaldicheit. eer he he(m)-
+mel vn(de) erde(n) gheschup Ju(n)cvrowe
+maria godes moder der grote(n)
+vroude vormane ik dy vn(de) bidde
+---3v---
+dy twide myne bede na dinen gna-
+den vn(de) na myner begheringhe
+Amen.
+
+** Rubric
+Sprek teyn Aue maria
+vn(de) valle nedder vppe dine knee
+vn(de) les dijt beth also hir na steyt
+** Text 2
+Maria ik vormane dy der ouervlodighen vroude de dy(n)
+zele vn(de) din licham vntfink do
+dy de hilghe engel gabriel dat
+ku(n)dighede dat du gode moder
+werden scholdest. vn(de) ewichlike(n)
+ene ju(n)cvrowe bliue(n) scholdest
+vn(de) he sprak Ghegrutet sijstu
+vul gnade de here is mit dy (et cetera)
+Do du de wort vornemest do
+bekandestu des vaders gude. des
+sones barmherticheit. vn(de) des hil-
+ghen gheystes wysheit Do spre-
+---4r---
