@@ -24,6 +24,7 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 |--------------+---------|
 
 ** Quire structure
+|---------+---------+--------------+-----------------------------------------------------------|
 | Quire   |  Leaves | Structure    | Changes                                                   |
 |---------+---------+--------------+-----------------------------------------------------------|
 | I.      |       1 | singleton    |                                                           |
