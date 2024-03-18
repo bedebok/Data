@@ -1,0 +1,19 @@
+#+TITLE: Magnificat
+
+|------------+--------------|
+| Manuscript | GKS 1613 8vo |
+| Locus      | 161r-162r    |
+| Language   | Danish       |
+|------------+--------------|
+
+** Parallels
+
+* Transcription
+** Rubric
+Magnificat
+
+** Text 
+[[M]]in siæl hw/ och hiertæ loffwæ then altsom mektista gudh; 
+myn skabæræ som iæch nw vntfongæt haffwær Allæ mynæ sindh gledas vid myn gudh oc frælsæræ/ Forthy han sa nadæligh til mægh sin ødmyge thienærinda Thy seye alla cristenæ men- niske/magh at wæræ salligh och helligh/fooræ iæch føddæ ihesum gusz søn Gud som haffwær makt owær alla thingh || giordæ 161v storæ vndærligh iærtegen/ mod mægh/ oc myn søns naffn ær san- dæligh helligt/ hans nadæ oc miscundhet/ ær owær alla menniskæ som nw æræ oc væræt haffwer! oc kommæ skal særdielæs owær 
+them som kierligæ fryktæ hanom/ han tiedæ sinæ gudoms mek- tighet, then tid han pa iet øgnæ blik/ neder skiødh aff hymmælen til helffwidis affgrwndh/ the høffærdige dieffuælæ/ oc [ophøgda] andræ ødmygæ ængla i thieræs sted/ han for dreff oc vndær 5 tryktæ høffærdige iødær oc phariseer aff thieres makt oc veldæ, oc ophøgdæ ødmyge hiedninger i then belligæ kirki/ han opfyllædæ meth then verduga helligand ienfolduga menniskæ/ som begierædæ at leffuæ rætfærdugæ/ Men them som høffærdugæ oc klogæ varæ/ pa wærdans vegnæ, them gaff han ingen visdom/ 10 til ath fongæ then ewighæ sallighet meth Godæ gudæligh men- niske som hobædæs til then nadhæ oc miscundh/ ther gud them til fornæ loffwæt haffdæ/ the fingæ nw ihesum thieræs frælsæræ aff thieræs eghen slekt/ som abraham oc andra hellige prophetær 162г oc patriarchær spodæ || i wærdans fyrsta begyndilsæ/ hedær och 15 æræ wæræ gudh fader oc søn oc then helligh andh Pater noster 
+aue maria magni[ficat] 

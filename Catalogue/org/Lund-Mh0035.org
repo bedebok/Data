@@ -1,0 +1,53 @@
+#+TITLE: Medeltidshandskrift 35
+The prayer book of Karen Ludvigsdatter Rosenkrantz is a combination of a book of hours and a prayer book and resembles the Hortu-
+lus Animæ type. It contains a calendar, The Little Office of Our Lady, The Seven Penitentiel Psalms and a Litany of the Saints.
+The Hours of the Virgin follow a redaction related to the hours (in Latin) of another Danish prayer book from around 1480: Ms. A 42, Kungliga Biblioteket, Stockholm, also known as Johanne Nielsdatter Munks Tidebog.
+
+* History
+|--------+---------------------------------+-------+---------|
+| TYPE   | NAME                            | PLACE | DATE    |
+|--------+---------------------------------+-------+---------|
+| ORIGIN |                                 | DK    | c. 1500 |
+| USER   | Karen Ludvigsdatter Rosenkrantz | DK    |         |
+|--------+---------------------------------+-------+---------|
+
+* PhysDesc
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 112     |
+| SIZE         | 185 120 |
+| WRITING AREA | 120 85  |
+| COLUMNS      | 1       |
+| LINES        | 24 26   |
+| FOLIATION    | fol     |
+|--------------+---------|
+
+** Quire structure
+|-------+---------+------------+----------------------------------|
+| Quire |  Leaves | Structure  | Changes                          |
+|-------+---------+------------+----------------------------------|
+| I     |     1-7 | quaternion | Original first leaf is pastedown |
+| II    |    8-15 | quaternion |                                  |
+| III   |   16-23 | quaternion |                                  |
+| IV    |   24-32 | quaternion | 31 added                         |
+| V     |   33-40 | quaternion |                                  |
+| VI    |   41-48 | quaternion |                                  |
+| VII   |   49-56 | quaternion |                                  |
+|       |       - |            | quire missing                    |
+| VIII  |   57-64 | quaternion |                                  |
+| IX    |   65-72 | quaternion |                                  |
+| X     |   73-80 | quaternion |                                  |
+| XI    |   81-88 | quaternion |                                  |
+| XII   |   89-96 | quaternion |                                  |
+| XIII  |  97-104 | quaternion |                                  |
+| XIV   | 105-112 | quaternion |                                  |
+|-------+---------+------------+----------------------------------|
+
+* Contents
+|-------+-------+-----+-------------+----------------+--------------+------------------------------+----------+----------+--------|
+| Quire | start | end | text type   | initial height | text         | incipit                      | explicit | language | status |
+|-------+-------+-----+-------------+----------------+--------------+------------------------------+----------+----------+--------|
+| I     | 2r    | 6v  | CALENDARIUM |                |              |                              |          |          |        |
+|       | 8r    | 26v | OFFICE      |                | HOURS_VIRGIN | Heel maria fuldh m(eth) nade |          |          |        |
+|       | 26r   | 30v | OFFICE      |                | SEVEN_PSALMS |                              |          |          |        |
+|       | 31r   | 32v | OFFICE      |                | LITANY       |                              |          |          |        |

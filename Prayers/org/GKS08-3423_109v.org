@@ -1,0 +1,75 @@
+#+TITLE: Magnificat
+
+|------------+--------------|
+| Manuscript | GKS 3423 8vo |
+| Locus      | 109v-110r    |
+| Language   | Low German   |
+|------------+--------------|
+
+** Parallel
+
+* Transcription
+** Rubric
+psal(mus) Mag(nifica)t
+
+** Text
+[[2][M]]yne sele grot maket de(n) here(n)
+
+[[U]]n(de) my(n) gest hogede syk yn
+
+gade myneme heyle [[W]]e(n)te he heft
+
+anghesen de otmodycheyt syner
+
+derne(n) se hyr v(m)me werde(n) my segghe(n)
+
+salych alle slechte [[W]]e(n)te de dar wel-
+
+dych ys de heft my grote dynk
+
+ghedan vn(de) syn name de ys hyllych
+
+[[U]]n(de) syne barmhertycheit ys va(n)
+
+gheslechte(n) to gheslechte(n) de ene fruch-
+
+---110r---
+
+te(n) [[H]]e heft mach ghemaket in
+
+syne(n) arme vn(de) he vortrowet de ho-
+
+uerdyghe(n) in den danken synes herte(n)
+
+[[H]]e settede de weldyghe(n) va(n) dem sto-
+
+le vn(de) vorhogede de otmodyghe(n) [[H]]e
+
+vorvullede de hu(n)gerghe(n) myt gude(n)
+
+dynghe(n) vn(de) let de ryken ydel [[I]]sra-
+
+hel entfynk syn kynt vn(de) dachte
+
+syner barmhertycheyt [[A]]lso he ghe-
+
+sprake(n) heft to vnsem vedere(n) abra-
+
+ham ewychlyke(n) [[H]]ere gyf en de
+
+ewyghe(n) rowe vn(de) dat ewyghe lycht
+
+luchte en 
+
+** Rubric
+
+An(tiphonia)
+
+** Text
+Wy bydde(n) dyne gu-
+
+de dattu ene geuest dat ewyghe
+
+lycht vn(de) de ewyghe(n) rowe se mo-
+
+ten roste(n) yn den frede Ame(n)
