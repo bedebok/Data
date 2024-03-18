@@ -1,0 +1,98 @@
+#+TITLE: Magnificat
+
+|------------+------------|
+| Mansucript | AM 73 8vo  |
+| Locus      | 87r-88v    |
+| Language   | Low German |
+|------------+------------|
+
+* Transcription
+** Rubric
+psalm(us)
+
+** Text
+[[2][M]]yn sele scal den herren loue(n)
+
+vnde my(n) gheist hoghet sik
+
+---87v---
+
+an gude mynem hyle [[W]]en-
+
+te he heuet angeseen de otmo-
+
+dicheit syner dernen see dar
+
+van scholen my alle slechte
+
+salich spreken [[W]]ente he he-
+
+uet grote ding ghedaen de
+
+dar weldich is vnde syn na-
+
+me is hillich [[U]]nde sy(n) barm-
+
+herticheit is van slechte(n) den
+
+de ene vrughte(n) [[H]]e heuet
+
+welde daen an syne(n) arme he
+
+vorstotte de houerdighe(n) in de-
+
+me danke synes herten [[H]]e
+
+settede de weldighen va(n) deme
+
+stole vnde hoghede de othmodi-
+
+---88r---
+
+ghen [[H]]e vorfullede de hunger-
+
+gen myt guden dinge(n) vnde let
+
+de rike ydel [[H]]e entfink syn
+
+kint isr(ae)l vnde dachte syner bar-
+
+meherticheit [[A]]lso he ghesproken heft to vnseme vad(er)e abra-
+
+ha(m)me vn(de) syneme slechte ewich-
+
+liken [[E]]re sy deme vad(er)e. 
+
+** Rubric
+Anti(phonia)
+
+** Text
+O du maria kum to helpe den arme(n)
+
+vnde help den cleynen de dar synt
+
+mistwt?tich vnde wes trostende de dar 
+
+wenende synt bidde vor dat volk
+
+vnde kum vor de clerke vnde wes
+
+vorttredende vor dat ynnighe slech-
+
+te der wyues namen. 
+
+** Rubric
+Collecta
+
+---88v---
+
+** Text
+[[2][G]]if here dat dyne hilghen
+
+vor vns bidden alle tijd vn(de)
+
+du here twide se barmhertkliche(n)
+
+Dorch ih(esu)m (christu)m vnsen heren
+
+Amen.
