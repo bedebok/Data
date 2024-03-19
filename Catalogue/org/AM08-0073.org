@@ -220,5 +220,23 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 |       | 245r      |                   | PRAYER       |                | PSALM_24              |                                                                  |                                      |          |            |
 |       |           |                   |              |                |                       |                                                                  |                                      |          |            |
 
+
+** Contents 2
+|-------+--------------+-------------------------------------------+----------+--------|
+| Locus | Type         | Text                                      | Language | Status |
+|-------+--------------+-------------------------------------------+----------+--------|
+| 1v    | MINIATURE    |                                           |          |        |
+| 13r   | OFFICE_START | SEVEN_PSALMS                              |          |        |
+| 13r   | RUBRIC       | Hir begynne(n) soue(n) salme(n)           | MLG      | meta   |
+|       | PRAYER_START | SEVEN_PSALMS_1                            |          |        |
+| 13r   | INCIPIT      | [[3][D]]omine ne in furo(r)e tuo                 | LAT      | meta   |
+| 13r   | INCIPIT      | Here en schelt my nicht in dyneme vmmode  | MLG      | main   |
+|       | EXPLICIT     | vnde deme hilgen geyste. Amen.            | MLG      | main   |
+|       | PRAYER_START | SEVEN_PSALMS_2                            |          |        |
+|       | RUBRIC       | Ps(almus)                                 | LAT      | meta   |
+|       | INCIPIT      | Beati quo...                              |          |        |
+|       | INCIPIT      | Salich sint de den ere bosheyt is vorgeue |          |        |
+|       | EXPLICIT     | vnde deme hilgen geyste                   |          |        |
+|       |              |                                           |          |        |
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0073
