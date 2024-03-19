@@ -222,21 +222,102 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 
 
 ** Contents 2
-|-------+--------------+-------------------------------------------+----------+--------|
-| Locus | Type         | Text                                      | Language | Status |
-|-------+--------------+-------------------------------------------+----------+--------|
-| 1v    | MINIATURE    |                                           |          |        |
-| 13r   | OFFICE_START | SEVEN_PSALMS                              |          |        |
-| 13r   | RUBRIC       | Hir begynne(n) soue(n) salme(n)           | MLG      | meta   |
-|       | PRAYER_START | SEVEN_PSALMS_1                            |          |        |
-| 13r   | INCIPIT      | [[3][D]]omine ne in furo(r)e tuo                 | LAT      | meta   |
-| 13r   | INCIPIT      | Here en schelt my nicht in dyneme vmmode  | MLG      | main   |
-|       | EXPLICIT     | vnde deme hilgen geyste. Amen.            | MLG      | main   |
-|       | PRAYER_START | SEVEN_PSALMS_2                            |          |        |
-|       | RUBRIC       | Ps(almus)                                 | LAT      | meta   |
-|       | INCIPIT      | Beati quo...                              |          |        |
-|       | INCIPIT      | Salich sint de den ere bosheyt is vorgeue |          |        |
-|       | EXPLICIT     | vnde deme hilgen geyste                   |          |        |
-|       |              |                                           |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| Locus | Type          | Text                                                    | Language | Status |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 1r    | CU_START      | QUIRE I                                                 |          |        |
+| 1v    | MINIATURE     |                                                         |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 2r    | CU_START      | QUIRE II                                                |          |        |
+| 2r    | CALENDARIUM   |                                                         |          |        |
+| 2r    | i             | Januari(us) heft .xxxi. daghe                           | MLG      | main   |
+| 11v   | e             | De nacht is xviiij stunde de dagh ij.                   | MLG      | main   |
+| 11v   | PRAYER_START  |                                                         |          | added  |
+| 11v   | i             | Gudtz Guodhied will wi prise                            | DAN      | added  |
+| 11v   | e             | est Anima Mea                                           | LAT      | added  |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 12r   | CU_START      | QUIRE III                                               |          |        |
+| 12r   | COMPUTUS      |                                                         |          |        |
+| 12v   | PROGNOSTICON  |                                                         |          |        |
+| 12v   | i             | Første dagh i ny manæ                                   |          |        |
+| 12v   | e             | gør me(n)nisken (??)                                    |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 13r   | CU            | QUIRES IV-                                              |          |        |
+| 13r   | OFFICE        | SEVEN_PSALMS                                            |          |        |
+| 13r   | r             | Hir begynne(n) soue(n) salme(n)                         | MLG      | meta   |
+|       | PRAYER        | SEVEN_PSALMS_1                                          |          |        |
+| 13r   | i             | [[3][D]]omine ne in furo(r)e tuo                               | LAT      | meta   |
+| 13r   | i             | Here en schelt my nicht in dyneme vmmode                | MLG      | main   |
+|       | e             | vnde deme hilgen geyste. Amen.                          | MLG      | main   |
+| 14r   | PRAYER        | SEVEN_PSALMS_2                                          |          |        |
+|       | r             | Ps(almus)                                               | LAT      | meta   |
+|       | i             | Beati quo...                                            |          |        |
+|       | i             | Salich sint de den ere bosheyt is vorgeue               |          |        |
+|       | e             | vnde deme hilgen geyste                                 |          |        |
+| 15v   | PRAYER        | SEVEN_PSALMS_3                                          |          |        |
+|       | i             | D(omi)ne ne in furore tuo ar                            |          |        |
+|       | i             | Here en scheld my nicht in dineme vmmode                |          |        |
+|       | e             | vn(de) deme hilgen geyste. Ame(n).                      |          |        |
+| 17v   | PRAYER        | SEVEN_PSALMS_4                                          |          |        |
+|       | i             | Miser(er)e mei d(ominu)s                                |          |        |
+|       | i             | Got vorbarme dy ouer my                                 |          |        |
+|       | e             | vn(de) d(eme) h(ilgen) g(eyste)                         |          |        |
+| 19v   | PRAYER        | SEVEN_PSALMS_5                                          |          |        |
+|       | i             | DOmine exaudi or(ati)o(ne)m mea(m)                      |          |        |
+|       | i             | Here twide myn beth                                     |          |        |
+|       | e             |                                                         |          |        |
+| 22r   | PRAYER        | SEVEN_PSALMS_6                                          |          |        |
+|       | i             | De profundis dama.... ad te                             |          |        |
+|       | i             | Here ik rep to dy van der dupe                          |          |        |
+|       | e             | vn(de)                                                  |          |        |
+| 22v   | PRAYER        | SEVEN_PSALMS_7                                          |          |        |
+|       | i             | Domine exaudi om(ine)m mea(m) ...                       |          |        |
+|       | i             | Here twide my(n) bet                                    |          |        |
+|       | e             | vn(de) deme hilge(n) geyste. Amen.                      |          |        |
+| 24r   | OFFICE        | LITANY_OF_SAINTS                                        |          |        |
+|       | i             | Kyrieleyson. (Christ)eleyson.                           |          |        |
+|       | i             | Here ih(es)u (christ)e: vorlose vns                     |          |        |
+|       | e             | de wonunghe der sachtmodicheit vn(de) des vredes. Amen. |          |        |
+| 37v   | OFFICE        | LITANY_MARY                                             |          |        |
+|       | r             | Vnser leue(n) vrowe(n) letanie                          |          |        |
+|       | i             | Kyriel(eyson) (Crist)el(eyson)                          |          |        |
+| 37v   | i             | S(an)c(t)a maria bidde vor vns                          |          |        |
+| 42v   | e             | dat ik sy(n) rolich antlat mote an seen. Am(en).        |          |        |
+|       | PRAYER        |                                                         | MLG      | added  |
+|       |               | Grot sistu maria lillien                                |          |        |
+|       |               | dorch dynes leue(n) kindes milden barmherticheit. amen. |          |        |
+| 43v   | MINIATURE     |                                                         |          |        |
+| 44r   | OFFICE        | HOURS_VIRGIN                                            |          |        |
+|       |               | HOURS_VIRGIN_MATINS                                     |          |        |
+|       |               | Domine labia mea aperies                                |          |        |
+|       |               | Here opene myne lippen                                  |          |        |
+|       | e             |                                                         |          |        |
+|       | PSALM         | PSALM_94                                                |          |        |
+|       | i             | Komet wy vrowen vns                                     |          |        |
+|       |               | en Jubilere wy deme heren                               |          |        |
+| 45v   |               |                                                         |          |        |
+| 45v   | r             | PSAlmus                                                 |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 46r   | INSERTED_LEAF |                                                         |          |        |
+| 46r   | HYMNUS        | QUEM TERRA PONTUS                                       |          |        |
+| 46r   | r             | Quem terra pontus                                       |          |        |
+| 46r   | i             | Dat lyf der iuncvrowen marien                           |          |        |
+| 46v   | e             |                                                         |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 47r   | PSALM         | PSALM_8                                                 |          |        |
+|       |               | Domi(n)e d(omi)n(u)s n(oste)r                           |          |        |
+|       |               | Here vnse here                                          |          |        |
+| 48r   | PSALM         | PSALM_18                                                |          |        |
+|       | r             | p(salmu)s                                               |          |        |
+|       | i             | Celi enarrant gl(ori)am                                 |          |        |
+|       | i             | De he(m)mele kundeghet de ere godes                     |          |        |
+| 50r   | PSALM         | PSALM_23                                                |          |        |
+|       |               | P(salmu)s                                               |          |        |
+|       |               | Domini est t(er)ra                                      |          |        |
+|       |               | Des here(n) is dat ertrike                              |          |        |
+| 51r   | LESSON        | LESSON_1                                                |          |        |
+|       | r             | l(ecc)i(o) pr(imi)b(us)                                 |          |        |
+|       | i             | Sancta maria iuncrowe bouen alle iuncrowen              |          |        |
+|       |               |                                                         |          |        |
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0073
