@@ -288,7 +288,7 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 |       |               | dorch dynes leue(n) kindes milden barmherticheit. amen. |          |        |
 | 43v   | MINIATURE     |                                                         |          |        |
 | 44r   | OFFICE        | HOURS_VIRGIN                                            |          |        |
-|       |               | HOURS_VIRGIN_MATINS                                     |          |        |
+|       | OFFICE_PART   | HOURS_VIRGIN_MATINS                                     |          |        |
 |       |               | Domine labia mea aperies                                |          |        |
 |       |               | Here opene myne lippen                                  |          |        |
 |       | e             |                                                         |          |        |
@@ -318,6 +318,47 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 | 51r   | LESSON        | LESSON_1                                                |          |        |
 |       | r             | l(ecc)i(o) pr(imi)b(us)                                 |          |        |
 |       | i             | Sancta maria iuncrowe bouen alle iuncrowen              |          |        |
-|       |               |                                                         |          |        |
+| 51v   | LESSON        | LESSON_2                                                |          |        |
+|       |               | l(eccio) ij                                             |          |        |
+|       |               | Sancta maria vnder alle(n) milde(n)                     |          |        |
+| 52r   | LESSON        | LESSON_3                                                |          |        |
+|       | r             | lectio tercia                                           |          |        |
+| 52v   | i             | Sancta ma\r/ia wente du werdich werest                  |          |        |
+| 53r   | CANTICLE      | TE_DEUM                                                 |          |        |
+|       | r             | Cantic(ulus)                                            |          |        |
+|       | i             | Te deum laudam(us)                                      |          |        |
+|       | i             | Wy louen dy got                                         |          |        |
+| 54v   | OFFICE_PART   | HOURS_VIRGIN_LAUDS                                      |          |        |
+|       |               | laud(is)                                                |          |        |
+|       |               | Got dencke an myne helpe                                |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 55r   | ADDED_CU      |                                                         |          |        |
+|       | PRAYER        | TE_MATREM (Bonaventure)                                 |          |        |
+|       |               | Te deum                                                 |          |        |
+|       |               | Te virginem mariam                                      |          |        |
+|       |               | Wy louen di iu(n)curowe maria                           |          |        |
+|       |               | make vns salich ewichliken. Amen.                       |          |        |
+|-------+---------------+---------------------------------------------------------+----------+--------|
+| 59r   | CONTINUED     | helpende. Ere deme                                      |          |        |
+| 59r   | PSALM         | PSALM_92                                                |          |        |
+|       |               | p(salmu)s                                               |          |        |
+|       |               | De here regnerede                                       |          |        |
+| 59v   | PSALM         | PSALM_99                                                |          |        |
+|       |               | p(salmu)s                                               |          |        |
+|       |               | Jvbilate deo                                            |          |        |
+|       |               | Iubileret gode alle ertrike                             |          |        |
+| 60r   | PSALM         | PSALM_62                                                |          |        |
+|       |               | psalmus                                                 |          |        |
+|       |               | Deus deus meus                                          |          |        |
+|       |               | Got my(n) got ik wake to dy                             |          |        |
+| 61r   | PSALM         | PSALM_66                                                |          |        |
+|       |               | p(salmu)s                                               |          |        |
+|       |               | Got vorbarme vnser vnde benedye vns                     |          |        |
+| 61v   | CANTICLE      | TRIUM_PUERORUM                                          |          |        |
+|       |               | Benedicte om(n)ia                                       |          |        |
+|       |               | Bendyet den here(n) alle gy werke des heren             |          |        |
+| 63v   | PSALM         | PSALM_148-150                                           |          |        |
+|       |               | Laudate d(ominu)m de                                    |          |        |
+|       |               | Louet den here(n) van den hemmelen                      |          |        |
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0073
