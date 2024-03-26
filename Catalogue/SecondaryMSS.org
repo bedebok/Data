@@ -1,0 +1,5 @@
+#+TITLE: Secondary Manuscripts
+These manuscripts are not part of the main corpus but are used as secondary source materials.
+
+** Wolfenbüttel, Cod. Guelf. 704 Helmst. [[https://diglib.hab.de/?db=mss&list=ms&id=704-helmst&catalog=Lesser&lang=en][cat]]
+Theological collection produced in Marienwohlde monastery ca. 1460.
