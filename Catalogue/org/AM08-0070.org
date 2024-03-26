@@ -99,4 +99,5 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
 
 * Bibliography
+- Ellen Jørgensen (1906) :: En Oversættelse af Cantus Sororum og Sermo Angelicus. /Arkiv för Nordisk Filologi/ 22: 367-370.
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0070
