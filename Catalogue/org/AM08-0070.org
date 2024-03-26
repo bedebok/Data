@@ -2,15 +2,15 @@
 A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
 [[../imgs/AM08-0070.jpg]]
 * Physical Description
-|--------------+------|
-| SUPPORT      | perg |
-| NUMBER       |      |
-| SIZE         |      |
-| WRITING AREA |      |
-| COLUMNS      |      |
-| LINES        |      |
-| FOLIATION    |      |
-|--------------+------|
+|--------------+----------|
+| SUPPORT      | perg     |
+| NUMBER       | 257      |
+| SIZE         | 160 112  |
+| WRITING AREA |          |
+| COLUMNS      | 1        |
+| LINES        |          |
+| FOLIATION    | f. 1-256 |
+|--------------+----------|
 
 ** Binding
 |--------------+-------------|
@@ -27,33 +27,37 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |------------+--------------|
 
 * Quire Structure
-|--------+--------+-----------+----------------------|
-| Quires | Leaves | Structure | Changes              |
-|--------+--------+-----------+----------------------|
-| I      |        |           |                      |
-|        |    -18 |           | (catchword)          |
-|        |    -28 |           | (catchword)          |
-|        |    -58 |           | (catchword)          |
-|        |  64-65 |           | Added leaves         |
-|        |    -70 |           | (catchword)          |
-|        |    -80 |           | (catchword)          |
-|        |    -86 |           | (catchword)          |
-|        |    -96 |           | (catchword)          |
-|        |    107 |           | pages missing before |
-|        |    109 |           | pages missing after  |
-|        |   -113 |           | (catchword)          |
-|        |   -123 |           | (catchword)          |
-|        |   -133 |           | (catchword)          |
-|        |   -143 |           | (catchword)          |
-|        |    172 |           | pages missing after  |
-|        |   -181 |           | (catchword)          |
-|        |   -191 |           | (catchword)          |
-|        |   -201 |           | (catchword)          |
-|        |   -211 |           | (catchword)          |
-|        |    219 |           | pages missing after  |
-|        |   -220 |           | (catchword)          |
-|        |   -230 |           | (catchword)          |
-|--------+--------+-----------+----------------------|
+|--------+----------+--------------+-----------------------------------------------------|
+| Quires |   Leaves | Structure    | Changes                                             |
+|--------+----------+--------------+-----------------------------------------------------|
+| I      |      1-8 | quinternion? | One (or more) missing before 1; One missing after 1 |
+|        |     9-18 | quinternion  | (catchword)                                         |
+|        |    19-28 | quinternion  | (catchword)                                         |
+|        |    29-38 | quinternion  |                                                     |
+|        |    39-48 | quinternion  |                                                     |
+|        |    49-58 | quinternion  | (catchword)                                         |
+|        |    59-70 | quinternion  | 64-65 added                                         |
+|        |    71-80 | quinternion  | (catchword)                                         |
+|        |    81-86 | quinternion  | Missing leaves between 83-84 (catchword)            |
+|        |    87-96 | quinternion  | (catchword)                                         |
+|        |   97-106 | quinternion  |                                                     |
+|        |  107-113 | quinternion  | On missing before 107; two missing between 109-110  |
+|        |  114-123 | quinternion  | (catchword)                                         |
+|        |  124-133 | quinternion  | (catchword)                                         |
+|        |  134-143 | quinternion  | (catchword)                                         |
+|        |  144-153 | quinternion  |                                                     |
+|        |  154-163 | quinternion  |                                                     |
+|        |  164-172 | quinternion  | pages missing after 172                             |
+|        |  173-181 | quinternion  | (catchword)                                         |
+|        |  182-191 | quinternion  | (catchword)                                         |
+|        |  192-201 | quinternion  | (catchword)                                         |
+|        |  202-211 | quinternion  | (catchword)                                         |
+|        |  212-220 | quinternion  | page missing after 219 (catchword)                  |
+|        |  221-230 | quinternion  | (catchword)                                         |
+|        |  231-240 | quinternion  |                                                     |
+|        | 241-253? |              |                                                     |
+|        |  254-257 |              | Added later                                         |
+|--------+----------+--------------+-----------------------------------------------------|
 
 * Contents
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
@@ -89,6 +93,7 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 | 247r  |      | PRAYER       | REGINA_COELI    |      |                                     |                                    |          |        |
 | 247r  |      | ADDED_PRAYER |                 | 1068 | Virgo mater resurgentis             | bliffuendes liiffs fødhæ. Alleluya | DA       | added  |
 | 253v  |      |              |                 |   78 | O helghe [???] atskillielighe       | vndh(e)n ænde Ame(n)               | DA       | added  |
+|-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
 | 254r  |      | CAPITULUM    |                 |      | Ik bidde iw høret                   |                                    |          |        |
 | 254v  |      |              |                 | 1069 | O iomffrw kirke(n)s moder           |                                    |          |        |
 | 254v  |      |              |                 | 1070 | Heel thu som æst                    |                                    |          |        |
