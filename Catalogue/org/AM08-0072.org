@@ -1,6 +1,6 @@
 #+Title: AM 72 8vo 
 
-A fifteenth-century manuscript containing the /Extendit manum/ passion story (attributed to Heinrich of St. Gallen) in Danish, followed by the Hours of Mary Magdalene and a psalter. The passion story is likely a copy of Stockholm A 31 and may point back to a Low German source (see e.g. [[https://digital-stadtbibliothek.luebeck.de/viewer/image/Mstheolgerm429/425/LOG_0003/][Lübeck Ms. Theol. 49 4to]]).
+A fifteenth-century manuscript containing the /Extendit manum/ passion story (attributed to Heinrich of St. Gallen) in Danish, followed by the Hours of Mary Magdalene and a psalter. The passion story is likely a copy of Stockholm A 31 and may point back to a Low German source (see e.g. [[https://digital-stadtbibliothek.luebeck.de/viewer/image/Mstheolgerm429/425/LOG_0003/][Lübeck Ms. Theol. 29 4to]]).
 
 * PhysDesc
 |--------------+-------------|
