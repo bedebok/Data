@@ -1,4 +1,4 @@
-¶ De erste voerrede
+* De erste voerrede
 IN dyseme cleynen
 boke. ghenoment /
 eyn spegel der sam
@@ -10,34 +10,34 @@ baren worden in dat erste. wat
 eyne ghude zele an syk hebben
 schal. in deme ersten cappittel.
 der voerrede
-¶ Jnt ander. wo vorgrezelich
+** ¶ Jnt ander. wo vorgrezelich
 weerden schal. dat strenghe ric
 the godes. dat vynstu hyr na in
 deine vj capittel. wente in dat
 ix cap. der voerrede
-
-¶ Jnt drudde. wat eyn ynnich
+---2v---
+** ¶ Jnt drudde. wat eyn ynnich
 bed is. vnde want dar alle to horet
 dath yd vruchtbaer. rechte ghe
 schykket. vnde ghode anname zy.
 dyt vynstu hyr na yn deme ir
 cap. vnde in deme x. der voerrede
-¶ Jnt veerde. by want teken. dat
+** Jnt veerde. by want teken. dat
 men kenmen schole. eynen othmo
 dighen minschen. dyt vynstu in
 deme xj capittel
-¶ Jnt dath vofte. woer mede
+** ¶ Jnt dath vofte. woer mede
 men moghe vordryuen. alle qua
 de schedelyke danken. dyt vyn
 stu hijr na in deine xvj cap.
-¶ Jnt soste eyne korte dechtnis
+** ¶ Jnt soste eyne korte dechtnis
 se ouer dat Pater noster. vnde
 Aue maria. vnd hijr mede heft
 hijr an dat erste boek. dat Pa
-
+---3r---
 ter noster schaltu lezen. men de
 glosen schaltu denken.
-¶ Jn dat zouede. vynstu hijr
+** ¶ Jn dat zouede. vynstu hijr
 den psalter marien. wnnychly-
 ken mit blomen doerghevloch
 ten. des leuendes vnde des lyden
@@ -46,20 +46,20 @@ in deme drudden capittel. dessen
 vaken to lezen. heft zo groet vor
 deenst. dat dat neman vullen seg-
 ghen mach.
-¶ Jn dar achte. souen bede. de
+** ¶ Jn dar achte. souen bede. de
 men lezen schal. in dem vij daghen
 der weken. des sondaghes dat
 erste. des maendaghes dat an
 der. et cetera
 Jtem des vrygdaghes etlyke
 bede van der vthgheystynghe
-
+---3v---
 cristi vnses heren in dene cruce.
 vnde de zynt zere to synne to ne-
 mende. vp dat wy alle wol ster
 uen. vnde gode de sele moghen
 antwarden.
-¶ Jnt neghede van deme ad-
+** ¶ Jnt neghede van deme ad-
 uentu. dat ys van der thokumst
 cristi vnses heren nach der mins
 cheyt. van zyner boerd. syner
@@ -67,12 +67,12 @@ besnydynghe. Syner apenba-
 ringhe. vor den dren hillighen
 koninghen. van der vasten. van
 paeschen. vnde alzo voert.
-¶ Jnt teynde. vnde ynt leste. van
+** ¶ Jnt teynde. vnde ynt leste. van
 allen hochbenomeden hillighen
 ouer dat ghantze iaer. van iewe
 likem eyn bed. myt syner collec
 ten. Up dat en iewelyk / lezen
-
+---4r---
 de vnde betrachtende / eere do
 ghetzam. wullenkomen. vnde weer
 de hillighe leuend. sik in ein spe
@@ -91,26 +91,7 @@ de. vul louen. vul rechtuerdicheit
 vul kuscheyt. vnde vul aller oth-
 modicheit. wente als sunte thomas
 scryft / vp den propheten ysaiam /
-
-de vnde betrachtende / eere do
-ghetzam. wullenkomen. vnde weer
-de hillighe leuend. sik in ein spe
-ghelen moghe. vnde van deme
-anghesichte zyner zele afwas-
-chen vnde delghen. alle smytte
-vnde vnaerd zynes leuendes.
-Wente in dene leuende der hilli
-ghen vynt me alle vullenkomen-
-heyt. alle strenghicheyt vnde alle
-claerheyt. eines cristliken leuen-
-des. Nach deme dat de hylly-
-ghen godes zyn eyne woninghe
-des hillighen gheystes vul gna-
-de. vul louen. vul rechtuerdicheit
-vul kuscheyt. vnde vul aller oth-
-modicheit. wente als sunte thomas
-scryft / vp den propheten ysaiam /
-
+---4v---
 in deme li cap. de vrunde godes.
 hebben hijr in disseme leuende.
 veer grote wnnicheyt. vnde vroly
@@ -129,7 +110,7 @@ ben ze hijr lutter. gude vnd clare
 werke ghehat. wente ichtes wes
 ieghen den wyllen godes wol-
 den se nicht denken. spreken / ef-
-
+---5r---
 te doen. dar vmme hebben ze dar
 nu. de vullenkomen leue godes
 alzo dat ere wylle. eyn ys ouer
@@ -148,7 +129,7 @@ ewyghen leuendes. alzo dat ze
 heten de tafelbrodere godes. vnde
 alle wollust de ze begheren. de
 hebben se. Jnt veerde. wente hijr
-
+---5v---
 hadden ze satycheyt. vreede. vnde
 sachtmodicheyt eres herten. sun
 der kyff. twedracht. scheelde
@@ -167,7 +148,7 @@ te. sunte marcus ouer den snel
 len gogen doed. Sunte vincencius
 ouer de vorlaren dynghe. Sunte
 blasius ouer de hals swellinghe
-
+---6r---
 Sunte fabien. sunte marten. sun-
 te panthaleon / sunte anthonius
 sunte gregorius sunte cosmas vnde
@@ -186,7 +167,7 @@ vnde behuef deme sundyghen
 mynschen. dat he vele patronen.
 cornuten. vnde vorbydders heb
 be by ghode. de he alle daghe
-
+---6v---
 eren moghe. wente ze hebben de
 groten macht. vnde de ewighen ere
 in deinen throne godes. alzo dat
@@ -205,7 +186,7 @@ de in deinen hemmele. vor deme
 anghesychte godes. in alle vnser
 noedtroft vnde redeliker begherin
 ghe Dar vmme is dit seker vnde
-
+---7r---
 vast. wart ieman in zyneme be
 de nicht ghetweden. dat maket
 zyn kranke loue. efte zin vnweer
@@ -224,7 +205,7 @@ sundergher gnade. als deine ro
 uer beschach in deme dode vn
 ses heren ¶ Jtem de ghennen
 de dysse nascreuen bede wyllen
-
+---7v---
 lezen. na deme vorlope des ia
 res. van festen to festen. den zy
 gheraden. dat se dat bed van de
@@ -243,7 +224,7 @@ vij stunden. van em hebben alle hyl
 lighen ere doghede vnde eren. vnde wi
 alle dat wesent. dat leuent. vnd de
 gnade. Ok were dat zere vro-
-
+---8r---
 melyk vnde vordeenstlyk. dath
 men zo dane ein bed leze. de ach
 te daghe ouer des festes. vp dat
@@ -262,7 +243,7 @@ vormach to holden van arbeydes
 weghen. de leze dat bed yo drie
 des hillighen daghes. wente alzo
 pleghen ok de guden ioden to beden
-
+---8v---
 als du vynst in den werken der
 aposele / in deme drudden cap.
 in der glosen. dede vele hyllighen
@@ -281,7 +262,7 @@ capittel. de vorkerede wylle. de
 in god nicht en louet. vnde nycht
 en werket dorch der rechten le-
 ue ghodes. vnde ok de ere godes
-
+---9r---
 nicht en socht bauen. al men zin
 eghenen loff vnde nut. disse vor-
 keerde wylle schedet dem minschen
@@ -300,7 +281,7 @@ de plyet sulker snoden minschen
 de mer denken vp dat tijtlik is
 vnd lustich vnd lelker dene plese
 che den hijr swaer is ghud tho
-
+---9v---
 doende. vnde ein buetsam leuent
 to holden De nicht betrachten de
 ewighen vordoemnysse. eer ze.
@@ -318,8 +299,7 @@ zele gheyt nycht de hylyghe
 gheyst. vnde gude lete. Se zint al
 zo bitter in der consciencien. dat
 alle dath / em nycht en smekket.
-
-
+---10r---
 dat van gode is. vnde to der zele
 salicheyt horet. vnde disse laten syk
 nicht rynghe straffen. vnde dat
@@ -331,10 +311,10 @@ de gallen. dissen wil de here seg
 ghen. wyket van my. de gy doen
 de boszheyt. Mathel yn deme
 soueden capittel.
-¶ Hijr volghet na
+* ¶ Hijr volghet na
 De ander voerrede
-¶ Dat erste capittel
-
+** ¶ Dat erste capittel
+---10v---
 Sunte iacob secht in
 siner regulen in de
 me veerden capit-
@@ -353,7 +333,7 @@ aller vlyte to holden. Als eyne
 snode vrouwe. efte man. de sinen
 echten gaden vorsmaet vnde vor
 leth. vndde heft eynen anderen yn
-
+---11r---
 vntucht vnde in schanden leuer.
 wen de tuchtighen leue des ech-
 tes. dar vmme sprykt god dorch
@@ -372,7 +352,7 @@ nem rechten richte. dath du alle
 tijd vor oghen hebbes de rede-
 licheit. alzo dat du alle tijd mit
 vlyte sokest dat gude, vnde myne
-
+---11v---
 boden. vnde vormydest dat quade
 dat is alle dat. dat dar is ieghen
 myne bode Ok werde ik di mi
@@ -391,7 +371,7 @@ ghen dy ghedaen hefft. ghans
 vih alle dyneme herten. alzo dat
 dar nene wrake vnde vnghunst yn
 ne blyue. als du wul. dat ik dy
-
+---12r---
 vorgheue. alle wrake diner sun
 de. wente id is nicht eyn scherf.
 dat dyn broder efte suster sun-
@@ -405,12 +385,12 @@ hand laten doden. vnde senden dy
 in de ewyghen vnentliken vor-
 doemnisse. vnde pynighen di dar
 bouen alle mynsyke begryp.
-¶ Cap. ij. Sich leue broder vnde
+** ¶ Cap. ij. Sich leue broder vnde
 suster. alzo schal staen. dat echte
 vnde de leue des brodeghas crli-
 sti. myt zyner brued der zele. an
 ders ys ze eyne eebrekerynme.
-
+---12v---
 vnde mach nicht salich weerden
 Men wi vyl armen. hebben al
 le ghesundighet bouen mate. als
@@ -429,7 +409,7 @@ Jeremias secht. wente god is al-
 zo strengheliken rechtuerdich.
 dat he eyn ydelword. nicht wyl
 vngheplaghet laen. als mathe
-
+---13r---
 us secht in demen xij cap. Wor-
 vmme secht sunte peter. heft god
 den sundyghen enghelen nycht
@@ -448,14 +428,15 @@ doen. dede hijr alzo hunde vnde
 swyne leuen. in memnychuolden
 sunden. Nymmer wen de beeste
 disses ertrikes He wyl ze vor-
-
+---13v---
 delghen in peke vnde in sweuel
 vnde ok in deme ewyghen vuren.
 als he sodoma vnde gomorra mit
 den anderen steden heft ghedaen.
 sunder ze gheeuen syk van den
 sunden. vnde keren to gode, yn
-alle ereme herten. ¶ Capit. iij
+alle ereme herten.
+** ¶ Capit. iij
 Dar vmme secht de here tho
 der vordmaleden zele. Jeremie
 in deme drudden cap. Ach wo
@@ -467,7 +448,7 @@ ghen my hefst leef ghehat. dath
 hefstu vntuchtighen leef ghehat
 Gyff doch ouer dynen harden
 stenyghen zyn. van alle den. de
-
+---14r---
 dy in dyner vtersten noed nycht
 helpen moghen. vnde ok nycht
 heelpen wyllen. al mochten ze
@@ -486,7 +467,7 @@ vroude. dar du bist va gnaden
 tho ghescheppet. vnde ok vor-
 wysen mach. yn dee ewyghen
 voerdomnysse. vmme dynes
-
+---14v---
 vnhoersames wyllen. Se doch
 rechte an. de mennichuolden boes
 heyt. dyner sunde. zo vinstu dat
@@ -505,7 +486,7 @@ vnde vele knechte vnde meghede
 vmme eren wyllen gheholden.
 vnde ok vele arsten. wente alle
 creatuer denet dy alle tijd nacht
-
+---15r---
 vnde dach. vnde ik hebbe dy sul-
 uen arstediget, in deme smelike
 ste me doede des cruces. wath
@@ -520,11 +501,12 @@ is. dat du hefst vorlaten god di
 nen heren. vnde hefst zynen vruch-
 ten, in dyneme herten nicht ghe
 hat. Jeremie yn deme anderen
-cap ¶ Dat iiij cap. Dar vm
+cap 
+** ¶ Dat iiij cap. Dar vm
 me secht sunte pawel to den he
 breen in deme x cap. Jd is dul
 werk. nicht wedder tokeren yn
-
+---15v---
 der tijd det gnade. wesen id is to
 male greselich touallende in de han
 de des leuendighen ghodes, in
@@ -543,7 +525,7 @@ vnde alle ghunst der maghescop
 vnde vruntscop. ys veerne van
 em, wente zyn gherichte. is noch
 scharper vndde rader. wen ieni-
-
+---16r---
 gheghlod wycht. de doch eyn
 weytenkoerne. nicht tho ghyft.
 efte aftuecht Nym ein exempel
@@ -561,7 +543,7 @@ me eghene lichame. wente in dat
 alder vterste. zacharias de bys
 cop vnde vader sunte iohannis bap
 tisten. ein stuark bewarer alle der
-
+---16v---
 bode godes, louede nicht ryn-
 ghelyken deme ertzen enghele
 gabrieli. dar vmme wart he stum
@@ -580,7 +562,7 @@ vndde wolden vor gode wyro-
 ken. vnd dat vur sloch uth deme
 wyrokvate. vnde brende ze alle
 beyde doed, als men list in deme
-
+---17r---
 lyff vnde zele vorwisende. in dat
 ewighe vure. myt alle den bosen
 gheysten to ewighen tiden sun
@@ -599,8 +581,7 @@ dyghen aldermeyst ghemoget
 weerden. wen den cleyne vnde
 den othmodighen. van ghode.
 gnade vnde barmhertycheyt.
-e iij
-
+---17v---
 boke der prester. in deme x cap.
 vnde in deme boke der talle in de
 me xj cap. By sodanen recht-
@@ -610,7 +591,8 @@ ken. ift god ok wyl nicht recht-
 verdich zyn. by deme harden sun-
 dere. dede in der tijd der gnade.
 de gnade vorslymmet vnde vorsu
-met ¶ Dat v cap. Dar vmme
+met 
+** ¶ Dat v cap. Dar vmme
 ropt cristus in deme groten ser
 mone Maihei in deme vij cap.
 De myne word horet. vnde deyt
@@ -619,8 +601,7 @@ me wysen manne. de ze ouerst
 horet vnde nicht en deyt. de wert
 ghelikent. eyneme dullen manne
 dede myt den vyf dullen yunec-
-U
-
+---18r---
 frouwen. ewych buen der ewy
 ghen vroude besloten wart. als
 matheus ok scrift in deme xxv.
@@ -638,8 +619,8 @@ efte wo groet du em offerst. men
 aldermeist dyne guden andacht
 vnde dyn mylde herte. al is de
 ghaue cleyne. doch myt guder
-andacht. haddestu meer. duwol
-
+andacht. haddestu meer. du wol
+---18v---
 dest vele meer vmme zyne leue
 gheuen. vnde alle tijd bouen al
 dath du alle tijd dynen eghenen
@@ -657,13 +638,13 @@ moghest ewych vmme vorlare
 zyn. Wente sunte Augustinus
 sprikt. Jd is als eyn oghenblyk.
 dath dar lustet yn den sunden.
-E ij
-
+---19r---
 men yt is ewych dat dar pyni-
 ghet vnde plaghet de doedsun
 de. de de mynsche hijr nicht be-
 ruwet. ghebichtet. vnde vullenko-
-men ghebeteret heft. ¶ Dat vij
+men ghebeteret heft. 
+** ¶ Dat vij
 cap. Wente dat gherichte gho
 des wert zo strenghe zo bitter.
 vnde zo greselich. dat dat nein tun
@@ -677,7 +658,7 @@ te de hillighen enghele, weerden
 dar voerbeuende. de syk doch
 nicht schuldich en weten. ok wert
 he tomale bitter. wente he wert
-
+---19v---
 vorlenet wert. dyt ys de dach.
 des tornes. vnde der wrake. gho-
 des. dar ynne he wrake wil ghe
@@ -695,8 +676,8 @@ des ghebrekes vnde kumers al-
 les guden. alzo dat de quaden
 gheerne wolden. dat ze de ber-
 ghe. vallende vp se. mochten vor
-moerden, vnde de grunde vnde. da.
-
+moerden, vnde de grunde vnde. da-
+---20r---
 le vordekken. vp dath ze nycht
 dorften komen vor dat streghe
 richte godes. ze werden dar na
@@ -715,9 +696,7 @@ towesen. vnde regeren. Dyt ys
 de dach der dusternysse vnde
 der dunkerheyt. wente alle vor
 hardedeen sundere. de hijr yn
-g iij
-e a
-
+---20v---
 den dunkeren vnsmydighen sunden
 hebben gheleuet. de werden den
 ne de ewyghen vthwendighen
@@ -736,7 +715,7 @@ worpen. vnde de doed de wert
 ze hodende. dat is de bose gheist
 de. de doed is ghehete in deme
 boke der heimeliken apenbari-
-
+---21r---
 ghe. in deime vj cap. vnde dauid in
 deme xlvij psalmen. dar werden
 ze ligghen glogende. bernende.
@@ -755,7 +734,7 @@ claghen. vnde ieghen iuw vechten. wen
 te gy hebben erer alle vorkeerly
 ken ghebruket,/ vnd nicht to der
 ere ghodes. Jn disseme daghe
-
+---21v---
 wyl ghod de mynschen zere be
 drouen vnde bekumere. ze wer
 den denne ghande alzo blinden.
@@ -768,15 +747,14 @@ len ze volen to ewyghen tiden.
 ere bloed. dat se ghar eddel heb
 ben gheachtet,/ dat wil god vor
 storte alzo vulen slyek. vnde ere
-vlesch als deek ¶ Dat vij cap.
+vlesch als deek 
+** ¶ Dat vij cap.
 Disse word vortellet sunte gre
 gorius in der twolften omelye vnde
 sprikt. Myne alderleuesten bro-
 dere. hertliken weghet wol ouer
-in wat scharper s
-eselicheit dat
-v.
-
+in wat scharper greselicheit dat
+---22r---
 leste richte komen wyl. ouer de
 quaden. wylk gherichte de pro-
 phete ozee. vthdrukket in zo me-
@@ -795,7 +773,7 @@ chte ghodes. Dysse lued schal
 eyn stemme zyn, ludende na dys-
 ser wyse ift id eyne bassune zy-
 de vns stemmen wys eschende
-
+---22v---
 wart. dar na, als dat vur denne
 is gheghaen ouer alle de war-
 lnd baue alle berghe. Unde dit
@@ -813,8 +791,8 @@ kumt de bassune. vnde dath stren
 ghe richte wert cristus denne sit
 tende in der lucht. myt zynen by
 sitters den apostelen. bauen de
-me dale iosophad by iherusalen.
-
+me dale iosophad by iherusalem.
+---23r---
 vnde hastighen in eyneme oghen
 slaghe. werden de vterkore vp
 ghehauen. in de lucht. wen em
@@ -833,7 +811,7 @@ blyuen denne in eyneme summen
 to ewighen tiden. in deme suluen
 ewighen vure. sunder licht. sunder
 rouwe. sunder troest. sunder gna
-
+---23v---
 de. sunder alle vorlichtinghe der
 pyne. to ewighen tiden sunder en
 de. vnde denne werden de vor-
@@ -852,7 +830,7 @@ uen. to ewighen tiden. sunder ie
 nighe hopene der gnade. Ach
 leue broder denke. dat hundert
 dusent iare. vnde noch hundert
-
+---24r---
 dusent yare. hebben ende. men
 ewich hefft nenen ende. vnde vor
 dyt ewych. nymstu vakene yn
@@ -864,15 +842,15 @@ nes lekkeren lyues. yn alle den
 dynghen. de deme lycham. lus-
 tich moghen zyn. vnde steruest
 dar mede. sunder ruwe. bycht.
-Dat viij
 vnde bote.
+** ¶ Dat viij
 cappittel. Sunte Augustinus
 secht dar he vth dudet sunte io-
 hannem den ewangelysten yn
 der viij omelien. Jd ys ydel vn
 de vorgheues. in disser warlnd
-
-to vorweruen. sunder den vrueh
+---24v---
+to vorweruen. sunder den vruch
 ten godes. ychtes wes tytlikes
 gudes. id zy denne rykedom. lek
 kericheyt des vlesches. efte ieni
@@ -890,7 +868,7 @@ laet dat vseker, wltu nicht vor-
 drynken in deme mere. der vor
 lust. vnde der ewyghen dupe. dar
 is nicht ghebatet. wen du winst
-
+---25r---
 in deme budel. vnde vorlust de
 zele. id is alto dure koft. dat de
 ewighen vordomnysse inbryn-
