@@ -1,1 +1,4 @@
+#+TITLE: When Danes Prayed in German
+An open-access Git repository for the DFF funded project
 
+* Contents
