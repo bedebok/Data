@@ -3,6 +3,8 @@
 | Locus      | 9r-9v     |
 | Language   | Danish    |
 | MDB        | 393       |
+| Keywords   | morning   |
+| status     | proofread |
 
 ** Parallels
 | Danish     | MDB 414 |
@@ -16,13 +18,13 @@ The(n)ne efft(e)rsc(re)ffne bøn scal ma(n) læse
 om morghe(n) første ma(n) op stoor
 
 *** Text
-[[A]]llwel⸠g⸡⸌d⸍ugh gudh i hy(m)me(ri)ghi iech syn-
+[[A]]llwel⸠g⸡⸌d⸍ugh gudh i hy(m)me(ri)gi iech syn-
 
 dughe me(n)niske takker thigh kier-
 
 lighe at alt myt hiertæ atu haffw(er) migh
 
-bewa(re)th wti th(e)n(ne) nath [[O]]k bedher jek
+bewa(re)th wti th(e)n(ne) nath [[O]]k bedher iek
 
 thin sto(re) miscu(n)deligheed atu giff mich
 
@@ -54,7 +56,7 @@ ok myne medferd(er) thigh til loff
 
 ok heder Giff mich thin kierlig-
 
-heed so hre(n)nende i myth hiertæ
+heed so bre(n)nende i myth hiertæ
 
 at iech tigh ald(ri) forgløm(er) [[G]]iff
 
