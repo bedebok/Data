@@ -17,6 +17,7 @@
 | [[org/AM08-0073_011v.org]]     | AM 73 8vo    |                               | Danish   |                     |     |
 | [[org/AM08-0073_013r.org]]     | AM 73 8vo    | Seven Penitential Psalms      | German   |                     |     |
 | [[org/AM08-0073_067r.org]]     | AM 73 8vo    | O Gloriosa Domina             | German   |                     |     |
+| [[org/AM08-075_009r.org]]      | AM 75 8vo    | A morning prayer              | Danish   | Proofread           | 393 |
 | [[org/AM12-0412_030r.org]]     | AM 412 12mo  | Stabat Mater                  | Danish   |                     |     |
 | [[org/GKS08-3423_001r.org]]    | GKS 3423 8vo | O Bone Jesu                   | German   | Transcribed         |     |
 | [[org/GKS08-3423_20r.org]]     | GKS 3423 8vo |                               | German   |                     |     |
