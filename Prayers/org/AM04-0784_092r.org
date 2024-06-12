@@ -1,7 +1,7 @@
 #+TITLE: A prayer to Mary and Anna
-| Manuscript | AM 784 4to ]
-| Locus | 92r |
-| Language | Danish |
+| Manuscript | AM 784 4to |
+| Locus      | 92r        |
+| Language   | Danish     |
 
 ** Parallels
 | Danish | |
