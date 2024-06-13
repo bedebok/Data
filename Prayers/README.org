@@ -1,39 +1,40 @@
 #+TITLE: Index of transcriptions
 
-|----------------------------+--------------+-------------------------------+----------+---------------------+-----|
-| File                       | Manuscript   | Prayer                        | Language | Status              | MDB |
-|----------------------------+--------------+-------------------------------+----------+---------------------+-----|
-| [[org/AM04-0784_026v_m.org]]   | AM 784 4to   |                               | Danish   | Transcribed         |     |
-| [[org/AM04-0784_092r.org]]     | AM 784 4to   |                               | Danish   | Transcribed         |     |
-| [[org/AM04-0789_001r.org]]     | AM 789 4to   | 15 Pater Noster               | Danish   | Transcribed         |  21 |
-| [[org/AM04-0789_005r.org]]     | AM 789 4to   | Rubric for MDB 105            | German   | (Transcribed)       | 105 |
-| [[org/AM08-0070_001r.org]]     | AM 70 8vo    | Cantus Sororoum               | German   | Transcription begun |     |
-| [[org/AM08-0070_002v.org]]     | AM 70 8vo    |                               | Danish   |                     |     |
-| [[org/AM08-0070_003r.org]]     | AM 70 8vo    | Cantus Sororum (Matins)       | German   |                     |     |
-| [[org/AM08-0070_247r.org]]     | AM 70 8vo    | Regina Cœli                   | German   |                     |     |
-| [[org/AM08-0070_247r_m.org]]   | AM 70 8vo    |                               | Danish   |                     |     |
-| [[org/AM08-0070_253v.org]]     | AM 70 8vo    |                               | Danish   |                     |     |
-| [[org/AM08-0070_254r.org]]     | AM 70 8vo    |                               | German   |                     |     |
-| [[org/AM08-0073_011v.org]]     | AM 73 8vo    |                               | Danish   |                     |     |
-| [[org/AM08-0073_013r.org]]     | AM 73 8vo    | Seven Penitential Psalms      | German   |                     |     |
-| [[org/AM08-0073_067r.org]]     | AM 73 8vo    | O Gloriosa Domina             | German   |                     |     |
-| [[org/AM08-075_009r.org]]      | AM 75 8vo    | A morning prayer              | Danish   | Proofread           | 393 |
-| [[org/AM12-0412_030r.org]]     | AM 412 12mo  | Stabat Mater                  | Danish   |                     |     |
-| [[org/GKS08-3423_001r.org]]    | GKS 3423 8vo | O Bone Jesu                   | German   | Transcribed         |     |
-| [[org/GKS08-3423_20r.org]]     | GKS 3423 8vo |                               | German   |                     |     |
-| [[org/GKS08-3423_211r.org]]    | GKS 3423 8vo | 15 Pater Noster               | German   | Transcribed         |     |
-| [[org/Hagen1930_077.org]]      | Hagen (1930) |                               | German   | Transcribed         |     |
-| [[org/Lund-0035_064v.org]]     | Mh 35        | 10 Joys of Mary               | Danish   | Transcription begun | 105 |
-| [[org/UBB-C-496-019v.org]]     | UBB C 496    | Prayers for every waking hour | German   | Transcribed         |     |
-| [[org/UUB-C-496-136r.org]]     | UBB C 496    |                               | German   | Transcribed         |     |
-| [[org/Beinecke-0218_127r.org]] | Beinecke 218 | 10 Joys of Mary               | German   | Transcribed         |     |
-|----------------------------+--------------+-------------------------------+----------+---------------------+-----|
+|--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
+| File                           | Manuscript    | Prayer                        | Language | Status              | MDB |
+|--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
+| [[org/AM04-0784_026v_m.org]]       | AM 784 4to    |                               | Danish   | Transcribed         |     |
+| [[org/AM04-0784_092r.org]]         | AM 784 4to    |                               | Danish   | Transcribed         |     |
+| [[org/AM04-0789_001r.org]]         | AM 789 4to    | 15 Pater Noster               | Danish   | Transcribed         |  21 |
+| [[org/AM04-0789_005r.org]]         | AM 789 4to    | 10 Joys of Mary (rubric)      | German   | (Transcribed)       | 105 |
+| [[org/AM08-0070_001r.org]]         | AM 70 8vo     | Cantus Sororoum               | German   | Transcription begun |     |
+| [[org/AM08-0070_002v.org]]         | AM 70 8vo     |                               | Danish   |                     |     |
+| [[org/AM08-0070_003r.org]]         | AM 70 8vo     | Cantus Sororum (Matins)       | German   |                     |     |
+| [[org/AM08-0070_247r.org]]         | AM 70 8vo     | Regina Cœli                   | German   |                     |     |
+| [[org/AM08-0070_247r_m.org]]       | AM 70 8vo     |                               | Danish   |                     |     |
+| [[org/AM08-0070_253v.org]]         | AM 70 8vo     |                               | Danish   |                     |     |
+| [[org/AM08-0070_254r.org]]         | AM 70 8vo     |                               | German   |                     |     |
+| [[org/AM08-0073_011v.org]]         | AM 73 8vo     |                               | Danish   |                     |     |
+| [[org/AM08-0073_013r.org]]         | AM 73 8vo     | Seven Penitential Psalms      | German   |                     |     |
+| [[org/AM08-0073_067r.org]]         | AM 73 8vo     | O Gloriosa Domina             | German   |                     |     |
+| [[org/AM08-075_009r.org]]          | AM 75 8vo     | A morning prayer              | Danish   | Proofread           | 393 |
+| [[org/AM12-0412_030r.org]]         | AM 412 12mo   | Stabat Mater                  | Danish   |                     |     |
+| [[org/GKS08-3423_001r.org]]        | GKS 3423 8vo  | O Bone Jesu                   | German   | Transcribed         |     |
+| [[org/GKS08-3423_20r.org]]         | GKS 3423 8vo  |                               | German   |                     |     |
+| [[org/GKS08-3423_211r.org]]        | GKS 3423 8vo  | 15 Pater Noster               | German   | Transcribed         |     |
+| [[org/Hagen1930_077.org]]          | Hagen (1930)  |                               | German   | Transcribed         |     |
+| [[org/Lund-0035_064v.org]]         | Mh 35         | 10 Joys of Mary               | Danish   | Transcription begun | 105 |
+| [[org/UBB-C-496-019v.org]]         | UBB C 496     | Prayers for every waking hour | German   | Transcribed         |     |
+| [[org/UUB-C-496-136r.org]]         | UBB C 496     |                               | German   | Transcribed         |     |
+| [[org/Beinecke-0218_127r.org]]     | Beinecke 218  | 10 Joys of Mary               | German   | Transcribed         |     |
+| [[org/Hamburg-CodConv-6_002r.org]] | Cod. conv. IV | 10 Joys of Mary (Krongebet)   | German   | Transcribed         |     |
+|--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
 
 * Comparison
 
-|-----------------+----------------------+-------------------+---------------------------------|
-| Prayer          | Danish               | Low German        | Other                           |
-|-----------------+----------------------+-------------------+---------------------------------|
-| 15 Pater Noster | MDB 21, 85, 240, 334 | GKS 3423, UUB 496 | [[https://catalog.princeton.edu/catalog/9989355833506421][Princeton MS. 231 (High German)]] |
-| 10 Joys of Mary | MDB 105              | Beinecke 128      |                                 |
-|-----------------+----------------------+-------------------+---------------------------------|
+|-----------------+----------------------+-----------------------------+---------------------------------|
+| Prayer          | Danish               | Low German                  | Other                           |
+|-----------------+----------------------+-----------------------------+---------------------------------|
+| 15 Pater Noster | MDB 21, 85, 240, 334 | GKS 3423, UUB 496           | [[https://catalog.princeton.edu/catalog/9989355833506421][Princeton MS. 231 (High German)]] |
+| 10 Joys of Mary | MDB 105              | Beinecke 128, Cod. conv. IV |                                 |
+|-----------------+----------------------+-----------------------------+---------------------------------|

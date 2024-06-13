@@ -1,0 +1,26 @@
+#+TITLE: Seven Penitential Psalms (Septem Psalmi Poenitentiales)
+
+Seven psalms of David considered lamentations. These frequently are found in books of hours and are typically followed by the litany, which can be used to locate the use of a certain book.
+
+* Examples in the corpus
+|--------------+----------------------+----------+---------+-------|
+| Shelfmark    | Manuscript / Print   | Language | Locus   | MDB   |
+|--------------+----------------------+----------+---------+-------|
+| Mh 35        | Karen Ludvigsdatters | Danish   | 26r     | I.184 |
+| AM 73 8vo    |                      | German   | 13r     |       |
+|              | Arndes 1499          | German   |         |       |
+| AM 417 12mo  |                      | German   | 73v     |       |
+| GKS 1615 4to |                      |          | 138v    |       |
+| AM 76 8vo    |                      | Danish   | 113r    |       |
+| GKS 1613 4to | Else Holgersdatters  | Danish   | 19v-29r |       |
+| Holm A 42    | Johanne Nielsdatters | Latin    |         |       |
+|--------------+----------------------+----------+---------+-------|
+   
+* Structure of the text
+** Psalm 6: Domine ne in furore tuo aruas me.
+** Palm 31: Beati quorum remissae sunt iniquitates.
+** Psalm 37 (38): Domine ne in furore tuo arguas me.
+** Psalm 50 (51): Miserere mei, Deus, secundum magnam misericordiam tuam.
+** Psalm 101 (102): Domine, exaudi orationem meam, et clamor meus ad te veniat.
+** Psalm 129 (130): De profundis clamavi ad te, Domine.
+** Psalm 142 (143): Domine, exaudi orationem meam: auribus percipe obsecrationem meam in veritate tua.

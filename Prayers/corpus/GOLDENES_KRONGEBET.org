@@ -1,0 +1,54 @@
+#+TITLE: Das goldenes Krongebet von zehn Freuden Mariens
+
+An originally upper German prayer from the 1420s is known in four redactions. Redaction 3 includes a Low German recension. The Danish recension clearly belongs to this third redaction as well.
+
+* Examples in the corpus
+|---------------+----------------------------+----------+---------+-----|
+| Shelfmark     | Manuscript / Print         | Language | Locus   | MDB |
+|---------------+----------------------------+----------+---------+-----|
+|               | Karen Ludvigsdatters       | Danish   | 64v     | 105 |
+| A 42          | Johanne Nielsdatters       | Danish   | 95v     | 105 |
+| A 40          | Ingeborg Predbjørnsdatters | Danish   | 149r    | 105 |
+| GKS 1613 4to  | Else Holgersdatters        | Danish   | 148v    | 105 |
+| GKS 1615 4to  | Prayer book from 1514      | Danish   | 94r     | 105 |
+| Thott 553 4to | Anne Brades                | Danish   | 125v    | 105 |
+| GKS 1614 4to  | Marine Issdatters          | Danish   | 47v     | 105 |
+| AM 420 12mo   |                            | Danish   | 26r     | 105 |
+| AM 789 4to    |                            | Danish   | 5v      | 105 |
+| AM 790 4to    |                            | Danish   | 20v     | 105 |
+| Thott 152 8vo |                            | Danish   | 1v      | 105 |
+| Thott 152 8vo |                            | Danish   | 8r      | 105 |
+| A 51          | Vadstena                   | Danish   | 67v     | 105 |
+| Uppsala C 496 | Low German prayer book     | German   | 95r-98v |     |
+|---------------+----------------------------+----------+---------+-----|
+
+In KL, JH, IP .. followed by MDB 106
+
+** Outside of corpus
+|--------------------------------+--------------------+----------+-----------|
+| Shelmark                       | Manuscript / Print | Language | Locus     |
+|--------------------------------+--------------------+----------+-----------|
+| Hamburg, Cod. conv. 6          |                    | German   | 2r-9r     |
+| Yale, Beinecke Library, MS 218 |                    | German   | 127r-134v |
+|--------------------------------+--------------------+----------+-----------|
+* Structure of the text
+The prayer cycle opens with a rubric explaining the origin of the prayers. According to this story, a cloistered virgin had committed her chastity to the Virgin Mary, for which she was mocked by the other sisters in the convent, who also stole some of her goods. Not knowing what to do, the chaste sister served the Angel Gabriel as best she could. One night the angel visited her and taught her the prayers. 
+
+- Ten Ave Marias
+- 30 days
+
+...
+
+- First Joy :: Mary is chosen to be the Mother of God
+- Second Joy :: Mary is visited by the angel Gabriel
+- Third Joy :: The Christ Child is born
+- Fourth Joy :: The three wise men visit
+- Fifth Joy :: Jesus is presented in the temple
+- Sixth Joy :: Easter 
+- Seventh Joy :: Ascension
+- Eighth Joy :: Pentecost
+- Ninth Joy :: Mary's Ascension
+- Tenth Joy :: Mary's coronation
+* Bibliography
+Vervasserlexicon columns 545-546 s.v. 'Das goldene Krongebet von zehn Freuden Mariens'
+Summa Mariana IV. Allgemeines Handbuch der Marienverehrung (J.H. Schütz, Paderborn 1921)

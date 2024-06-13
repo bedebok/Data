@@ -4,7 +4,7 @@ The Hours of the Virgin are undoubtedly the most important liturgy for lay devot
 
 * Examples in the corpus
 |-------------+-------------------------------------+----------+-------+------|
-| Shelfmark   | Manuscript / Print                  | Language | Locus | MCH  |
+| Shelfmark   | Manuscript / Print                  | Language | Locus | MDB  |
 |-------------+-------------------------------------+----------+-------+------|
 | Mh 35       | Karen Ludvigsdatter's book of hours | Danish   | 8r-   | 155  |
 | AM 73 8vo   | Book of hours                       | German   | 44r-  |      |
