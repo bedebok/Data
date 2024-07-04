@@ -19,18 +19,29 @@ An originally upper German prayer from the 1420s is known in four redactions. Re
 | Thott 152 8vo |                            | Danish   | 1v      | 105 |
 | Thott 152 8vo |                            | Danish   | 8r      | 105 |
 | A 51          | Vadstena                   | Danish   | 67v     | 105 |
-| Uppsala C 496 | Low German prayer book     | German   | 95r-98v |     |
+| Uppsala C 496 | Low German prayer book     | Low German | 95r-98v |     |
 |---------------+----------------------------+----------+---------+-----|
 
 In KL, JH, IP .. followed by MDB 106
 
 ** Outside of corpus
-|--------------------------------+--------------------+----------+-----------|
-| Shelmark                       | Manuscript / Print | Language | Locus     |
-|--------------------------------+--------------------+----------+-----------|
-| Hamburg, Cod. conv. 6          |                    | German   | 2r-9r     |
-| Yale, Beinecke Library, MS 218 |                    | German   | 127r-134v |
-|--------------------------------+--------------------+----------+-----------|
+|--------------------------------------------------------------------+---------------------+------------+-----------|
+| Shelmark                                                           | Manuscript / Print  | Language   | Locus     |
+|--------------------------------------------------------------------+---------------------+------------+-----------|
+| [[https://handschriftencensus.de/18579][Hamburg, Cod. conv. 6]]                                              |                     | Low German | 2r-9r     |
+| [[https://orbis.library.yale.edu/vwebv/holdingsInfo?searchId=4&recCount=50&recPointer=1&bibId=9795529][Yale, Beinecke Library, MS 218]]                                     |                     | Low German | 127r-134v |
+| [[https://handschriftencensus.de/14498][Göttingen, Staats- und Univsersitätsbibl., 8° Cod. Ms. theol. 242f]] |                     | Low German | 201-210   |
+| [[https://handschriftencensus.de/18481][Trier, Bistumsarchiv, Abt. 95 Nr. 555]]                              |                     | Low German | 136v-142r |
+| [[https://handschriftencensus.de/16644][Wolfenbüttel, Herzog August Bibl., Cod. 61.14 Aug. 8°]]              |                     | Low German | 181r-184r |
+| [[https://handschriftencensus.de/15083][Wolfenbüttel, Herzog August Bibl., Cod. 1155 Helmst.]]               |                     | Low German | 308v-312r |
+| [[https://handschriftencensus.de/13363][Wolfenbüttel, Herzog August Bibl., Cod. 1025 Novi]]                  |                     | Low German | 230r-232v |
+| [[https://handschriftencensus.de/3144][Rostock, Universitätsbibl., Mss. theol. 38]]                         |                     | Low German | [[https://books.google.dk/books?id=qA7FOXxLniYC&pg=PA466&dq=%22Maria+Ik+vormane%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjNna2plo2HAxXcA9sEHc07ByUQ6AF6BAgLEAI#v=onepage&q&f=false][362r-]]     |
+| [[https://handschriftencensus.de/2508][Bremen, Staats- und Universitätsbibl., msc 0066]]                    | Mendinger Gebetbuch | Low German | [[https://books.google.dk/books?id=PdhG3z0gnIwC&pg=PA421&dq=%22Maria+Ik+vormane%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwituYGIl42HAxVBDhAIHRQ9CRAQ6AF6BAgIEAI#v=onepage&q=vermane&f=false][364-]]      |
+| [[https://handschriftencensus.de/3468][Hamburg, Staats- un Universitätsbibl., Cod. theol. 2052]]            |                     | Low German | [[https://books.google.dk/books?id=sEvgAAAAMAAJ&q=%22maria+ik+vermane%22&dq=%22maria+ik+vermane%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjvnJfcl42HAxUbJBAIHdGHABoQ6AF6BAgHEAI][141r-]]     |
+|--------------------------------------------------------------------+---------------------+------------+-----------|
+| Brussels, Koninklijke Bibl., 11231-36                              |                     | Dutch      | 338r-343v |
+| [[https://handschriftencensus.de/4178][Darmstadt, Universitäts- und Landesbibl., Hs. 189]]                  |                     | Dutch      | 50r-54r   |
+|--------------------------------------------------------------------+---------------------+------------+-----------|
 * Structure of the text
 The prayer cycle opens with a rubric explaining the origin of the prayers. According to this story, a cloistered virgin had committed her chastity to the Virgin Mary, for which she was mocked by the other sisters in the convent, who also stole some of her goods. Not knowing what to do, the chaste sister served the Angel Gabriel as best she could. One night the angel visited her and taught her the prayers. 
 
