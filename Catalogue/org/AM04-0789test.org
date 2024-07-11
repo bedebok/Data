@@ -1,6 +1,6 @@
 
-| Loc   | Type   | Text                    | Rub/Inc/Exp                                                                          | Lang | Status |
-|-------+--------+-------------------------+--------------------------------------------------------------------------------------+------+--------|
-| 1r 1v | prayer | 15 Os (Pseudo Birgitta) | O Jhesu criste [...] ame(n)                                                          | da   | main   |
-| 2v 3r | prayer | 5 Sorrows of Mary       | #Her byries wor ffrwe sorgher (etc)# [M]Jn kiære Jomffrw Maria Jech beder [...] Amen | da   | main   |
-|       |        |                         |                                                                                      |      |        |
+| Loc   | Type   | Text                    | Rub/Inc/Exp                                                                                                                                                                                                                           | Lang | Status |
+|-------+--------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+| 1r 1v | prayer | 15 Os (Pseudo Birgitta) | [...] [O] Jhesu criste alsom stærckeste løffue [...] som thu hawer loffuet th(e)m ther thesse bøner fulko(m)me gudelig Ame(n) *[T]het war een hethe(r)lig qwi(n)ne [...] swo som han frælste s(an)c(t)e pouel aff haffzens wode AmeN* | da   | main   |
+| 3r    | prayer | 5 Sorrows of Mary       | *Her byries wor ffrwe sorgher (et cetera)* [M]Jn kiære Jomffrw sancta Maria  [...] Amen                                                                                                                                               | da   | main   |
+|       |        |                         |                                                                                                                                                                                                                                       |      |        |
