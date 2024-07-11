@@ -1,0 +1,6 @@
+
+| Loc   | Type   | Text                    | Rub/Inc/Exp                                                                          | Lang | Status |
+|-------+--------+-------------------------+--------------------------------------------------------------------------------------+------+--------|
+| 1r 1v | prayer | 15 Os (Pseudo Birgitta) | O Jhesu criste [...] ame(n)                                                          | da   | main   |
+| 2v 3r | prayer | 5 Sorrows of Mary       | #Her byries wor ffrwe sorgher (etc)# [M]Jn kiære Jomffrw Maria Jech beder [...] Amen | da   | main   |
+|       |        |                         |                                                                                      |      |        |
