@@ -229,8 +229,32 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 |       | 249r      |                   | VERSICLE     |                |                       | Myner yoget sunde vnde myner vnwithcheit en denke nicht here     |
 |       | 249r      |                   | RUBRIC       |                |                       | l(eccio) iiij(ra) |
 |       | 249r      |                   | LESSON       |                |                       | Myne doden here scole(n) leuendech werde(n)                      |
-|       | 249r      |                   | RESPONSORIUM |                |                       | 
-|       | 250v      |                   | RUBRIC       |                |                       | Domine ne in furore tuo arguas me 
+|       | 249r      |                   | RESPONSORIUM |                |                       | Ene denke nicht here myner sunde |
+|       | 249v      |                   | VERSICLE     |                |                       | Here myn got rechte myne(n) wech |
+|       | 249v      |                   | LESSON       |                |                       | Dit segede de here. Ik wil my(n) volk losen |
+|       | 249v      | 250r              | RESPONSORIUM |                |                       | Owe my here wente ik also sere |
+|       | 250r      |                   | VERSUS       |                |                       | Myne sele is sere bedrouet |
+|       | 250r      |                   | LESSON       |                |                       | Uele lude scolen ene unt maken de nu slapet |
+|       | 250v      |                   | RESPONSORIUM |                |                       | Wente ik alle tyt sundege |
+|       | 250v      |                   | VERSICLE     |                |                       | Got yn dyme name(n) make my sunt |
+|       | 250v      |                   | RUBRIC       |                | PSALM_37[38]          | Domine ne in furore tuo arguas me  |
+|       | 250v      |                   | PSALM        |                | PSALM_37[38]          | Here bescelt my nicht yn dyme v(n)mode noch ene tuchtege |
+|       | 252v      |                   | ANTIPHONE    |                |                       | Ene vorlat my nicht my(n) here got |
+|       | 253r      |                   | RUBRIC       |                | PSALM_40[41]          | Beatus qui intelligit |
+|       | 253r      |                   | PSALM        |                | PSALM_40[41]          | Salich is de ghe(n)ne de sik vorbarmet ouer den arme(n)  |
+|       | 254r      |                   | ANTIPHONE    |                |                       | H(er)e make myne sele sunt |
+|       | 254r      |                   | RUBRIC       |                | PSALM_42              | Quemadmodu(m) desiderat |
+|       | 254r      |                   | PSALM        |                | PSALM_42              | Alse de hert begheret to den borne(n) der wartere |
+|       | 256r      |                   | ANTIPHONE    |                |                       | Myner sele dorstede to gode |
+|       | 256r      |                   | RUBRIC       |                |                       | L(eccio) vii(ma) |
+|       | 256r      |                   | LESSON       |                |                       | Also in adam alle lude steruen |
+|       | 256r      |                   | RESPONSORIUM |                |                       | Here en richte my nicht na myner daet |
+|       | 256v      |                   | VERSICLE     |                |                       | Wassche my vort van myner vnreynecheit |
+|       | 256v      |                   | RUBRIC       |                |                       | viij(ma) |
+|       | 256v      |                   | LESSON       |                |                       | Ik segge yu eyne heymelike gnade |
+|       | 257r      |                   | RESPONSORIUM |                |                       | Lose my here van den helschen weghe(n) |
+|       | 257r      |                   | VERSICLE     |                |                       | Se repen vnde spreken du bist gekame(n) |
+|       | 257r      |                   |              |                |                       | Brodere gy wetet id wol |
 
 
 * Bibliography
