@@ -44,6 +44,7 @@
 |--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
 | [[org/extra/Hagen1930_077.org]]          | Hagen (1930)  |                               | German   | Transcribed         |     |
 | [[org/extra/Beinecke-0218_127r.org]]     | Beinecke 218  | 10 Joys of Mary               | German   | Transcribed         |     |
+| [[org/extra/Beinecke-0218_157r.org]]     | Beinecke 218  | 7 Words of Mary               | German   | Transcribed         |     |
 | [[org/extra/Hamburg-CodConv-6_002r.org]] | Cod. conv. IV | 10 Joys of Mary (Krongebet)   | German   | Transcribed         |     |
 |--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
 
