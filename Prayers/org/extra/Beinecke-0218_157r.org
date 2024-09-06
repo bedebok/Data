@@ -1,0 +1,100 @@
+#+TITLE: Seven words of Mary under the Cross
+|------------+--------------|
+| Manuscript | Beinecke 218 |
+| Language   | Low German   |
+| Locus      | 157r-        |
+| Status     | Transcribed  |
+|------------+--------------|
+
+** Parallels
+|------------+------------------------|
+| Danish     | MDB 31, 109, 246, 351  |
+| Low German | GKS 3423 8vo 202v      |
+| Latin      |                        |
+|------------+------------------------|
+
+* Transcription
+** Rubric
+Item volgen hijr na
+
+De Souen word de vnse leue
+
+frouwe sprek vnder deme cruce.
+
+P(ate)r n(oste)r
+
+** Text 1
+[[O]] Du vth
+
+sletende borne der ewig-
+
+heit wu bistu my
+
+---157v---
+
+alsus gar vorsegen 
+
+** Rubric
+Pater n(oste)r
+
+** Text 2
+[[O]] du wyse lerer der ewicheit
+
+wu bistu my alz(us) vorswege(n)
+
+** Rubric
+p(ate)r [noster]
+
+** Text 3
+[[O]] Su(n)nen glantz des ewigen
+
+lichtes. wu bistu nu alzus
+
+vorlosschen
+
+** Rubric 
+Pater noster
+
+** Text 4
+[[O]] du hoge rykedom wu erschi-
+
+nestu my in so grote(n) armud
+
+** Rubric 
+P(ate)r [noster]
+
+** Text 5
+[[O]] du wunne wu(n)nichlik
+
+wu is dyn antlath gestalt so
+
+rechte iammerlik
+
+** Rubric
+Pater n(oste)r
+
+** Text 6
+[[O]] myn leue leff myn(er) zelen
+
+wiste ik nicht so rechte wol
+
+dattu dit suluen bist doch se
+
+---158r---
+
+werestu my vmbekant
+
+** Rubric
+P(ate)r n(oste)r
+
+** Text 7
+[[O]] we o we mynes leue(n) kyn-
+
+dis dod. wu bistu myn allerle-
+
+ueste kynt alzus rechte ia(m)mer-
+
+liken gemartert Amen
+
+** Rubric
+Vad(er)
