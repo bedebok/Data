@@ -17,7 +17,7 @@ Seven psalms of David considered lamentations. These frequently are found in boo
 |--------------+----------------------+----------+---------+-------|
    
 * Structure of the text
-- Psalm 6:: Domine ne in furore tuo aruas me.
+- Psalm 6 :: Domine ne in furore tuo aruas me.
 ** Palm 31: Beati quorum remissae sunt iniquitates.
 ** Psalm 37 (38): Domine ne in furore tuo arguas me.
 ** Psalm 50 (51): Miserere mei, Deus, secundum magnam misericordiam tuam.
