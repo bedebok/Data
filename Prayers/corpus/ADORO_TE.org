@@ -1,0 +1,61 @@
+#+TITLE: Adoro te
+Known as the Verses of St Gregory (adore te in cruce pendentem); the story of St Gregory’s mass developed in Rome among Carthusians around 1400, especially popular at the end of the 15th century in Dutch books of hours and MLG prayer books. It is also contained in multiple Danish prayer books with various rubrics that often add a note about Christian I’s pilgrimage to Rome in 1474.
+
+Some of these prayers within the cycle  are known from the 9th century.
+
+* Texts
+
+** Latin
+http://www.preces-latinae.org/thesaurus/Filius/SeptemSG.html
+
+** MLG
+
+*** In corpus
+- UUB C 496 :: Found on ff. 9r-10r and contains all seven verses and collect. It immediately follows another prayer of indulgence by Sixtus IV (Almechtige vnde barmhertighe god schepper hemmels vnde der erden) which is found in the manuscript [[https://handschriftencensus.de/3818][Ham. Univ. 102c in scrin.]] (f. [[https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf%5Bid%5D=15507&tx_dlf%5Bpage%5D=168&tx_dlf_navigation%5Baction%5D=main&tx_dlf_navigation%5Bcontroller%5D=Navigation&cHash=8b6b81d8c4b7e6f1d9e87ef95cb8683d][81v]]), where Christian I is mentioned following the indulgence.
+
+*** Elsewhere
+
+Endless amoung of MS: Lübeck, Ms. theol. Germ. 42, 19v and 94r (now RNL, Fond 955 op. 2 Nr. 51)
+
+*HAB ms. 1086 Helmst., f. 44–45; HAB ms. 1140 Helmst., f.94v; HAB ms. 1142 Helmst., f. 62-62; HAB ms. 1182 Helmst., f. 98-98v; HAB ms.1227 Helmst., f. 149; HAB ms. 1228 Helmst., f. 265v–266v; HAB ms. 1245 
+Helmst., f. 50-50v; HAB ms. 1246 Helmst., f. 103; HAB ms. 1272 Helmst.,f. 133–135; HAB ms. 1278 Helmst., f. 49; HAB ms. 1279 Helmst., f. 247v–248, f. 331–332; HAB ms. 1313 Helmst., f. 5v.*
+
+Horae, Lübeck: Ghotan, 1485 (Last pages after a woodcut with a collect): https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789429071&PHYSID=PHYS_0507&DMDID=&view=overview-toc or https://repositorium.uni-muenster.de/document/miami/cf15cd7c-a095-41e4-8f6d-6b4afddde952/mnfd-bc-84.pdf
+
+Dietrich Kolde (Coelde), Christenspiegel
+
+Lübeck: Arndes, 1498: https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789433451&PHYSID=PHYS_0073&DMDID=&view=overview-toc
+
+Rostock, 1507 Ch. 27: https://repositorium.uni-muenster.de/document/miami/2ff96f11-58e6-4c9c-9e08-98b761b79138/mnfd-bc-428.pdf
+
+Birgitta’s revelations (compilation), Ghotan, 1485, 78v 
+
+** Danish
+
+MDB 191 (rubric + 7 verses + collect), in multiple codices
+
+** Dutch
+
+https://img.sub.uni-hamburg.de/kitodo/PPN1789511232/PDF/PPN1789511232.pdf 
+
+* Compilation of the prayers
+
+The earliest versions contain 5 verses; popular as 7 verses but could also be 9, 10 or 11.
+
+In MLG and DK, often followed by a collect.
+
+in NG books, it is often contained twice - with attribution in the rubric and 7 pieces and then 5 pieces without the attribution to St Gregory 
+
+** Associated rubrics and indulgences
+
+The rubric becomes more detailed and the years of remission in the indulgence grows with time.
+
+Contains the origin myth of the prayer (in the mass of St Gregory) and subsequent validations of this miracle by the popes - really good for dating.
+
+Usually tells that a supplicant has to perform a prayer looking at the image of Gregory’s mass (hence included as a miniature or a woodcut; could be in a local church as it became a popular image) or arma Christi.
+
+** “Danification” of the story in the rubric
+
+French, Dutch and German rubrics mention Sixtus IV as the one who created additional two verses and doubled the indulgence; on top of that, Christian I is mentioned in Danish versions.
+
+exists in multiple independent versions and translations, probably hard to identify if any of the Danish versions were translated from multiple MLG versions (but the rubric is interesting)

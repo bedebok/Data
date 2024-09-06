@@ -1,0 +1,43 @@
+#+TITLE: Magnificat
+
+The /Magnificat/ or Canticle of Mary is one of the prayers found in the Bible. The text is taken from Luke 1:46-55.
+
+In prayer books the Magnificat can be found within the divine office
+
+* Vulgate text
+46 Et ait Maria: Magnificat anima mea Dominum:
+
+47 et exsultavit spiritus meus in Deo salutari meo.
+
+48 Quia respexit humilitatem ancillae suae: ecce enim ex hoc beatam me dicent omnes generationes,
+
+49 quia fecit mihi magna qui potens est: et sanctum nomen ejus,
+
+50 et misericordia ejus a progenie in progenies timentibus eum.
+
+51 Fecit potentiam in brachio suo: dispersit superbos mente cordis sui.
+
+52 Deposuit potentes de sede, et exaltavit humiles.
+
+53 Esurientes implevit bonis: et divites dimisit inanes.
+
+54 Suscepit Israel puerum suum, recordatus misericordiae suae:
+
+55 sicut locutus est ad patres nostros, Abraham et semini ejus in saecula.
+
+* In the corpus
+
+|-----------------+--------------+-----------+------------+-----------------------------------|
+| Manuscript      | Shelfmark    | Locus     | Language   | Part of                           |
+|-----------------+--------------+-----------+------------+-----------------------------------|
+| Karen Ludvigsd. | Mh 35        | 23v-24r   | Danish     | Hours of the Virgin (vesper)      |
+|                 | GKS 3423 8vo | 71v-73r   | Low German | Hours of the Virgin (vesper)      |
+|                 | GKS 3423 8vo | 109v-110r | Low German | inserted leaf                     |
+|                 | AM 73 8vo    | 87r-88v   | Low German | Hours of the Virgin (vesper)      |
+|                 | AM 73 8vo    | 237v-238v | Low German | Psalter                           |
+|                 | AM 75 8vo    | 63r-64r   | Danish     | Hours of Mary Magdalene           |
+| Else Holgersd.  | GKS 1613 8vo | 161r-162r | Danish     | Prayers to Mary                   |
+|                 | GKS 1615 4to | 19r-19v   | Danish     | Hours of the Holy Spirit (vesper) |
+| Johanne Nielsd. | Holm. A 42   | 32r-32v   | Latin      | Hours of the Virgin (vesper)      |
+| Johanne Nielsd. | Holm. A 42   | 39r*      | Latin      | Hours of the Holy Spirit (vesper) |
+|-----------------+--------------+-----------+------------+-----------------------------------|
