@@ -1,0 +1,32 @@
+#+TITLE: Credo (Apostolic Creed)
+
+* Examples in the Corpus
+|-------------+-------------------------------------+----------+-------+------|
+| Shelfmark   | Manuscript / Print                  | Language | Locus | MDB  |
+|-------------+-------------------------------------+----------+-------+------|
+| AM 73 8vo   |                                     | German   | 136v-137r |  |
+| AM 76 8vo   |                                     | Danish   | 41r-42r | 972 |
+|-------------+-------------------------------------+----------+-------+------|
+
+** Outside of Corpus
+|-------------+-------------------------------------+----------+-------+------|
+| Shelfmark   | Manuscript / Print                  | Language | Locus | MDB  |
+|-------------+-------------------------------------+----------+-------+------|
+|             | Lucas Brandis (1483) Seven tyde     | German   | 109r-110r |  |
+|-------------+-------------------------------------+----------+-------+------|
+
+* Structure of the text
+The text can be divided into twelve sections or sentences. In some witnesses each section is attributed to a specific apostle.
+
+1. (Peter) Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae,
+2. (John) et in Iesum Christum, Filium Eius unicum, Dominum nostrum,
+3. (James, son of Zebedee) qui conceptus est de Spiritu Sancto, natus ex Maria Virgine,
+4. (Andrew) passus sub Pontio Pilato, crucifixus, mortuus, et sepultus,
+5. (Phillip) descendit ad inferos, tertia die resurrexit a mortuis,
+6. (Thomas) ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis,
+7. (Bartholomew) inde venturus est iudicare vivos et mortuos.
+8. (Matthew) Credo in Spiritum Sanctum,
+9. (James, son of Alphaeus) sanctam Ecclesiam catholicam, sanctorum communionem,
+10. (Simon the Zealot) remissionem peccatorum,
+11. (Judas Thaddaeus) carnis resurrectionem,
+12. (Matthias) vitam aeternam.

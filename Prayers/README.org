@@ -17,17 +17,35 @@
 | [[org/AM08-0073_011v.org]]         | AM 73 8vo     |                               | Danish   |                     |     |
 | [[org/AM08-0073_013r.org]]         | AM 73 8vo     | Seven Penitential Psalms      | German   |                     |     |
 | [[org/AM08-0073_067r.org]]         | AM 73 8vo     | O Gloriosa Domina             | German   |                     |     |
+| [[org/AM08-0073_087r.org]]         | AM 73 8vo     | Magnificat                    | German   | Transcribed         |     |
+| [[org/AM08-0073_136v.org]]         | AM 73 8vo     | Credo                         | German   | Transcribed         |     |
+| [[org/AM08-0073_237v.org]]         | AM 73 8vo     | Magnificat                    | German   | Transcribed         |     |
 | [[org/AM08-075_009r.org]]          | AM 75 8vo     | A morning prayer              | Danish   | Proofread           | 393 |
-| [[org/AM12-0412_030r.org]]         | AM 412 12mo   | Stabat Mater                  | Danish   |                     |     |
+| [[org/AM08-0075_022v-4.org]]       | AM 75 8vo     | A morning prayer              | Danish   | Proofread           | 414 |
+| [[org/AM08-0075_063r.org]]         | AM 75 8vo     | Magnificat                    | Danish   | Transcribed         |     |
+| [[org/AM12-0421_030r.org]]         | AM 421 12mo   | Stabat Mater                  | Danish   |                     |     |
+| [[org/GKS04-1615_019r.org]]        | GKS 1615 4to  | Magnificat                    | Danish   | Transcribed         |     |
+| [[org/GKS08-1613_161r.org]]        | GKS 1613 8vo  | Magnificat                    | Danish   | Transcribed         |     |
 | [[org/GKS08-3423_001r.org]]        | GKS 3423 8vo  | O Bone Jesu                   | German   | Transcribed         |     |
-| [[org/GKS08-3423_20r.org]]         | GKS 3423 8vo  |                               | German   |                     |     |
+| [[org/GKS08-3423_020r.org]]        | GKS 3423 8vo  | Prayer of indulgence (Sixtus) | German   | Transcribed         |     |
+| [[org/GKS08-3423_071v.org]]        | GKS 3423 8vo  | Magnificat                    | German   | Trasncribed         |     |
+| [[org/GKS08-3423_202v.org]]        | GKS 3423 8vo  | 7 Words of Mary               | German   | Transcribed         |     |
 | [[org/GKS08-3423_211r.org]]        | GKS 3423 8vo  | 15 Pater Noster               | German   | Transcribed         |     |
-| [[org/Hagen1930_077.org]]          | Hagen (1930)  |                               | German   | Transcribed         |     |
+| [[org/Holm-A42_032r.org]]          | Holm. A 42    | Magnificat                    | Latin    | Transcribed         |     |
+| [[org/Lund-0035_023v.org]]         | Lund 35       | Magnificat                    | Danish   | Transcribed         |     |
 | [[org/Lund-0035_064v.org]]         | Mh 35         | 10 Joys of Mary               | Danish   | Transcription begun | 105 |
 | [[org/UBB-C-496-019v.org]]         | UBB C 496     | Prayers for every waking hour | German   | Transcribed         |     |
 | [[org/UUB-C-496-136r.org]]         | UBB C 496     |                               | German   | Transcribed         |     |
-| [[org/Beinecke-0218_127r.org]]     | Beinecke 218  | 10 Joys of Mary               | German   | Transcribed         |     |
-| [[org/Hamburg-CodConv-6_002r.org]] | Cod. conv. IV | 10 Joys of Mary (Krongebet)   | German   | Transcribed         |     |
+|--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
+
+* Outside of corpus
+|--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
+| File                           | Manuscript    | Prayer                        | Language | Status              | MDB |
+|--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
+| [[org/extra/Hagen1930_077.org]]          | Hagen (1930)  |                               | German   | Transcribed         |     |
+| [[org/extra/Beinecke-0218_127r.org]]     | Beinecke 218  | 10 Joys of Mary               | German   | Transcribed         |     |
+| [[org/extra/Beinecke-0218_157r.org]]     | Beinecke 218  | 7 Words of Mary               | German   | Transcribed         |     |
+| [[org/extra/Hamburg-CodConv-6_002r.org]] | Cod. conv. IV | 10 Joys of Mary (Krongebet)   | German   | Transcribed         |     |
 |--------------------------------+---------------+-------------------------------+----------+---------------------+-----|
 
 * Comparison
