@@ -21,11 +21,11 @@ Catalogue files follow the TEI P5 guidelines for manuscript description (see tei
 
 ~<sourceDesc>~ contains only one child element ~<msDesc>~ which contains the following X parts:
 
-- [[*Identifier (msIdentifier)]]
-- [[*Header (head)]]
-- [[*Text contents (msContents)]]
-- [[*Physical description (physDesc)]]
-- [[*History and provenane (history)]]
+- [[Identifier (msIdentifier)]]
+- [[Header (head)]]
+- [[Text contents (msContents)]]
+- [[Physical description (physDesc)]]
+- [[History and provenane (history)]]
 
 * Identifier (msIdentifier)
 This section provides the identity markers for the location and registration number (shelfmark) of the physical object. It contains three elements: ~<settlement> <repository> <idno>~
