@@ -1,6 +1,19 @@
 #+TITLE: XML Catalogue files
 
-Catalogue files follow the TEI P5 guidelines for manuscript description (see tei-c.org)
+Catalogue files follow the TEI P5 guidelines for manuscript description (see tei-c.org). The root element of each file is ~<TEI xmlns="http://tei-c.org/ns/1.0>~ which requires at least two children. All catalogue information is included inside the child element ~<teiHeader>~. The second child element ~<facsimile>~ contains a single, empty child element ~<surface/>~ to allow for a TEI compliant file.
+
+~<teiHeader>~ contains a single child element ~<fileDesc>~ which contains three parts: ~<titleStmt> <publicationStmt> <sourceDesc>~. The first two parts are roughly the same for each file, though with a unique shelfmark within the ~<title>~ element of the ~<titleStmt>~ element:
+
+#+BEGIN_SRC xml
+<titleStmt>
+  <title><!-- Shelfmark goes here --></title>
+</titleStmt>
+<publicationStmt>
+  <authority>When Danes Prayed in German</authority>
+</publicationStmt>
+#+END_SRC
+
+- Note :: The publication statement may be expanded to provide the ability to cite.
 
 * Identifier (msIdentifier)
 This section provides the identity markers for the location and registration number (shelfmark) of the physical object. It contains three elements: ~<settlement> <repository> <idno>~
@@ -43,3 +56,27 @@ This section provides the identity markers for the location and registration num
 <idno xml:id="UUB-C-0496">C 496</idno> <!-- Uppsala, University Library, C 496 -->
 <idno xml:id="GKS04-1615">GKS 1615 4to</idno> <!-- Copenhagen, Royal Danish Library, GKS 1615 4to -->
 #+END_SRC
+
+A full ~<msIdentifier>~ for the manuscript Copenhagen, Arnamagnæan Collection, AM 73 4to would be:
+
+#+BEGIN_SRC xml
+<msIdentifier>
+  <settlement key="KBH"/>
+  <repository key="AMS"/>
+  <idno xml:id="AM08-0073">AM 73 8vo</idno>
+</msIdentifier>
+#+END_SRC
+
+* Header (head)
+At the top of each catalogue entry is a short description of the manuscript in prose, describing its general contents, language, date and any significant and obvious features of the manuscript, such as fragmentation, large miniatures, etc. This is placed inside a ~<head>~ element as text.
+
+When a "glamor shot" image of a manuscript is available, it will be linked inside the head in an element ~<figure>~. For example:
+
+#+BEGIN_SRC xml
+<head>
+  A fifteenth-century book of hours in Low German with multiple full-page miniatures. It contains added prayers in Danish.
+  <figure url="../imgs/AM08-0073.jpg"/>
+</head>
+#+END_SRC
+
+* Textual contents (msContents)
