@@ -147,7 +147,9 @@
           <w>vnt<lb n="11"/>fenk</w>
           <w>syn</w>
           <w>kynt</w>
-          <name type="place" key="Israel">israhel</name>
+          <name type="place" key="Israel">
+            <w>israhel</w>
+          </name>
           <w>he</w>
           <w>dachte</w>
           <lb n="12"/>
@@ -162,7 +164,9 @@
           <w>vnsen</w>
           <w>verdere<ex>n</ex></w>
           <lb n="14"/>
-          <name type="pers" key="Abraham">abrahame</name>
+          <name type="pers" key="Abraham">
+            <w>abrahame</w>
+          </name>
           <w>to</w>
           <w>eweliken</w>
           <w>syme</w>

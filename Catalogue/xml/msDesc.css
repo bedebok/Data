@@ -105,58 +105,45 @@ msItem > msItem {
     display: block;
     margin-left: 15pt
 }
-msItem[n] > locus:before {
+/*msItem[n] > locus:before {
     content: "("
 }
 msItem[n] > locus:after {
     content: ")"
+}*/
+
+msItem > locus:before {
+  content: attr(from) '-' attr(to);
 }
 msItem > title {
-    font-weight: 600;
-    font-size: 100%;
-    letter-spacing: 1px
+    font-variant: small-caps;
 }
-msItem > title:before {
-    content: "Title: "
-}
+
 msItem > title:after {
     content: ". "
 }
 rubric {
-    display: block
-}
-rubric:before {
-    content: "Rubric: \201C"
-}
-rubric:after {
-    content: "\201D "
+    display: inline;
+    font-weight: 600;
+    color: darkred;
 }
 
-rubric:empty:before {
-    content: "Rubric: [No rubric]"
-}
-rubric:empty:after {
-    content: ""
-}
 
 incipit {
-    display: block
+    display: inline
 }
-incipit:before {
-    content: "Incipit: \201C"
+
+incipit[type="latin"] {
+  text-decoration: underline;
 }
-incipit:after {
-    content: "\201D "
-}
+
 explicit {
-    display: block
+    display: inline
 }
 explicit:before {
-    content: "Explicit: \201C"
+    content: " [...] "
 }
-explicit:after {
-    content: "\201D "
-}
+
 incipit[defective = "yes"]:before {
     content: "Begins: \201C"
 }
