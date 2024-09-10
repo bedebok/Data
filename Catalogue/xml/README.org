@@ -21,10 +21,10 @@ Catalogue files follow the TEI P5 guidelines for manuscript description (see tei
 
 ~<sourceDesc>~ contains only one child element ~<msDesc>~ which contains the following X parts:
 
-- [[Identifier (msIdentifier)]]
-- [[Header (head)]]
-- [[Text contents (msContents)]]
-- [[#physica-descriptin-physdesc][Physical description (physDesc)]]
+- [[#identifier-msidentifier][Identifier (msIdentifier)]]
+- [[#header-head][Header (head)]]
+- [[#text-contents-mscontents][Text contents (msContents)]]
+- [[#physical-descriptin-physdesc][Physical description (physDesc)]]
 - [[#history-and-provenance-history][History and provenance (history)]]
 
 * Identifier (msIdentifier)
