@@ -7,13 +7,25 @@ Catalogue files follow the TEI P5 guidelines for manuscript description (see tei
 #+BEGIN_SRC xml
 <titleStmt>
   <title><!-- Shelfmark goes here --></title>
+  <respStmt xml:id="SDV">
+    <resp when="2024">Cataloguer</resp>
+    <persName>Seán D. Vrieland</persName>
+  </respStmt>
 </titleStmt>
 <publicationStmt>
   <authority>When Danes Prayed in German</authority>
 </publicationStmt>
 #+END_SRC
 
-- Note :: The publication statement may be expanded to provide the ability to cite.
+- Note :: The publication statement may be expanded to provide the ability to cite, perhaps in conjunction with the responsibility statement under the title statement.
+
+~<sourceDesc>~ contains only one child element ~<msDesc>~ which contains the following X parts:
+
+- [[*Identifier (msIdentifier)]]
+- [[*Header (head)]]
+- [[*Text contents (msContents)]]
+- [[*Physical description (physDesc)]]
+- [[*History and provenane (history)]]
 
 * Identifier (msIdentifier)
 This section provides the identity markers for the location and registration number (shelfmark) of the physical object. It contains three elements: ~<settlement> <repository> <idno>~
@@ -79,4 +91,7 @@ When a "glamor shot" image of a manuscript is available, it will be linked insid
 </head>
 #+END_SRC
 
-* Textual contents (msContents)
+* Text contents (msContents)
+
+* Physical description (physDesc)]]
+* History and provenane (history)]]
