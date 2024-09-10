@@ -1,0 +1,7 @@
++#TITLE: XML Catalogue files
+
+Catalogue files follow the TEI P5 guidelines for manuscript description (see tei-c.org)
+
+* Identifier (msIdentifier)
+This section contains three elements: ~<settlement> <repository> <idno>~
+
