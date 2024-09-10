@@ -25,7 +25,7 @@ Catalogue files follow the TEI P5 guidelines for manuscript description (see tei
 - [[Header (head)]]
 - [[Text contents (msContents)]]
 - [[Physical description (physDesc)]]
-- [[history][History and provenance (history)]]
+- [[#history][History and provenance (history)]]
 
 * Identifier (msIdentifier)
 This section provides the identity markers for the location and registration number (shelfmark) of the physical object. It contains three elements: ~<settlement> <repository> <idno>~
@@ -94,4 +94,5 @@ When a "glamor shot" image of a manuscript is available, it will be linked insid
 * Text contents (msContents)
 
 * Physical description (physDesc)
-* History and provenance (history) <<history>>
+* History and provenance (history)
+#+NAME: history
