@@ -16,6 +16,7 @@
             <repository key="AMS"/>
             <idno xml:id="AM08-0073">AM 73 8vo</idno>
           </msIdentifier>
+          <head>A fifteenth-century book of hours in Low German with multiple full-page miniatures. It contains added prayers in Danish.</head>
           <msContents>
             <msItem class="calendar">
               <locus from="2r" to="11v"/>
