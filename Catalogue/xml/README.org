@@ -95,4 +95,4 @@ When a "glamor shot" image of a manuscript is available, it will be linked insid
 
 * Physical description (physDesc)
 * History and provenance (history)
-#+NAME: history
+#+NAME: #history
