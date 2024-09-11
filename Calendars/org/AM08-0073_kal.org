@@ -1,7 +1,67 @@
 #+TITLE: Calendar (AM 73 8vo)
 
 * January
+---2r---
+Januari(us) heft .xxxi. daghe
+
+|----+---+---+---------+--------------------------------------+-----+-------------------+------|
+|  1 | A | A |         | Nye iars dagh                        | red | NEW_YEAR          | iii  |
+|  2 | B | b | iiii    | De achtede dagh sunte steffe(n)s     |     | STEPHEN_OCTAVE    |      |
+|  3 | C | c | iii     | De achtede dagh sunte Jochs          |     | JOHN_EVANG_OCTAVE | xi   |
+|  4 | D | d | ii      | De vnschuldighe(n) kynd(er)e achtede |     | INNOCENTS_OCTAVE  |      |
+|  5 | E | e | no(na)s |                                      |     |                   | xix  |
+|  6 | F | f | viii    | Der hilghe(n) dre koni(n)ge d.       | red |                   | viii |
+|  7 | G | g | vii     | Luciam. merteler.                    |     |                   |      |
+|  8 | H | A | vi      | Kanuti. mertel.                      |     |                   | xvi  |
+|  9 | i | b | v       | Greg??                               |     |                   | v    |
+| 10 | k | c | iiii    | Pallus de erste klusener             |     |                   |      |
+| 11 | l | d | iii     | ??                                   |     |                   |      |
+|  - |   |   |         | ---2v---                             |     |                   |      |
+| 21 | x | g | xii     | Agneta. Juncvrow.                    |     |                   |      |
+| 22 | y | A | xi      | Vincentiucs. merteler.               |     |                   | xii  |
+| 23 | z | b | x       | Emere(n)ciana. Juncvrowe.            |     |                   | i    |
+| 24 |   | c | ix      | Thimothe(us). merteler.              |     |                   |      |
+| 25 |   | d | viii    | Paul(us) alzo he bekert wart         | red |                   | ix   |
+| 26 |   | e | vii     | Policarp(us). mertel(er).            |     |                   |      |
+| 27 |   | f | vi      | Mauri. abbet.                        |     |                   |      |
+| 28 | a | g | v       | Cirilli. biscop.                     |     | CYRIL             |      |
+| 29 | b | A | iii     | Vale(r)ius. biscop                   |     |                   |      |
+| 30 | - | b | iii     | Aldegundis. Juncurow.                |     |                   |      |
+|  - | - |   |         |                                      |     |                   |      |
+|----+---+---+---------+--------------------------------------+-----+-------------------+------|
+
 * February
+---3r---
+
+|----+---+---+--------+--------------------------+-----+---+-------|
+|  - |   |   |        |                          |     |   |       |
+|  8 | m | d | vi     | Helena. keyserinne       |     |   |       |
+|  9 | n | e | v      | Appollonia. Ju(n)cvrowe  |     |   | xiii  |
+| 10 | o | f | iiii   | Scolastica. Ju(n)cvrowe. |     |   | ii    |
+| 11 | p | g | iii    | Eufrosina. Ju(n)cvrowe.  |     |   |       |
+| 12 | q | A | ii     | Eulalia. Ju(n)cvrowe.    |     |   | x     |
+| 13 | r | b | Id(us) |                          |     |   |       |
+| 14 | s | c | xvi    | Valentini. mertel(er)    |     |   | xviii |
+| 15 | t | d | xv     | Faustini. mertel(er).    |     |   | vii   |
+| 16 | v | e | xiiii  | Juliana. Juncvrowe.      |     |   |       |
+| 17 | x | f | xiii   | Crisanti. mertel(er).    |     |   | xv    |
+| 18 | y | g | xii    |                          |     |   | iiii  |
+| 19 | z | A | xi     | Gabini. bightiger.       |     |   |       |
+| 20 |   | b | x      |                          |     |   | xii   |
+| 21 |   | c | ix     |                          |     |   | i     |
+| 22 |   | d | viii   | Petri vorhoginge         | red |   |       |
+| 23 |   | e | vii    | lxxii. merteler.         |     |   | ix    |
+| 24 | A | f | vi     | Mathias apostel.         | red |   |       |
+| 25 | b | g | v      | Victorini. mertel(er)    |     |   | xvii  |
+| 26 | c | A | iiii   |                          |     |   | vi    |
+| 27 | d | b | iii    |                          |     |   |       |
+| 28 | e | c | ii     | Romani. mertel(er).      |     |   | xiii  |
+|----+---+---+--------+--------------------------+-----+---+-------|
+
+De nacht is xiiij stunde. de dagh x
+
+- Notes :: Eufrosina on 11 February typical for Carmelites
+
 * March
 * April
 * May
@@ -11,36 +71,39 @@
 * September
 * October
 * November
-|----+---+---+---------+-------------------------+-----+------------+------|
-|  1 | e | d |         | Alle godes hilgen       | red | ALL_SAINTS |      |
-|  2 | f | e | iiii    |                         |     |            | xiii |
-|  3 | g | f | ii      |                         |     |            |      |
-|  4 | h | g | i       |                         |     |            |      |
-|  5 | i | A | No(ne)s |                         |     |            |      |
-|  6 | k | b | viii    |                         |     |            |      |
-|  7 | l | c | vii     | Willebrordus .biscop.   |     | WILLIBRORD |      |
-|  8 | m | d | vi      | Willehad(us) .bisc(op). |     | WILLEHAD   |      |
-|  9 | n | e | v       |                         |     |            |      |
-| 10 | o | f | iiii    | Martin(us) .pawes.      |     | MARTIN     |      |
-| 11 | p | g | iii     | Martinus .biscop.       | red | MARTIN     |      |
-| 12 | q | A | ii      |                         |     |            |      |
-| 13 | r | b | Id(us)  | Brictius .bis(cop).     |     | BRICTIUS   |      |
-| 14 | s | c | xviii   |                         |     |            |      |
-| 15 | t | d | xvii    |                         |     |            |      |
-| 16 | v | e | xvi     | Othmar(us) abbet        |     | OTHMAR     |      |
-| 17 | x | f | xv      |                         |     |            |      |
-| 18 | y | g | xiiii   |                         |     |            |      |
-| 19 | z | A | xiii    | Elyzab(et) weddue.      | red | ELIZABETH  |      |
-| 20 |   | b | xii     |                         |     |            |      |
-| 21 |   | c | xi      |                         |     |            |      |
-| 22 |   | d | x       | Cecilie. Juncvrow.      |     | CECILIA    |      |
-| 23 |   | e | ix      | Clemens. pawes.         |     | CLEMENS    |      |
-| 24 |   | f | viii    |                         |     |            |      |
-| 25 | A | g | vii     | Katherina. Juncvrow.    | red | CATHERINE  |      |
-| 26 | b | A | vi      |                         |     |            |      |
-| 27 | c | b | v       |                         |     |            |      |
-| 28 | d | c | iiii    |                         |     |            |      |
-| 29 | e | d | iii     | Saturnini(us)           |     | SATURNINUS |      |
-| 30 | f | e | ii      | Adreas. Apostel.        | red | ANDREW     |      |
-|----+---+---+---------+-------------------------+-----+------------+------|
+|----+---+---+---------+--------------------------+-----+------------+-------|
+|  1 | e | d |         | Alle godes hilgen        | red | ALL_SAINTS |       |
+|  2 | f | e | iiii    |                          |     |            | xiii  |
+|  3 | g | f | iii     |                          |     |            | ii    |
+|  4 | h | g | ii      |                          |     |            |       |
+|  5 | i | A | No(na)s |                          |     |            | x     |
+|  6 | k | b | viii    |                          |     |            |       |
+|  7 | l | c | vii     | Willebrordus .biscop.    |     | WILLIBRORD | xviii |
+|  8 | m | d | vi      | Willehad(us) .bisc(op).  |     | WILLEHAD   | vii   |
+|  9 | n | e | v       |                          |     |            |       |
+| 10 | o | f | iiii    | Martin(us) .pawes.       |     | MARTIN     | xv    |
+| 11 | p | g | iii     | Martinus .biscop.        | red | MARTIN     | iiii  |
+| 12 | q | A | ii      |                          |     |            |       |
+| 13 | r | b | Id(us)  | Brictius .bis(cop).      |     | BRICTIUS   | xii   |
+| 14 | s | c | xviii   |                          |     |            | i     |
+| 15 | t | d | xvii    |                          |     |            |       |
+| 16 | v | e | xvi     | Othmar(us) abbet         |     | OTHMAR     | ix    |
+| 17 | x | f | xv      |                          |     |            |       |
+| 18 | y | g | xiiii   |                          |     |            | xvii  |
+| 19 | z | A | xiii    | Elyzab(et) weddue.       | red | ELIZABETH  | vi    |
+| 20 |   | b | xii     |                          |     |            |       |
+|  - |   |   |         | ---10v---                |     |            |       |
+| 21 |   | c | xi      |                          |     |            | xiiii |
+| 22 |   | d | x       | Cecilie. Juncvrow.       |     | CECILIA    | iii   |
+| 23 |   | e | ix      | Clemens. pawes.          |     | CLEMENS    |       |
+| 24 |   | f | viii    |                          |     |            | xi    |
+| 25 | A | g | vii     | Katherina. Juncvrow.     | red | CATHERINE  | xix   |
+| 26 | b | A | vi      |                          |     |            |       |
+| 27 | c | b | v       |                          |     |            | viii  |
+| 28 | d | c | iiii    |                          |     |            |       |
+| 29 | e | d | iii     | Saturnini(us) mertel(us) |     | SATURNINUS | xvi   |
+| 30 | f | e | ii      | Adreas. Apostel.         | red | ANDREW     | v     |
+|----+---+---+---------+--------------------------+-----+------------+-------|
+
+De nacht is xvi stunde. de dagh viij.
 * December
