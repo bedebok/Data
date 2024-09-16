@@ -18,7 +18,6 @@
           </msIdentifier>
           <head>
             A fifteenth-century book of hours in Low German with multiple full-page miniatures. It contains added prayers in Danish.
-           <figure url="../imgs/AM08-0073.jpg"/>
           </head>
           <msContents>
             <msItem class="calendar">
@@ -72,6 +71,11 @@
               <incipit type="latin" xml:lang="la">Domine labia mea aperies</incipit>
               <incipit xml:lang="gml">Here opene myne lippen</incipit>
               <textLang mainLang="gml" otherLangs="la"/>
+              <msItem>
+                <locus from="44r" to="54v"/>
+                <title key="HOURS_VIRGIN_MATINS">Matins</title>
+                <textLang mainLang="gml"/>
+              </msItem>
               <msItem class="prayer added">
                 <locus from="46r" to="46v"/>
                 <title key="QUEM_TERRA_PONTUS">Quem terra pontus</title>
@@ -90,8 +94,6 @@
                 <explicit>Wy hopen an dy vrouwe make vns salich ewichliken. Amen.</explicit>
                 <textLang mainLang="gml" otherLangs="la"/>
               </msItem>
-              <!-- PRIME starts 71r -->
-              <!-- COMPLINE starts 88v -->
             </msItem>
             <msItem class="prayer">
               <locus from="93r" to="94r"/>
