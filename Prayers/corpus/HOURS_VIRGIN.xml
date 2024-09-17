@@ -41,7 +41,7 @@
       <div type="hours" xml:id="HOURS_VIRGIN">
         <head>Hours of the Virgin</head>
         <head xml:lang="la">Officium parvum Beatae Mariae Virginis</head>
-        <div type="hour" xml:id="HOURS_VIRGIN_MATINS">
+        <div type="hour" xml:id="HOURS_VIRGIN.matins">
           <head>Matins</head>
           <app>
             <rdg wit="#Optional #Holm-A0042 #Lund-Mh0035">Ave Maria</rdg>
