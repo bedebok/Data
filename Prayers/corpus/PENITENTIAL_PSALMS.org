@@ -7,14 +7,22 @@ Seven psalms of David considered lamentations. These frequently are found in boo
 | Shelfmark    | Manuscript / Print   | Language | Locus   | MDB   |
 |--------------+----------------------+----------+---------+-------|
 | Mh 35        | Karen Ludvigsdatters | Danish   | 26r     | I.184 |
-| AM 73 8vo    |                      | German   | 13r     |       |
+| AM 73 8vo    |                      | German   | 13r-24r |       |
 |              | Arndes 1499          | German   |         |       |
 | AM 417 12mo  |                      | German   | 73v     |       |
 | GKS 1615 4to |                      |          | 138v    |       |
 | AM 76 8vo    |                      | Danish   | 113r    |       |
 | GKS 1613 4to | Else Holgersdatters  | Danish   | 19v-29r |       |
 | Holm A 42    | Johanne Nielsdatters | Latin    |         |       |
+| GKS 3423     |                      | German   | 79r-    |       |
 |--------------+----------------------+----------+---------+-------|
+
+** Outside the corpus
+|-----------+--------------------------------------------+----------+-------|
+| Shelfmark | Manuscript / Print                         | Language | Locus |
+|-----------+--------------------------------------------+----------+-------|
+|           | http://medievalist.net/hourstxt/penpss.htm | Latin    |       |
+|-----------+--------------------------------------------+----------+-------|
    
 * Structure of the text
 - Psalm 6 :: Domine ne in furore tuo aruas me.

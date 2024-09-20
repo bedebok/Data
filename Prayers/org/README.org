@@ -5,12 +5,11 @@ The metadata for the file starts from the very beginning with the ~#+TITLE:~. He
 
 What follows is a table with the other metadata which will be placed inside the ~<fileDesc>~.
 
-|------------+---|
 | Manuscript |   |
 | Locus      |   |
 | Text       |   |
 | Language   |   |
-|------------+---|
+| Status     |   |
 
 
 - Manuscript :: Provide the key for the manuscript, e.g. ~AM08-0073~ for AM 73 8vo.

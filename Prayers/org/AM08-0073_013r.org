@@ -1,16 +1,14 @@
 #+TITLE: Seven Penitential Psalms
-| Manuscript | AM 73 8vo |
-| Locus | f. 13r- |
-| Language | Low German |
 
-** Parallels
-| Danish | |
-| Low German | GKS 3423 f. 79r |
-| Latin | http://medievalist.net/hourstxt/penpss.htm (with English translation |
-
+| Manuscript | AM08-0073          |
+| Locus      | 13r 24r            |
+| Text       | PENITENTIAL_PSALMS |
+| Language   | gml                |
+| Status     | transcribed        |
 
 * Transcription
 ** Rubric
+
 Hir begynne(n) soue(n) salme(n)
 
 ** Psalm 6
@@ -96,6 +94,7 @@ hilgen geyste. Amen.
 P(salmu)s
 
 *** Incipit
+
 [[B]]eati quo(rum) remisse sunt
 
 iniq(ui)tates:
