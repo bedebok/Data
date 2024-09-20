@@ -8,32 +8,22 @@
 | Low German | GKS 3423 f. 79r |
 | Latin | http://medievalist.net/hourstxt/penpss.htm (with English translation |
 
-** TOC
-[[PSALM_6][Psalm 6: Domine ne in furore tuo arguas me.]]
-
-[[PSALM_31][Psalm 31: Beati quorum remissae sunt iniquitates.]]
-
-[[PSALM_37][Psalm 37 (38): Domine ne in furore tuo arguas me.]] 
-
-[[PSALM_50][Psalm 50 (51): Miserere mei, Deus, secundum magnam misericordiam tuam.]]
-
-[[PSALM_101][Psalm 101 (102): Domine, exaudi orationem meam, et clamor meus ad te veniat.]]
-
-[[PSALM_129][Psalm 129 (130): De profundis clamavi ad te, Domine.]]
-
-[[PSALM_142][Psalm 142 (143): Domine, exaudi orationem meam: auribus percipe obsecrationem meam in veritate tua.]]
 
 * Transcription
 ** Rubric
 Hir begynne(n) soue(n) salme(n)
 
-** Text 1 <<PSALM_6>>
+** Psalm 6
+*** Incipit
 
-[[D]] _Omine ne in furo(r)e_ 
+[[3 red blue][D]]Omine ne in furo(r)e
 
-_tuo arugas me: ne-_
+tuo arugas me: ne-
 
-_q(ue) in._ [[H]]ere en schelt
+q(ue) in.
+
+*** Text
+[[H]]ere en schelt
 
 my nicht in dyneme vmmode
 
@@ -101,13 +91,17 @@ vnde deme sone: vnde deme
 
 hilgen geyste. Amen. 
 
-** Rubric
+** Psalm 31
+*** Rubric
 P(salmu)s
 
-** Text 2 <<PSALM_31>>
-[[B]] _eati quo(rum) remisse sunt_
+*** Incipit
+[[B]]eati quo(rum) remisse sunt
 
-_iniq(ui)tates_: [[S]]alich sint
+iniq(ui)tates:
+
+*** Text
+[[S]]alich sint
 
 de den ere bosheyt is vorgeue:
 

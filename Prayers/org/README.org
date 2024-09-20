@@ -1,0 +1,59 @@
+#+TITLE: Transcription of Prayers in Org-Mode
+
+* Metadata
+The metadata for the file starts from the very beginning with the ~#+TITLE:~. Here the human-readable verison of the title is given, e.g. ~Hours of the Virgin (matins)~. This will be converted in TEI to the ~<titleStmt>~.
+
+What follows is a table with the other metadata which will be placed inside the ~<fileDesc>~.
+
+|------------+---|
+| Manuscript |   |
+| Locus      |   |
+| Text       |   |
+| Language   |   |
+|------------+---|
+
+
+- Manuscript :: Provide the key for the manuscript, e.g. ~AM08-0073~ for AM 73 8vo.
+- Locus :: Provide the first and final page separated by a space, e.g. ~9r 9v~
+- Text :: Provide the key for the text (if available), e.g. ~HOURS_VIRGIN.matins~ for Hours of the Virgin (matins)
+- Language :: Provide the key for the language
+
+
+* Transcription
+The beginning of the transcription is marked with a top-level headline ~* Transcription~. This will mark the beginning of the ~<body>~ in TEI. 
+
+** Text structure
+Org-mode headings (indicated with asterisks) will produce nesting ~<div>~ tags in TEI. 
+
+*** Special headers
+The following headers are special:
+
+- Text :: The main text.
+- Rubric :: Any text in red either at the beginning or end of a main text.                   
+- Incipit :: Latin incipits for texts in the vernacular. These are often underlined in the manuscript.
+- Versicle :: 
+- Respond ::
+- Antiphon ::
+- Lesson ::
+- Chapter ::
+
+# What about the orders for the Gloria Patri, etc?
+
+** Mise-en-page
+The following macros will be used to indicate the most salient features of the mise-en-page (layout) of the manuscript.
+
+*** Lines and pages
+A double hard return is used to indicate a new line, which will result in a ~<lb/>~ tag in the TEI. New pages are indicated with the folio number inside a triple-hyphen.
+
+#+BEGIN_SRC org
+zele vnde make my salich dor
+
+dine barmherticheit Wente
+
+---13v---
+
+nement de is in deme dode: de
+
+dyner dechtik sin vnde we louet
+#+END_SRC 
+
