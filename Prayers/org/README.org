@@ -45,6 +45,7 @@ The following macros will be used to indicate the most salient features of the m
 *** Lines and pages
 A double hard return is used to indicate a new line, which will result in a ~<lb/>~ tag in the TEI. New pages are indicated with the folio number inside a triple-hyphen.
 
+For example, the org-mode transcription:
 #+BEGIN_SRC org
 zele vnde make my salich dor
 
@@ -66,3 +67,9 @@ Results in:
 <lb/>nement de is in deme dode: de
 <lb/>dyner dechtik sin vnde we louet
 #+END_SRC
+
+*** Enlarged and colored initials
+Initial hierarchy can be important in distinguishing parts of a text. Enlarged and colored initials are placed inside a double-bracket ~[ [ ] ]~ which will automatically result in an underlined link in the org-file. These will be converted to ~<hi>~ tags in TEI.
+
+It can be useful to include information about the color and height of initials. These can be done inside the first set of brackets with the number and color(s) separated by a whitespace. For example a three-line initial /M/ which is in red and blue (puzzle initial) can be indicated by encoding ~[[3 red blue][M~. In-line (single height) initials can be indicated simply by color, e.g. ~[[green][W~.
+
