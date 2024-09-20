@@ -57,3 +57,12 @@ nement de is in deme dode: de
 dyner dechtik sin vnde we louet
 #+END_SRC 
 
+Results in:
+
+#+BEGIN_SRC xml
+<lb/> zele vnde make my salich dor
+<lb/> dine barmherticheit Wente
+<pb n="13v"/>
+<lb/>nement de is in deme dode: de
+<lb/>dyner dechtik sin vnde we louet
+#+END_SRC

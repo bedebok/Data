@@ -265,9 +265,9 @@ ok macht de myne zele sachte(n)
 
 de hebbe(n) uppe ydelecheit gespra-
 
-ken: vn(de) dachten alle den gan-                 [fn:GESPRAKEN Why <a> in participle?]
+ken: vn(de) dachten alle den gan-                 [fn::GESPRAKEN Why <a> in participle?]
 
-czen dach drogene [[S]]e ik was                       [fn:GANCZEN Note <cz> for /ts/] 
+czen dach drogene [[S]]e ik was                       [fn::GANCZEN Note <cz> for /ts/] 
 
 eyn doue de nicht en horde: vn(de)
 
