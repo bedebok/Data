@@ -1,0 +1,46 @@
+#+TITLE: Editions of Prayers (xml)
+
+Text editions follow the TEI P5 guidelines (see tei-c.org)
+
+* TEI Header
+The file opens with a ~<teiHeader>~ element, which contains the important metadata for the edition. 
+
+- ~<titleStmt>~ contains the title of the prayer or other text
+- ~<publicationStmt>~ contains the metadata regarding the publication
+- ~<sourceDesc>~ contains a brief description of the manuscript source
+
+** Source Description ~<sourceDesc>~
+The purpose of this section is to point the edition back to the manuscript where the text is found. It is in essence an abridged version of the ~<sourceDesc>~ of the catalogue file. It contains two sections:
+
+- ~<msDesc>~ provides identifiers for the manuscript
+- ~<msContents>~ provides the location of the text
+
+Note that in both sections attributes will be used to point to elements in other files. In catalogue files and text description files these attributes are tagged as ~@xml:id~. In text edition files, on the other hand, these are tagged as ~@corresp~ (for manuscript shelfmarks) or ~@key~ (for titles of texts).
+
+*** Manuscript description
+The manuscript description element only contains the necessary identifiers to point to the correct manuscript. These include the settlement, repository and shelfmark, all of which are wrapped in the element ~<msIdentifier>~.
+
+#+BEGIN_SRC xml 
+<msIdentifier>
+  <settlement key="KBH"/>
+  <repository key="AMS"/>
+  <idno corresp="AM08-0073">AM 73 8vo</idno>
+</msIdentifier>
+#+END_SRC
+
+Note that the element ~<idno>~ is given the attribute ~@corresp~ rather than ~@xml:id~.
+
+*** Manuscript contents
+The contents section provides only the necessary information for the text being encoded in the actual file. This is often only a single text, though it is possible to nest elements of the text such as antiphons, versicles and indulgences.
+
+#+BEGIN_SRC xml 
+<msContents>
+  <msItem>
+    <locus from="237v" to="238v"/>
+    <title key="MAGNIFICAT">Magnificat</title>
+    <textLang mainLang="gml"/>
+  </msItem>
+</msContents>
+#+END_SRC
+
+Note that the element ~<title>~ contains the attribute ~@key~, which can point to a text description file where the same title is given the matching attribute as ~@xml:id~.
