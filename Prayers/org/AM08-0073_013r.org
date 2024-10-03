@@ -11,7 +11,7 @@
 
 Hir begynne(n) soue(n) salme(n)
 
-** Psalm 6
+** Psalm :PSALM_6:
 *** Incipit
 
 [[3 red blue][D]]Omine ne in furo(r)e
