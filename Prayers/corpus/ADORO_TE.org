@@ -13,6 +13,8 @@ http://www.preces-latinae.org/thesaurus/Filius/SeptemSG.html
 *** In corpus
 - UUB C 496 :: Found on ff. 9r-10r and contains all seven verses and collect. It immediately follows another prayer of indulgence by Sixtus IV (Almechtige vnde barmhertighe god schepper hemmels vnde der erden) which is found in the manuscript [[https://handschriftencensus.de/3818][Ham. Univ. 102c in scrin.]] (f. [[https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf%5Bid%5D=15507&tx_dlf%5Bpage%5D=168&tx_dlf_navigation%5Baction%5D=main&tx_dlf_navigation%5Bcontroller%5D=Navigation&cHash=8b6b81d8c4b7e6f1d9e87ef95cb8683d][81v]]), where Christian I is mentioned following the indulgence.
 
+- AM 73 8vo :: Found on ff. 228r-230r as an added prayer and contains all seven verses and collect. A new hand has added the indulgence of Sixtus IV and is followed by another prayer in the same style, in yet another hand. Consistent use of <w> as a vowel might suggest a Danish scribe.
+
 *** Elsewhere
 
 Endless amoung of MS: Lübeck, Ms. theol. Germ. 42, 19v and 94r (now RNL, Fond 955 op. 2 Nr. 51)
