@@ -1,0 +1,780 @@
+#+TITLE: Seven Penitential Psalms
+
+| Manuscript | AM08-0073          |
+| Locus      | 13r 24r            |
+| Text       | PENITENTIAL_PSALMS |
+| Language   | gml                |
+| Status     | transcribed        |
+
+* Transcription
+** Rubric
+
+Hir begynne(n) soue(n) salme(n)
+
+** Psalm :PSALM_6:
+*** Incipit
+
+[[3 red blue][D]]Omine ne in furo(r)e
+
+tuo arugas me: ne-
+
+q(ue) in.
+
+*** Text
+[[H]]ere en schelt
+
+my nicht in dyneme vmmode
+
+noch en tuchtige my in dyne-
+
+me torne [[H]]ere gnade my
+
+wente ich krank bin make 
+
+my sunt: wente alle myne
+
+knoke(n) bedrouet sint [[U]]nde
+
+myne zele de is sere bedrouet
+
+zunder du here wo lange [[B]]e-
+
+kere dy here vnde loze mine
+
+zele vnde make my salich dor
+
+dine barmherticheit [[W]]ente
+
+---13v---
+
+nement de is in deme dode: de
+
+dyner dechtik sin vnde we louet
+
+dy in der hellen [[I]]k arbeyde yn
+
+myner suchtinge ik wil wasche(n)
+
+alle nacht my(n) bedde mit myne(n)
+
+trane(n): vnde ik wil nat make(n)
+
+myne leggerstede [[M]]yn oge
+
+dat is bedrouet van v(m)mode ik
+
+wart olt mank alle(n) mynen
+
+vienden [[V]]aret van my alle
+
+de dar werken de bosheyt -de- he-
+
+re de heft getwidet de stemme
+
+mynes bedendes [[D]]e here de heft
+
+myn beide getwidet:vnde de here
+
+heft myn beth entfange [[A]]lle
+
+---14r---
+
+myne viende de schame(n) sik:
+
+vnde worde(n) bedrouet gar snel-
+
+lichlik [[E]]re sy deme uadere
+
+vnde deme sone: vnde deme 
+
+hilgen geyste. Amen. 
+
+** Psalm 31
+*** Rubric
+P(salmu)s
+
+*** Incipit
+
+[[B]]eati quo(rum) remisse sunt
+
+iniq(ui)tates:
+
+*** Text
+[[S]]alich sint
+
+de den ere bosheyt is vorgeue:
+
+vnde ere sunde bedecket synt.
+
+[[S]]alich is de man deme de h(er)e
+
+nicht ene witet de sunde: noch 
+
+in syneme geyste is nene dro-
+
+gene [[M]]yne knoke(n) de sint vor-
+
+oldet: wente ik gesprake(n) hebbe
+
+do ik alle den dach rep [[W]]ente
+
+---14v---
+
+dach vnde nacht so is dyne 
+
+hand geswaret bouen my ik
+
+bin gekeret in myneme iare
+
+also eyn dorne gestucket wert
+
+[[I]]k dede dy witliche(n) myne bro-
+
+ke: vnde behude nicht myne
+
+vnrechticheit [[I]]k sprach wedder
+
+my ik wil wasschen myne 
+
+sunde: vnde bichte(n) se myneme
+
+heren [[D]]at v(m)me so scal to dy
+
+bidde(n) eyn yewelk hilge yn der
+
+nottorftigen tijd [[I]]o doch in de-
+
+me ouersten we veler lude so
+
+scolen se dy ok nicht nalen.
+
+[[D]]u bist myne toulucht in
+
+---15r---
+
+der drofnisse(n): de my heft v(m)me
+
+vange [[I]]k wil dy geue(n) vorsta(n)t-
+
+nisse: vnde wil dy wise(n) an den
+
+wech den du gan schalt vnde
+
+wil uppe dy stedigen myne o-
+
+gen [[W]]erdet ok nicht alzo ey(n)
+
+pert vn(de) eyn mule: in den nene
+
+vorstantnisse en is [[U]]ele gey-
+
+selen de sint des sunders sunder
+
+barmherticheyt de scal ok vm-
+
+megan alle de barmehertige(n)
+
+de yn den heren hopen [[G]]y
+
+rechten vrowet iw an den he-
+
+ren: alle de van rechteme lo-
+
+uen sint [[E]]re sy deme vadere
+
+---15v---
+
+vnde deme sone vnde deme hilge(n)
+
+§ geyste
+
+** Psalm 37
+
+*** Incipit
+
+[[D]](omi)ne ne in fu-
+
+rore tuo ar.
+
+*** Text
+[[H]]ere en schelt
+
+my nicht yn dineme vnmode:
+
+vn(de) en berop my nicht in dyne-
+
+me torne [[W]]ente dyne scho-
+
+te de sint yn my gechicket:
+
+vnde du hefst dine hant geste-
+
+deget boue(n) my [[I]]n myneme
+
+vlesche ene is nene zuntheyt                      [fn::ZUNTHEYT Lasch §330. I. /z/ for anlaut /s/ especially popular in west.]
+
+van dyme antlate dines tornes
+
+yn myne(n) knoke(n) is nen vrede
+
+van deme antlate myner
+
+sunde [[W]]ente myne bosheyt
+
+de sind boue(n) my(n) houet gegan:
+
+---16r---
+
+vnde se sint geswaret bouen
+
+my alzo ene sware bordene
+
+[[M]]yne nare(n) de sint vorvult
+
+vnde vordorue(n) van deme ant-
+
+lade myner dumheit [[W]]ente
+
+myne lende de sint voruullet
+
+mit bespottinge: vn(de) in myne-
+
+me vleysche en is nene sunt-
+
+heit [[I]]k bin gepyneget: vnde 
+
+alto zere geotmodiget van der
+
+suchtinge mynes herte(n) [[H]]ere
+
+vor dy is myne begeringe:
+
+vn(de) my(n) suchtent dat ene is
+
+vor dy nicht vorborge(n) [[M]]yn
+
+herte dat is bedrouet vnde
+
+---16v---
+
+myne kraft de heft my vorla-
+
+ten: vn(de) dat licht myner ogen
+
+dat is nicht mit my [[M]]yne
+
+vrunt vn(de) myne negesten de
+
+stunde(n) wedder my: vnde deden
+
+ok macht de myne zele sachte(n)
+
+[[U]]nde my bose dink vragede(n) 
+
+de hebbe(n) uppe ydelecheit gespra-
+
+ken: vn(de) dachten alle den gan-                 [fn::GESPRAKEN Why <a> in participle?]
+
+czen dach drogene [[S]]e ik was                       [fn::GANCZEN Note <cz> for /ts/] 
+
+eyn doue de nicht en horde: vn(de)
+
+de an syneme mu(n)de heft nene
+
+sprake [[W]]ente ik hopede in
+
+dy my(n) got here du scolt my 
+
+twide(n): vnde also sik myne 
+
+---17r---
+
+viende bewegede(n). Se spreken                    [fn:SE S highlighted with red]
+
+grote dink uppe my vn(de) hebbe(n)
+
+gesprake(n) ydelicheit: vn(de) dach-
+
+ten den ganczen dach droge-
+
+ne [[W]]ente ik bin bereyde in
+
+der geysele(n): vnde myne rode                    [fn:RODE 'suffering' -- what is this word? MDu hours WEE]
+
+de is yu(m)mer an dyme angesich-
+
+te [[W]]ente ik wil kundigen
+
+myne bosheit: vnde wil denke(n)
+
+uppe myne sunde [[M]]yne vie(n)de 
+
+de leuet vn(de) sint gestedeget bo-
+
+uen my: de my bosliken hate(n)
+
+[[D]]e dar bose ding geue(n) v(m)me
+
+de gude(n) de achter spreken my:
+
+wente ik volgede der gude [[U]]or-
+
+---17v---
+
+lat my ok nicht here my(n) got:
+
+ene vare ok nicht van my.
+
+[[H]]ere got mynes heyles denc-
+
+ke an myne hulpe [[E]]re sy
+
+deme uadere vnde deme sone 
+
+vn(de) deme hilgen geyste. Ame(n).                [fn::AMEN A highlighted with red]
+
+
+** Psalm 50
+*** Incipit
+[[M]]Jser(er)e mei d(eu)s:
+
+*** Text
+[[G]]ot vor-
+
+barme dy ouer my: na
+
+dyner grote(n) barmherticheit.
+
+[[U]]nde na ma(n)nichuoldicheit
+
+dyner gnade: vnde delge my-
+
+ne bosheit. [[U]]ortmer so was-
+
+sche myne bosheyt: vnde rene-
+
+ge my oc va(n) mynen sunden                       [fn::RENEGE Monophthongization of /ei/?]
+
+[[W]]ente ik bekerme myne bos-
+
+---18r---
+
+heyt: vnde sunde de is yu(m)mer
+
+tegen my [[I]]k hebbe dy allene
+
+gesundeget vnde hebbe ouele
+
+tegen dy gedan: dat du war-
+
+dest gerichtet in dyne(n) reden
+
+vn(de) vorwinnest wen du ok
+
+werst richtende [[W]]ente ich 
+
+bin entfange(n) in bosheyden:
+
+vn(de) myne moder de entfink
+
+my in den sunde(n) [[W]]ente du
+
+hefst leff gehad de warheit:
+
+vnde du heft my geopenbaret
+
+de vnwysen vnde de vorbor-
+
+gene dink dyner wisheit [[H]]e-
+
+re besprenge my mit deme 
+
+---18v---
+
+ysopo: vnde ik warde gereyne-
+
+get bouen den sne [[D]]u geuest
+
+myneme horende vroude: vn(de)
+
+de otmodigen bene de scolen
+
+sik vrouwen [[K]]ere dyn ant-
+
+lat van myne(n) sunde(n): vnde del-
+
+ge myne bosheit [[G]]ot scheppe
+
+an my eyn reyne herte: vnde
+
+vornye yn myneme yngewe-
+
+de eyne(n) rechte(n) geist [[U]]nde en
+
+werp my nicht va(n) dyme ant-
+
+lade: vnde nym my nicht dy-
+
+nen hilgen geist [[G]]if my
+
+wedder dynes heiles vroude:
+
+vnde bestedege my mit dyme
+
+---19r---
+
+ersten geyste [[I]]k wil den bosen
+
+dyne(n) wech leren: vn(de) de argen
+
+de scholet to dy gekeret werde(n).                [fn::SCHOLET use of plural ending -et points westward]
+
+[[H]]ere lose my van den zunde(n)
+
+got mynes heyles: vnde myne 
+
+tunge de scal dyne rechticheit
+
+hoghen [[H]]ere du scalt myne
+
+lippen up doen: vnde my(n) mu(n)t
+
+de scal din loff kundigen.
+
+[[H]]ere ofte du dat offer wol-
+
+dest hebbe(n) gehad: ik hadde id
+
+dy degelicken gegeue(n) [[E]]yn
+
+bedrouede geist de is gode ey(n)
+
+offer vorsma nicht eyn eyn ruwich
+
+vn(de) eyn otmodich herte [[D]]oe
+
+---19v---
+
+gutlichen syon in deme guden 
+
+willen: dat iherusalemes mu-
+
+re gebuwet warde [[D]]anne
+
+so scalt du aname(n) dat offer der
+
+gerechticheit vnde der gnade:
+
+zo scolen se de kaluere leggen
+
+uppe dyn altar [[E]]re sy deme
+
+vade(r) vn(de) deme sone: vn(de) de(me) h(ilgen) g(eist)
+
+
+** Psalm 101 (100)
+*** Incipit
+[[D]]Omine exaudi or(ati)o(ne)m
+
+mea(m)
+
+*** Text
+[[H]]ere twide myn
+
+beth: vn(de) my(n) ropent dat kome
+
+to dy [[E]]n kere din antlat nicht
+
+van my: yn welkeme dage
+
+ik dy an rope twide my snelli-
+
+ken [[W]]ente myne dage de sint
+
+---20r---
+
+vorswunde(n) alzo eyn rok: vnde
+
+vordoruet alzo grene [[I]]k bin ge-
+
+slagen alzo howe: vnde ik heb-
+
+be vorgeten my(n) brot to etende
+
+[[U]]an der ste(m)men myner such-
+
+tunge: so hangede myn munt
+
+to myneme vleyssche [[I]]k bin
+
+geworde(n) like deme pellicano: 
+
+vnde ik bin geworden alzo ey(n)
+
+nacht raue(n) yn deme bure [[I]]k 
+
+wakede vnde bin tam geworde(n)
+
+also ey(n) sperlink in deme dacke
+
+[[A]]lle dage so vorewte(n) my ok
+
+myne viende: vnde sworen 
+
+yege my [[W]]ente ik at de as-
+
+---20v---
+
+schen also brot: vnde mengede
+
+myne(n) drank mit wenende
+
+[[U]]an deme angesichte des tor-
+
+nes: vn(de) dynes vnmodes tokno
+
+sedestu my [[M]]yne dage de nege-
+
+den sik also ey(n) scheme: vnde ik
+
+dorrede also ey(n) howe [[M]]en du
+
+here du blifst ewichliken: vnde
+
+dyne dechtnisse van slechten
+
+to slechte [[D]]u en werst vpstan
+
+to vorbarmende ouer syon:
+
+wente de tijt is gekome(n) [[W]]ente
+
+dyne(n) knechte(n) der behageden ere
+
+steyne: vnde ze wille(n) sik vor-
+
+barme(n) ouer de erde(n) [[U]]nde de
+
+---21r---
+
+slechte de scolle(n) entvruchten de(n)
+
+here(n): unde syne(n) name(n) wente 
+
+de here de heft syon gebuwet 
+
+alzo id werd gezen yn syner 
+
+ere [[H]]e sach an dat bet der ot-
+
+modigen: vnde forsmade ere
+
+bet nicht [[D]]esse dink de ward-
+
+den geschreue(n) yn deme andere(n)
+
+slechte: vnde dat volk dat scal
+
+louen den here(n) dat noch scall
+
+geschape(n) warde(n) [[W]]ente de h(er)e 
+
+sach an syner hilgen hogen
+
+van deme he(m)mele yn de erde:
+
+dat he horde dat suchte(n)t der va(n)
+
+genen [[D]]at se kundigen to
+
+---21v---
+
+to syon des here(n) name(n): vnde syn 
+
+loff in i(e)r(usa)l(e)m [[D]]o dat dat volk
+
+to samende yn eyn quam: vnde
+
+de koni(n)ge de denede deme heren
+
+[[H]]e antworde eme in deme
+
+wege syner dogende: vnde kun-
+
+digede my de cleynheit myner
+
+dage in slechte(n) to slecthen dyner
+
+yare [[H]]ere du hefst de erde va(n)
+
+anbegynne gestedeget: vnde
+
+de he(m)ele dat sint werke diner
+
+hande [[S]]e scole(n) vorgaen vnde
+
+du bliuest ewiclicke(n): vnde se
+
+vorolde(n) alzo ey(n) cleyt [[U]]nde du
+
+wandest se alzo ene dekene: vn(de)
+
+---22r---
+
+dyne yar de en breke(n) nicht af.
+
+[[D]]e kind(er)e diner knechte de
+
+scolen wane(n) vnde ere zaed: dat
+
+en scal ok ewicliche(n) warde ge-
+
+richtet [[E]]re sy deme vad(er)e vn(de)
+
+deme sone: vn(de) deme h(ilgene) g(eist)
+
+** Psalm 129 (130)
+*** Incipit
+[[D]]e profundis clamaui
+
+ad te.
+
+*** Text
+[[H]]ere ik rep to dy
+
+van der dupe: here twide myne
+
+stempne mynes bedendes.
+
+[[H]]ere oft du behandelst de bos-
+
+heit: here we mach dat lide.
+
+[[W]]ente by dy is gnedicheit:
+
+vnde dogede dy dor dyne ee.
+
+[[M]]yne sele de dogede in syneme
+
+---22v---
+
+worde: myne zele de hopede in
+
+den heren [[red][U]]an der metten tijt
+
+vro wente bet in de nacht: so
+
+scal israhel hopen yn den here(n)
+
+[[blue][W]]ente by eme is barmherti-
+
+keyt vnde vullenlosinge de is 
+
+by eme: vn(de) he wil losin isr(ahe)l
+
+van alle syner bosheyt [[red][E]]re
+
+sy deme vad(er)e vn(de) deme so(ne) vn(de)
+
+** Psalm 142 (143)
+*** Incipit
+[[2 blue][D]]omine exaudi or(ati)onem 
+
+mea(m) aurib(us) p(er)
+
+*** Text
+[[2 red][H]]ere twi-
+
+de my(n) bet vnde vornym mit
+
+den oren myne bene in diner 
+
+warheit: twide my in diner
+
+rechticheit [[blue][U]]nde ene ga nicht
+
+---23r---
+
+yn dat gerichte mit dyme 
+
+knechte: wente ey(n) yewelk le-
+
+uendich de ene wert nicht recht
+
+yn dyme angesichte [[red][W]]ente
+
+de vient de heft voruolget my-
+
+ne zele: vnde nedderde my(n) leue(n)t
+
+yn der erde [[blue][H]]e sette my in de 
+
+dusternisse also de dode der werl-
+
+de vn(de) my(n) geyst de is berouet:
+
+vnde my(n) herte dat is yn my
+
+besorget [[red][I]]k was dechtik der
+
+olden dage: ik dachte yn der wer-
+
+ke dyner hande [[blue][I]]k reckede wt
+
+myne hande to dy: vnde myne 
+
+zele de is alzo de erde ane water
+
+---23v---
+
+[[red][H]]ere twide my snellike(n): wen-
+
+te my(n) geyst afbreket [[blue][E]]n kere
+
+dyn atlat nicht van my: ik
+
+warde like den de yn dat stricke
+
+vallet [[red][D]]oe my vro horende
+
+dyne barmherticheyt: wente
+
+ik hopede yn dy [[blue][M]]ake my ku(n)-
+
+dik den wetch dar ik Jnne wan-
+
+dere: wente myne sele hebbe ik
+
+to dy vorhanen [[red][H]]ere lose my
+
+van myne(n) viende ik vlee to dy
+
+lere my dyne(n) wille(n) doen: we(n)te 
+
+du myn got bist [[blue][D]]yn gude
+
+geyst leyde my in dat rechte la(n)d:
+
+here dar dyne(n) name(n) so scaltu
+
+---24r---
+
+leue(n)dich make(n) my in dyner 
+
+rechticheit [[red][L]]eyde myne sele va(n)
+
+der drofnissen: vnde vorstore my-
+
+ne viende in dyner barmherti-
+
+cheit [[blue][U]]nde du wult alle de vor-
+
+lozen de myne zele bedrouwen:
+
+wente ik bin dyn knecht [[red][E]]re
+
+sy deme vad(er)e vn(de) deme sone vn(de)
+
+deme hilge(n) geyste. Amen.
+
+
