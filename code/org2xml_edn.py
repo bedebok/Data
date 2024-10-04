@@ -15,7 +15,8 @@ broken_word = False # checks to see if words are broken across lines or pages
 
 # Possible updates
 # sentence = False # checks whether text can be divided into further sentences
-# The idea here is to catch [[]] highlights as the start of a new sentence. The problem is it would also catch if only the first letter of the entire text is highlighted. Could be a boolean input "Sentence divisions y/n"?
+# The idea here is to catch [[ ]] highlights as the start of a new sentence. The problem is it would also catch if only the first letter of the entire text is highlighted. Could be a boolean input "Sentence divisions y/n"?
+
 
 # MAIN RUN-THROUGH OF LINES
 with open(sys.argv[1] + '.org', 'r') as read_file:
@@ -117,8 +118,9 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
                 line = re.sub(r"\[\[(.*)\]\]",r'<hi>\1</hi>', line)
                 words = line.split()
                 is_note = False
-                for word in words:
+                for i, word in enumerate(words, 1):
                     word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>')
+                    word_id = str(idno)+"." + pagebreak+"." + str(line_break)+"."+str(i)
                     if is_note == True:
                         next
                     elif "fn::" in word:
@@ -127,11 +129,11 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
                     elif broken_word == True:
                         write_file.write(word+"</w>\n")
                         broken_word = False
-                    elif "-" in word:
-                        write_file.write("<w>"+word.replace('-',''))
+                    elif word[-1:] == "-":
+                        write_file.write("<w xml:id=\""+word_id+"\">"+word.replace('-',''))
                         broken_word = True
                     else:
-                        write_file.write("<w>"+word+"</w>\n")
+                        write_file.write("<w xml:id=\""+word_id+"\">"+word+"</w>\n")
                         
                     
         
