@@ -18,12 +18,10 @@ The purpose of this section is to point the edition back to the manuscript where
 Note that in both sections attributes will be used to point to elements in other files. In catalogue files and text description files these attributes are tagged as ~@xml:id~. In text edition files, on the other hand, these are tagged as ~@corresp~ (for manuscript shelfmarks) or ~@key~ (for titles of texts).
 
 *** Manuscript description
-The manuscript description element only contains the necessary identifiers to point to the correct manuscript. These include the settlement, repository and shelfmark, all of which are wrapped in the element ~<msIdentifier>~.
+The manuscript description element only contains the necessary identifier to point to the correct manuscript, which is the shelfmark in the element ~<idno>~, wrapped in the element ~<msIdentifier>~.
 
 #+BEGIN_SRC xml 
 <msIdentifier>
-  <settlement key="KBH"/>
-  <repository key="AMS"/>
   <idno corresp="AM08-0073">AM 73 8vo</idno>
 </msIdentifier>
 #+END_SRC
