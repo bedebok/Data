@@ -1,0 +1,79 @@
+#+TITLE: Magnificat
+
+|------------+-------------|
+| Manuscript | AM08-0073   |
+| Locus      | 237v:7 238v |
+| Work       | MAGNIFICAT  |
+| Language   | gml         |
+| Status     | transcribed |
+|------------+-------------|
+
+* Transcription
+** Rubric
+Magnificat
+
+** Text
+[[2 red blue][M]]yne sele grote den herren
+
+[[blue][U]]nde my(n) geist hoghe syk yn
+
+gode myneme heile [[red][W]]ente he
+
+heft an geseen de otmodicheit sy-
+
+ner dernen dar v(m)me scal my sa-
+
+lich spreke(n) alle slechte [[blue][W]]ente
+
+de dar weldig is de heft gedan
+
+grote dynk vn(de) syn name de is
+
+---238r---
+
+hilligh [[red][U]]nde syne barmher-
+
+ticheit is van selchte to slechte(n)
+
+den de ene vruchte [[blue][H]]e heft wel-
+
+de gedan yn syneme arme he
+
+vorstorede de houerdege(n) in deme
+
+danke(n) sines herte(n) [[red][H]]e settede de
+
+weldege(n) van deme stole vn(de) ho-
+
+gede de otmodigen [[blue][H]]e voruul-
+
+lede de hungergen mit gude(n) dinge(n)
+
+vnde leet de riken ydel [[red][H]]e vnt-
+
+fenk syn kynt israhel he dachte 
+
+syner barmherticheit [[blue][A]]lso he
+
+gesproken heft to vnsen verdere(n)
+
+abrahame to eweliken syme
+
+slechte [[red][H]]ere gif en de ewige
+
+---238v---
+
+rouwe: vnde lat en shine(n) dyn e-
+
+wige licht. 
+
+** Antiphon
+*** Rubric
+an(tiphonia)
+
+*** Text
+Wy biddet dyne vrou-
+
+de gude dat du en geuest lichte vnde
+
+rouwe gewonynge.

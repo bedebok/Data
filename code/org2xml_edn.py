@@ -6,7 +6,7 @@ import string
 write_file = open(sys.argv[1] + '.xml', 'w')
 
 line_break = 1
-pagebreak = ''
+page_break = ''
 start_text_level = 0
 
 transcribe = False
@@ -40,10 +40,14 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
             elif "Locus" in line:
                 locus = line.split()
                 locus_from = locus[3]
+                if ":" in locus_from:
+                    line_break = int(locus_from.split(':')[1])
+                    locus_from = locus_from.split(':')[0]
                 locus_to = locus[4]
                 print("Locus: from",locus_from,"to",locus_to)
                 locus_Decl = "<locus from=\""+locus_from+"\" to=\""+locus_to+"\"/>"
-            elif "Text" in line:
+                page_break = locus_from
+            elif "Work" in line:
                 if len(line.split()) == 5:
                     is_titleKey = True
                     titleKey = line.split()[3]
@@ -104,8 +108,8 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
 
             # Check for page break of style "---2r---"
             elif line[0] == "-":
-                pagebreak = line.split()[0].replace('-','')
-                write_file.write("<pb n=\""+pagebreak+"\"/>")
+                page_break = line.split()[0].replace('-','')
+                write_file.write("<pb n=\""+page_break+"\"/>")
                 if broken_word == False:
                     write_file.write("\n")
                 line_break = 1
@@ -120,7 +124,7 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
                 is_note = False
                 for i, word in enumerate(words, 1):
                     word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>')
-                    word_id = str(idno)+"." + pagebreak+"." + str(line_break)+"."+str(i)
+                    word_id = str(idno)+"." + page_break+"." + str(line_break)+"."+str(i)
                     if is_note == True:
                         next
                     elif "fn::" in word:

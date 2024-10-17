@@ -5,36 +5,40 @@ The metadata for the file starts from the very beginning with the ~#+TITLE:~. He
 
 What follows is a table with the other metadata which will be placed inside the ~<fileDesc>~.
 
+|------------+---|
 | Manuscript |   |
 | Locus      |   |
-| Text       |   |
+| Work       |   |
 | Language   |   |
 | Status     |   |
-
+|------------+---|
 
 - Manuscript :: Provide the key for the manuscript, e.g. ~AM08-0073~ for AM 73 8vo.
 - Locus :: Provide the first and final page separated by a space, e.g. ~9r 9v~
-- Text :: Provide the key for the text (if available), e.g. ~HOURS_VIRGIN.matins~ for Hours of the Virgin (matins)
-- Language :: Provide the key for the language
+- Work :: Provide the key for the work (if available), e.g. ~HOURS_VIRGIN.matins~ for Hours of the Virgin (matins)
+- Language :: Provide the three-letter key for the language: /dan/ (Danish), /gml/ (Middle Low German), /lat/ (Latin)
+- Status :: Indicate the status of the transcription. Options include /started/, /transcribed/, /proofread/ etc.
 
 
 * Transcription
 The beginning of the transcription is marked with a top-level headline ~* Transcription~. This will mark the beginning of the ~<body>~ in TEI. 
 
 ** Text structure
-Org-mode headings (indicated with asterisks) will produce nesting ~<div>~ tags in TEI. 
+Org-mode headings (indicated with asterisks) will produce nesting ~<div>~ tags in TEI.
 
-*** Special headers
-The following headers are special:
+The three most prominent div types are:
 
 - Text :: The main text.
 - Rubric :: Any text in red either at the beginning or end of a main text.                   
 - Incipit :: Latin incipits for texts in the vernacular. These are often underlined in the manuscript.
+
+In addition, a given text might have one of the following structural elements (especially at the end) in which the above elements can be nested:
 - Versicle :: 
 - Respond ::
 - Antiphon ::
 - Lesson ::
 - Chapter ::
+
 
 # What about the orders for the Gloria Patri, etc?
 
@@ -67,6 +71,20 @@ Results in:
 <lb/>dyner dechtik sin vnde we louet
 #+END_SRC
 
+Note that a rubric or main text does not always begin on a new line, but instead begins in-line. When a new structural text element (text, rubric, incipit etc.) begins on a new line, use a double hard return after the element header:
+
+#+BEGIN_SRC org
+** Rubric
+
+Hijr begint
+#+END_SRC
+
+results in:
+
+#+BEGIN_SRC xml
+  <div type="rubric">
+  <lb/>Hijr begint
+#+END_SRC 
 *** Enlarged and colored initials
 Initial hierarchy can be important in distinguishing parts of a text. Enlarged and colored initials are placed inside a double-bracket ~[ [ ] ]~ which will automatically result in an underlined link in the org-file. These will be converted to ~<hi>~ tags in TEI.
 
