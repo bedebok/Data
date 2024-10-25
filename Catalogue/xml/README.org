@@ -14,9 +14,9 @@ The root element ~<TEI>~ requires at least two children. All catalogue informati
 #+BEGIN_SRC xml
 <titleStmt>
   <title><!-- Shelfmark goes here --></title>
-  <respStmt xml:id="SDV">
+  <respStmt>
     <resp when="2024">Cataloguer</resp>
-    <persName>Seán D. Vrieland</persName>
+    <persName key="SDV">Seán D. Vrieland</persName>
   </respStmt>
 </titleStmt>
 <publicationStmt>
@@ -108,9 +108,34 @@ The text contents of a manuscript are grouped in a single element ~<msContents>~
 
 The element ~<msItem>~ has two required attributes @n and @class. A third attribute @corresp links the text content listed to a text file where the text has been edited.
 
+** Metadata elements
+The first few elements inside ~<msItem>~ refer to metadata about the text as found in the manuscript. All are required for every ~<msItem>~.
+
 The element ~<locus>~ gives the start and end of the text as folio numbers (with r/v). When a given text is only found on a single side, the attributes @from and @to have the same value.
 
 The title of the text is given in an element ~<title>~. When the text is a known *work*, the key for that work is given as an attribute @key. Note that this does not necessarily mean a file exists for that work.
+
+The language(s) of the text are given in the element ~<textLang>~ as attributes. A required attribute @mainLang indicates the primary language of the text, while any other languages are given in an optional attribute @otherLangs. Language codes follow the three-letter ISO and are defined for this project as the following:
+
+|------+-------------------|
+| Code | Language          |
+|------+-------------------|
+| dan  | Danish            |
+| gml  | Middle Low German |
+| lat  | Latin             |
+|------+-------------------|
+
+** Text elements
+The remaining elements present snippets of the text as found in the manuscript and are meant as a guide to the human reader of the catalogue rather than the computer. Only those elements which are found in the manuscript are used, meaning not all elements are required for each ~<msItem>~.
+
+#+BEGIN_src xml
+<rubric><!-- Rubric / heading --></rubric>
+<incipit><!-- Incipit (first few words of main text) --></incipit>
+<explicit<!-- Explicit (final few words of main text) --></explicit>
+<finalRubric><!-- Final rubric (metatext in red or otherwise highlighted) --></finalRubric>
+#+END_src
+
+The element ~<rubric>~ gives the rubric (or heading) of a 
 * Physical description (physDesc)
 * History and provenance (history)
 #+NAME: #history
