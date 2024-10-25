@@ -1,6 +1,13 @@
 #+TITLE: XML Catalogue files
 
-Catalogue files follow the TEI P5 guidelines for manuscript description (see tei-c.org). The root element of each file is ~<TEI xmlns="http://tei-c.org/ns/1.0>~ which requires at least two children. All catalogue information is included inside the child element ~<teiHeader>~. The second child element ~<facsimile>~ contains a single, empty child element ~<surface/>~ to allow for a TEI compliant file.
+Catalogue files follow the TEI P5 guidelines for manuscript description (see tei-c.org). The root element of each file is ~<TEI xmlns="http://tei-c.org/ns/1.0">~. For the purposes of this project, the file ID (equal to the filename without the filetype extension) will be placed as an @xml:id attribute in the root element, as well as the file type (manuscript, text, work) as an attribute @type. Thus:
+
+#+BEGIN_src xml
+<TEI xmlns="http://tei-c.org/ns/1.0" xml:id="AM08-0073" type="manuscript">
+#+END_src
+
+
+The root element ~<TEI>~ requires at least two children. All catalogue information is included inside the child element ~<teiHeader>~. The second child element ~<facsimile>~ contains a single, empty child element ~<surface/>~ to allow for a TEI compliant file.
 
 ~<teiHeader>~ contains a single child element ~<fileDesc>~ which contains three parts: ~<titleStmt> <publicationStmt> <sourceDesc>~. The first two parts are roughly the same for each file, though with a unique shelfmark within the ~<title>~ element of the ~<titleStmt>~ element:
 
@@ -61,13 +68,7 @@ This section provides the identity markers for the location and registration num
 | UUB | Uppsala University Library | Uppsala Universitetsbiblioteket |
 |-----|----------------------------|---------------------------------|
 
-~<idno>~ refers to the shelfmark (call number) of the individual item. It is given both as an @xml:id and as text. The @xml:id roughly follows the pattern REP(size)-0000 though differs per repository due to different registration practices. For example:
-
-#+BEGIN_SRC xml
-<idno xml:id="AM08-0073">AM 73 8vo</idno> <!-- Copenhagen, Arnamangæan Collection, AM 73 8vo -->
-<idno xml:id="UUB-C-0496">C 496</idno> <!-- Uppsala, University Library, C 496 -->
-<idno xml:id="GKS04-1615">GKS 1615 4to</idno> <!-- Copenhagen, Royal Danish Library, GKS 1615 4to -->
-#+END_SRC
+~<idno>~ refers to the shelfmark (call number) of the individual item. It is given as text. Note that the file ID has already been used as an @xml:id in the root element and is therefore not needed here.
 
 A full ~<msIdentifier>~ for the manuscript Copenhagen, Arnamagnæan Collection, AM 73 4to would be:
 
@@ -75,7 +76,7 @@ A full ~<msIdentifier>~ for the manuscript Copenhagen, Arnamagnæan Collection, 
 <msIdentifier>
   <settlement key="KBH"/>
   <repository key="AMS"/>
-  <idno xml:id="AM08-0073">AM 73 8vo</idno>
+  <idno>AM 73 8vo</idno>
 </msIdentifier>
 #+END_SRC
 

@@ -3,7 +3,9 @@
 import sys
 import re
 import string
-write_file = open(sys.argv[1] + '.xml', 'w')
+write_file = open(sys.argv[1].replace('.org','') + '.xml', 'w')
+
+file_id = sys.argv[1].replace('.org','').split('/')[-1]
 
 line_break = 1
 page_break = ''
@@ -19,7 +21,7 @@ broken_word = False # checks to see if words are broken across lines or pages
 
 
 # MAIN RUN-THROUGH OF LINES
-with open(sys.argv[1] + '.org', 'r') as read_file:
+with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
     print("First gathering metadata for teiHeader")
     for i, line in enumerate(read_file):
 
@@ -32,7 +34,7 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
             if "* Transcription" in line:
                 transcribe = True
             elif "#+TITLE" in line:
-                title = line.split(' ',1)[1]
+                title = line.split(' ',1)[1].replace('\n','')
                 print("Title:",title)
             elif "Manuscript" in line:
                 idno = line.split()[3]
@@ -70,10 +72,10 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
             # First write the header and then set variable to "True"
             if header_written == False:
                 print("Okay, now writing the teiHeader into the XML file.")
-                write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
+                write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\""+file_id+"\" type=\"text\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
 
                 #Source Description
-                write_file.write("<sourceDesc>\n<msDesc>\n<msIdentifier>\n<idno xml:id=\""+idno+"\"/>\n</msIdentifier>\n<msContents>\n<msItem>\n"+locus_Decl+"\n<title key=\""+titleKey+"\">"+title.replace('\n','')+"</title>\n"+lang_Decl+"\n</msItem>\n</msContents>\n</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n")
+                write_file.write("<sourceDesc>\n<msDesc>\n<msIdentifier>\n<idno xml:id=\""+idno+"\"/>\n</msIdentifier>\n<msContents>\n<msItem>\n"+locus_Decl+"\n<title key=\""+titleKey+"\">"+title+"</title>\n"+lang_Decl+"\n</msItem>\n</msContents>\n</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n")
 
                 #This is the original I am working from
 #                                write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n<sourceDesc>\n<msDesc>\n<msIdentifier>\n<idno xml:id=\""+idno+"\"/>\n</msIdentifier>\n<msContents>\n<msItem>\n<locus from=\""+locus_from+"\" to=\""+locus_to+"\"/>\n<title key=\""+titleKey+"\">"+title.replace('\n','')+"</title>\n<textLang mainLang=\""+xmlLang+"\"/>\n</msItem>\n</msContents>\n</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n")
@@ -124,7 +126,7 @@ with open(sys.argv[1] + '.org', 'r') as read_file:
                 is_note = False
                 for i, word in enumerate(words, 1):
                     word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>')
-                    word_id = str(idno)+"." + page_break+"." + str(line_break)+"."+str(i)
+                    word_id = str(idno)+"_" + page_break+":" + str(line_break)+"."+str(i)
                     if is_note == True:
                         next
                     elif "fn::" in word:
