@@ -93,7 +93,24 @@ When a "glamor shot" image of a manuscript is available, it will be linked insid
 #+END_SRC
 
 * Text contents (msContents)
+The text contents of a manuscript are grouped in a single element ~<msContents>~. Individual texts are grouped in an element ~<msItem>~, which can be nested.
 
+#+BEGIN_src xml 
+<msItem n="15" class="prayer" corresp="AM08-0073_237v">
+   <locus from="237v" to="238v"/>
+   <title key="MAGNIFICAT">Magnificat</title>
+   <textLang mainLang="gml" otherLangs="lat"/>
+   <rubric><hi>M</hi>agnificat</rubric>
+   <incipit>Myne sele grote den herren</incipit>
+   <explicit>vnde lat en shine<ex>n</ex> dyn ewige licht.</explicit>
+</msItem>
+#+END_src
+
+The element ~<msItem>~ has two required attributes @n and @class. A third attribute @corresp links the text content listed to a text file where the text has been edited.
+
+The element ~<locus>~ gives the start and end of the text as folio numbers (with r/v). When a given text is only found on a single side, the attributes @from and @to have the same value.
+
+The title of the text is given in an element ~<title>~. When the text is a known *work*, the key for that work is given as an attribute @key. Note that this does not necessarily mean a file exists for that work.
 * Physical description (physDesc)
 * History and provenance (history)
 #+NAME: #history
