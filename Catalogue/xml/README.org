@@ -131,11 +131,26 @@ The remaining elements present snippets of the text as found in the manuscript a
 #+BEGIN_src xml
 <rubric><!-- Rubric / heading --></rubric>
 <incipit><!-- Incipit (first few words of main text) --></incipit>
-<explicit<!-- Explicit (final few words of main text) --></explicit>
+<explicit><!-- Explicit (final few words of main text) --></explicit>
 <finalRubric><!-- Final rubric (metatext in red or otherwise highlighted) --></finalRubric>
 #+END_src
 
-The element ~<rubric>~ gives the rubric (or heading) of a 
+The element ~<rubric>~ gives the rubric (or heading) of a text highlighted in some way. Typically this highlighting is red ink, though especially in later manuscripts this can also be underlining or script-switching.
+
+The first few opening words of a main text are given in an element ~<incipit>~. Here the cataloguer is to provide enough words to help the reader identify a given text.
+
+Occasionally a manuscript will open a text with a Latin incipit. This is especially common with the Psalms, which were known by their Latin incipits. When this occurs, the Latin incipit is given in an element ~<incipit>~ with the attribute @type="latin" as well as the @xml:lang="lat". For example:
+
+#+BEGIN_src xml 
+<msItem n="2.2" class="psalm">
+   <locus from="13r" to="14r"/>
+   <title key="PSALM_6">Psalm 6</title>
+   <textLang mainLang="gml" otherLangs="lat"/>
+   <incipit xml:lang="la" type="latin"><hi>D</hi>omine ne in furo<ex>r</ex>e tuo</incipit>
+   <incipit xml:lang="gml"><hi>H</hi>ere en schelt my nicht in dyneme vmmode</incipit>
+   <explicit>vnde deme hilgen geyste. Amen.</explicit>
+</msItem>
+#+END_src
 * Physical description (physDesc)
 * History and provenance (history)
 #+NAME: #history
