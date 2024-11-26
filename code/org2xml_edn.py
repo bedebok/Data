@@ -3,7 +3,7 @@
 import sys
 import re
 import string
-write_file = open(sys.argv[1].replace('.org','') + '.xml', 'w')
+write_file = open(sys.argv[1].replace('.org','').replace('.txt.','') + '.xml', 'w')
 
 file_id = sys.argv[1].replace('.org','').split('/')[-1]
 
@@ -55,7 +55,8 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                     titleKey = line.split()[3]
                     print("Title key:",titleKey)
                 else:
-                    print("No title key")
+                    print("No title key. Using #other instead")
+                    titleKey = "#other"
             elif "Language" in line:
                 mainLang = line.split()[3]
                 print("Language:",mainLang)
