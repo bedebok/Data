@@ -121,12 +121,20 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 # First I need to check for highlights in words. They look like this:
                 # [[3 red blue][M]] ...
                 line = re.sub(r" (?=[^][]*\])", "_", line)
-                line = re.sub(r"\[\[(.*)\]\[(.*)\]\]",r'<hi_rend="\1">\2</hi>', line)
+                line = re.sub(r"\[\[(.*)\]\[(.)\]\]",r'<hi_rend="\1">\2</hi>', line)
                 line = re.sub(r"\[\[(.*)\]\]",r'<hi>\1</hi>', line)
+                # Next I need to look for supplied text in words. They look like this:
+                # xxx[x]xxx
+                line = re.sub(r"\[#(.*)!(.*)\]", r'<supplied_source="#\1">\2</supplied>', line)
+                line = re.sub(r"\[", r"<supplied>", line)
+                line = re.sub(r"\]", r"</supplied>", line)
+                # Then I also need to check for editorial corrections. They look like this:
+                # {sic/corr}
+                line = re.sub(r"{(.*)/(.*)}", r"<choice><sic>\1</sic><corr>\2</corr></choice>", line)
                 words = line.split()
                 is_note = False
                 for i, word in enumerate(words, 1):
-                    word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>')
+                    word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>').replace('⸠','<del>').replace('⸡', '</del>').replace('⸌', '<add>').replace('⸍', '</add>')
                     word_id = str(idno)+"_" + page_break+"." + str(line_break)+"."+str(i)
                     if is_note == True:
                         next
@@ -139,6 +147,8 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                     elif word[-1:] == "-":
                         write_file.write("<w xml:id=\""+word_id+"\">"+word.replace('-',''))
                         broken_word = True
+                    elif "<supplied source" in word:
+                        write_file.write(word+"\n")
                     else:
                         write_file.write("<w xml:id=\""+word_id+"\">"+word+"</w>\n")
                         
