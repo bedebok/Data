@@ -1,12 +1,12 @@
 #+TITLE: First Sunday of Advent
 
-|------------+-----------|
-| Manuscript | AM04_0784 |
-| Locus      | 80r:7     |
-| Work       | ADVENT_1  |
-| Language   | da        |
-| Status     |           |
-|------------+-----------|
+|------------+-------------|
+| Manuscript | AM04_0784   |
+| Locus      | 80r:7 81r:3 |
+| Work       | ADVENT_1    |
+| Language   | da          |
+| Status     | transcribed |
+|------------+-------------|
 
 * Transcription
 ** Rubric

@@ -46,6 +46,8 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                     line_break = int(locus_from.split(':')[1])
                     locus_from = locus_from.split(':')[0]
                 locus_to = locus[4]
+                if ":" in locus_to:
+                    locus_to = locus_to.split(':')[0]
                 print("Locus: from",locus_from,"to",locus_to)
                 locus_Decl = "<locus from=\""+locus_from+"\" to=\""+locus_to+"\"/>"
                 page_break = locus_from

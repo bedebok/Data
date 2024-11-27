@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM04-0784_80r" type="text">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM04-0784_080r" type="text">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -19,7 +19,7 @@
 </msIdentifier>
 <msContents>
 <msItem>
-<locus from="80r" to="|"/>
+<locus from="80r" to="81r"/>
 <title key="ADVENT_1">First Sunday of Advent</title>
 <textLang mainLang="da"/>
 </msItem>
