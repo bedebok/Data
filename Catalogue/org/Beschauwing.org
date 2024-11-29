@@ -1,0 +1,59 @@
+#+TITLE: Boek der beschawynge to gode
+
+A late-fifteenth-century print contains a series of prayers for the liturgical year. Many of its contents were used in the Danish /Visdoms spejl/.
+
+* PhysDesc
+
+|--------------+-------|
+| SUPPORT      | Paper |
+| NUMBER       |       |
+| SIZE         |       |
+| WRITING AREA |       |
+| COLUMNS      |     1 |
+| LINES        |       |
+| FOLIATION    |       |
+|--------------+-------|
+
+** Binding
+
+
+* History
+|------------+-----------|
+| PLACE      | Magdeburg |
+| DATE       |      1492 |
+| PROVENANCE |           |
+|------------+-----------|
+
+
+* Contents
+
+|-------+--------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+|   Loc | Type         | Text         | Rub/Inc/Exp                                                                                                                                                 | Lang | Status |
+|-------+--------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+|     7 | MINIATURE    | Annunciation |                                                                                                                                                             |      |        |
+|     8 | INTRODUCTION | Introduction | {I}n dussem boke heft me(n) wo ein iowelik criste(n) mynsche schal betrachte(n) [...] tho alle(n) tyden alse sy werden geholde(n) in der hillige(n) kerken. | gml  | meta   |
+|  9 14 | [[file:../../Prayers/org/Beschauwing_009.org][PRAYER]]       | ADVENT_1     | *Dyt les des ersten so(n)dages in dem(e) aduente* [[L]]Eue mynsche nu scaltu bede(n)ken [...] dar ik mit dynen vtherkare(n) ewichliken leue(n) mothe amen.      | gml  | main   |
+| 14 17 | PRAYER       | ADVENT_ALL   | *Dyt les alle dage in deme aduente*                                                                                                                         |      |        |
+|    17 | PRAYER       |              | *we(n) du bichte(n) wult so leesz dyt.*                                                                                                                     |      |        |
+|    18 |              |              | *we(n) du bichtet hest so leesz dyt beth to der moder godes.*                                                                                               |      |        |
+|    23 |              |              | *Uan vnser leuen frouwen eyn ynnich ghebeth.*                                                                                                               |      |        |
+|    25 |              |              | *Des andere(n) sondaghes in dem(e) adue(n)te so les dyt*                                                                                                    |      |        |
+|    31 |              |              | *Des drudden sondages in dem(e) adue(n)te so les dit*                                                                                                       |      |        |
+|    39 |              |              | *Des leste sondaghes in dem(e) aduente.*                                                                                                                    |      |        |
+|    42 |              |              | *An deme hylligen aue(n)de tho wynachte(n) so les dit*                                                                                                      |      |        |
+|    43 | MINIATURE    | Birth        |                                                                                                                                                             |      |        |
+|    50 |              |              | *Uan vnser leuen vrouwen ein gebet.*                                                                                                                        |      |        |
+|    51 |              | vesper       | *To der vesper szo les dyt ghebet.*                                                                                                                         |      |        |
+|    55 |              | compline     | *To des nacht sanghes tyt so les dyt*                                                                                                                       |      |        |
+|    61 |              | matins       | *To der metten tyt szo les dyt*                                                                                                                             |      |        |
+|    67 |              |              | *Uan vnser leeuen vrouwen eyn ghebeth.*                                                                                                                     |      |        |
+|    68 |              |              | *Uan des hilligen kerstes myssenn.*                                                                                                                         |      |        |
+|    71 |              |              | *wen me synget verbum caro factu(m) e(st) szo lesz dyth.*                                                                                                   |      |        |
+|    77 |              |              | *wan me synkt O mu(n)di domina so les dyt.*                                                                                                                 |      |        |
+|    80 |              |              | *Under des hillige(n) kerstes myssen so lesz dyt.*                                                                                                          |      |        |
+|    84 |              |              | *Dyt les vann der moder ghades*                                                                                                                             |      |        |
+|    85 |              |              | *Na der metthenn sprick dyt.*                                                                                                                               |      |        |
+|    87 |              |              | *Und(er) d(er) vromysse.*                                                                                                                                   |      |        |
+|    92 |              |              | *Dyt les er du ghades lich{b/a}m entfenghest.*                                                                                                              |      |        |
+|   100 |              |              | *wan du den hilige(n) licham entfange(n) hest so les en Te deu(m) lauda.*                                                                                   |      |        |
+|       |              |              |                                                                                                                                                             |      |        |
