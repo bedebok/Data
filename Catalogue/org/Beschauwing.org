@@ -56,4 +56,4 @@ A late-fifteenth-century print contains a series of prayers for the liturgical y
 |    87 |              |              | *Und(er) d(er) vromysse.*                                                                                                                                   |      |        |
 |    92 |              |              | *Dyt les er du ghades lich{b/a}m entfenghest.*                                                                                                              |      |        |
 |   100 |              |              | *wan du den hilige(n) licham entfange(n) hest so les en Te deu(m) lauda.*                                                                                   |      |        |
-|       |              |              |                                                                                                                                                             |      |        |
+|   104 |              |              |                                                                                                                                                             |      |        |

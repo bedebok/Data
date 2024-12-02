@@ -1,0 +1,277 @@
+#+TITLE: First Sunday in Advent
+
+|------------+-----------|
+| Manuscript | AM04-0782 |
+| Locus      | 1r 4r     |
+| Work       | ADVENT_1  |
+| Language   | da        |
+| Status     |           |
+|------------+-----------|
+
+* Transcription
+** Rubric
+[[2][J]]tem hær effther fylligher en
+
+bøn tw skalth læsse førsthe
+
+søndagh y adwent før iwll
+
+Och er th(et) th(e)n førstæ søndagh
+
+som ko(m)mer effther s(anc)te andris dag
+
+** Text
+[[red][O]] me(n)nyske
+
+tw skalt al-
+
+tidh betenc-
+
+ke hworled(is)
+
+the helligæ
+
+trefoldygh(et)
+
+wdsendhe
+
+gabriell en-
+
+gell och lod
+
+bebwde th(e)n
+
+edelygh iomfrw ma(ri)æ ath hw(n)
+
+skwlle wndfange och fødhe
+
+th(en) ewygæ g(udz) søn aff hym-
+
+melyndh gabriell engell hand
+
+---1v---
+
+kom tydh som iomfrw ma(ri)a hwn
+
+laa y synne gwdelygh bønner
+
+hand kom til hynne och sadhe
+
+saa hell ma(ri)a fwldh m(eth) nodhe
+
+tw skalth wndfange och fødhe
+
+en søn som aldwerdh(e)n skall
+
+frelsse ther wndrydæ hynnæ
+
+storlygh wppaa och sadhe hwor-
+
+led(is) skall th(et) skee Jegh bekend(er)
+
+ingh(e)n ma(n)d Engelynd sworedhe
+
+hynnæ ygh(e)n Och sadhe saa
+
+frycth icke ma(ri)a, th(e)n hellyg-
+
+and skall ko(m)mæ y tigh Saa
+
+sadhe atther gabriel engell
+
+ma(ri)a frycth icke tyn kyskhed
+
+haffwer g(ud) fadher saa lystelyg
+
+wellbehaffwydh aff ewyge begy(n)-
+
+nelsse Och tyn ydmigh(et) haffw(er)
+
+---2r---
+
+twyngith gwdh søn th(e)r till ath
+
+hand wyll fød(is) aff tigh oc th(e)n 
+
+hellygandh haffwer tyn kerli-
+
+gh(et) och dydelygh(et) Och ty(n) hel- 
+
+lyghedh saa well behaffwet
+
+th(e)r for wyll hand tigh offw(er)-
+
+flødygh oppfylle m(eth) syn naa-
+
+dhe Tha sworede iomf(ru) ma(ri)a
+
+och sadhe saa See megh gwdz
+
+tiæneste q(vi)nnæ megh sker efft(er)
+
+gwdhz wylli icke sworedh hw(n)
+
+saa ath iegh er fødh aff kon-
+
+gelygh slæcth at lyge well at
+
+hwn fyck th(e)n store naadhe aff
+
+gwd ath hwn skwlle worde
+
+g(udz) modher och en dro{g/n}ny(n)gh
+
+y hymmerigh Och y iørder(i)gh
+
+aff hynnæ store ydmygh(et) tha
+
+regnæth hwn segh for en tiæ-
+
+nestæ q(vi)nnæ th(ette) ær th(e)n første
+
+---2v---
+
+tillkommelssæ som wor herre ha(n)d
+
+kom till oss aff hymme(ri)gh och
+
+hydh nedher till iørderygh
+
+** Collect
+*** Text
+O aldh mectystæ ewyge
+
+gwd som tw haffwer
+
+hellygh giordh th(e)n(ne)
+
+werdyge tiid tyn er-
+
+lyge tiill kommelsse y hwerth
+
+aar me(n) werdh(e)n stor ath men-
+
+nysken skwlle y hwffkommæ
+
+y alle adwenth attw esth me(n)-
+
+nyske wordyth for wor skyld
+
+iegh bedher tigh for ty(n) hel-
+
+lyge ma(n)doms tilkommelsse 
+
+skyldh attw wylle giiffwe meg
+
+ty(n) naadhe ther till ath iegh 
+
+motte m(eth) sandh ydmigh(et) oc
+
+kerlygh(et) saa ath begynnæ at
+
+loffwe tigh y th(e)n(ne) werdyghe
+
+tydh attw wylde forlade meg
+
+alth iegh haffwer gangyth y
+
+---3r---
+
+modh tynne bwdh och wyss meg
+
+th(e)n rætte wey ath gaa effth(e)r
+
+tynæ werdyge bwdh ordh y
+
+th(e)n(ne) werdyge tiid saa at tw
+
+y tyn werdygæ fødellsse dagh
+
+wylle kommæ till megh och
+
+baa y myt hyartæ Och giiff
+
+megh tyn naadhe ath iegh 
+
+motte saa wysselygh beholle
+
+tigh hooss megh saa ath iegh
+
+aldrigh skyls fraa tigh Oc giiff
+
+megh tyn naadhe Och sødh(et)
+
+at iegh motte saa loffwæ oc
+
+tacke tigh for tyn barndom
+
+och for tyn storæ wdmigh(et) at
+
+tw for my(n) salygh(et) skyld och
+
+alle syndigh me(n)nyske wylle
+
+ligge y krwben for eth assen
+
+oc en oxe Jegh bedh(e)r tigh yd-
+
+mygelygh at tw wylle gøre
+
+---3v---
+
+megh delactygh aff alle the gode
+
+gernynger som tw haffwer for-
+
+hwerw(et) y try och tredwgh aar
+
+som tw haffwer arbedydh for
+
+megh och alle me(n)nyskens sa-
+
+lyghedh Bedher iegh tigh
+
+ald_mectistæ g(ud) for ald then
+
+ie(m)mer och bedrøffwellssæ py-
+
+næ och nødh som tw haffw(er)
+
+lydh for megh och alle men-
+
+nyske fraa tw wosth fødher oc
+
+saa tiill tw oppgaff tyn andh
+
+opp ppaa korssyth O aldsom-
+
+keryste herre giiff megh tyn
+
+naadhe ther tiill ath iegh
+
+motte saa loffwe tygh for tyn
+
+barndom Och bedrøffwe megh
+
+for tyn pynæ och dødh ath
+
+---4r---
+
+iegh mottæ wordæ werdygh
+
+ppaa my(n) hellygæ oppstandelsæ
+
+dagh opp ath staa aff alle my(ne)
+
+synder Och hwswalle meg
+
+y alle my(n)næ bedrøffwelssæ
+
+Ath iegh effther my(n) dødh 
+
+mottæ faa th(et) ewygæ liiff
+
+effther dødh {th(et)_ewygæ/} [#AM-0784!met tynæ wdwoldeæ wæ(n)ner i] th(e)n
+
+ewygæ glædæ. Amen.
+
