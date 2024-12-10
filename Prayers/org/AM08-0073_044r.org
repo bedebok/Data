@@ -1,0 +1,236 @@
+#+TITLE: Hours of the Virgin (Matins)
+
+|------------+---------------------|
+| Manuscript | AM08-0073           |
+| Work       | HOURS_VIRGIN.MATINS |
+| Locus      | 44r 54v             |
+| Language   | gml                 |
+| Status     |                     |
+|------------+---------------------|
+
+* Transcription
+** Incipit
+[[3 red blue][D]]omine labia mea ape-
+
+ries. et os meum an-
+
+nunciabit laudem tua
+
+** Text
+
+[[2 blue][H]]ere opene myne lippen.
+
+Vnde myn munt schal ku-
+
+dighen dyn loff. [[red][G]]ot dencke
+
+in myne helpe here snelle dy
+
+my to helpende [[blue][E]]re sy deme
+
+vadere deme sone vnde deme
+
+hilghen geyste [[red][A]]lzo dat was
+
+an deme antbegyne nu vnde
+
+yummer bliuen scal Amen.
+
+** Invitatory
+*** Rubric
+Inui(tatorium)
+
+** Text
+
+[[2 blue][I]]N de ere der saligen iuncuruwe
+
+marie(n). Iubilere wy deme her
+
+** Psalm                                                        :PSALM_97v94:
+*** Text
+
+[[2 red][K]]omet wy vrowen vns
+
+---44v---
+
+to deme here(n) wy iubileren
+
+gode vnseme heyle wy kome(n)
+
+vor syn antlat mit loue vnde
+
+iubilere(n) eme in den salmen.
+
+[[red][I]]n der ere der saligen vts(upra) [[blue][W]]en-
+
+te got is ey(n) grot here vnde ey(n)
+
+grot koning boue(n) alle gode
+
+wente de here vordriuet nicht
+
+sy(n) volk. wente in syner hand
+
+sint alle(n) ende der erde(n) vnde be-
+
+schouwet de hoge der berghe
+
+Jubilere wy deme here(n) [[red][W]]en-
+
+te syn is dat meer vnde he
+
+makede yd vn(de) de erde(n) stichtede(n)
+
+syne hande komet vn(de) anbede
+
+---45r---
+
+wy ene vnde valle(n) vor got
+
+vnde weyne(n) vor deme heren
+
+de de vns geschape(n) heft wente
+
+he is vnse h(er)e got mer my si(n)t
+
+syn volk vnde schap syner
+
+weyde [[red][I]]n de ere der saligen. vts(upra).
+
+[[blue][O]]fte gy hudene syne stemp-
+
+ne vorneme(n) so vorhardet
+
+nicht iuwe herte also de lude
+
+to der wostenye deden in deme
+
+dage der bekoringe dar my
+
+bekorede(n) iuwe vadere se pro-
+
+ueden vnde segen myne werk
+
+Jubilere wy deme here [[red][U]]er-
+
+tich yar was ik negest desse-
+
+---45v---
+
+me slechte vn(de) sede alle tyd desse
+
+de dwelet an deme herte(n) mer
+
+se bekanden myner weghe
+
+nicht. ik swor en in myneme
+
+torne dat se nicht scholen in
+
+myne rouwe ghan [[red][I]]n der ere
+
+der salichsten iu(n)cvrowe(n). (et_cetera).
+
+[[blue][E]]re sy deme vadere. deme
+
+sone vnde deme hilgen geyste
+
+also dat was in deme begy(n)-
+
+ne vnde ewich bliuet Amen.
+
+Jubilere wy deme heren. [[red][I]]n de ere
+
+der saligesten iuncvrowe(n) mari-
+
+en Jubilere wy deme heren.
+
+** Psalm
+*** Rubric
+
+PSAlmus
+
+---47r---
+
+*** Incipit
+
+[[2 red][D]]omine dominus noster.
+
+*** Text
+Here vn-
+
+se here wo wunderlich
+
+is dyn name in alle der erde(n)
+
+[[red][W]]ente dyne welde is gebo-
+
+ret boue(n) de he(m)mele [[blue][V]]te deme
+
+munde der vnsprekende(n) kin-
+
+dere dede noch sughen vullen
+
+brochtestu dat lof dor dyne
+
+viende dat du trostest den vi-
+
+ant vnde den wrekere [[red][W]]en-
+
+te ik scal seen dyne hemmele de
+
+werke dyner vingere de(n) ma-
+
+nen vn(de) de sterne(n) de du stichte-
+
+dest [[blue][W]]at is de mynsche dat
+
+du syner denckest ofte wat is
+
+---47v---
+
+des mysche(n) sone went du
+
+ene vor wat rekenst [[red][W]]ente
+
+du hefst ene eyn cleyn ge-
+
+mynnet va(n) den engelen du
+
+cronedest ene myt ere vnde
+
+myt syrode vnde settest ene
+
+bouen de werke dyner ha(n)de
+
+[[blue][D]]u worpest alle ding vnd(er)
+
+syne vöte schape vnde ossen
+
+vnde dar en boue(n) alle quik
+
+des veldes [[red][D]]es hemmels vo-
+
+gele vnde des meres vissche
+
+de dar des meres stighe wan-
+
+deren [[blue][H]]ere vnse here wo wun-
+
+derlik is dyn name in alle
+
+---48r---
+
+der erden [[red][E]]re sy deme vadere
+
+*** Antiphon
+**** Rubric
+A(ntiphona)
+
+**** Text
+
+Du bist benedyet bouen alle
+
+vrowen vnde benedyet is de
+
+vrucht dines liues.
