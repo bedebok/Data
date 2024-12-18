@@ -1,4 +1,19 @@
-[[K]]onynghyn- *Regina celi letare.*
+#+TITLE: Regina Cœli
+
+|------------+--------------|
+| Manuscript | AM08-0070    |
+| Locus      | 247r         |
+| Work       | REGINA_COELI |
+| Language   | da           |
+| Status     | Transcribed  |
+|------------+--------------|
+
+* Transcription
+** Rubric
+Regina celi letare.
+
+** Text
+[[K]]onynghyn- 
 
 ne des he(m)mels vrouwe dy alle-
 
@@ -10,8 +25,19 @@ vordenest hest to dreghende. alleluya
 
 hadde. alleluya. [[B]]ydde got vor uns [[#]]
 
-alleluya *v(er)siculus* [[B]]idde vor vns hilli-
+alleluya
 
-ge telerynne *coll(ecta). prosit nob(is). de steit*
+** Versicle
+*** Rubric
+v(er)siculus
 
-*hir na*
+*** Text
+[[B]]idde vor vns hilli-
+
+ge telerynne
+
+** Collect
+*** Rubric
+coll(ecta). prosit nob(is). de steit
+
+hir na

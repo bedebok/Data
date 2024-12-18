@@ -1,0 +1,140 @@
+#+TITLE: Hours of the Virgin (Vespers)
+
+|------------+----------------------|
+| Manuscript | AM08-0073            |
+| Locus      | 82v                  |
+| Work       | HOURS_VIRGIN.VESPERS |
+| Language   | gml                  |
+| Status     | Transcribed          |
+|------------+----------------------|
+
+* Transcription
+** Rubric
+ad v(espera)s
+
+** Text
+Got dencke an myne helpe. Here snelle my to helpende. Ere sy deme vadere de- me sone vnde deme hilge(n) geyste Also dat was van ambegynne vnde nu. (et) (cetera).
+
+** Psalm
+*** Rubric
+Psalmus
+
+*** Text
+De here sprak to myneme here(n) sitte to myner vorderen hant [A]lso lange went dat ik dyne viande sette to eme sche- mele dyner vöte [D]e here wil senden van syon de roden dyner doghet to herscoppe(n) de vormid- delst dynen vienden [D]at be- gyn is mit dy in deme daghe
+
+---83r---
+
+dyner doget in der hilge(n) schyne ik gebar dy vte deme buke vor deme lichtdregere [D]e here swor vnde ik en schal nict eme ruwe(n) du bist eyn prester ewik- lichen na deme orden melchise- dech [D]e here to brak de koni(n)ge an deme dage synes tornes to dyner voredere(n) hant [H]e scal rich- ten in deme volke he scal voruul- len de valle he scal to schudde(n) de houede in veler lude hande [H]e scal drinken van der beke in deme weghe dar v(m)me scal he hager dat houet [E]re sy deme.
+
+** Psalm
+*** Rubric
+psal(mus)
+
+*** Text
+---83v---
+
+Louet den here(n) gi kindere lo- uet des here(n) name(n) [D]es here(n) name sy benediet van nu vnde in ewige(n) tiden [D]es here(n) name is louelich van der sunnen upgange we(n)t to eren wedder gange [D]e h(er)e is boue(n) alle slechte vnde boue(n) den he(m)- mele(n) is syn ere [H]we is also vn- se here got de in der hoge wonet vnde suct otmodighe ding up deme he(m)mele vn(de) in der erden [D]en dronigen wecket he va(n) der erde(n) vnde richtet den arme(n) vte deme hore [D]at he ene be-
+
+---84r---
+
+stede mit den vorste(n) sines vol- kes [D]e in deme huse wonen vrowende de vnuruchtbaren moder der kindere [E]re sy de.
+
+** Psalm
+*** Rubric
+psal(mus)
+
+*** Text
+Ik bin geurowet in de ding de my gesecht syn wy scholen ghan in des here(n) hus [U]nse vote weren stande in dinen salen to ih(e)r(usa)l(e)m [I](e)r(usa)l(e)m de gebuwet wert also ey(n) stad des delafticheit is in deme sul- uen [W]ente dar steghen up de slechte des here(n) to betuchnisse isr(ae)l to louende des here(n) name(n) wente dedar setten de stole i(n) deme
+
+---84v---
+
+richte de stole bouen dauites hus [B]iddet de to vreden syn ihe- rusalem vnde nughinge is de(n) dy lef hebbe [U]rede werde in dyner doghet vnde nughinge in dynen torne [I]k sprack vrede an dy dorch myne brodere vnde dorch myne neghesten [I]k sochte de guden ding dorch vnsers here(n) godes hus [E]re sy deme va
+
+** Psalm
+*** Rubric
+p(salmu)s
+
+*** Text
+Is dat de here nicht ne buwet dat hus se hebben vorgheues arbeydet datde dar buwet [N]u bewaret de here nicht de stad he waket vorgheues de se bewaret.
+
+---85r---
+
+[D]at is vorgheues iw up to stande vor deme lichten stat up na deme dat gy seten hebben do gy eten dat brot der drouicheit [W]enne he syne(n) leuen gift den slap leet der kind(er)e vrucht des h- ues des here(n) erue is ere lon [A]l- so de schote sint in des weldige(n) hant also sint de wtgheslaghe- ne kindere [S]alich is de man de syne begeringhe voruullet heuet in en he en scal nicht vor- storet werden wan he syne(n) vie(n)- den tosprekt in der porten [E]- re sy deme vadere. (et) (cetera).
+
+*** Text
+Jherusalem loue din here(n) syon loue dinen got [W]ente he heuet diner porten sclote stedicheit vn(de) heuet dine kind(er)e in dy ghesegh- net [H]e heuet dyne(n) ende set na vrede vn(de) sadet dy mit des kornes vetticheyt [D]e sine sproke sendet der erde(n) sine rede lopet snellike [D]e den snee gift also wulle vn(de) strowet de wulle(n) also assche [D]e sine cris- tallen sendet also eyne(n) bete bro- des we mach bestan van syner ieghenwardighe(n) kulde [H]e sent syn wort wt vnde maket
+
+---85v---
+
+desse dingh wen syn gheist bla- set vnde de watere vletet [H]e kundighet iacobe syn wort syne rechticheit vnde syn richte isr(ae)l [H]e endede also nicht alle volke vnde openbarde en syn richte [E]re sy deme va.
+
+** Antiphon
+*** Rubric
+an(tiphonia)
+
+
+*** Text
+See du bist schone vrundynne du bist schone dyne ogen also der duuen
+
+** Hymn
+*** Rubric
+y(mnus)
+
+*** Incipit
+AVe maris stella
+
+*** Text
+[G]ot grote dy lyde sterne milde godes moder ewige iuncvrowe selige hem- mel porte [D]u nemest dat aue van gabrielis mu(n)de stede
+
+---86r---
+
+ghe vns an deme vrede vnde wandele den name(n) eua [L]ose de bende den schuldighe(n) vnde giff dat licht den blinde(n) vordrif vnse quaden dingh vnde essche vns alle gude dingh [B]ewise vns dat du moder sist de mote van dy vnse bede nemen de dorch vnse(n) sille wolde dyn sone we- sen [E]yneghe iu(n)curowe sacht- modighe mank allen make vns vrygh van sunde(n) du sacht- modighe vnde kussche [U]or- lene vns eyn reyne leuent vn(de) make vns eyne(n) sekere(n) wech
+
+---86v---
+
+dat wy ih(esu)m moten seen vnde vrowen vns alle tijd to same(n)de [D]eme gotlike(n) vad(er)e sy loff vnde de hogheste cyrode cristo- de eyneghe dreuoldige ere sy deme hilgen geyste. Amen
+
+** Chapter
+*** Rubric
+Cap(itulum)
+
+*** Text
+Uan der kintheit was myt my de barmh(er)ticheit wt der moder lyue vlot se myt my. Gode sy gedancket.
+
+*** Versicle
+**** Rubric
+v(ersiculus)
+
+*** Text
+Na der bort bleuest vmbeulecket Iuncurowe godes moder bidde vor vns nu vnde to allen tiden.
+
+** Psalm
+*** Rubric
+psalm(us)
+
+*** Text
+Myn sele scal den heren loue(n) vnde my(n) gheist hoghet sik
+
+---87r---
+
+an gode mynem heyle [W]en- te he heuet angeseen de othmo- dicheit syner dernen see dar van scholen my alle slechte salich spreken [W]ente he he- uet grote ding ghedaen de dar weldich is vnde syn na- me is hillich [U]nde sy(n) barm- herticheit is van slechte(n) ⟨to slecte(n)⟩ den de ene vruchte(n) [H]e heuet welde daen an syne(n) arme he vorstorte de houerdighe(n) in de- me danke synes herten [H]e settede de weldighen va(n) deme stole vnde hoghede de othmodi-
+
+---87v---
+
+ghen [H]e voruullede de hunger- gen myt guden dinge(n) vnde let de rike ydel [H]e entfink syn kint isr(ae)l vnde dachte syner bar- meherticheit [A]lso he ghespro- ken heft to vnseme vad(er)e abra- ha(m)me vn(de) syneme slechte ewich- liken [E]re sy deme vad(er)e.
+
+*** Antiphon
+**** Rubric
+Anti(phonia)
+
+**** Text
+O du maria kum to helpe den arme(n) vnde help den cleynen de dar synt mistrostich vnde wes trostende de dar wenende synt bidde vor dat volk vnde kum vor de clerke vnde wes vorttredende vor dat ynnighe slech- te der wyues namen.
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+---88r---
+
+Gif here dat dyne hilghen vor vns bidden alle tijd vn(de) du here twide se barmhertkliche(n) Dorch ih(esu)m (christu)m vnsen heren Amen.

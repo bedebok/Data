@@ -1,10 +1,15 @@
-#+TITLE: Sermo Angelicus (Revelationes Santæ Birgittæ liber XI)
-#+AUTHOR: AM 70 8vo
-| MS   | AM 70 8vo |
-| Date | 1500      |
-| Language | Low German |
+#+TITLE: Cantus Sororum (Introduction)
+
+|------------+--------------|
+| Manuscript | AM08-0070    |
+| Locus      | 1r 2v        |
+| Work       | CANTUS.intro |
+| Language   | gml          |
+| Status     | Transcribed  |
+|------------+--------------|
 
 * Transcription
+** Text
 gantze jnnichliken van deme munde
 
 des enghels. vnde wes se des daghes

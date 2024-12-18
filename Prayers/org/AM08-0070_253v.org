@@ -1,8 +1,18 @@
 #+TITLE:  AM08_0070-253v
-# AM 70 8vo f. 253v
 
-*O barm... ihesu ...*
+|------------+-------------|
+| Manuscript | AM08-0070   |
+| Locus      | 253v        |
+| Work       |             |
+| Language   | da          |
+| Status     | Transcribed |
+|------------+-------------|
 
+* Transcription
+** Rubric
+O barm... ihesu ...
+
+** Text
 O helghe ... at skillielighe
 
 threfoldighedh ih(es)u (christ)i korsfestæ

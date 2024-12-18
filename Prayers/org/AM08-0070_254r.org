@@ -1,10 +1,25 @@
-#+TITLE:  
+#+TITLE:
 #+AUTHOR: AM 70 8vo, 254r-254v
 # BIBLE: Lamentations 1:18-
 
-*Til affte(n)sagn oc til ottesagn*
+|------------+-------------|
+| Manuscript | AM08-0070   |
+| Locus      | 254r 254v   |
+| Work       |             |
+| Language   | gml da lat  |
+| Status     | Transcribed |
+|------------+-------------|
 
-*Cap(itu)l(u)m Audite obsecro vniu(er)si* [[I]]k bidde nw hø-
+* Transcription
+** Rubric
+Til affte(n)sagn oc til ottesagn
+
+** Chapter
+*** Rubric
+Cap(itu)l(u)m Audite obsecro vniu(er)si
+
+*** Text
+[[I]]k bidde nw hø-
 
 ret alle volke vn(de) seet my(n) droffnisse myner iu(n)c-
 
@@ -12,8 +27,13 @@ vvroue(n) vn(de) myne(n) iu(n)gelinghe in der vengenisse
 
 ginge(n) se van my ik rep myne vru(n)de vnde se
 
-sweken my *Collecta Interueniat p(ro) nobis*
+sweken my
 
+** Collect
+*** Rubric
+Collecta Interueniat p(ro) nobis
+
+*** Text
 [[O]] here ih(es)u (christ)(e) wy bidden dat din allerhilligste
 
 telleri(n)ne iu(n)curow marien bidde vor vns
@@ -26,14 +46,24 @@ pines dor ginck dat droueghe swerd du dar le-
 
 uest vn(de) regnerest en war got ewicliken Ame(n)
 
-*To teertz Cap(itu)l(u)m Sac(er)dotes mei* [[M]]inen p(a)s-
+** Chapter
+*** Text
+To teertz Cap(itu)l(u)m Sac(er)dotes mei
+
+*** Rubric
+[[M]]inen p(a)s-
 
 tere vn(de) mynen ollinghe in der stat sint se vor-
 
 teret dar v(m)me dat se sich vraghede na spise dat
 
-se ere sele mede quickede *Vide d(omi)ne q(uonia)m trib(u)lor*
+se ere sele mede quickede
 
+** Prayer
+*** Rubric
+Vide d(omi)ne q(uonia)m trib(u)lor
+
+*** Text
 [[S]]ee here wente ik bin bedrouet vn(de) my(n) *To sext*
 
 liiff is bedrouet my(n) herthe is umbekeret in
@@ -89,8 +119,3 @@ næ mildh oc weluelegh huilken som æsth
 (christi) lystælighets blomster oc strøm heel mil-
 
 dhe oc lyuffue moder O maria *Aue (christi) cella*
-
-
-
-** Comments
-5. droffnisse or dröffnisse?

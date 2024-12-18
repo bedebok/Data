@@ -1,0 +1,107 @@
+#+TITLE: Hours of the Virgin (Terce)
+
+|------------+--------------------|
+| Manuscript | AM08-0073          |
+| Locus      | 74v 77r            |
+| Work       | HOURS_VIRGIN.TERCE |
+| Language   | gml                |
+| Status     | Transcribed        |
+|------------+--------------------|
+
+* Transcription
+** Rubric
+ters
+
+** Incipit
+Deus in adiut(orium)
+
+** Text
+[G]ot dencke an myne helpe here snelle my to helpende [E]re sy deme vad(er)e. deme sone vnde.
+
+** Hymn
+*** Rubric
+y(mnus)
+
+*** Text
+O criste allerbarmh(er)tigheste koning vnse herte besitte dat wy dy plichtlighen offere(n) vn(de) wedder geuen lof to allen tiden. [D]encke du meyst(er) [M]aria mod(er) der [E]re sy dy here. vts(ra)
+
+** Psalm
+*** Rubric
+p(salmu)s
+
+*** Text
+Jk borede myne ogen to dy dar du wonest in den he(m)melen.
+
+---75r---
+
+[S]ee also der knechte ogen in erer here(n) hende [A]lzo der magh(et) ogen seen in erer vrowe(n) hende alzo sin vnse ogen to vnseme heren gode wente he vns gne- dik is [H]ere vorbarme dy o- uer vns wente wy sere voruul- let sint mit vorsmaheit [W]en- te vnse sele is zere voruullet mit spotte der riken vnde vor- smaheit der houerdigen [E]re.
+
+** Psalm
+*** Rubric
+p(salmu)s
+
+*** Text
+Nu spreket isr(ae)l wente de here behalue(n) in vns was [D]o vns lude anverdigeden se hadde(n) vns lichte leuendik vor-
+
+---75v---
+
+sloken [D]orch ere bedrofnisse he sik tornde an vns lichte had- de vns dat water vorsloken [U]nse sele voer dor ene beke lichte hadde vnse zele varen dorch de vnrechte(n) watere [B]e- nediet sy de here de vns nicht gaf to eer venknisse [U]nse zele is gelaset alzo eyn luny(n)g van der iegere stricke [E]re stric- ke sint to broken vnde wy si(n)t gheloset [V]nse helpe is in deme namen des here(n) de de(n) he(m)- mel vnde erde makede [E]re sy deme vadere deme sone.
+
+** Psalm
+*** Rubric
+psal(mus)
+
+*** Text
+---76r---
+
+De dar louen in den heren also de bergh syon sy(e) scole(n) nicht beweghet werde(n) ewiklike(n) de dar wonen to ih(e)r(usa)l(e)m [D]e berghe syn v(m)me vn(de) de here is i(n) arkelwijs sines volkes van desseme nu wente to ewigen [W]ente de here ne nicht wil laten der sundere roden vppe der rechte(n) lude lucke dat de rechte(n) lude nicht uth ne recken ere ha(n)- de to der bosheit [H]ere do wol- den ghuden vnde den de rechtes herten sint [S]under dede sik neghen to der bindinge de wil
+
+---76v---
+
+got bringen to mit den de quat werken sy bouen isr(ae)l [E]re sy.
+
+*** Antiphon
+**** Rubric
+an(tiphonia)
+
+**** Text
+Den busch den moyses sach vnvorbrant de betekent vns dy- ne louelike reynikeit godes ⟨moder⟩ bid- de vor vns
+
+** Chapter
+*** Rubric
+Capit(u)l(u)m
+
+*** Text
+Myn geist is soter wenne honnich vnde myn erue boue(n) honnich vnde honnich seem. Gode sy lof
+
+*** Response
+**** Rubric
+R(esponsorium)
+
+**** Text
+Help vns mit dyneme bede Cristus moder maria
+
+*** Versicle
+**** Rubric
+v(ersiculus)
+
+**** Text
+Du bist ey(n) bode des ewighen leuendes vnde de clar- heit des he(m)mels. Crist(us).. Ere sy de- me. Help vns
+
+*** Versicle
+**** Rubric
+v(ersiculus)
+
+**** Text
+Dencke an
+
+---77r---
+
+dyne schone vnde dine schepnisse vaer luckelken vort vn(de) wes wel- dich. Pater noster
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+Bexcherme vns here mit dyme denste vn(de) wente wy truwe(n) sunte marie(n) helpe. swo make vns seker van alle vor alle vnse viende. Dorch ih(esu)m (christu)m vnsen here(n). Amen.

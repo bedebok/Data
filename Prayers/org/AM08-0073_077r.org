@@ -1,0 +1,95 @@
+#+TITLE: Hours of the Virgin (Sext)
+
+|------------+-------------------|
+| Manuscript | AM08-0073         |
+| Locus      | 77r 79v           |
+| Work       | HOURS_VIRGIN.SEXT |
+| Language   | gml               |
+| Status     | Transcribed       |
+|------------+-------------------|
+
+* Transcription
+** Rubric
+Sexta.
+
+** Text
+Got dencke an myne helpe. here snelle my to helpende Ere sy dem. O criste barmhertigeste Dencke. Maria moder soke in der prime.
+
+** Psalm
+*** Rubric
+psalmus
+
+*** Text
+Do de here bekerede
+
+---77v---
+
+de vencknisse syon do worde wy getrostet Des is vnse munt voruullet myt vrouden vnde vnse tunge mit blidicheit Denne scolen se spreken vnder den slechten de here hefft grotli- ken by en gedaen De here heft grotliken by vns gedaen wy sint syn volk geworden Here kere vnse vencknisse also de beke in deme suden win- de De dar seyet in den tranen vnde seyeden ere saet Sunder komende scolen se komen mit vrouden vnde bringen ere gar-
+
+---78r---
+
+uen Ere sy deme vadere.
+
+** Psalm
+*** Rubric
+sextus
+
+*** Text
+Is dat de here nicht ne buwet dat hus se hebbet vorgheues arbeydet de yd buwet Ne be- waret de here de stad nicht he maket vorgheues dede se bewa- ret It is vorgheues up to stan- de vor deme lichte stad up na deme dat gy gesetten hebben gy eten dat brot der drouicheit Wenne he sinen leuen gift den slap see der kindere vrucht des liues des heren erue is ere lon. Also de schote sint in des wel- dinghen hant alzo sint de vthe-
+
+---78v---
+
+slagenen kindere Salich is de man de syne begheringe vor- uullet heft in en scal he nicht vorstoret werden wan he sinen vienden to spreket in der porten Ere sy deme vadere vnde.
+
+** Psalm
+*** Rubric
+psalmus
+
+*** Text
+Salich synt alle de den heren vruchten vnde an syneme weghe wanderen Wente du scolt eten dat erbeyt dyner hen- de salich bistu vnde dy scal wol werden Dyn husfrue scal syn also eyn vul wyn rauen in den siden dines huses Unde dine kindere also nye olye bo-
+
+---79r---
+
+me vmme dynen disch See also scal de mynsche benediet wer- den de den heren vruchten De here van syon benedye dy dattu seest gude dink van ierusalem alle daghe dines leuendes Unde du mo- test seen de kindere diner kindere den vrede bouen israel Ere sy de.
+
+*** Text
+De rode her yessen heft gebloyet eyn sterne van iacob is upgeghaen eyne iuncvrowe heft getelet den salichmakere dy loue wy vnse got
+
+** Chapter
+*** Rubric
+Capitulum
+
+*** Text
+Komet to my alle de myner begheren vnde gy scolen werden voruullet van
+
+---79v---
+
+myner hilghen bord. Got sy ge- dancket
+
+*** Response
+**** Rubric
+responsorium
+
+**** Text
+De gnade is ghegoten Jn dine lippen
+
+*** Versicle
+**** Rubric
+versiculus
+
+**** Text
+Dar vmme heft dy got eweliken benediet. In di. Ere sy deme. De gnade
+
+*** Versicle
+**** Rubric
+versiculus
+
+**** Text
+Du bist ge- worden schone vnde sote in dynen ry- kedome hillige telerinne godes.
+
+*** Collect
+**** Rubric
+collecta
+
+**** Text
+Barmhertige got wy bidden dy gif vnser cranc- heit sterke up dat wy alle de dar begaen de dechtnisse diner leuen moder sunte marien mo- ten vormiddelst ere hulpe up- staen van alle vnse bosheit. Dor ihesum christum vnsen heren. Amen.

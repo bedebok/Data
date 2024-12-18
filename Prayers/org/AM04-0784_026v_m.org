@@ -1,14 +1,22 @@
 #+TITLE: Prayer for a traveller
-| Manuscript | AM 784 4to |
-| Locus      | 26v margin |
-| Language   | Danish     |
+
+|------------+-------------|
+| Manuscript | AM04-0784   |
+| Locus      | 26v 26v     |
+| Work       |             |
+| Language   | da          |
+| Status     | Transcribed |
+|------------+-------------|
 
 ** Parallels
+|------------+-------------------------------------|
 | Danish     |                                     |
 | Low German |                                     |
 | Latin      | [[file:UUB-C-496-136r.org][UUB C 495 (136r)]], MDB 1121 Collecta |
+|------------+-------------------------------------|
 
 * Transcription
+** Text
 O herre gud tw som haffuer send tobie din
 
 hellig profete oc tienere din hellig engel

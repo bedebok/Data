@@ -1,11 +1,18 @@
 #+TITLE: 15 Pater Noster
+
+|------------+----------------|
 | Manuscript | AM 789 4to     |
 | Locus      | 10r-10v, 1r-2v |
-| Language   | Danish         |
- - NB :: Out of order in Manuscript
+| Work       | 15_OS          |
+| Language   | da             |
+| Status     | Transcribed    |
+|------------+----------------|
+
+** Notes
+Out of order in Manuscript
 
 * Transcription
-** Text 3
+** Text                                                              :Text_3:
 [[O]] [[J]]hesu (christ)e hi(m)merige læge(n) [[J]]ech hedrer
 
 och signer thine mischu(n)delig øghne
@@ -25,7 +32,7 @@ bescheligh for mynesønder schyll *Ame(n)*
 ** Rubric
 P(ate)r nost(er)
 
-** Text 4
+** Text                                                              :Text_4:
 [[O]] [[J]]hesu criste sannelig ængle frælser Jech
 
 signer och hedrer thin helge næse ther luc-

@@ -1,0 +1,106 @@
+#+TITLE: Hours of the Virgin (Prime)
+
+|------------+--------------------|
+| Manuscript | AM08-0073          |
+| Locus      | 71r 74v            |
+| Work       | HOURS_VIRGIN.PRIME |
+| Language   | gml                |
+| Status     | Transcribed        |
+|------------+--------------------|
+
+* Transcription
+** Rubric
+Prima
+
+** Incipit
+Deus in adinto(r)ium meu(m) intende
+
+** Text
+[G]ot dencke in myne helpe. here snelle dy my to helpende [E]re sy deme vade(re).
+
+** Hymn
+*** Rubric
+ymn(us)
+
+*** Text
+O criste barmh(er)tichesse konynge vnse herte besitte dat wy dy plichtichlike(n) offere(n) vnde wedder gheuen lof to allen tiden [D]enc- ke du meyster des heyles dattu hir[?]
+
+---71v---
+
+vormales vnses lichames liknisse nemest van eyner vmbevleckeder iuncurowen [M]aria moder der gnade(n) moder der barmh(er)tikeyt be- scherme vns vor deme viende vn(de) vntfa vns in der tijd des dodes. [E]re sy de here de du gebore(n) bist van der iuncvrowen mit deme vadere vnde deme hilghe(n) geyste de du eyn ewich got bist. Amen.
+
+** Text
+Do ik to deme here(n) reep vnde wart bedrouet do twidede he my [H]ere lose my- ne sele van den bosen lippen vn(de9 van drogenaftige(n) tungen
+
+---72r---
+
+[D]e skarpen skote des weldi- ghen mit den vorleschede(n) kolen [W]e my wente my(n) ellende is vorlenget ik wonede mit den de dar wonet to cedar myn se- le was vil elende [I]k was vre- desam mit den de den vrede ha- tede wen ik en to sprak so voch- ten se my an vorgheues [E]re.
+
+** Psalm
+*** Rubric
+p(salmu)s
+
+*** Text
+Ik borde myne oge(n) to den bergen dar van my komet de helpe [M]yn helpe is van gode de dar he(m)mel vnde erde. [H]e en geuet nicht an de be- weginghe dynen voet vn(de) he
+
+---72v---
+
+slapet nicht de dy bewaret [S]e he slapet nicht noch en slept de dar bewaret israhel [D]e here beware dy de herre is dyn beschermer bouen dy- ner vorderen hant [D]e su(n)ne scal dy des dages nicht vorber- nen noch de mane des nach- tes [D]e here beware dy vor allem ouele de here beware dyne sele [D]e here beware dyne(n) ingank vnde dyne(n) wt- gank van desseme nu vn(de9 to ewen [E]re sy deme vad(er)e
+
+** Psalm
+*** Rubric
+p(salmu)s
+
+*** Text
+Ik bin gevrowet in den dinge(n)
+
+---73r---
+
+de my gesecht syn wy scolen gaen in des here(n) hus [V]nse vote werden stande in dynen salen i(e)r(usa)l(e)m [J](e)r(usa)l(e)m de gebuwet wert also eyne stad des deel suluen mechtet in deme sulue(n) is [W]ente dar steghen up de slechte des here(n) to tuchnisse isr(ae)l to louende des here(n) namen. [W]ente dar seten de stole in deme richte de stole boue(n) daui- tes [B]iddett to i(e)r(usa)l(e)m de to deme vrede syn vn(de) ere noginghe is den de dy leeff hebben [U]rede werde an dyner doghet vnde
+
+---73v---
+
+noginghe an dynen tornen [I]k sprak vrede an dy dorch dy- ne brodere vnde dorch myne negesten [I]k sochte de guden dingh dorch vnses here(n) hus [E]re sy deme vadere
+
+*** Antiphon
+**** Rubric
+Ant(iphonia)
+
+**** Text
+Do du vnsprekelken boren wor- dest van der iuncrowe(n) do worden de schriffte vorullet also de regen an dat vlus stegh alzo steghestu nedder salich to makende dat my(n)s- liche slechte dy loue wy vnse got.
+
+*** Chapter
+**** Rubric
+cap(itulum)
+
+**** Text
+Myn lef sprikt to my sta up myne schone my(n) vrundynne vnde kum. Got
+
+---74r---
+
+y gelouet.
+
+*** Response
+**** Rubric
+R(esponsorium)
+
+**** Text
+Criste des leuendighe(n) godes sone. Wes vns gnedik.
+
+*** Versicle
+**** Rubric
+v(ersiculus)
+
+**** Text
+De du gheboren bist van der iuncvrowe(n) marien. Wes. Ere sy deme vadere deme son vnde deme hilghe(n) geyste. Criste des le. Kyrieleyson. (christ)tel(eyson). Ky(rieleyson). P(ate)r n(oste)r [D]at wort is vlesch ghe- worden. Vnde wonet in vns. Credo in deum [H]ere twide my(n) beth. Vnde my(n) ropent kome to dy.
+
+*** Collect
+**** Rubric
+coll(ecta)
+
+**** Text
+Hor leue barmhertighe got vnser krancheit eyne hulpe wente wy der hil- ghen iuncvrowe(n) sunte mari- en dechtnisse beghaen dat wy
+
+---74v---
+
+vormildest ere bede geloset wer- den van allem arghe. Dorch ih(esu)m (christu)m vnsen here(n). Amen.

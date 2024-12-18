@@ -1,6 +1,16 @@
 #+TITLE:  AM08_0070-2v
 #+AUTHOR: AM 70 8vo f. 2v
 
+|------------+-----------|
+| Manuscript | AM08-0070 |
+| Locus      | 2v        |
+| Work       |           |
+| Language   | da        |
+| Status     | Begun     |
+|------------+-----------|
+
+* Transription
+** Text
 O herræ ih(es)u xr(ist)e thu som togsth
 
 thette alsomheligstæ lego(m)mæ
@@ -11,7 +21,7 @@ liiff th(e)r iech nw seer oc vtgast
 
 uppaa th(et) helliæ kors for vor
 
-siæls helsæ aff thin alsomhæ[-]
+siæls helsæ aff thin alsomhæ-
 
 ligstæ sidæ oc aff alt thiit 
 

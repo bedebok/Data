@@ -1,9 +1,11 @@
 #+TITLE: Golden Crown Prayer of Mary
-|------------+------------|
-| Manuscript | AM 789 4to |
-| Locus      | 5r-        |
-| Language   | MLG, DA    |
-|------------+------------|
+|------------+-------------|
+| Manuscript | AM 789 4to  |
+| Locus      | 5r          |
+| Work       | KRONGEBET   |
+| Language   | gml da      |
+| Status     | Transcribed |
+|------------+-------------|
 
 ** Parallels
 |------------+----------------------|
@@ -43,7 +45,7 @@ men spreken xxx dage v(m)me vn(de) schal een licht ber-
 
 ⸠l⸡nen na siner moglicheit vnde woren sig wor
 
---- 6r ---
+---6r---
 
 dotliken sunden wnde wan du dit beth wult
 

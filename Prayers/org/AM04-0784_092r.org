@@ -1,14 +1,22 @@
 #+TITLE: A prayer to Mary and Anna
-| Manuscript | AM 784 4to |
-| Locus      | 92r        |
-| Language   | Danish     |
+
+|------------+-------------|
+| Manuscript | AM 784 4to  |
+| Locus      | 92r         |
+| Work       |             |
+| Language   | da          |
+| Status     | Transcribed |
+|------------+-------------|
 
 ** Parallels
-| Danish | |
-| Low German | |
-| Latin | [[https://www.liturgialatina.org/raccolta/mary.htm#89][Raccolta nr. 89]] |
+|------------+-----------------|
+| Danish     |                 |
+| Low German |                 |
+| Latin      | [[https://www.liturgialatina.org/raccolta/mary.htm#89][Raccolta nr. 89]] |
+|------------+-----------------|
 
-** Transcription
+* Transcription
+** Text
 [[H]]Ell maria fwld met naade herren
 
 er met teg tyn nade wæræ met

@@ -1,6 +1,15 @@
-#+TITLE: Sermo Angelicus (Matins)
-#+AUTHOR: AM 70 8vo
+#+TITLE: Cantus Sororum (Matins)
 
+|------------+---------------|
+| Manuscript | AM08-0070     |
+| Locus      | 3r            |
+| Work       | CANTUS.matins |
+| Language   | gml           |
+| Status     | Transcribed   |
+|------------+---------------|
+
+* Transcription
+** Text
 bekoreden juwe vedere se prouede vnde
 
 seghen myne werke. Quadraginta ¶

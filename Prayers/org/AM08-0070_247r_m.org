@@ -1,3 +1,15 @@
+#+TITLE:
+
+|------------+-------------|
+| Manuscript | AM08-0070   |
+| Locus      | 247r        |
+| Work       |             |
+| Language   | da          |
+| Status     | Transcribed |
+|------------+-------------|
+
+* Transcription
+** Text
 *#prosa* [[V(ir)go ??]] [[J]]omffrw ha(n)s modh(e)r
 
 -???- som opstod aff døde lad os fanghe bliff-

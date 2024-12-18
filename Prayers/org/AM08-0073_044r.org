@@ -46,7 +46,7 @@ Inui(tatorium)
 
 marie(n). Iubilere wy deme her
 
-** Psalm                                                        :PSALM_97v94:
+** Psalm                                                       :PSALM_97_v94:
 *** Text
 
 [[2 red][K]]omet wy vrowen vns
@@ -145,7 +145,7 @@ der saligesten iuncvrowe(n) mari-
 
 en Jubilere wy deme heren.
 
-** Psalm
+** Psalm                                                            :PSALM_8:
 *** Rubric
 
 PSAlmus
@@ -234,3 +234,241 @@ Du bist benedyet bouen alle
 vrowen vnde benedyet is de
 
 vrucht dines liues.
+
+** Psalm                                                       :PSALM_19_v18:
+*** Rubric
+psalmus
+
+*** Incipit
+Celi enarrant gloriam
+
+*** Text
+De
+hemmele kundeghet de ere
+godes: vnde dat firmament
+kundeghet de werke syner
+hande De dach kundeghet
+deme daghe dat wort vnde
+de nacht kundeghet der nacht
+de wisheyt It en sint nene
+tunghen noch der men ere stemp
+ne nicht ne horet En luth
+gink in alle der erden vne [Page 48v]
+ere wort ginghen in de ende
+des ertrikes He sette syn tha
+bernaculum in de sunne vnde
+he gynk also eyn brudegam
+van syner bedde kameren
+He vrouwede sik also eyn
+rese den wech to lopende
+van deme ouersten hemmele is
+syn ghank Unde syn wed
+derghank beth to deme ho
+gesten vnde nemant is dede
+sik hudeth vor syne hitte
+Des heren E is vnbesaluet
+vnde bekeret de selen des heren
+betuginge is lauelich vnde [Page 49r]
+wisheit den cleynen Des he
+ren rechticheit is recht vnde
+vrowet dat herte dat luchtende
+both godes is vorluchtende de
+oghen Godes vruchte is hil
+lich vnde bliuet in der werlde
+der werlden des heren richte sin
+was vnde sin in sik suluen
+war vnde recht gemaket
+Se sint begherlik bouen
+golt vnde vele eddeler stene
+vnde sotere bouen honnych
+vnde seem Wente dyn knecht
+bewaret se in der bewaringhe
+der bode is vele wedder lones [Page 49v]
+We vornympt de vorsumen
+heit van mynen hemelken
+reyneghe my vnde van den
+vromeden schoue dyme knech
+te Ofte se myner nicht ouer
+herich ne werden so werde ik
+vmbesaluet vnde werde ge
+reyneget van deme grotesten
+broke Unde mynes mundes
+sproke werdet behegelik vnde
+mynes herten trachtent wert
+alle tijd in dyme angesichte.
+Here myn helpere vnde myn
+losere bist du Ere sy deme
+vadere deme sone vnde.
+
+*** Antiphon
+**** Rubric
+Anti(phona)
+
+** Psalm                                                       :PSALM_24_v23:
+*** Rubric
+Psalmus
+
+*** Incipit
+Domini est terra
+
+*** Text
+Des heren
+is dat ertrike vnde ere
+vulle vnde allent dat dar ynne
+wonet Wente he ene gestich
+tet heft vp dat mer vnde heft
+ene berede maket bouen de vlot
+We stighet in des heren berch
+edder we mach stan in syner
+hilghen stede De vnschuldege
+in den handen vnde reynes her
+ten is de syne sele nicht geues
+nam vnde de syme negesten nicht [Page 50v]
+en swor in drogene Desse
+scal nemen den sege van gode
+vnde barmherticheit van go
+de syneme heyle Dit is dat
+slechte der genen de ene soket
+dat antlat godes iacob Gy
+vorsten vorhauet iuwe porten
+vnde gy ewigen porten werdet
+irhauen vnde de koning der
+eren de scal dar inghan We
+is desse koning der eren de starke
+vnde de weldighe here de wel
+dich is in deme stride Gy vor
+sten irhauet iuwe porten vnde
+gy ewighen porten werdey irhauen
+[Page 51r]
+vnde de koning der eren scal dar
+inghan We is desse koning
+der eren de here der dogede is ko
+ning der eren Ere sy deme vadere.
+
+*** Text
+Singet vns sote sange vor deme
+bedde desser iuncvrowen.
+
+*** Versicle
+**** Text
+De
+gnade is geghoten an dynen lippen.
+Dar van benedye dy got ewichli
+chen.
+
+**** Text
+Paater noster. Aue maria
+
+** Lesson                                                          :LESSON_1:
+*** Rubric
+leccio princibus
+
+*** Text
+Sancta maria iuncvrowe
+bouen alle iuncvrowen
+moder vnde dochter des de eyn
+koning is bouen alle koninge
+gif vns dynen trost dat wy
+van dyner wegen moten be
+[Page 51v]
+holden dat lon des ewighen leuen
+des vnde dat wy mit dynen
+wterkornen moten dat rike
+beholden ewichliken. Sunder
+du here wes vns gnedich.
+
+*** Responsorium
+**** Rubric
+Responsorium
+
+**** Text
+Hilghe vnde vndbevleckede iunc
+vrowe ik ne wet nicht mit wat
+loue ik schal dy louen Wente den
+de hemmel nicht begripen mochte
+den drogestu an dyneme lichamme
+
+*** Versicle
+**** Rubric
+versiculus
+
+**** Text
+Du bist benedyet bouen alle
+vrowen vnde benedyet is de vrucht
+dynes liues. Wente den.
+
+** Lesson                                                          :LESSON_2:
+*** Rubric
+l. ijra.
+
+*** Text
+Sancta maria vnder allen
+milden de mildeste. vnde vnd[er]
+[Page 52r]
+allen hilghen de hilgheste. De
+wte dy gheboren is vnde is eyn
+here bouen alle de hemmele de
+sulue mote van dyner weghen
+nemen vnse bede dat myt syner
+leue mote delghet werden vnse
+sunde. sunder du here wes vns
+gnedich.
+
+*** Responsorium
+**** Rubric
+Responsorium
+
+**** Text
+Salich bistu iuncvrow
+maria de du den heren drogest den
+schepper alle der werlden du wunnest
+ene de dy schop vnde bleuest ewich
+liken eyne iuncurowe.
+
+*** Versicle
+**** Rubric
+versiculus
+
+**** Text
+Wes
+ghegrot maria vnde alle gnade de
+here is myt dy Du teledest den
+de dy makede.
+
+** Lesson                                                          :LESSON_3:
+*** Rubric
+lectio tercia
+
+*** Text
+Sancta maria wente du
+werdich werest to vnt
+fangende den alle de werlt
+nicht begripen mochte delghe
+vnse schult myt dinen milden
+beden dat wy stighen mogen
+to deme stole der ewygen ere
+dar du mit dyme sone bist
+ane ende. Mer du here wes
+vns gnedich
+
+*** Responsorium
+**** Rubric
+Responsorium
+
+**** Text
+Allerleueste
+iuncvrowe godes werkersche der
+dogeden Giff helpe den nottorfti
+gen kum vrowe den to hulpe den
+elenden dede to dy ropen.
+
+*** Versicle
+**** Rubric
+versiculus
+
+**** Text
+Wente
+wy vorducket werden myit der
+[Page 53r]
+sunden borden aller hilgheste wy
+bidden dy. Gif helpe den
