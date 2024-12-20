@@ -42,24 +42,18 @@ A fifteenth century book of hours in Low German commissioned by the Count of Old
 Commissioned by Gerhard, count of Oldenburg, brother of the Danish king Christian I.
 
 * Contents
-|-------+-----+-----------+---------------------+-----+--------------------------------------------------------------+---------------------------------------------+----------+--------|
-| start | MDB | text type | text                | end | incipit                                                      | explicit                                    | language | status |
-|-------+-----+-----------+---------------------+-----+--------------------------------------------------------------+---------------------------------------------+----------+--------|
-| 1r    |     | RUBRIC    | HOURS_HOLY_SPIRIT   | 1r  | Hijr begynnet des hillige(n) geistes tyde to dude aldus      |                                             | LG       |        |
-| 1r    |     | PRAYER    | HOURS_HOLY_SPIRIT   | 34r | DE gnade des hillige(n) geistes                              | sin hulpe bliue myt uns allen Amen          | LG       |        |
-| 34r   |     | MINIATURE | TRINITY             | 34r |                                                              |                                             |          |        |
-| 35r   |     | RUBRIC    | HOURS_TRINITY       | 35r | Hijr beginnet de seuen tyde van der hilligen dreuoldich(eit) |                                             | LG       |        |
-| 35r   |     | PRAYER    | HOURS_TRINITY       | 49v | O hillige dreuoldicheit                                      | dat ik van dy behgerende byn Amen           | LG       |        |
-| 49v   |     | RUBRIC    | LITANY_VIRGIN       | 49v | Hir beginnet vnser leue(n) vrowe(n) letanie to dude          |                                             | LG       |        |
-| 50r   |     | PRAYER    | LITANY_VIRGIN       | 54v | HEre vorbarme di Criste vorbarme di                          | dat ik sin vrolike antlaet moge beseen Amen | LG       |        |
-| 55r   |     | RUBRIC    | HOURS_CROSS         | 55r | Hir gan an des hilgen cruces tide                            |                                             | LG       |        |
-| 55v   |     | PRAYER    | HOURS_CROSS         | 62r | HEre opene myne lippen                                       | vn(de) barmherticheit de(n) [defect]        | LG       |        |
-| 62v   |     | MINIATURE | ANNA SELBDRITT      |     |                                                              |                                             |          |        |
-| 63r   |     | RUBRIC    | HOURS_ANNE          | 63r | Hijr beginnet de seuen tyde van Sunte Annen to dude          |                                             | LG       |        |
-| 63r   |     | PRAYER    | HOURS_ANNE          | 73v | GOd dencke an myne hulpe                                     | kum my to hulpe hilghe vrouwe sunte Anna    | LG       |        |
-| 73v   |     | RUBRIC    | PENITENTIAL_PSALMS  | 73v | Hijr beginet de seue(n) psalme                               |                                             | LG       |        |
-| 73v   |     | PRAYER    | PENINTENTIAL_PSALMS | 87v | HEre bechelt my nicht in dinen unmode                        | De dar leuet vnde regneret ewichliken Amen  | LG       |        |
-|-------+-----+-----------+---------------------+-----+--------------------------------------------------------------+---------------------------------------------+----------+--------|
+|-------------+-----------+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+----------------|
+| Loc         | Type      | Work               | Text                                                                                                                                                                                    | Lang | Status         |
+|-------------+-----------+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+----------------|
+| 1r 34r      | HOURS     | HOURS_HOLY_SPIRIT  | *Hijr beghynnet des hillige geistes tide to dude aldus* [[D]]E gnade des hillige geistes sy mit vns [...] God si benediet vn(de) sin hulpe bliue myt uns allen Amen                         | gml  | main           |
+| 34v         | MINIATURE | Trinity            |                                                                                                                                                                                         |      |                |
+| 35r 49v     | HOURS     | HOURS_TRINITY      | *Hijr beginnet de seuen tijde van der hilligen dreuoldich(eit)* [[O]] hillighe dreualdicheit wy an rope(n) di [...] dat ik van dy begherende byn Amen                                       | gml  | main           |
+| 49v/50r 54v | LITANY    | LITANY_VIRGIN      | *Hir beginnet vnser leue(n) vrowe(n) letanie to dude* [[H]]Ere vorbarme di Criste vorbarme di [...] dat ik sin vrolike antlaet moge beseen. Amen                                            | gml  | main           |
+| 55r/v 62r   | HOURS     | HOURS_CROSS        | *Hir gan an des hilgen Cruces tide* [[H]]Ere opene myne lippen vn(de) myn munt scal kundigen din lof [...] Unde gif my leue here gnade vn(de) barmherticheit de(m)                          | gml  | main defective |
+| 62v         | MINIATURE | Anna Selbdritt     |                                                                                                                                                                                         |      |                |
+| 63r 73v     | HOURS     | HOURS_ANNE         | *Hijr beginnet de seuen tijde van Sunte Annen to dude* [[G]]Od dencke an myne hulpe here snelle di my to helpende [...] Vor vlock vn(de) vor banne kum my to hulpe hilghe vrouwe sunte Anna | gml  | main           |
+| 73v 87v     | PSALMS    | PENITENTIAL_PSALMS | *Hijr beginnet de seue(n) salme* [[H]]Ere beschelt my nicht in dinen vnmode [...] De dar leuet vnde regneret ewichliken Amen                                                                | gml  | main           |
+|-------------+-----------+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+----------------|
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM12-0417
 - Vrieland 2020 ::

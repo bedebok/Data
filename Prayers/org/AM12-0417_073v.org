@@ -1,0 +1,335 @@
+#+TITLE: Seven Penitential Psalms
+
+|------------+--------------------|
+| Manuscript | AM12-0417          |
+| Locus      | 73v 87r            |
+| Work       | PENITENTIAL_PSALMS |
+| Language   | gml                |
+| Status     |                    |
+|------------+--------------------|
+
+* Transcription
+** Rubric
+Hijr beginnet de seue(n) Salme
+
+** Psalm
+*** Text
+[[blue red 3][H]]Ere beschelt my
+
+nicht in dinen
+
+vnmode vnde en
+
+straffe my nicht in dinen
+
+torne [[red][H]]ere vorbarme dy
+
+auer my wente ik kranck
+
+byn make my gesunt wen-
+
+te alle myne knaken bedro-
+
+uet sint [[red][U]]nde myne sele
+
+is sere bedrouet sunder du
+
+here wo lange [[red][K]]ere di here
+
+vn(de) lose myne sele make
+
+my gesunt dorch dine barm-
+
+herticheit [[red][W]]ente nemant
+
+---74r---
+
+en is in dem dode De diner
+
+ghedencket ofte we bichtet
+
+dy ⸠in_dy⸡ in der helle [[red][I]]k arbey-
+
+dede in myner suchtinge ick
+
+wil wassche(n) alle nacht my(n)
+
+bedde vn(de) uetten myne leger-
+
+stede myt myne tranen [[red][M]]y(n)
+
+oghen sint bedrouet van ⸌v(n)mode⸍
+
+ik wart alt manck alle
+
+mynen viande [[red][W]]yket va(n)
+
+my alle de dar werken bos-
+
+heit wente de here heuet
+
+ge_horet de stempne mynes
+
+bedes [[red][D]]e here heft myn
+
+bet ghe_twidet de here heft
+
+---74v---
+
+myn beth vntfanghen [[red][A]]l-
+
+le myne viande schemen
+
+sick vn(de) werden bekert vn(de) sche-
+
+men sick vil sere [[red][E]]re si dem
+
+** Psalm
+*** Text
+[[red 2][S]]Alich synt de den ere bos-
+
+heit sint vorlete(n) vnde
+
+ere sunde bedecket syn [[red][S]]a-
+
+lich is de ma(n) de(n) de here nicht
+
+en witet de sunde noch in
+
+sinen geiste en is ghen dro-
+
+ghen [[red][M]]yne knaken synt
+
+vor oldet wente ik geswe-
+
+ghen hebbe do ik al den dach
+
+rep [[red][W]]ente dach vn(de) nacht
+
+---75r---
+
+is dyn hant bewart baue(n)
+
+my ik bin gekeret am my-
+
+nen iammer also de dorn
+
+gestucket wert [[red][I]]k dede
+
+di witliken myne(n) broke
+
+vn(de) en behude nicht myne
+
+vnrechticheit [[red][I]]k sprack ik
+
+wil wedder my bichte(n) den he-
+
+ren vn(de) du vor geuest my de
+
+bosheit myner sunde [[D]]ar
+
+v(m)me schal to di beden eyn
+
+iewelik hillige in der morge(n)
+
+tyt [[red][D]]o doch in deme auer-
+
+vlode ueler watere en scole(n)
+
+se nicht to em nalen [[red][D]]u
+
+---75v---
+
+bist my(n) to vlocht va(n) der drof-
+
+fenisse de my heft be_vange(n)
+
+myn vroude lose my va(n) den
+
+de my v(m)me vange hebbe(n)
+
+[[red][I]]k wil di geuen vorstante-
+
+nisse vn(de) wil di an_wisen in
+
+deme wege den du gaen scalt
+
+ik wil myne oghen baue(n) di
+
+stedighen [[red][E]]n werdet nicht
+
+also eyn pert vn(de) en wul in
+
+dem nyn vor_nuft en is [[red][D]]-
+
+winge ere wangen in den
+
+halteren vn(de) in tome(n)de
+
+nicht en nalen to dy [[red][U]]ele
+
+geyselen sint des sunders
+
+---76r---
+
+me(n) de barmherticheit schal
+
+v(m)me van de in den hapen
+
+[[red][G]]i rechten vrouwet in alle(n)
+
+de van rechte(n) ⸌herte(n)⸍ syn [[red][E]]re si de(n)
+
+vader vnde den sone vn(de) den
+
+** Psalm
+*** Text
+[[red 3][H]]Ere beschelt nicht in
+
+dine(n) vnmode vnde
+
+tuchtige my nicht in
+
+dynen torne [[red][W]]ente dine
+
+schote sint in my gescicket
+
+vn(de) du heuest dine hant ⸌gefrediget⸍ ba-
+
+uen my [[blue][I]]n myne(n) vlesche
+
+en is nyn suntheit va(n) den
+
+antlate myner sunde [[red][W]]en-
+
+te myne bosheit bauen my(n)
+
+---76v---
+
+houet synt gegan vn(de) sint
+
+beswaret bauen my so eyn
+
+sware borden [[red][M]]yne nare(n)
+
+sint vor vn_let vn(de) vor dor-
+
+uen van dem antlate myn(er)
+
+dul_heit [[red][I]]k byn arm ⸠vn(de)
+
+0000000⸡ ge_worden vnde
+
+gekru(m)met wente in den en-
+
+den allen dach ginck ik tro-
+
+uich in [[red][W]]ente myne seuen
+
+sint vor_vullet myt bespot-
+
+tynge unde in mynen vlesche
+
+en is nyn suntheit [[red][I]]k bin
+
+ge_piniget vn(de) also sere oth-
+
+modiget ik bru(m)mede van
+
+---77r---
+
+der luchtinghe mynes h(er)ten
+
+[[red][H]]ere vor di is alle myne be-
+
+gheringhe vn(de) my(n) suchtunge
+
+is vor dy nicht vor borgen
+
+[[red][M]]yn herte is bedrouet my(n)
+
+kraft heuet my vorlaten
+
+vn(de) dat licht myner oghen
+
+en is nicht myt my [[red][M]]yne
+
+vrund vn(de) myne negesten na-
+
+leden wedder my vn(de) stunden
+
+verne van my [[red][U]]nde de my bose
+
+dinck vrageden de spreken
+
+---77v---
+
+ydelicheit vnde dachten alle de(n)
+
+dach drogene [[red][W]]ente ick
+
+also eyn doue dede nicht hor-
+
+de vn(de) also stumme de sinen
+
+mu(n)t nicht vp en doeyt [[red][U]]n-
+
+de ik geworden also eyn my(n)-
+
+sche de nicht en horet vnde
+
+heuet an sinen mu(n)de nene
+
+wedder rede [[red][W]]ente ick hape-
+
+de in dy here my(n) god du vult
+
+my twyden [[red][W]]ente ik sprack
+
+dat ichteswanne myne via(n)-
+
+de nicht en vrouwen vp my
+
+vnde went sick myne ⸌vote⸍ bewe-
+
+ghen so spreken se grote dinck
+
+---78r---
+
+vp my [[red][W]]ente ick bereyt ⸌byn⸍ in
+
+den geiselen vn(de) myn droffe-
+
+nisse is iu(m)mer in dine(n) ange-
+
+sichte [[red][W]]ente ik kundighen
+
+myne bosheit vn(de) wil dencke(n)
+
+v(m)me ⸌myne⸍ sunde [[red][M]]yne viande
+
+leuen vn(De) sin gestediget ba-
+
+uen my vn(de) se sint me(n)nych.
+
+uoldich de my bosliken hate(n)
+
+[[red][D]]e dar bose dinck wedder
+
+my geuen v(m)me de guden de
+
+achter spreken my wente ick
+
+volgede der gude [[red][H]]ere myn
+
+god vorlat my nicht en vare
+
+---78v---
+
+nicht va(n) my [[red][H]]ere mynes
+
+heiles god dencke an myne
+
+hulpe [[red][E]]re si deme vader
+
+** Psalm
