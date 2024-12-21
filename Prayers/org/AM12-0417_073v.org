@@ -2,17 +2,17 @@
 
 |------------+--------------------|
 | Manuscript | AM12-0417          |
-| Locus      | 73v 87r            |
+| Locus      | 73v 85v            |
 | Work       | PENITENTIAL_PSALMS |
 | Language   | gml                |
-| Status     |                    |
+| Status     | Transcribed        |
 |------------+--------------------|
 
 * Transcription
 ** Rubric
 Hijr beginnet de seue(n) Salme
 
-** Psalm
+** Psalm                                                            :PSALM_6:
 *** Text
 [[blue red 3][H]]Ere beschelt my
 
@@ -84,7 +84,7 @@ sick vn(de) werden bekert vn(de) sche-
 
 men sick vil sere [[red][E]]re si dem
 
-** Psalm
+** Psalm                                                        :PSALM_32v31:
 *** Text
 [[red 2][S]]Alich synt de den ere bos-
 
@@ -182,7 +182,7 @@ de van rechte(n) ⸌herte(n)⸍ syn [[red][E]]re si de(n)
 
 vader vnde den sone vn(de) den
 
-** Psalm
+** Psalm                                                        :PSALM_38v37:
 *** Text
 [[red 3][H]]Ere beschelt nicht in
 
@@ -332,4 +332,459 @@ heiles god dencke an myne
 
 hulpe [[red][E]]re si deme vader
 
-** Psalm
+** Psalm                                                        :PSALM_51v50:
+*** Text
+[[red 2][G]]Od vorbarme di auer
+
+my na diner groten
+
+barmherticheit [[red][U]]nde na
+
+der me(n)nichuoldicheit diner
+
+gnade delge myne bosheit
+
+vortmer wassche my van
+
+myner bosheit vn(de) reynige
+
+my van mynen sunden [[red][W]]e(n)-
+
+te ik bekenne myne bosheit
+
+vn(de) myne sunde sunt iu(m)mer
+
+wedder my [[red][I]]k hebbe di al-
+
+---79r---
+
+lene ge_luudiget vnde ouele
+
+ieghen di ge_daen dat du wer-
+
+dest ge_richtet in dine(n) reden
+
+vn(de) vor_wynnest wen du we-
+
+rst richtende [[red][S]]e ik bin vnt-
+
+fangen in bosheit vnde in
+
+sunden entfynck my my(n) mo-
+
+der [[red][S]]e wente du heuest ghe-
+
+000de warheit du heuest my
+
+ge_apenbaret de unwissen
+
+vn(de) vnvorborghen dynck di-
+
+ner wisheit [[red][H]]ere bespren-
+
+ge my myt ysopen vnde den
+
+werde ik gereynighet du
+
+scalt my wasschen vnde den
+
+---79v---
+
+so werde ik witter dan de snee
+
+
+[[red][G]]ijf mynen horende vroude
+
+vn(de) wunne vn(de) othmodighen
+
+knoken scholen sick vrouwe(n)
+
+[[red][K]]ere din antlat van mynen
+
+sunden vn(de) delge al myne bos-
+
+heit [[red][G]]od scippe in my en re-
+
+ne herte vn(de) vor_nye in myn
+
+jngeweide eynen rechte(n) geist
+
+[[red][W]]erp my nicht van dinen
+
+angesicht vn(de) nym va(n) my nicht
+
+dinen hilghen geist [[red][G]]if my
+
+dines heiles vroude vn(de) stedige
+
+my myt den ouersten geiste
+
+[[red][I]]k wil den bosen leren dyne
+
+---80r---
+
+weghe vn(de) arghen scholen
+
+to dy keret werden [[red][G]]od my-
+
+nes heiles lose my van den
+
+sunden vn(de) myn tunghe scal
+
+sick vrouwen diner rechtuer-
+
+dicheit [[blue][H]]ere opene myne
+
+lippen vn(de) myn mu(n)t schal
+
+kundigen dyn lof [[red][W]]ente of-
+
+te du dat offer woldest gehat
+
+hebben ik hadde id di geghe-
+
+uen di en lustede nicht des
+
+offers ⸠[[red][M]]⸡⸌E⸍yn bedrouet geist
+
+⸠is_gode⸡ is gode eyn offer god
+
+vor_sma nicht eyn rouwelick
+
+othmodich harte [[blue][D]]o gutlike(n)
+
+---80v---
+
+sion in dine(n) gude(n) willen dat
+
+iherusalemes muren gebu-
+
+wet werden [[blue][D]]an scaltu an-
+
+namen dat offer der rechtich-
+
+eit vnde der gaue so scholen
+
+se de caluer leggen up din al-
+
+tare [[red][E]]re si dem vader vn(de)
+
+** Psalm                                                      :PSALM_102v101:
+*** Text
+[[red 2][H]]Ere twyde myn bet vn(de)
+
+myn ropent kame tho
+
+di [[blue][E]]n kere din antlat nicht
+
+van my in welke(n) daghen ik
+
+bedrouet bin so kere dyn
+
+ore to my [[red][I]]n welken dage
+
+ik di an rope so twide my
+
+snelliken [[red][W]]ente myne da-
+
+---81r---
+
+ghe sint vorswunden also ey(n)
+
+rock vn(de) myne ⸌lede⸍ sint vor_doret
+
+wente ik hebbe vor_gheten
+
+my(n) brot to etende [[red][U]]an der
+
+stempne myner suchtunge
+
+so hangeden myne knoken
+
+to mynen vlesche [[blue][I]]k byn ge-
+
+⸌lik⸍_wurden den pellicano in der
+
+wostenye ik geworden by(n) also
+
+eyn nachtrauen in dem bure
+
+[[red][I]]k wakede vn(de) bin geworde(n)
+
+also eyn tam lunynck in dem
+
+dake [[blue][A]]lle dage straffeden my
+
+myne viande vn(de) de my laue-
+
+den de sworen ieghen my
+
+---81v---
+
+[[red][W]]ente ⸌ik⸍ at asschen also brot
+
+vn(de) mengede myne(n) dranck
+
+myt mynen tranen [[red][U]]an de(m)
+
+antlate des tornes dines vn-
+
+modes wente ere(n) houede du
+
+my to brekest [[blue][M]]yne dage
+
+neghen sick also eyn scheme
+
+vn(de) vor dorrede also hoy [[red][M]]en
+
+du here b[l]iuest ewichliken
+
+vn(de) dyn dechtenisse is va(n) slech-
+
+ten to slechten [[red][S]]ta up vn(de)
+
+vorbarme di auer sion wen-
+
+te de tijd erer gnade is wente
+
+de tijd is gekomen [[red][W]]ente
+
+dinen knechten behageden
+
+---82r---
+
+de steyne van sion vnde
+
+scholen sick vorbarme(n) ouer
+
+sion dat lant [[blue][U]]n(de) de slechte
+
+scolen vruchte dinen name(n)
+
+here va(n) alle de koni(n)ghe der
+
+erden dine ere [[red][W]]ente de he-
+
+re buwede syon vn(de) schal
+
+werden geseen in synre ere
+
+[[blue][H]]e sath an dat beth der
+
+othmodigen vn(de) vorsmade
+
+nicht ere beth [[red][D]]esse dinck
+
+werden gescreuen in eyn an-
+
+der slechte vn(de) dat volck dat
+
+ge_scapen wert scal den here(n)
+
+---82v---
+
+louen [[red][W]]ente he satch van si-
+
+ner hillige(n) hoghe de here
+
+sach van deme he(m)mele in de
+
+erden [[red][D]]ar he horde der va(n)-
+
+genne suchtent vn(de) losede de
+
+vor kosten kindere [[red][D]]at se
+
+kundigeden in syon des here(n)
+
+namen vn(de) syn lof in iheru-
+
+salem [[red][D]]o sick dat volck
+
+sammelde in eyn vn(de) de ko-
+
+ni(n)ghe dat se denen den here(n)
+
+[[red][H]]e antworde eme i(n) deme
+
+weghe der doghet kundige
+
+my de klenheit myner da-
+
+---83r---
+
+ghe [[red][I]]in wedder lade my
+
+nicht in de helfte myner dage
+
+van slechten to slechten sint
+
+dine iare [[blue][H]]ere va(n) deme a(n)-
+
+begynne heuestu geuestiget
+
+de erde vn(de) dine hant_werke
+
+sint de hemmele [[red][S]]e scolen
+
+vor_gan vn(de) du bliuest ewich-
+
+liken vn(de) so scholen vor_olde(n=
+
+also eyn cleit [[blue][U]]nde du sca-
+
+lt se vor_wandelen also eyn
+
+deken vn(de) se werden vor wan-
+
+delet men du bliuest de sulue
+
+vn(de) dine iare vor_gan nicht
+
+[[red][D]]e kindere dynre knechte
+
+---83v---
+
+scholen wone(n) vnde saet schal
+
+ewichliken gherichtet werden
+
+[[red][E]]re si deme vn(de) deme sone
+
+** Psalm                                                      :PSALM_130v129:
+*** Text
+[[blue 2][H]]Ere ik rep to di van der
+
+dupe here twyde myne
+
+stempne [[red][M]]yne oren werden
+
+an denckende in de stempne my-
+
+nes gebedes [[red][H]]ere oftu behol-
+
+dest de bosheit here we mach
+
+dat liden [[red][W]]ente bi di is gne-
+
+dicheit vn(de) ik dogede here dor
+
+dine ee [[red][M]]yne sele dogede in
+
+sine(n) worde myn hapede in de(n)
+
+heren [[red][U]]an der mettyn tyd
+
+vro went in de nacht schal is-
+
+--84r---
+
+rahel hapen an den heren
+
+[[red][W]]ente bi deme here(n) is barm-
+
+herticheit vnde vullenkome(n)
+
+losinghe is bi eme vnde he
+
+losen israhel van aller bos-
+
+heit [[red][E]]re si deme vader vnde
+
+** Psalm                                                      :PSALM_143v142:
+*** Text
+[[red 2][H]]Ere twide my(n) betch vn(de)
+
+myn ropent kame to
+
+di vor nym myt dine(n) oren my-
+
+ne bede in diner warheit twi-
+
+de my in diner rechticheit
+
+[[red][U]]n(de) en ga nicht in gerichte
+
+myt dinen knechte wente ey(n)
+
+ewichlike leuent wart nicht
+
+recht in dyne(n) angesichte [[red][W]]e(n)te
+
+---84v---
+
+de viant heuet myne ⸌sele⸍ vor_vol-
+
+ghet he heft myn leue(n)t ghe-
+
+ontmodiget in der erden [[red][H]]ee
+
+sette {h} my in de dusternisse
+
+also de doden der werlt vnde
+
+myn geist is bedrouet baue(n)
+
+my vnde myn herte is in
+
+my bedrouet [[blue][I]]k dachte in
+
+olden daghe ik betrachte se
+
+in alle myne(n) werken [[red][I]]k
+
+reckede myne hende to dy
+
+myn sele is also erde ane
+
+water [[blue][H]]ere twide my snel-
+
+liken wente myn geist is
+
+vor_worden [[red][E]]n kere din
+
+---85r---
+
+antlat nicht va(n) my vnde wer-
+
+de gelick den dem dat strick
+
+vallen [[red][M]]ake my vro horen
+
+de dine barmherticheit wen-
+
+te ik in dy hapede [[red][M]]ake my
+
+kundich den wech dar ik ane
+
+wandere wente ik hebbe
+
+myne sele to di erhauen [[red][H]]e-
+
+re lose my van myne(n) viande(n)
+
+ik vlo⸠ch⸡ to dy lere my dine(n)
+
+willen doen wente du myn
+
+god bist [[red][D]]yn gude geist lei-
+
+de my in de rechten erden he-
+
+re dorch dinen name(n) make
+
+--- 85v---
+
+my ⸌leue(n)dich⸍ in diner rechticheit [[red][H]]e-
+
+re leide myne ⸌zele⸍ van der drof-
+
+fenisse vnde vorsstore myne
+
+viande in diner barmher-
+
+ticheit vn(de) vorstore alle de
+
+myne ⸌zele⸍ bedrouen wente ick
+
+dyn knecht byn [[blue][E]]re si dem
