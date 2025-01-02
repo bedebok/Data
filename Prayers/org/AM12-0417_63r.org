@@ -1,0 +1,335 @@
+#+TITLE: Hours of St. Anne
+
+|------------+------------|
+| Manuscript | AM12-0417  |
+| Locus      | 63r        |
+| Work       | HOURS_ANNE |
+| Language   | gml        |
+| Status     |            |
+|------------+------------|
+
+* Transcription
+** Matins
+*** Rubric
+Hijr beginnet de seuen tyde
+
+van Sunte Annen to dude
+
+*** Text
+[[2 blue][G]]Od dencke an myne hul-
+
+pe here snelle my to 
+
+helpende [[red][E]]re si dem vadere
+
+vn(de) dem sone vn(de) dem hilgen
+
+[[red][D]]yner telerinne(n) heft he
+
+bereit een pallas wa(n)ner
+
+de schipper aller dinghe(n) seker
+
+scop den licham Anna wo vro-
+
+lik vn(de) wo vorschynende is de
+
+licham Amen Jn welke(n) god
+
+heft gegheue(n) siner moder eyn
+
+reyne woni(n)ghe God si ghela-
+
+uet ympnus
+
+*** Hymn
+**** Rubric
+ympnus
+
+---63v---
+
+**** Text
+[[blue 2][A]]Nna geborn is van ko-
+
+ni(n)ghes geslechte vn(de) va(n)
+
+orden der prestere se heft getzy-
+
+ret sin werck [[red][S]]e heft ent-
+
+fanghen vormiddelst den he(m)-
+
+melsche(n) gerichte in der truwe(n)
+
+echschap van van dem worde des
+
+engels heft se entfange(n) de he(m)-
+
+melschen vrucht [[red][U]]ormyd-
+
+delst der dochter namen heft
+
+vns gegheuen gnedichliken
+
+den merer aller dinck Amen
+
+[[red][B]]idde vor vns hillighe moder
+
+Anna dat wi myt di geuoget
+
+werden in der ere 
+
+*** Collect
+**** Rubric
+Collecta
+
+---64r---
+
+**** Text
+[[2 blue][G]]Od here almechtige de
+
+du de hillige vrouwe
+
+Su(n)te Anna de to langen tide(n)
+
+vnvruchtbar was myt eyner
+
+vrucht heilsam de alder werlt
+
+heft behaget [[red][G]]if alden ghe(n)-
+
+nen dede moder v(m)me der leue
+
+willen de(r) dochter eren dat ere
+
+beider hulp vn(de) trost en to hul-
+
+pe kamen in der stunde eres do-
+
+des Dorch vnsen here(n) ihesum
+
+cristum Amen 
+
+** Prime
+*** Rubric
+To der p(ri)me
+
+*** Text
+[[red][G]]Od dencke an myne hulpe
+
+here snelle di my to helpende
+
+[[red][E]]re si dem vader vn(de) dem
+
+---64v--
+
+[[red 2][R]]Echtuerdich vn(de) vullen-
+
+komen was ere leue(n)t
+
+vn(de) ere herte bernde gelicke na
+
+der gotlike begheringhe dar
+
+v(m)me hadde se got uterkorn
+
+vn(de) gehilliget vn(de) leef vor al-
+
+ler vrouwen namen God
+
+si gelouet
+
+*** Hymn
+**** Rubric
+ympnus
+
+**** Text
+[[blue 2][D]]E boem der ere is hoch sa-
+
+lich is Anna vn(de) ere vru-
+
+cht welck dat lecht der gna-
+
+den heft begoten vn(de) de ho-
+
+ghe der doget [[red][I]]n welke ho-
+
+ge des bomes got heft ghe⸌set⸍
+
+sine wonynghe do de licha(m)
+
+---65r---
+
+Marien vruchtsam bloeyde 
+
+in dem liue Anna [[red][D]]e here
+
+der hillige(n) hemmele heft sa-
+
+lichliken vorhoget Anna do
+
+du wurdest togevoget diner
+
+dochter bidde Jnnychliken
+
+vor vns Amen [[blue][B]]idde hilge
+
+moder anna dat wi my di
+
+gevoget werden in der ere
+
+*** Collect
+**** Rubric
+Coll(e)c(t)a
+
+**** Text
+God here almechtige
+
+eyn blad wedder to rugge steit
+
+de coll(e)c(t)a schal me(n) uth lesen
+
+** Terce
+*** Text
+[[red 2][G]]Od dencke anmyne hulpe
+
+here snelle dy my to helpe(nde)
+
+Ere si dem vader vn(de)
+
+*** Rubric
+to tercie
+
+---65v---
+
+*** Text
+[[red][D]]E asche der hoge is ghe-
+
+sant vn(de) de ewige vrucht heft
+
+vorvullet den licham a(n)na 
+
+myt wisheit vn(de) se drecht in 
+
+hemelicheit va(n) god vaders
+
+sta⸌t⸍uestinge den schat der ew-
+
+icheit God si gelouet 
+
+*** Hymn
+**** Rubric
+ymp(us)
+
+**** Text
+
+[[blue 2][A]]nna is eyn alder hoges-
+
+te moder des olden testa-
+
+mentes vormyddelst doge-
+
+den was hogh vor allen [[red][U]]n-
+
+vruchtbar was se in vortyde(n)
+
+vn(de) se was metige eren licha(m)-
+
+me vormyddelst ⸌des vaders lichte⸍ sta⸌t⸍uestinge
+
+heeft se gedregen de koni(n)ge(n)ne
+
+---66r---
+
+der Ju(n)cfrouwe(n) [[red][D]]e here ⸌der⸍ hillige(n)
+
+hemele heft salichliken vorho-
+
+get Annen Do du wordest tho-
+
+gevoghet diner dochter bidde
+
+vor vns Jnnychliken
+
+*** Versicle
+**** Rubric
+v(er)siculu(m)
+
+**** Text
+[[blue][B]]idde vor vns hillige moder
+
+Anna dat wy myt di togevo-
+
+get werden in der ere
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+[[red][G]]Od here almechtighe de du
+
+** Sext
+*** Rubric
+Item de sexte tho dude
+
+*** Text
+[[red][G]]Od dencke an myne hulpe
+
+here snelle di mi to helpende
+
+[[red][E]]re si deme vader vn(de) deme
+
+sone vnde deme hillighe
+
+[[blue][D]]yne echscop was vor alle(n)
+
+---66v---
+
+ey(n) ware kuscheit vn(de) hillich
+
+se ginck vor allen dotliken
+
+in eren sware(n) older was se
+
+bloeyende in hillicheit vul-
+
+lenkomender gnade was se
+
+bernende myt gotliker leue
+
+Amen Gode si lof
+
+*** Hymn
+**** Rubric
+⸠Collecta⸡⸌ymus⸍
+
+**** Text 
+     :PROPERTIES:
+     :ORDERED:  t
+     :END:
+[[red 2][A]]nna vn(de) maria de were(n)
+
+an_name den gotliken
+
+ogen vor allen sentlick ewich
+
+alle wege to allen tijden [[red][D]]er
+
+moder ge_beth myt der docht(er)
+
+wy begheren ynnichlicken
+
+dat wy werden to_voghet der
+
+borgeren der hemmele vnde
+
+---67r---
+
+bruken salichliken myt gode
+
+[[red][D]]e here der ⸌he(m)mele⸍ heft salichliken
+
+Bidde vor vns hillige moder
+
+anna dat wi mit di to_ge_vo
