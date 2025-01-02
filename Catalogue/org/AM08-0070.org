@@ -103,6 +103,13 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 | 256r  |      |              |                 | 1074 |                                     |                                    |          |        |
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
 
+** Contents (new)
+|---------+-------+----------+--------------------------------------------------------------------------+------+--------|
+| Loc     | Type  | Text     | Rub/Inc/Exp                                                              | Lang | Status |
+|---------+-------+----------+--------------------------------------------------------------------------+------+--------|
+| 64r 65r | PSALM | PSALM_17 | [[H]]Ere twide my(n) rechtuerdicheit [...] wen dyneme ere sich openbaret Ere | mlg  | added  |
+|         |       |          |                                                                          |      |        |
+
 * Bibliography
 - Ellen Jørgensen (1906) :: En Oversættelse af Cantus Sororum og Sermo Angelicus. /Arkiv för Nordisk Filologi/ 22: 367-370.
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0070
