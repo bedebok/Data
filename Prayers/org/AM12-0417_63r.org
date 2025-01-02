@@ -5,7 +5,7 @@
 | Locus      | 63r        |
 | Work       | HOURS_ANNE |
 | Language   | gml        |
-| Status     |            |
+| Status     | Started    |
 |------------+------------|
 
 * Transcription
