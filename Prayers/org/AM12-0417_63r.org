@@ -1,12 +1,12 @@
 #+TITLE: Hours of St. Anne
 
-|------------+------------|
-| Manuscript | AM12-0417  |
-| Locus      | 63r        |
-| Work       | HOURS_ANNE |
-| Language   | gml        |
-| Status     | Started    |
-|------------+------------|
+|------------+-------------|
+| Manuscript | AM12-0417   |
+| Locus      | 63r 70v     |
+| Work       | HOURS_ANNE  |
+| Language   | gml         |
+| Status     | Transcribed |
+|------------+-------------|
 
 * Transcription
 ** Matins
@@ -333,3 +333,281 @@ bruken salichliken myt gode
 Bidde vor vns hillige moder
 
 anna dat wi mit di to_ge_vo
+
+** Nones
+*** Rubric
+None
+
+*** Text
+[[blue 2][G]]Od here almechtige
+
+[G]od dencke an myne hulpe
+
+here snelle di my to helpende
+
+[[red][E]]re si dem vader [[red][A]]nna wo-
+
+net vn(de) vor_vrouwet de gaue
+
+des hilligen geistes se douwet
+
+dem hemmele vn(de) wawrt ghe-
+
+douwet mit gotliken gnade(n)
+
+[[blue][D]]e salige Anna smekende
+
+dat hemmelsche brot vor-
+
+myddelst der schinende der
+
+---67v---
+
+gotlike(n) soticheit vn(de) gebort der
+
+dochtere der hogesten schonheit
+
+God si gelauet
+
+*** Hymn
+**** Rubric
+ympnus
+
+**** Text
+[[red 2][M]]Aria de dochter Anna se
+
+is holdende de hoghe des
+
+he(m)mels vn(de) se geit vor in der
+
+spitze des gesettes vn(de) der gna-
+
+den [[red][S]]e sint beide in der ouer-
+
+sten hoge vn(de) in der schine(n)de 
+
+ere seet vns an to biddende
+
+dat angesichte der barmher-
+
+ticheit De(n) here(n) der he(m)mele
+
+Bidde vor vns hillige moder
+
+sunte Anna 
+
+*** Collect
+**** Rubric
+Coll(e)c(t)a
+
+**** Text
+[[red][G]]od h(er)e 
+
+almechtige de du
+
+** Vesper
+*** Rubric
+vesper
+
+---68r---
+
+*** Text
+[[red][G]]od dencke an myne hul-
+
+pe here snelle di my to helpe(n)-
+
+de [[red][E]]re si dem vader [[blue][G]]rot
+
+lof si di anna 
+
+*** Hymn
+**** Rubric
+ymp(us)
+
+**** Text
+Ghe-
+
+grutet sistu Anna eyn telery(n)-
+
+ne vn(de) hest geschynet breit
+
+vn(de) du heuest ge_dragen dat
+
+he(m)melsche brot vor_myddelst
+
+eynen hilligen leue(n)de [[red][D]]u
+
+wordest uth_ge_welt dat hest
+
+de moder gades vn(de) heuest ge-
+
+telet dat leuent der bedroue-
+
+den werlt [[red][O]] du soete maria(n)
+
+moder du heuest vorenet
+
+dat se wart geseet so hoch
+
+---68v---
+
+in dem ⸠he(m)mele⸡ leuende [[red][G]]o-
+
+des unbeuleckede moder gif
+
+dat de gaue der segeuechtin-
+
+ge De dar ouerwynnen in de(n)
+
+dogeden de palme der tronen
+
+[[red][G]]od here almechtige 
+
+** Complete
+*** Rubric
+Co(m)ple(torium)
+
+*** Text
+God dencke an myne hulpe
+
+here snelle di my to helpende
+
+[[red][E]]re si dem vader vnde dem(e)
+
+[[blue 2][S]]Alige werlt vn(de) salighe
+
+stunde do Anna stunt
+
+manck den dochteren also ey(n)
+
+schinende schyn vn(de) was ge-
+
+uende de ersten doghet vn(de)
+
+se offerde vore in den te(m)pel
+
+---69r---
+
+Dat offer des bedes vn(de) se toch to
+
+godes denste vor_myddelst den
+
+worden vn(de) den werken 
+
+*** Hymn
+**** Rubric
+ymp(us)
+
+**** Text
+[[blue 2][D]]E wortele heer yesse heft
+
+apenbar ut_gegoten An-
+
+na Dat se is eyne moder geuor-
+
+den god vaders sones moder
+
+[[red][U]]an eer is up_gestaan de hilge
+
+Juncfrouwe van des berghes
+
+borgne is af_gesneden de steyn-
+
+berghe [[blue][D]]esse gades leue ginck
+
+van der bedroueden werck myt
+
+eynen guden gelouen vn(de) was 
+
+wenende de gaue de gaue des
+
+leuendes [[red][N]]u is ge_set in dem
+
+---69v---
+
+he(m)mele alto male geeret se 
+
+reynighet vns van der scult
+
+vormyddelst eren beden [[red][L]]of
+
+si den dren personen vnde
+
+eynen gode si gemeyne yt
+
+welken Anna vn(de) maria
+
+ewichliken leuent Ame(n)
+
+[[red][B]]idde vor vns hillige mo-
+
+der Anna [[blue][G]]od here almech-
+
+tighe de du de hilge vrou-
+
+we [[red][A]]nna delge vnse be-
+
+drouicheit god heft myt di
+
+be_wiset de utersten doget
+
+der mechticheit vn(de) ok de ga-
+
+ue der mildicheit [[blue][O]] maria 
+
+---70r---
+
+du soete to_vlucht gif anna
+
+vor_myddelst der an_ropinge
+
+dat wy mogen bruken de
+
+ewighen vroude der hilgen
+
+[[red][B]]idde vor vns hilge moder
+
+Anna dat wi myt di to_ge_uo-
+
+get werden in de ere 
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+[[blue 2][G]]Od here almechtighe de
+
+du woldest werdighen 
+
+de hilligen vrouwen
+
+Sancte Anne(n) to begiftende
+
+myt sulker gaue vn(de) gnade
+
+⸠dat_se_vor_denet_heft⸡ to drege(n)de
+
+i(n) ere(n) eervoldigen licha(m)me
+
+De alder hilgeste Ju(n)cvrouwe(n)
+
+---70v---
+
+maria diner moder gif vns
+
+vor_middelst den beden der
+
+moder vn(de) der dochter auer ulo-
+
+dighe gnade Vormyddelst
+
+welker dechtenisse wi wer-
+
+den v(m)me beuanghen myt
+
+mylder leue Vnde wi gehul-
+
+pen werden eres bedes ih(es)us
+
+cristus godes sone Amen
