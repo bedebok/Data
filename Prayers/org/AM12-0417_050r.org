@@ -5,7 +5,7 @@
 | Locus      | 49v 54v       |
 | Work       | LITANY_VIRGIN |
 | Language   | gml           |
-| Status     |               |
+| Status     | Transcribed   |
 |------------+---------------|
 
 * Transcription

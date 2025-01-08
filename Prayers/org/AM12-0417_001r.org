@@ -1,0 +1,236 @@
+#+TITLE: Hours of the Holy Spirit
+
+|------------+-------------------|
+| Manuscript | AM12-0417         |
+| Locus      | 1r 34r            |
+| Work       | HOURS_HOLY_SPIRIT |
+| Language   | gml               |
+| Status     | Started           |
+|------------+-------------------|
+
+* Transcription
+** Matins
+*** Rubric
+Hijr beghynnet des hillige
+
+geistes tijde to dude aldus
+
+*** Text
+[[red blue 3][D]]E gnade des hillige
+
+geistes sy mit vns
+
+Dat he vnse herte
+
+⸠sick_make⸡ sick make to ey-
+
+ner wonynge Vnde vordri-
+
+ue van vns alle vndogede
+
+[[blue][D]]u hilge geist vorluchter
+
+der lude Reyne de greseliken
+
+dusternissen vnsere dancken
+
+[[red][H]]ilge geist gif vns alletijd
+
+ynnyghe dancken [[blue][O]] barm-
+
+[her]tighe got an vnsen sinnen
+
+sy dine gnade du bist eyn
+
+---1v---
+
+reynigher aller lastere des gei-
+
+stes [[red][H]]ilghe geist reynighe
+
+dat oge vnses invendighen
+
+mynschen Dat de ouerste va-
+
+der van vns werde seen Den
+
+de oghen des reynen herten
+
+alleyne moghen seen Amen
+
+[[blue 2][H]]Ere opene myne(n) lippen
+
+vnde myn mu(n)t schal 
+
+kundighen dynen lof [[red][G]]od
+
+wil dencken in myne hulpe
+
+Here snelle dy my to helpe(n)de
+
+[[blue][E]]re si dem vader vn(de) dem sone
+
+vnde dem hilghen geiste [[red][A]]lso 
+
+dat heft ge_wesen van deme
+
+---2r---
+
+Anbeghinne vnde nu vnde 
+
+ewichliken bliuet Amen
+
+[[red 2][C]]Um du schipper du hil-
+
+ghe geist vnde wande-
+
+le de dancke der gelouinge(n)
+
+vor_vulle se mit der ouerste(n)
+
+gnaden de du here gescapen
+
+⸠heft⸡ heuest [[blue][D]]e du bist ey(n)
+
+ware troster eyn gaue des o-
+
+uersten gades eyn leue(n)dich
+
+borne eyn w[?] eyn leue vn(de) 
+
+eyne geistlike saluinghe
+
+[[red][D]]u bist seuenvolt in der
+
+gaue eyn vynger der vor-
+
+deren hant gades Du ma-
+
+---2v---
+
+kedest stedeliken rike myt
+
+reden na dem koste des va-
+
+ders [[red][E]]ntfenghe dat licht
+
+an vnse sinnen gheet in de 
+
+herte to leue sterke vnses ly-
+
+ues kranckheit mit ewiger 
+
+craft [[blue][U]]ordrif den viant 
+
+verne van vns vn(de) gif v(n)s
+
+sneliken dinen vrede vn(de) 
+
+wes vnse leider dat wi de
+
+sunde vor_myden [[red][G]]if dat
+
+wi dor di den vader vnde 
+
+den sone bekennen dat
+
+wy alletyd louen dat du
+
+bist ere beider geist [[blue][L]]of
+
+---3r---
+
+vnde ere si dem vader vnde 
+
+dem sone vnde dem hilghen
+
+geiste [[red][A]]lso dat heuet gewe-
+
+sen van anbeginne vnde nu
+
+vnde ewichlike bliuet am(en)
+
+[[red 3][D]]E is eyn salich ma(n)
+
+de nicht en ginck
+
+in den raet der bose(n)
+
+Vnde nicht en stunt in den
+
+weghe der sundere vn(de) nicht
+
+en sat in den stoel der pestile(n)-
+
+cien quader bilde vn(de) boser
+
+wanheit [[blue][S]]under in der ere
+
+des heren was sin wille vn(de) 
+
+in siner ee schal he dencken
+
+---3v---
+
+dach vnde nacht [[red][D]]e wert ge-
+
+liker_wis also eyn holt dat
+
+ge_plantet is bi dem vlete
+
+der watere dat ⸌de⸍ vrucht in sy-
+
+ner tyd gift [[blue][U]]nde sine ble-
+
+de nicht ⸌af⸍ en vallet vn(de) alle(n)t
+
+dat he Ju(m)mer doeyt dat scal
+
+eme dyen alletijt [[red][N]]icht al-
+
+so gi bosen sunder men also
+
+de stof dat de wynt werpet
+
+van den antlate der erden
+
+[[blue][W]]oru(m)me stan de quaden
+
+nicht in deme richte oft de
+
+sunders in dem rade der guden
+
+[[red][W]]ente de here heft bekant
+
+---4r---
+
+de weghe der rechtuerdige(n)
+
+vn(de) strate der sunder schal
+
+vorgan [[red][E]]re si dem vader
+
+vnde dem sone vn(de) dem hilge(n)
+
+geiste [[red][A]]lso dat heft gewesen
+
+*** Antiphon
+**** Rubric
+Anti(phona)
+
+**** Text
+[[red 2][D]]E leue godes is uth-
+
+ge_vloten in vnse herte dor
+
+den hilligen geist ⸠ De vns ge-
+
+geue(n) is ⸡ Gode si lof [[red][O]] leue 
+
+got bestedighe dat du in
+
+vns begracht heuest van
+
+dyn(er)[fn::?] hilligen tempele dat
+
+in iherusalem is
