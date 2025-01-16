@@ -27,37 +27,39 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |------------+--------------|
 
 * Quire Structure
-|--------+----------+--------------+-----------------------------------------------------|
-| Quires |   Leaves | Structure    | Changes                                             |
-|--------+----------+--------------+-----------------------------------------------------|
-| I      |      1-8 | quinternion? | One (or more) missing before 1; One missing after 1 |
-|        |     9-18 | quinternion  | (catchword)                                         |
-|        |    19-28 | quinternion  | (catchword)                                         |
-|        |    29-38 | quinternion  |                                                     |
-|        |    39-48 | quinternion  |                                                     |
-|        |    49-58 | quinternion  | (catchword)                                         |
-|        |    59-70 | quinternion  | 64-65 added                                         |
-|        |    71-80 | quinternion  | (catchword)                                         |
-|        |    81-86 | quinternion  | Missing leaves between 83-84 (catchword)            |
-|        |    87-96 | quinternion  | (catchword)                                         |
-|        |   97-106 | quinternion  |                                                     |
-|        |  107-113 | quinternion  | On missing before 107; two missing between 109-110  |
-|        |  114-123 | quinternion  | (catchword)                                         |
-|        |  124-133 | quinternion  | (catchword)                                         |
-|        |  134-143 | quinternion  | (catchword)                                         |
-|        |  144-153 | quinternion  |                                                     |
-|        |  154-163 | quinternion  |                                                     |
-|        |  164-172 | quinternion  | pages missing after 172                             |
-|        |  173-181 | quinternion  | (catchword)                                         |
-|        |  182-191 | quinternion  | (catchword)                                         |
-|        |  192-201 | quinternion  | (catchword)                                         |
-|        |  202-211 | quinternion  | (catchword)                                         |
-|        |  212-220 | quinternion  | page missing after 219 (catchword)                  |
-|        |  221-230 | quinternion  | (catchword)                                         |
-|        |  231-240 | quinternion  |                                                     |
-|        | 241-253? |              |                                                     |
-|        |  254-257 |              | Added later                                         |
-|--------+----------+--------------+-----------------------------------------------------|
+|--------+----------+-------------+----------------------------------------------------|
+| Quires |   Leaves | Structure   | Changes                                            |
+|--------+----------+-------------+----------------------------------------------------|
+| I      |      1-2 |             |                                                    |
+|        | [lacuna] |             |                                                    |
+| II     |      3-8 |             |                                                    |
+|        |     9-18 | quinternion | (catchword matches)                                |
+|        |    19-28 | quinternion | (catchword matches)                                |
+|        |    29-38 | quinternion | (catchword matches)                                |
+|        |    39-48 | quinternion | Top missing from f. 44 (catchword matches)         |
+|        |    49-58 | quinternion | (catchword matches)                                |
+|        |    59-70 | quinternion | 64-65 added                                        |
+|        |    71-80 | quinternion | (catchword)                                        |
+|        |    81-86 | quinternion | Missing leaves between 83-84 (catchword)           |
+|        |    87-96 | quinternion | (catchword)                                        |
+|        |   97-106 | quinternion |                                                    |
+|        |  107-113 | quinternion | On missing before 107; two missing between 109-110 |
+|        |  114-123 | quinternion | (catchword)                                        |
+|        |  124-133 | quinternion | (catchword)                                        |
+|        |  134-143 | quinternion | (catchword)                                        |
+|        |  144-153 | quinternion |                                                    |
+|        |  154-163 | quinternion |                                                    |
+|        |  164-172 | quinternion | pages missing after 172                            |
+|        |  173-181 | quinternion | (catchword)                                        |
+|        |  182-191 | quinternion | (catchword)                                        |
+|        |  192-201 | quinternion | (catchword)                                        |
+|        |  202-211 | quinternion | (catchword)                                        |
+|        |  212-220 | quinternion | page missing after 219 (catchword)                 |
+|        |  221-230 | quinternion | (catchword)                                        |
+|        |  231-240 | quinternion |                                                    |
+|        | 241-253? |             |                                                    |
+|        |  254-257 |             | Added later                                        |
+|--------+----------+-------------+----------------------------------------------------|
 
 * Contents
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
@@ -70,8 +72,19 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 | 2v    | 3r   | LACUNA       |                 |      |                                     |                                    |          |        |
 | 3r    | 5v   | PRAYER       | BIRGITTA_MATINS |      |                                     |                                    |          |        |
 | 5v    |      |              |                 |      | Antiphona Int(er)ueniente te        |                                    |          |        |
-| 6r    |      |              | BIRGITTA_XI_1   |      |                                     |                                    |          |        |
-| 47r   |      |              | BIRGITTA_XI_4   |      |                                     |                                    |          |        |
+| 6r    |      | LESSON       | BIRGITTA_XI_1   |      |                                     |                                    |          |        |
+| 30v   |      |              | [sext]          |      |                                     |                                    |          |        |
+| 34r   |      |              | [nones]         |      |                                     |                                    |          |        |
+| 36v   |      |              | [vesper]        |      |                                     |                                    |          |        |
+| 40v   |      |              | [compline]      |      |                                     |                                    |          |        |
+| 40v   | 41r  |              | [lacuna]        |      |                                     |                                    |          |        |
+| 41r   |      |              | PSALM_132v131   |      | HEre dencke dauites                 |                                    |          |        |
+| 44r   |      |              | MONDAY [matins] |      |                                     |                                    |          |        |
+| 47r   |      | LESSON       | BIRGITTA_XI_4   |      |                                     |                                    |          |        |
+| 58v   |      |              | [terce]         |      |                                     |                                    |          |        |
+| 61r   |      |              | [sext]          |      |                                     |                                    |          |        |
+| 64r   | 65r  | ADDED_PRAYER | PSALM_17        |      | HEre twide my(n) rechtuerdicheit    | wen dyneme ere sich openbaret Ere  | LG       | added  |
+| 66r   |      |              | [nones]         |      |                                     |                                    |          |        |
 | 75v   |      |              |                 |  180 |                                     |                                    |          |        |
 | 80r   |      |              | BIRGITTA_XI_7   |      |                                     |                                    |          |        |
 | 106v  | 106v | RUBRIC       |                 |      | Hwo th(en)n(e) efft(er)sc(ri)ffnæ   |                                    | DA       | added  |
