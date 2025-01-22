@@ -208,6 +208,10 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 | 230r 230r | indulgence   |                     | De hillige gheyslike vad(er) de pawes sixt(us) de verde [...] thosamede is xl m iar xlc iar vn(de) xlc daghe                                                                                             | gml     | added  |
 | 230r 230r | prayer       |                     | O here ih(es)u (christ)e ik anbede dy tho kome(n)de [...] ame(n) p(ate)r n(oste)r Aue maria                                                                                                              | gml     | added  |
 | 230v 230v | miniature    | [Archangel Michael] |                                                                                                                                                                                                          |         |        |
+| 231r 270v | cycle        | OFFICE_DEAD         | _[[D]]Ilexi quoniam ex audiet dominus:_ [[I]]k hebbe de gude myt leue des here wt erkoren [...] [[A]]alle louigen selen laeth milde got vmme dyne barmeherticheit yn dynen vrede rouwen. Amen.                       | gml     | main   |
+| 271r 271v | absolution   |                     | *FForma plenissi(m)e absoluc(i)o(n)is (et) remissionis i(nter) vita* misereat(ur) tui [[D]](omi)n(u)s [...] in no(m)i(n)e p(at)ris (et) filij (et) sp(irit)us s(an)c(t)i Amen                                | lat     | added  |
+| 272r 272r | absolution   |                     | D(omin)us nost(er) ihe(sus) (christus) [...] In no(m)i(n)e p(at)r(is) et filij                                                                                                                           |         |        |
+| 273r 287v | cycle        | OFFICE_DEA.lessons  | Gif here dat myne sele ichtes wanne se nament ene begrype [...] *l(e)cc(i)o prima* [[A]]ch here schone my vnder dynen geyslen [...] In deme greseliken da (/defective/)                                      | gml     | main   |
 
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0073
