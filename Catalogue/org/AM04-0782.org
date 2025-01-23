@@ -85,6 +85,21 @@ https://handrit.is/manuscript/view/da/AM04-0782
 |---------|---------+--------------+-----------------------------------------------------------|
 
 * Contents
+|-------+------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+| Locus | Type | Text | Rub/Inc/Exp                                                                                                                                                          | Lang | Status |
+|-------+------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+| 1r    |      |      | *Jtem hær effther fylligher en bøn tw skalth læsse førsthe søndagh y adwent før jwll Och er th(et) th(e)n førstæ søndagh som ko(m)mer effth(e)r s(anc)te andras dag* |      |        |
+| 4r    |      |      | *Jtem her efft(e)r ffølger en bøn tw skall læse hwer dag y adventh*                                                                                                  |      |        |
+| 6r    |      |      | *Jtem her effter følger en bøn tw skalt læse nar tw gonger thyll skripte*                                                                                            |      |        |
+| 7r    |      |      | *Jt(em) nar tw faller po tyne knæ for presten tha sy saa*                                                                                                            |      |        |
+| 8r    |      |      | *Jtem her effther følger en bøn tw skalt læse thyl Jomfrw ma(ri)a nar tw haffwer waret til sc(ri)ptee*                                                               |      |        |
+| 10v   |      |      | *Jt(em) her effth(e)r følger en bøn aff Jomf(rv) maria er gantze nyttelig at læsse hwer dag Och besynderligh y adwenth*                                              |      |        |
+|       |      |      | *Jtem her effth(e)r følg(e)r en bøn aff Sancta barbara Och er hendes dag fierde dag effth(e)r S(anc)te Andree Dagh (et) cetera*                                      |      |        |
+| 13v   |      |      | *En bøn aff s(anc)te nicholae oc er hans daw and(e)n dage(n) efft(e)r s(anc)te barabra dag*                                                                          |      |        |
+| 14v   |      |      | *en bøn man skal læse th(e)n andh(e)n søndaw i adwent for jwle (et cetera)*                                                                                          |      |        |
+| 15v   |      |      | *Her efft(e)r føl(e)r en bøn aff jomfrw maria som hwn vor vnfangen aff s(anc)ta anna oc er hendis daw tredie daw efft(e)r sancte nicolaue daw*                       |      |        |
+|-------+------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+
 |-------+-----+-----------+------+-----+---------+----------+----------+--------|
 | start | MDB | text type | text | end | incipit | explicit | language | status |
 |-------+-----+-----------+------+-----+---------+----------+----------+--------|

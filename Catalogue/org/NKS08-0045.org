@@ -40,19 +40,41 @@
 |------------+----------|
 
 * Contents
-|-------+------+------+----------+--------|
-| Locus | Type | Text | Language | Status |
-|-------+------+------+----------+--------|
-|       |      |      |          |        |
-|-------+------+------+----------+--------|
+** Section 1 (Latin)
+|---------+--------+----------+-------------+------+--------|
+| Locus   | Type   | Text     | Rub/Inc/Exp | Lang | Status |
+|---------+--------+----------+-------------+------+--------|
+| 15v 16r | prayer | MDB 1182 |             | da   | added  |
+|---------+--------+----------+-------------+------+--------|
 
-|-------+------+-------------+------+-----+---------+----------+----------+--------|
-| start |  MDB | text type   | text | end | incipit | explicit | language | status |
-|-------+------+-------------+------+-----+---------+----------+----------+--------|
-|       |      | CALENDARIUM |      |     |         |          |          |        |
-|       |      |             |      |     |         |          |          |        |
-|       |      |             |      |     |         |          |          |        |
-| 15v   | 1182 |             |      |     |         |          |          |        |
-|-------+------+-------------+------+-----+---------+----------+----------+--------|
-|       |      |             |      |     |         |          |          |        |
-|-------+------+-------------+------+-----+---------+----------+----------+--------|
+** Section 2 (LG)
+|-----------+------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+| Locus     | Type | Text        | Rub/Inc/Exp                                                                                                                                                                                                          | Lang | Status |
+|-----------+------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+| 157r      |      |             | [[U]]rouwe dy maria ewige Ju(n)cvrouwe aller iu(n)cvrouwen [...]                                                                                                                                                         | gml  | main   |
+| 161v      |      |             | [[A]]ue ma(r)ia moder vornym du rechte myne clage [..]                                                                                                                                                                   | gml  | main   |
+| 164r      |      |             | [[I]]k bidde dich wu(n)nen derne ma(r)ia                                                                                                                                                                                 | gml  | main   |
+| 165v      |      |             | [[G]]he grotet sistu ma(r)ia [??] vullet mit deme he(m)melschen douwe [...]                                                                                                                                              | gml  | main   |
+| 166r      |      |             | *Van sunte erasmus* [[O]] Hilge here su(n)te erasmus [...]                                                                                                                                                               | gml  | main   |
+| 168v      |      |             | *WE dit bet alle spreket [...] Een gud bet van sunte Joste* [[O]] Hilge vader sunde Jost [...]                                                                                                                           | gml  | main   |
+| 174r      |      |             | *We dusse souen versch uthe deme psalte(re) alle dage leset mit guder andacht de wert nu(m)mer vorloren offte vordomet* [[V]]Orluchte myne oghen vp dat ik nu(m)mer en slape [...]                                       | gml  | main   |
+| 175r      |      |             | *D(omi)ne exaudi or(ati)onem mea(m)* Here twide myn beth [...]                                                                                                                                                       | gml  | main   |
+| 175v      |      |             | *Dit aflat heft [...] vrbanus [...]* [[O]] Cruce hoch [...] to der ewigen salicheit amen                                                                                                                                 | gml  | main   |
+| 176r      |      | O_BONE_JESU | [[O]] Ghude Ihesus [...]                                                                                                                                                                                                 | gml  | main   |
+| 178v 185r |      |             | [[H]]Erten leuen kindere alle ghemeye [...]                                                                                                                                                                              | gml  | main   |
+| 185r      |      |             |                                                                                                                                                                                                                      |      |        |
+| 186v      |      |             | *We dessen breff vn(de) [...] Van den xxiii olt?* [[H]]Ere god aller sterke vnde aller doget [...]                                                                                                                       | gml  | main   |
+| 188r      |      |             | *En gud beth* [[O]] milde gutlike here [...]                                                                                                                                                                             | gml  | main   |
+| 190r      |      |             | [[O]] milde gutlike iu(n)cvrowe ma(r)ia [...]                                                                                                                                                                            | gml  | main   |
+| 191v 191v |      |             | [[O]] here ih(es)u (christ)e Ik bidde dy dorch dat herte [...]                                                                                                                                                           | gml  | main   |
+| 191v      |      |             | *Dit beth schol? lesen vnder der missen mit ynnicheit dines h(e)ren So vor dencken hundert daghe vn(de) sostich daghe ? aflates Wen du geist to godes dische so dencke aldus* [[H]]ere du bist de yene de myn liff [...] | gml  | main   |
+| 192v      |      |             | *Nu sa [...] mit groter leue vnde ynnicheit* [[O]] Begerlike bogeringe [...]                                                                                                                                             | gml  | main   |
+| 193v      |      |             | *De dith alle daghe lest [...] Van su(n)te anthonius* [[E]]ne stempne quam van deme he(m)mele to sunte anthonio [...]                                                                                                    | gml  | main   |
+| 195r      |      |             | For pestilencie [...]                                                                                                                                                                                                | da   | added  |
+|-----------+------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
+** Section 3 (Latin)
+|-------+------+------+-------------+------+--------|
+| Locus | Type | Text | Rub/Inc/Exp | Lang | Status |
+|-------+------+------+-------------+------+--------|
+|       |      |      |             |      |        |
+|-------+------+------+-------------+------+--------|
