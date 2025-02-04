@@ -1,17 +1,25 @@
 #+TITLE: O Gloriosa Domina
-#+AUTHOR: AM 73 8vo, 67r
 
-* Rubric
+|------------+-------------------|
+| Manuscript | AM08-0073         |
+| Locus      | 67r 67v           |
+| Work       | O_GLORIOSA_DOMINA |
+| Language   | gml               |
+| Status     | transcribed       |
+|------------+-------------------|
+
+* Transcription
+** Rubric
 O gloriosa domina.
 
-* Text
-[[O]] aller hogiste vrowe up
+** Text
+[[red 2][O]] aller hogiste vrowe up
 
 gehoghet bouen alle
 
 hemele de dre stup de soge de
 
-dine hilgen brust. [[D]]at eua
+dine hilgen brust. [[red][D]]at eua
 
 bedruuelike vns nam dat
 
@@ -23,7 +31,7 @@ chame se gan wenelichen
 
 inde pyne. du bist wurden
 
-en hemeles vinster. [[O]] mari
+en hemeles vinster. [[red][O]] mari
 
 a du byst des hogesten ko
 
@@ -37,17 +45,27 @@ we heft vns dat lyf ge ghe
 
 uen de lude de loset syn de vro
 
-wen syt. [[M]]aria m(ate)r. [[O]] ma
+wen syt. [[red][M]]aria m(ate)r. [[red][O]] ma
 
-ra ???der. [[O]] here de ere sy
+ra ???der. [[red][O]] here de ere sy
 
-[[G]]ot kos maria vt vor *an(tiphonia)*
+[[red][G]]ot kos maria vt vor
 
+** Antiphony
+*** Rubric
+an(tiphonia)
+
+*** Text
 allen. vnd(e) let se wonen in
 
-syneme tabernaculo. *sub tim...*
+syneme tabernaculo.
 
-[[O]] maria godes moder we
+** Collect
+*** Rubric
+sub t[??]
+
+*** Text
+[[red][O]] maria godes moder we
 
 vlen vnder dyne beschermynge
 

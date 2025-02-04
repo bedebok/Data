@@ -90,3 +90,16 @@ Initial hierarchy can be important in distinguishing parts of a text. Enlarged a
 
 It can be useful to include information about the color and height of initials. These can be done inside the first set of brackets with the number and color(s) separated by a whitespace. For example a three-line initial /M/ which is in red and blue (puzzle initial) can be indicated by encoding ~[[3 red blue][M~. In-line (single height) initials can be indicated simply by color, e.g. ~[[green][W~.
 
+*** Editorial interventions
+**** SIC/CORR
+Clear mistakes in the text are indicated in curly braces separated by a foreward slash: {sic/corr}. For example:
+
+#+BEGIN_SRC org
+  Ere sy {m/d}eme vadere
+#+END_SRC
+
+Results in:
+
+#+BEGIN_SRC xml
+Ere sy <choice><sic>m</sic><corr>d</corr></choice>eme vadere
+#+END_SRC

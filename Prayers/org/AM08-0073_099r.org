@@ -1,0 +1,141 @@
+#+TITLE: Hours of St. Anne
+
+|------------+------------|
+| Manuscript | AM08-0073  |
+| Locus      | 99r 109r   |
+| Work       | HOURS_ANNE |
+| Language   | gml        |
+| Status     | begun      |
+|------------+------------|
+
+
+* Transcription
+** Rubric
+Van S(unte) Annen
+
+** Text
+[[3 red][G]]ot denke an myne
+
+hulpe my to hulpe(n)-
+
+de [[blue][{H]]e/Ere} sy {m/d}eme
+
+vadere vnde deme s{eu/on}e vnde
+
+deme hilgen geiste. also dat
+
+was in deme ambeg{em/in}ne
+
+vnd(e) nv vnde yu(m)mer bliuen
+
+schal. ame(n).
+
+** Chapter
+*** Rubric
+Cap(itu)l(um)
+
+*** Text
+[[2 red][S]]yner
+
+telerynnen heft {h/g}ebe-
+
+---99v---
+
+reyt en pallas. wanner de
+
+schaper allerdinge seker
+
+schup den licham anne wo
+
+urolich vnd(e) vorschinende ys
+
+de licham anne in welkem
+
+got heft gegheuen syner
+
+moder en reyne woninghe.
+
+Gode sy lof.
+
+*** Hymn
+**** Rubric
+ymn(us).
+
+**** Text
+[[2 blue][A]]nna geboren ys van ko-
+
+ninghes geslechte vnde
+
+van der ordemringe der pres-
+
+tere vnd(e) van deme sta(m)me der
+
+vedere scheft geczuret syne
+
+werk [[red][S]]e heft vntfangen
+
+vormiddelst deme he(m)melissch
+
+---100r---
+
+gerichte in deme truwen ech-
+
+tes schap noch deme worde des
+
+engels heft se vntfangen de
+
+hemmelsche vrucht [[blue][U]]ormid-
+
+delst syner dochter marien.
+
+heft vns anna gegheuen ge-
+
+uedeliken de(n) weret aller din-
+
+ghe amen.
+
+*** Versicle
+**** Rubric
+v(ersus)
+
+**** Text
+Bidde vor vns
+
+hilghe moder anne. Dat wy
+
+myt dy to geuoget werden
+
+in de ere.
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+[[2 red][G]]ot here alweldige de
+
+du de hilgen vrouwen
+
+sunde anne(n) de to langhen ti-
+
+den vnvruchtbaer was myt
+
+---100v---
+
+eyner vrucht heilsam aller
+
+werld heft behaget. gif dat
+
+al den geuen de de moder v(m)-
+
+me leue wyllen der dochter
+
+eren dat erer beyde hulpe
+
+vnd(e) trost in allen dronisse(n)
+
+vnd(e) in der stonde eres dodes
+
+mogen bruken dorch ih(esu)m
+
+(christu)m vnsen here(n) amen.
