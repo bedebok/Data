@@ -40,9 +40,9 @@ f = open("Status.csv", "w")
 f.write("filename,manuscript,locus,prayer,work,language,status,wordcount\n")
 f.close()
 
-def append_to_csv(filename, ms, locus, title, work, lang, status, num_words):
+def append_to_csv(filename, ms, title, work, lang, status, num_words):
     f = open("Status.csv", "a")
-    items = [filename, ms, locus, title, work, lang, status, str(num_words)]
+    items = [filename, ms, title, work, lang, status, str(num_words)]
     combined_string = ",".join(items)
     f.write(combined_string + "\n")
     f.close()
@@ -128,7 +128,7 @@ def read_text_file(file):
         except UnboundLocalError:
             print("Wordcount error in file ", file)
         print("----------")
-        append_to_csv(file, ms, locus, title, work, lang, status, num_words)
+        append_to_csv(file, ms, title, work, lang, status, num_words)
         count = False
 
 # Iterate all files
@@ -138,6 +138,6 @@ for file in os.listdir():
 
 
 # Final Summary:
-print("Final Summary\n---------")
+print("#############\nFinal Summary\n#############")
 print("Total files: ", num_files)
 print("Total words: ", wordcount)
