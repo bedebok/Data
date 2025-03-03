@@ -1,7 +1,7 @@
 #+TITLE: First Sunday of Advent
 
 |------------+-------------|
-| Manuscript | AM04_0784   |
+| Manuscript | AM 784 4to  |
 | Locus      | 80r:7 81r:3 |
 | Work       | ADVENT_1    |
 | Language   | da          |

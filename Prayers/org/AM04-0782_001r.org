@@ -1,12 +1,12 @@
 #+TITLE: First Sunday in Advent
 
-|------------+-----------|
-| Manuscript | AM04-0782 |
-| Locus      | 1r 4r     |
-| Work       | ADVENT_1  |
-| Language   | da        |
-| Status     |           |
-|------------+-----------|
+|------------+-------------|
+| Manuscript | AM 782 4to  |
+| Locus      | 1r 4r       |
+| Work       | ADVENT_1    |
+| Language   | da          |
+| Status     | transcribed |
+|------------+-------------|
 
 * Transcription
 ** Rubric

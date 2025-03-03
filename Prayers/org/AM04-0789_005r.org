@@ -1,11 +1,12 @@
-#+TITLE: Golden Crown Prayer of Mary
-|------------+-------------|
-| Manuscript | AM 789 4to  |
-| Locus      | 5r          |
-| Work       | KRONGEBET   |
-| Language   | gml da      |
-| Status     | Transcribed |
-|------------+-------------|
+#+TITLE: Golden Crown Prayer of Mary (Rubric)
+
+|------------+------------------|
+| Manuscript | AM 789 4to       |
+| Locus      | 5r 6r            |
+| Work       | KRONGEBET.rubric |
+| Language   | gml              |
+| Status     | transcribed      |
+|------------+------------------|
 
 ** Parallels
 |------------+----------------------|
@@ -15,7 +16,6 @@
 |------------+----------------------|
 
 * Transcription
-
 ** Rubric
 Uultu weten wo dit beth vp erden is gekomen
 
@@ -56,5 +56,4 @@ de vnde spreken x aue maria vnde valle dan
 nedder vppe dyn kne vnde spreck dit bet so do
 
 [00000 00000 00000]
-
-** 105a
+   
