@@ -2,7 +2,7 @@
 
 |------------+----------------|
 | Manuscript | AM 789 4to     |
-| Locus      | 10r-10v, 1r-2v |
+| Locus      | 10r-10v 1r-2v  |
 | Work       | 15_OS          |
 | Language   | da             |
 | Status     | Transcribed    |
