@@ -1,0 +1,343 @@
+['Prayer for a traveller']
+ AM04-0784   
+             
+ da          
+ Transcribed 
+Wordcount:  44
+----------
+['Hours of the Holy Spirit']
+ AM12-0417         
+ HOURS_HOLY_SPIRIT 
+ gml               
+ Started           
+Wordcount:  525
+----------
+['Prayers for a traveller']
+ UUB C 496 
+ Danish    
+Wordcount:  146
+----------
+['XV Pater Noster']
+ GKS 3423 8vo 
+ Low German   
+Wordcount:  2134
+----------
+['Added psalms']
+ AM08-0073   
+             
+ da          
+ Transcribed 
+Wordcount:  272
+----------
+['Hours of the Virgin (Sext)']
+ AM08-0073         
+ HOURS_VIRGIN.SEXT 
+ gml               
+ Transcribed       
+Wordcount:  320
+----------
+[' AM08_0070-253v']
+ AM08-0070   
+             
+ da          
+ Transcribed 
+Wordcount:  37
+----------
+['Magnificat']
+ GKS 1615 4to 
+ Danish       
+Wordcount:  171
+----------
+['Hours of St. Anne']
+ AM08-0073  
+ HOURS_ANNE 
+ gml        
+ begun      
+Wordcount:  251
+----------
+['Magnificat']
+ AM 73 8vo  
+ Low German 
+Wordcount:  135
+----------
+['Hours of the Virgin (Vespers)']
+ AM08-0073            
+ HOURS_VIRGIN.VESPERS 
+ gml                  
+ Transcribed          
+Wordcount:  992
+----------
+['First Sunday of Advent']
+ Boek der Beschauwing 
+ ADVENT_1             
+ gml                  
+ transcribed          
+Wordcount:  386
+----------
+['Magnificat']
+ GKS 3423 8vo 
+ Low German   
+Wordcount:  143
+----------
+['Litany of the Virgin']
+ AM12-0417     
+ LITANY_VIRGIN 
+ gml           
+ Transcribed   
+Wordcount:  676
+----------
+[' AM08_0070-2v']
+ AM08-0070 
+           
+ da        
+ Begun     
+Wordcount:  46
+----------
+['Cantus Sororum (Matins)']
+ AM08-0070     
+ CANTUS.matins 
+ gml           
+ Transcribed   
+Wordcount:  624
+----------
+['Hours of the Virgin (Prime)']
+ AM08-0073          
+ HOURS_VIRGIN.PRIME 
+ gml                
+ Transcribed        
+Wordcount:  661
+----------
+['O Gloriosa Domina']
+ AM08-0073         
+ O_GLORIOSA_DOMINA 
+ gml               
+ transcribed       
+Wordcount:  186
+----------
+['Hours of St. Anne']
+ AM12-0417   
+ HOURS_ANNE  
+ gml         
+ Transcribed 
+Wordcount:  1236
+----------
+Wordcount error in file  AM08-0073_011v.org
+----------
+['Prayer']
+ GKS 3423 8vo 
+ Low German   
+Wordcount:  70
+----------
+['Magnificat']
+ GKS 3423 8vo 
+ Low German   
+Wordcount:  136
+----------
+['15 Pater Noster']
+ AM 789 4to     
+ 15_OS          
+ da             
+ Transcribed    
+Index error for file  AM04-0789_001r.org
+Wordcount:  1226
+----------
+[]
+ AM08-0070   
+             
+ gml da lat  
+ Transcribed 
+Wordcount:  316
+----------
+['A prayer to Mary and Anna']
+ AM 784 4to  
+             
+ da          
+ Transcribed 
+Wordcount:  52
+----------
+['First Sunday in Advent']
+ AM04-0782 
+ ADVENT_1  
+ da        
+           
+Wordcount:  632
+----------
+['Hours of the Virgin (Compline)']
+ AM08-0073             
+ HOURS_VIRGIN.COMPLINE 
+ gml                   
+ Transcribed           
+Wordcount:  718
+----------
+['O Bone Jesu']
+ GKS 3423 8vo 
+ Low German   
+Wordcount:  352
+----------
+['Magnificat']
+ Holm. A 42 
+ Latin      
+Wordcount:  145
+----------
+['Magnificat']
+ GKS 1613 8vo 
+ Danish       
+Wordcount:  261
+----------
+['Cantus Sororum (Introduction)']
+ AM08-0070    
+ CANTUS.intro 
+ gml          
+ Transcribed  
+Wordcount:  505
+----------
+['Prayers for the entire day']
+ Low German 
+Wordcount:  600
+----------
+['Seven Words of Mary under the Cross']
+ GKS 3423 8vo 
+ Low German   
+Wordcount:  199
+----------
+['Seven Penitential Psalms']
+ AM12-0417          
+ PENITENTIAL_PSALMS 
+ gml                
+ Transcribed        
+Wordcount:  2065
+----------
+['A morning prayer']
+ AM 75 8vo 
+ Danish    
+ proofread 
+Wordcount:  184
+----------
+['Adoro te (St. Gregory)']
+ AM 73 8vo 
+ gml 
+ Transcription started 
+Wordcount:  467
+----------
+['Hours of the Virgin (Matins)']
+ AM08-0073           
+ HOURS_VIRGIN.MATINS 
+ gml                 
+                     
+Wordcount:  1793
+----------
+['']
+ NKS08-0045 
+            
+ da         
+            
+Wordcount:  183
+----------
+['Seven Penitential Psalms']
+ AM08-0073          
+ gml                
+ transcribed        
+Wordcount:  2068
+----------
+['Magnificat']
+ Low German 
+Wordcount:  176
+----------
+['Magnificat']
+ AM 75 8vo 
+ Danish    
+Wordcount:  242
+----------
+['Credo']
+ AM 738vo   
+ Low German 
+Wordcount:  116
+----------
+['Prayers of Our Lady (MDB 105)']
+ Mh 35 
+ Danish 
+Wordcount:  617
+----------
+['Hours of the Virgin (Nones)']
+ AM08-0073          
+ HOURS_VIRGIN.NONES 
+ gml                
+ Transcribed        
+Wordcount:  501
+----------
+[]
+ AM08-0070   
+             
+ da          
+ Transcribed 
+Wordcount:  13
+----------
+['Te Deum']
+ AM08-0073   
+ TE_DEUM     
+ gml         
+ Transcribed 
+Wordcount:  421
+----------
+['Hours of the Virgin (Lauds)']
+ AM08-0073          
+ HOURS_VIRGIN.LAUDS 
+ gml                
+ Transcribed        
+Wordcount:  1607
+----------
+['Stabat Mater']
+ AM12-0421    
+ STABAT_MATER 
+ da           
+ proofread    
+Wordcount:  389
+----------
+['Hours of the Virgin (Terce)']
+ AM08-0073          
+ HOURS_VIRGIN.TERCE 
+ gml                
+ Transcribed        
+Wordcount:  527
+----------
+['A morning prayer']
+ AM 75 8vo 
+ Danish    
+Wordcount:  152
+----------
+['Regina Cœli']
+ AM08-0070    
+ REGINA_COELI 
+ da           
+ Transcribed  
+Wordcount:  65
+----------
+['A Prayer for Every Day in Lent']
+ AM07-0782   
+             
+ gml         
+ Transcribed 
+Wordcount:  519
+----------
+['First Sunday of Advent']
+ AM04_0784   
+ ADVENT_1    
+ da          
+ transcribed 
+Wordcount:  673
+----------
+['Magnificat']
+ Medeltidshandskrift 35 
+ Danish                 
+Wordcount:  169
+----------
+['Golden Crown Prayer of Mary']
+ AM 789 4to  
+ KRONGEBET   
+ gml da      
+ Transcribed 
+Wordcount:  177
+----------
+Final Summary:
+Total files: 
+Total words:  27321
