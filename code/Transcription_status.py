@@ -33,6 +33,20 @@ def count_words(line):
         words =- 1
     wordcount += words
     return words
+
+# Write .csv file
+f = open("Status.csv", "w")
+f.write("filename;manuscript;prayer;work;language;status;wordcount\n")
+f.close()
+
+def append_to_csv(filename, ms, title, work, lang, status, num_words):
+    f = open("Status.csv", "a")
+    #print(filename, ms, title, work, lang, status, num_words)
+    items = [filename, ms, title, work, lang, status, str(num_words)]
+    combined_string = ";".join(items)
+    #line = file + ";" + ms, ";" + title + ";" + work + ";" + lang + ";" + status + ";" + num_words + "\n"
+    f.write(combined_string + "\n")
+    f.close()
     
 
 # Read text file
@@ -41,6 +55,12 @@ def read_text_file(file):
     global count
     with open(file, 'r') as f:
         #print(f.readlines(1))
+        work = ""
+        status = ""
+        ms = ""
+        lang = ""
+        title = ""
+        num_words = 0
         for i, line in enumerate(f):
 
             # Before calling the count_words() function, which is triggered by the line "* Transcription", collect all metadata:
@@ -49,13 +69,13 @@ def read_text_file(file):
             if count == False:
                 if "* Transcription" in line:
                     count = True
-                    num_words = 0
                     
             # FIND TITLE, WORK, LANG 
                 elif "#+TITLE:" in line:
                     try:
-                        title = line.replace('\n', '').split(' ', 1)[1:]
-                        print(title)
+                        title_item = line.replace('\n', '').split(' ', 1)[1:]
+                        title = title_item[0]
+                        print(0)
                     except IndexError:
                         index_error_message(file)
 
@@ -103,6 +123,7 @@ def read_text_file(file):
         except UnboundLocalError:
             print("Wordcount error in file ", file)
         print("----------")
+        append_to_csv(file, ms, title, work, lang, status, num_words)
         count = False
 
 # Iterate all files
