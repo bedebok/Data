@@ -1,24 +1,38 @@
+#+TITLE: A prayer in verse
+
+|------------+-----------|
+| Manuscript | AM 73 8vo |
+| Locus      | 11v 11v   |
+| Work       |           |
+| Language   | da        |
+| Status     | proofread |
+|------------+-----------|
+
+** Comments
+/Si Deus pro nobis/ Romans 8:31
+
+* Transcription
+** Text
 Gudtz Guodhied will wi prise
 
-vi Christne sture och smaa
+vi Christne sture och smaa,
 
-Vedt Sang och  Andelig Viße
+Vedt Sang och Andelig Viße
 
-Samme altid take saa
+Hamm altid take saa,
 
-For sin Velgerninger
+For sin Velgerninger,
 
 Hand dete Aar forgangenn
 
 Beuisßit haffuer Manngenn
 
-Som vell Beffundit Ær
+Som vell Beffundit Ær,
 
-Si deus Pronobis Quis Contra nos
+Si deus Pronobis, Quis Contra nos
 
-Si Deus Diligeit
+Si Deus Diligeit,
 
 est Anima mea
 
-** Comments
-/Si Deus pro nobis/ Romans 8:31
+

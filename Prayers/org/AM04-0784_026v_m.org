@@ -1,11 +1,11 @@
 #+TITLE: Prayer for a traveller
 
 |------------+-------------|
-| Manuscript | AM04-0784   |
+| Manuscript | AM 784 4to  |
 | Locus      | 26v 26v     |
 | Work       |             |
 | Language   | da          |
-| Status     | Transcribed |
+| Status     | transcribed |
 |------------+-------------|
 
 ** Parallels

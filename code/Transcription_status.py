@@ -14,6 +14,7 @@ import os
 
 # filepath = ~/Documents/DFF/Data/Prayers/org or ../Prayers/org
 path = "../Prayers/org"
+num_files = 0
 
 # Change the directory
 os.chdir(path)
@@ -36,15 +37,13 @@ def count_words(line):
 
 # Write .csv file
 f = open("Status.csv", "w")
-f.write("filename,manuscript,prayer,work,language,status,wordcount\n")
+f.write("filename,manuscript,locus,prayer,work,language,status,wordcount\n")
 f.close()
 
-def append_to_csv(filename, ms, title, work, lang, status, num_words):
+def append_to_csv(filename, ms, locus, title, work, lang, status, num_words):
     f = open("Status.csv", "a")
-    #print(filename, ms, title, work, lang, status, num_words)
-    items = [filename, ms, title, work, lang, status, str(num_words)]
+    items = [filename, ms, locus, title, work, lang, status, str(num_words)]
     combined_string = ",".join(items)
-    #line = file + ";" + ms, ";" + title + ";" + work + ";" + lang + ";" + status + ";" + num_words + "\n"
     f.write(combined_string + "\n")
     f.close()
     
@@ -53,11 +52,14 @@ def append_to_csv(filename, ms, title, work, lang, status, num_words):
 
 def read_text_file(file):
     global count
+    global num_files
+    num_files += 1
     with open(file, 'r') as f:
         #print(f.readlines(1))
         work = ""
         status = ""
         ms = ""
+        locus = ""
         lang = ""
         title = ""
         num_words = 0
@@ -74,22 +76,20 @@ def read_text_file(file):
                 elif "#+TITLE:" in line:
                     try:
                         title_item = line.replace('\n', '').split(' ', 1)[1:]
-                        title = title_item[0]
-                        print(0)
+                        title = title_item[0].strip()
+                        print(title)
                     except IndexError:
                         index_error_message(file)
 
                 elif "Work" in line:
                     try:
-                        work = line.split('|')[2]
-                        print(work)
+                        work = line.split('|')[2].strip()
                     except IndexError:
                         index_error_message(file)
 
                 elif "Language" in line:
                     try:
-                        lang = line.split('|')[2]
-                        print(lang)
+                        lang = line.split('|')[2].strip()
                     except IndexError:
                         index_error_message(file)
     
@@ -97,23 +97,28 @@ def read_text_file(file):
             # FIND MS, LOCUS
                 elif "Manuscript" in line:
                     try:
-                        ms = line.split('|')[2]
+                        ms = line.split('|')[2].strip()
                         print(ms)
+                    except IndexError:
+                        index_error_message(file)
+                elif "Locus" in line:
+                    try:
+                        locus = line.split('|')[2].strip()
+                        print(locus)
                     except IndexError:
                         index_error_message(file)
 
             # FIND STATUS, WORDCOUNT
                 elif "Status" in line:
                     try:
-                        status = line.split('|')[2]
-                        print(status)
+                        status = line.split('|')[2].strip()
                     except IndexError:
                         index_error_message(file)
 
 
             # CALL WORDCOUNT FUNCTION PER LINE
             elif count == True:
-                if not line.startswith("---"):
+                if not line.startswith("---") and not line.startswith("*"):
                     num_words = num_words + count_words(line)
                     
 
@@ -123,25 +128,16 @@ def read_text_file(file):
         except UnboundLocalError:
             print("Wordcount error in file ", file)
         print("----------")
-        append_to_csv(file, ms, title, work, lang, status, num_words)
+        append_to_csv(file, ms, locus, title, work, lang, status, num_words)
         count = False
 
 # Iterate all files
 for file in os.listdir():
-    if file.endswith(".org") and not file.startswith("README"):
+    if file.endswith(".org") and not file.startswith("README") and not file.startswith("."):
         read_text_file(file)
 
-        #NB: Also reads README!
-        # FIXED
 
-# Final:
-
-print("Final Summary:")
-print("Total files: ")
+# Final Summary:
+print("Final Summary\n---------")
+print("Total files: ", num_files)
 print("Total words: ", wordcount)
-
-
-# Step 2: Read files
-
-
-# Step 3: Count words after * Transcription
