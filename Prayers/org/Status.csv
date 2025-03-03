@@ -7,7 +7,7 @@ AM08-0073_098r.org,AM 73 8vo,Added psalms,,da,transcribed,99
 AM08-0073_077r.org,AM08-0073,Hours of the Virgin (Sext),HOURS_VIRGIN.SEXT,gml,Transcribed,266
 AM08-0070_253v.org,AM 70 8vo,AM08_0070-253v,,da,transcribed,33
 GKS04-1615_019r.org,GKS 1615 4to,Magnificat,MAGNIFICAT,da,transcribed,171
-AM08-0073_099r.org,AM 73 8vo,Hours of St. Anne (Matins),HOURS_ANNE.matins,gml,transcribed,232
+AM08-0073_099r.org,AM 73 8vo,Hours of St. Anne (Matins),HOURS_ANNE,gml,transcribed,1332
 AM08-0073_237v.org,AM 73 8vo,Magnificat,MAGNIFICAT,gml,transcribed,127
 AM08-0073_082v.org,AM 73 8vo,Hours of the Virgin (Vespers),HOURS_VIRGIN.vespers,gml,transcribed,918
 Beschauwing_009.org,Boek der Beschauwing,First Sunday of Advent,ADVENT_1,gml,transcribed,380
@@ -18,7 +18,6 @@ AM08-0070_003r.org,AM 70 8vo,Cantus Sororum (Matins),CANTUS.matins,gml,begun,626
 AM08-0073_230v.org,AM 73 8vo,A prayer to Jesus Christ,,gml,transcribed,51
 AM08-0073_071r.org,AM08-0073,Hours of the Virgin (Prime),HOURS_VIRGIN.PRIME,gml,Transcribed,605
 AM08-0073_067r.org,AM08-0073,O Gloriosa Domina,O_GLORIOSA_DOMINA,gml,transcribed,170
-AM12-0417_63r.org,AM12-0417,Hours of St. Anne,HOURS_ANNE,gml,Transcribed,1113
 AM08-0073_011v.org,AM 73 8vo,A prayer in verse,,da,proofread,57
 GKS08-3423_020r.org,GKS 3423 8vo,Prayer,,Low German,,64
 GKS08-3423_109v.org,GKS 3423 8vo,Magnificat,,Low German,,128
@@ -37,7 +36,6 @@ GKS08-3423_202v.org,GKS 3423 8vo,Seven Words of Mary under the Cross,,Low German
 AM12-0417_073v.org,AM12-0417,Seven Penitential Psalms,PENITENTIAL_PSALMS,gml,Transcribed,1645
 AM08-0075_022v-4.org,AM 75 8vo,A morning prayer,,Danish,proofread,180
 AM08-0073_228r.org,AM 73 8vo,Adoro te (St. Gregory),,gml,transcribed,386
-AM08-0073_100v.org,AM 73 8vo,Hours of St. Anne (Prime),HOURS_ANNE.prime,gml,transcribed,160
 AM08-0073_044r.org,AM08-0073,Hours of the Virgin (Matins),HOURS_VIRGIN.MATINS,gml,,1284
 NKS08-0045_120v.org,NKS08-0045,,,da,,179
 AM08-0073_013r.org,AM 73 8vo,Seven Penitential Psalms,,gml,transcribed,2010
@@ -57,3 +55,4 @@ AM04-0782_091r.org,AM07-0782,A Prayer for Every Day in Lent,,gml,Transcribed,503
 AM04-0784_080r.org,AM 784 4to,First Sunday of Advent,ADVENT_1,da,transcribed,665
 Lund-0035_023v.org,Medeltidshandskrift 35,Magnificat,,Danish,,169
 AM04-0789_005r.org,AM 789 4to,Golden Crown Prayer of Mary (Rubric),KRONGEBET.rubric,gml,transcribed,175
+AM12-0417_063r.org,AM12-0417,Hours of St. Anne,HOURS_ANNE,gml,Transcribed,1114

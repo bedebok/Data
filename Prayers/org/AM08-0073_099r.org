@@ -1,61 +1,61 @@
 #+TITLE: Hours of St. Anne (Matins)
 
-|------------+-------------------|
-| Manuscript | AM 73 8vo         |
-| Locus      | 99r 100v          |
-| Work       | HOURS_ANNE.matins |
-| Language   | gml               |
-| Status     | transcribed       |
-|------------+-------------------|
-
+|------------+-------------|
+| Manuscript | AM 73 8vo   |
+| Locus      | 99r 109r    |
+| Work       | HOURS_ANNE  |
+| Language   | gml         |
+| Status     | transcribed |
+|------------+-------------|
 
 * Transcription
-** Rubric
-Van S(unte) Annen
-
-** Text
-[[3 red][G]]ot denke an myne
-
-hulpe my to hulpe(n)-
-
-de [[blue][{H]]e/Ere} sy {m/d}eme
-
-vadere vnde deme s{eu/on}e vnde
-
-deme hilgen geiste. also dat
-
-was in deme ambeg{em/in}ne
-
-vnd(e) nv vnde yu(m)mer bliuen
-
-schal. ame(n).
-
-** Chapter
+** Matins
 *** Rubric
-Cap(itu)l(um)
+ Van S(unte) Annen
 
 *** Text
-[[2 red][S]]yner
+ [[3 red][G]]ot denke an myne
 
-telerynnen heft {h/g}ebe-
+ hulpe my to hulpe(n)-
 
----99v---
+ de [[blue][{H]]e/Ere} sy {m/d}eme
 
-reyt en pallas. wanner de
+ vadere vnde deme s{eu/on}e vnde
 
-schaper allerdinge seker
+ deme hilgen geiste. also dat
 
-schup den licham anne wo
+ was in deme ambeg{em/in}ne
 
-urolich vnd(e) vorschinende ys
+ vnd(e) nv vnde yu(m)mer bliuen
 
-de licham anne in welkem
+ schal. ame(n).
 
-got heft gegheuen syner
+*** Chapter
+**** Rubric
+ Cap(itu)l(um)
 
-moder en reyne woninghe.
+**** Text
+ [[2 red][S]]yner
 
-Gode sy lof.
+ telerynnen heft {h/g}ebe-
+
+ ---99v---
+
+ reyt en pallas. wanner de
+
+ schaper allerdinge seker
+
+ schup den licham anne wo
+
+ urolich vnd(e) vorschinende ys
+
+ de licham anne in welkem
+
+ got heft gegheuen syner
+
+ moder en reyne woninghe.
+
+ Gode sy lof.
 
 *** Hymn
 **** Rubric
@@ -139,3 +139,697 @@ Collecta
  mogen bruken dorch ih(esu)m
 
 (christu)m vnsen here(n) amen.
+** Prime
+*** Rubric
+ To
+
+ der p(ri)me
+
+*** Text
+ [[Red 2][G]]ot dencke
+
+ an myne helpe Here
+
+ snelle my to helpende [[blue][E]]re
+
+ sy deme vadere
+
+*** Chapter
+**** Rubric
+ Cap(itu)l(u)m
+
+**** Text
+ [[red 2][R]]echtwedich vnd(e) vul-
+
+ komen was oer leue(n)t
+
+ ---101r---
+
+ vnde oer herte dat bernede
+
+ glike na der gotliken beghe-
+
+ ringe. dar v(m)me hadde se got
+
+ vterkoren beheghelich vnde
+
+ lif vor allen vrouwesname(n).
+
+ Got si lof.
+
+*** Hymn
+**** Rubric
+ ymnus.
+
+**** Text
+ [[blue 2][D]]e boem der ere ys hogh
+
+ salich ys anna vnd(e) ere 
+
+ vrucht welke dat licht der
+
+ guden heft begoten vnd(e) de ho-
+
+ gede der doget. [[red][I]]n welker
+
+ hogede des bomes got heft
+
+ geseet syne woninge done
+
+ de licham marie vruchtsam
+
+ blyende in deme liue annen.
+
+ ---101v---
+
+ [[blue][D]]e spucze der helgen he(m)me-
+
+ le heft salchliken vorhoget
+
+ anne(n) do du wordest to geuo-
+
+ get dyner dochter bidde .
+
+ innichliken vor vns. Amen.
+
+*** Versicle
+**** Rubric
+ v(ersiculus)
+
+**** Text
+ Bidde vor vns hilde mo-
+
+ der anne. Dat wy myt dy
+
+ to geuoghet werden in de ere.
+
+*** Collect
+**** Rubric
+ Coll(ecta)
+
+**** Text
+[[red][G]]ot here alweldige
+
+de du de hilgen vrouwe(n) su(n)te
+
+annen.
+** Terce
+*** Text
+[[blue 2][G]]ot dencke an myne hel-
+
+pe. Here sn{/e}lle my to
+
+helpende [[red][E]]re sy deme vad(er)e
+
+vnd(e) deme sone vnd(e) deme 
+
+---102r---
+
+hilgen geyst. also dat was 
+
+in deme ambegynne vnd(e)
+
+nv vn(de) y(u)mmer bliuen schal
+
+Amen.
+
+*** Chapter
+**** Rubric
+Cape(tu)l(u)m
+
+**** Text
+[[blue 2][D]]e assche der hogede ys
+
+gesant vnd(e) de ewige
+
+vrucht heft eruullet dem li-
+
+cham annen myt wisheyt
+
+vnd(e) se drecht in hemeliche⸌i⸍t
+
+van got vaders statuestin-
+
+ge den schat der ewicheit.
+
+Gode sy gedancken.
+
+*** Hymn
+**** Rubric
+ymnus
+
+**** Text
+[[red 2][A]]nna ys ene alder grotes-
+
+te moder des olden tes-
+
+tament vormiddest dogeden
+
+---102v---
+
+was se de beste vnd(e) hogher
+
+vor allen [[blue][D]]u vruchtbar
+
+was vortiden vnd(e) se was
+
+metighende oren egen lyli-
+
+cha vormiddelst des va-
+
+des aller lichte statuestinge
+
+heft sy geberet de koninge
+
+der iuncrurouwen [[red][D]]e spit-
+
+ce der hilgen he(m)mele heft
+
+salichliken vorhoget a(n)nen
+
+don du wordest to geuoget
+
+diner dochter bidde vor vns
+
+innichliken. Amen.
+
+*** Versicle
+**** Rubric
+V(ersiculum)
+
+**** Text
+Bidde vor vns hilge moder
+
+anne. Dat wy myt dy to-
+
+---103r---
+
+geuoget werden in de ere.
+
+*** Collect
+**** Rubric
+Coll(ecta)
+
+**** Text
+[[blue][G]]ot here alweldlike
+
+de du de hilgen vrouwen su(n)-
+
+te annen.
+
+** Sext
+*** Rubric
+To der .vj.
+
+*** Text
+[[red 2][G]]ot den(n)ke an myne hel-
+
+pe Here sn{/e}lle my to help-
+
+pende [[blue][E]]re sy deme vadere
+
+vnd(e) deme sone vnd(e) deme
+
+hilge(n) geyste. Also dat was
+
+in deme ambegynne vn(de) nv
+
+vnd(e) yu(m)mer bliuen schal.
+
+Amen
+
+*** Chapter
+**** Rubric
+Capitulum
+
+**** Text
+[[blue 2][A]]nnen echtesschap was
+
+vor allen ene ware kis-
+
+cheit vnd(e) hill[i]cheit. so vor-
+
+---103v---
+
+ginck allen dotliken. in ore-
+
+me swaren oldere was se
+
+bloyende in hillicheit vul-
+
+komener gude was se ber-
+
+nende met groter leue.
+
+Gode si lof.
+
+*** Hymn
+**** Rubric
+ympnus
+
+**** Text
+[[red 2][A]]nna vnd(e) maria de we-
+
+ren geneme den got-
+
+liken ogen vor allen seent-
+
+lich ewich alle wege vnd(e)
+
+to allen tyden [[blue][D]]er mode(r)
+
+beth myt der dochter wy
+
+begheren innichliken sa-
+
+lichliken myt gode [[red][D]]e
+
+spitce der hilgen he(m)mele
+
+---104r---
+
+heft salichliken vp_hoget
+
+annen don du wordest to-
+
+geuoget dyner dochter bid-
+
+de vor vns innichlike(n) Ame(n)
+
+*** Versicle
+**** Rubric
+V(ersiculus)
+
+**** Text
+[G]ot here alweldige de
+
+du der hilgen vrouwen su(n)-
+
+te a(n)nen 
+
+** Nones
+*** Rubric
+To der .ix.
+
+*** Text
+[[blue 2][G]]ot dencke an myne hel-
+
+pe. Here snelle my to
+
+helpende [[red][E]]re sy deme va-
+
+dere vnd(e) deme sone vnde
+
+deme hilge(n) ge{(n)/i}ste. Also dat
+
+---104v---
+
+was an deme ambegynne
+
+vnd(e) nv vnde yu(m)mer blyue(n)
+
+schal. amen.
+
+*** Chapter
+**** Rubric
+Cap(itu)l(u)m
+
+**** Text
+[[blue 2][A]]nna wenet vnd(e) vor-
+
+weruet de gaue des
+
+hilgen geistes se dowet
+
+den hemmel vnert gedowet
+
+myt der gotliken gnade(n)
+
+salige anne se was smec-
+
+kende dat hemelissche b(r)ot
+
+vormiddelst der schinende
+
+gotliker soticheit vnd(e) ge-
+
+bar de dochter der hogeste(n)
+
+schonheit. Got sy ge-
+
+dancket.
+
+*** Hymn
+**** Rubric
+ympnu(m)
+
+---105r---
+
+**** Text
+[[red 2][M]]aria de docther annen
+
+se ys holdende de hoge
+
+de des hemmels se allen ve(r)-
+
+ne vorghat in der spitce
+
+des gesettes vnde der gna-
+
+den [[blue][D]]e synt beyde in der
+
+vtersten hoghede vnde in
+
+der vorschinende ere seet
+
+vns an to biddende dat an-
+
+gesichte der bamehertiche⸌i⸍t
+
+[[red][D]]e spicte de hilgen he(m)mele 
+
+heft salichliken vor_hoget 
+
+annen don du wordest to-
+
+geuoget dyner dochter
+
+bidde vor i(n)nichliken. Ame(n).
+
+---105v---
+
+*** Versicle
+**** Text
+Bidde vor vns hilge moder
+
+anne. Dat wy my dy to-
+
+geuoget werden in de ere.
+
+*** Collect
+**** Rubric
+Coll(ecta)
+
+**** Text
+[[blue][G]]ot hore alueldige
+
+de du der hiligen vrouwen
+
+sunte annen.
+
+** Vesper
+*** Rubric
+To der vesp(er)
+
+*** Text
+[[red 2][G]]ot dencke an myne hel-
+
+pe. Here snelle my to
+
+helpende. [[blue][E]]re sy deme va-
+
+dere vnde deme sone vn(de) de
+
+hilgen geiste. also dat vas
+
+in deme ambeginne vnd(e) 
+
+nv vnd(e) yu(m)mer bliue(n) scal.
+
+*** Chapter
+**** Rubric
+cap(itulum).
+
+**** Text
+[[red 2][G]]{g/}ot lof sy dy an(n)e
+
+moder vente du byst
+
+---106r---
+
+got vaders schattes schri(n) 
+
+in welkem he heft geslote(n)
+
+godes hogheste golt vnd(e) 
+
+schat aller schatte best.
+
+Gode sy lof.
+
+*** Hymn
+**** Rubric
+ymnus
+
+**** Text
+[[blue 2][G]]hegrutet systu anne
+
+telerinne vnd(e) du heft
+
+beschinet bret vnd(e) du heft
+
+gedragen dat hemmeliss-
+
+che brot vormiddelst eneme
+
+hilgem leuende [[red][D]]u wor-
+
+dest vt_gewalt dat du bist
+
+de moder godes vnd(e) heft
+
+getelet dat leuent de bed(r)o-
+
+ueden werld. [[blue][O]] du sote
+
+---106v---
+
+marien moder du heft vor-
+
+dynet dat se wart geseth
+
+so hogh in deme leuende.
+
+[[red][G]]odes vmbeuleckede mo-
+
+der giff de ghaue der seghe-
+
+uechtinge de dar ouer wy(n)-
+
+ne(n) in den dogheden de pal-
+
+me der kronen. 
+
+*** Collect
+**** Rubric
+Collecta.
+
+**** Text
+[[blue][G]]ot here alweldige de du 
+
+de hilgen wrouwen sunte
+
+annen.
+
+** Complete
+*** Rubric
+To der completoriu(m).
+
+*** Text
+[[blue 2][G]]ot denke an myne hel-
+
+pe Here snelle my to
+
+helpende [[red][E]]re sy deme va-
+
+der vnd(e) deme sone vnd(e) de-
+
+---107r---
+
+me hilgen geiste. Also dat was
+
+in deme ambeginne
+
+vnd(e) nv vnd(e) yu(m)mer bliuen schal. Amen.
+
+*** Chapter
+**** Rubric
+Capetulum.
+
+**** Text
+[[blue 2][S]]alighe werld vnd(e) sa-
+
+lige stonde do anne
+
+stunt mangk den docthere(n)
+
+also en schirende schin vnd(e)
+
+se was geuende de irste do-
+
+get vnd(e) se offerde vore vn(de)
+
+in deme temple dat offer
+
+des bedes vnd(e) se togh to do-
+
+me worde vnd(e) den we⸌r⸍ke.
+
+*** Hymn
+**** Rubric
+y(m)p[n](us)
+
+**** Text
+[[red 2][D]]e wortele yesse heft
+
+so openbare vt_gego-
+
+---107v---
+
+ten annen dat se ys eyne 
+
+moder geworden got vad(er)e
+
+sones mdoer [[blue][U]]an oer
+
+ys vp_gesten de hilge iu(n)c-
+
+urouwe van des berghes
+
+borno ys aff gesneden de
+
+steyn. [[red][D]]esse godes le-
+
+ue ghink van der bedro-
+
+weden werld myt eme
+
+guden louen vnd(e) was
+
+nemende de gaue des le-
+
+uendes. [[blue][N]]u ys se geseet
+
+in deme he(m)mele alto_male
+
+geeret se reinghet vns
+
+van der schult vormiddelst
+
+---108r---
+
+oreme bede [[red][L]]of sy den 
+
+dren p(er)sonen vnd(e) enen go-
+
+de sy gemeynen myt welke-
+
+me anna vnd(e) maria ewech-
+
+liken leuet. Amen.
+
+*** Versicle
+**** Rubric
+V(ersus)
+
+**** Text
+Bidde
+
+vor vns hilge moder anne.
+
+Dat wy met dy to_geuo-
+
+get werden in de ere.
+
+*** Collect
+**** Rubric
+Coll(ecta)
+
+**** Text
+[G]ot here alweldige de du
+
+de hilgen vrouwen sunte
+
+annen. 
+
+*** Antiphony
+**** Rubric
+ant(iphonia)
+
+**** Text
+[[blue 2][O]] anne delge vnse bedro-
+
+uelicheit got heft mit
+
+dy bewiset de vtersten do-
+
+getet der mechticheit vnd(e)
+
+---108v---
+
+ok de ghaue der mildeiche⸌i⸍t
+
+O maria du sote to_vlucht
+
+gif anne(n) vormiddest der
+
+anropinge dat wy moge(n)
+
+bruken de ewige vroude
+
+der hilgen.
+
+*** Versicle
+**** Rubric
+V(ersus)
+
+**** Text
+Bidde vor 
+
+vns hilge moder anne.
+
+Dat wy myt dy to_geuo-
+
+get werde in de ere.
+
+*** Collect
+**** Rubric
+Coll(ecta)
+
+[[red 2][G]]ot here alweldige
+
+dat du dy woldest
+
+werdigen der hilge(n) vrou-
+
+wen sunte annen to begif-
+
+tende myt sulker gnade
+
+dat se vordinet heft to
+
+---109r---
+
+drogende in oreme eruoldi-
+
+gen lichame de allerhiligeste(n)
+
+iu(n)curouwen marien dyner
+
+moder. Giff vns vormid-
+
+delst den beden moder vnd(e) 
+
+der dochter ouerulotige
+
+gnade vormiddelst welker
+
+dochtnisse wy werden v(m)me
+
+vanghen myt milder leue
+
+vnd(e) wy gehulpen werden
+
+ores bedes. Ih(esus) (christus) godes
+
+sone. Amen.
