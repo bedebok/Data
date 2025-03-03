@@ -37,7 +37,7 @@ def count_words(line):
 
 # Write .csv file
 f = open("Status.csv", "w")
-f.write("filename,manuscript,locus,prayer,work,language,status,wordcount\n")
+f.write("filename,manuscript,prayer,work,language,status,wordcount\n")
 f.close()
 
 def append_to_csv(filename, ms, title, work, lang, status, num_words):
