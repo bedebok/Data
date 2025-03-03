@@ -1,0 +1,104 @@
+#+TITLE: Hours of St. Anne (Prime)
+
+|------------+------------------|
+| Manuscript | AM 73 8vo        |
+| Locus      | 99r:9 100v       |
+| Work       | HOURS_ANNE.prime |
+| Language   | gml              |
+| Status     | transcribed      |
+|------------+------------------|
+
+* Transcription
+** Rubric
+To
+
+der p(ri)me
+
+** Text
+[[Red 2][G]]ot dencke
+
+an myne helpe Here
+
+snelle my to helpende [[blue][E]]re
+
+sy deme vadere
+
+** Chapter
+*** Rubric
+Cap(itu)l(u)m
+
+*** Text
+[[red 2][R]]echtwedich vnd(e) vul-
+
+komen was oer leue(n)t
+
+---101r---
+
+vnde oer herte dat bernede
+
+glike na der gotliken beghe-
+
+ringe. dar v(m)me hadde se got
+
+vterkoren beheghelich vnde
+
+lif vor allen vrouwesname(n).
+
+Got si lof.
+
+** Hymn
+*** Rubric
+ymnus.
+
+*** Text
+[[blue 2][D]]e boem der ere ys hogh
+
+salich ys anna vnd(e) ere 
+
+vrucht welke dat licht der
+
+guden heft begoten vnd(e) de ho-
+
+gede der doget. [[red][I]]n welker
+
+hogede des bomes got heft
+
+geseet syne woninge done
+
+de licham marie vruchtsam
+
+blyende in deme liue annen.
+
+---101v---
+
+[[blue][D]]e spucze der helgen he(m)me-
+
+le heft salchliken vorhoget
+
+anne(n) do du wordest to geuo-
+
+get dyner dochter bidde .
+
+innichliken vor vns. Amen.
+
+*** Versicle
+**** Rubric
+ v(ersiculus)
+
+**** Text
+ Bidde vor vns hilde mo-
+
+ der anne. Dat wy myt dy
+
+ to geuoghet werden in de ere.
+
+*** Collect
+**** Rubric
+ Coll(ecta)
+
+**** Text
+[[red][G]]ot here alweldige
+
+de du de hilgen vrouwe(n) su(n)te
+
+annen.

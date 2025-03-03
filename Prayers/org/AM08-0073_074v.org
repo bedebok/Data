@@ -1,11 +1,11 @@
 #+TITLE: Hours of the Virgin (Terce)
 
 |------------+--------------------|
-| Manuscript | AM08-0073          |
+| Manuscript | AM 73 8vo          |
 | Locus      | 74v 77r            |
-| Work       | HOURS_VIRGIN.TERCE |
+| Work       | HOURS_VIRGIN.terce |
 | Language   | gml                |
-| Status     | Transcribed        |
+| Status     | transcribed        |
 |------------+--------------------|
 
 * Transcription

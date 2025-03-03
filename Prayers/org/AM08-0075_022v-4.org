@@ -1,10 +1,13 @@
 #+TITLE: A morning prayer
+
+|------------+-----------|
 | Manuscript | AM 75 8vo |
-| Locus      | 22v-23v   |
+| Locus      | 22v 23v   |
 | Language   | Danish    |
 | MDB        | 414       |
 | Keywords   | morning   |
 | Status     | proofread |
+|------------+-----------|
 
 ** Parallels
 | Danish     | MDB 393 |
@@ -12,11 +15,11 @@
 | Latin      |         |
 
 
-** Transcription
-*** Rubric
+* Transcription
+** Rubric
 Nar ma(n) standh(e)r opp om morghe(n)
 
-*** Text
+** Text
 [[O]] almektustæ gudh i hy(m)merigæ
 
 iech syndughe me(n)niske takker

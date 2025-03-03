@@ -1,17 +1,19 @@
 #+TITLE: Seven Penitential Psalms
 
-| Manuscript | AM08-0073          |
+|------------+--------------------|
+| Manuscript | AM 73 8vo          |
 | Locus      | 13r 24r            |
 | Text       | PENITENTIAL_PSALMS |
 | Language   | gml                |
 | Status     | transcribed        |
+|------------+--------------------|
 
 * Transcription
 ** Rubric
 
 Hir begynne(n) soue(n) salme(n)
 
-** Psalm :PSALM_6:
+** Psalm                                                            :PSALM_6:
 *** Incipit
 
 [[3 red blue][D]]Omine ne in furo(r)e
@@ -89,7 +91,7 @@ vnde deme sone: vnde deme
 
 hilgen geyste. Amen. 
 
-** Psalm 31
+** Psalm                                                           :PSALM_31:
 *** Rubric
 P(salmu)s
 
@@ -188,7 +190,7 @@ vnde deme sone vnde deme hilge(n)
 
 § geyste
 
-** Psalm 37
+** Psalm                                                       :PSALM_38_v37:
 
 *** Incipit
 
@@ -333,8 +335,7 @@ deme uadere vnde deme sone
 
 vn(de) deme hilgen geyste. Ame(n).                [fn::AMEN A highlighted with red]
 
-
-** Psalm 50
+** Psalm                                                       :PSALM_51_v50:
 *** Incipit
 [[M]]Jser(er)e mei d(eu)s:
 
@@ -471,8 +472,7 @@ uppe dyn altar [[E]]re sy deme
 
 vade(r) vn(de) deme sone: vn(de) de(me) h(ilgen) g(eist)
 
-
-** Psalm 101 (100)
+** Psalm                                                     :PSALM_101_v100:
 *** Incipit
 [[D]]Omine exaudi or(ati)o(ne)m
 
@@ -633,7 +633,7 @@ richtet [[E]]re sy deme vad(er)e vn(de)
 
 deme sone: vn(de) deme h(ilgene) g(eist)
 
-** Psalm 129 (130)
+** Psalm                                                     :PSALM_130_v129:
 *** Incipit
 [[D]]e profundis clamaui
 
@@ -676,7 +676,7 @@ van alle syner bosheyt [[red][E]]re
 
 sy deme vad(er)e vn(de) deme so(ne) vn(de)
 
-** Psalm 142 (143)
+** Psalm                                                     :PSALM_143_v142:
 *** Incipit
 [[2 blue][D]]omine exaudi or(ati)onem 
 

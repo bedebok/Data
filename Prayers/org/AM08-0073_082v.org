@@ -1,11 +1,11 @@
 #+TITLE: Hours of the Virgin (Vespers)
 
 |------------+----------------------|
-| Manuscript | AM08-0073            |
+| Manuscript | AM 73 8vo            |
 | Locus      | 82v                  |
-| Work       | HOURS_VIRGIN.VESPERS |
+| Work       | HOURS_VIRGIN.vespers |
 | Language   | gml                  |
-| Status     | Transcribed          |
+| Status     | transcribed          |
 |------------+----------------------|
 
 * Transcription

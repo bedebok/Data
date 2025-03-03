@@ -1,12 +1,12 @@
 #+TITLE:  AM08_0070-253v
 
-|------------+-------------|
-| Manuscript | AM08-0070   |
-| Locus      | 253v        |
-| Work       |             |
-| Language   | da          |
-| Status     | Transcribed |
-|------------+-------------|
+|------------+---------------|
+| Manuscript | AM 70 8vo     |
+| Locus      | 253v:m 253v:m |
+| Work       |               |
+| Language   | da            |
+| Status     | transcribed   |
+|------------+---------------|
 
 * Transcription
 ** Rubric

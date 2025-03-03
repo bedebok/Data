@@ -1,12 +1,13 @@
 #+TITLE: Magnificat
 
-|------------+------------|
-| Manuscript | AM 73 8vo  |
-| Locus      | 237v-238v  |
-| Language   | Low German |
-|------------+------------|
+|------------+-------------|
+| Manuscript | AM 73 8vo   |
+| Locus      | 237v 238v   |
+| Work       | MAGNIFICAT  |
+| Language   | gml         |
+| Status     | transcribed |
+|------------+-------------|
 
-** Parallels
 
 * Transcription
 ** Rubric

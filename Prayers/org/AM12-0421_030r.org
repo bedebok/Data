@@ -1,7 +1,7 @@
 #+TITLE: Stabat Mater
 
 |------------+--------------|
-| Manuscript | AM12-0421    |
+| Manuscript | AM 421 12mo  |
 | Locus      | 30r 31v      |
 | Work       | STABAT_MATER |
 | Language   | da           |

@@ -1,15 +1,15 @@
 #+TITLE: Added psalms
 
 |------------+-------------|
-| Manuscript | AM08-0073   |
+| Manuscript | AM 73 8vo   |
 | Locus      | 98r         |
 | Work       |             |
 | Language   | da          |
-| Status     | Transcribed |
+| Status     | transcribed |
 |------------+-------------|
 
 * Transcription
-** Text                                                       :PSALM_113v112:
+** Text                                                      :PSALM_113_v112:
 Herrens tienere loffuer hanom loffuer
 
 herrens naffn ; Welsignet were
@@ -24,7 +24,7 @@ Nedergang: : Maa Herrens
 
 Naffn vere prißit 112 psallmi(n)
 
-** Text                                                       :PSALM_117v116:
+** Text                                                      :PSALM_117_v116:
 Loffuer Herren alle heninge prißer
 
 hanom alle folk,
@@ -35,7 +35,7 @@ fordj hans Miskundt og sandhiedt
 
 Cxvi
 
-** Text                                                       :PSALM_118v117:
+** Text                                                      :PSALM_118_v117:
 Thaker heren fordj hanndt Er saa
 
 guodt og hans miskundt warer

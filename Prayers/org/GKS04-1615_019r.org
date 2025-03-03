@@ -2,8 +2,10 @@
 
 |------------+--------------|
 | Manuscript | GKS 1615 4to |
-| Locus      | 19r-19v      |
-| Language   | Danish       |
+| Locus      | 19r 19v      |
+| Work       | MAGNIFICAT   |
+| Language   | da           |
+| Status     | transcribed  |
 |------------+--------------|
 
 

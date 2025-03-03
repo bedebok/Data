@@ -1,12 +1,12 @@
-#+TITLE: Hours of St. Anne
+#+TITLE: Hours of St. Anne (Matins)
 
-|------------+------------|
-| Manuscript | AM08-0073  |
-| Locus      | 99r 109r   |
-| Work       | HOURS_ANNE |
-| Language   | gml        |
-| Status     | begun      |
-|------------+------------|
+|------------+-------------------|
+| Manuscript | AM 73 8vo         |
+| Locus      | 99r 100v          |
+| Work       | HOURS_ANNE.matins |
+| Language   | gml               |
+| Status     | transcribed       |
+|------------+-------------------|
 
 
 * Transcription
@@ -112,30 +112,30 @@ in de ere.
 Collecta
 
 **** Text
-[[2 red][G]]ot here alweldige de
+ [[2 red][G]]ot here alweldige de
 
-du de hilgen vrouwen
+ du de hilgen vrouwen
 
-sunde anne(n) de to langhen ti-
+ sunde anne(n) de to langhen ti-
 
-den vnvruchtbaer was myt
+ den vnvruchtbaer was myt
 
----100v---
+ ---100v---
 
-eyner vrucht heilsam aller
+ eyner vrucht heilsam aller
 
-werld heft behaget. gif dat
+ werld heft behaget. gif dat
 
-al den geuen de de moder v(m)-
+ al den geuen de de moder v(m)-
 
-me leue wyllen der dochter
+ me leue wyllen der dochter
 
-eren dat erer beyde hulpe
+ eren dat erer beyde hulpe
 
-vnd(e) trost in allen dronisse(n)
+ vnd(e) trost in allen dronisse(n)
 
-vnd(e) in der stonde eres dodes
+ vnd(e) in der stonde eres dodes
 
-mogen bruken dorch ih(esu)m
+ mogen bruken dorch ih(esu)m
 
 (christu)m vnsen here(n) amen.

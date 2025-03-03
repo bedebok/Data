@@ -1,11 +1,11 @@
 #+TITLE: Litany of the Virgin
 
 |------------+---------------|
-| Manuscript | AM12-0417     |
+| Manuscript | AM 417 12mo   |
 | Locus      | 49v 54v       |
 | Work       | LITANY_VIRGIN |
 | Language   | gml           |
-| Status     | Transcribed   |
+| Status     | transcribed   |
 |------------+---------------|
 
 * Transcription

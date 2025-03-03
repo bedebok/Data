@@ -1,11 +1,11 @@
 #+TITLE: Te Deum
 
 |------------+-------------|
-| Manuscript | AM08-0073   |
+| Manuscript | AM 73 8vo   |
 | Locus      | 55r 57r     |
 | Work       | TE_DEUM     |
 | Language   | gml         |
-| Status     | Transcribed |
+| Status     | transcribed |
 |------------+-------------|
 
 * Transcription

@@ -1,0 +1,96 @@
+#+TITLE: An explanation of Christmas to Lent (written 1514)
+
+|------------+--------------|
+| Manuscript | GKS 1615 4to |
+| Locus      | 9r 9v        |
+| Work       |              |
+| Language   | da           |
+| Status     | transcribed  |
+|------------+--------------|
+
+* Transcription
+** Rubric
+[[blue 3][H]]er begindes tawel som holder noger
+
+aar her efter hwre lancth th(e)r ær
+
+mellu(m) gutz fødsels dag oc fastelawe(n)s
+
+søndag oc th(e)n holder noger aar
+
+** Text
+[[blue][T]]ed første gilderne tal her efter komer th(et)
+
+ær xiiii Tha ær th(e)r mellu(m) iwlle dag fastelawe(n)s
+
+søndag iii dage oc ix vger Tha ær søndags bog-
+
+staff a [[red][A]]ar th(et) gilderne tal ær xv tha ær
+
+th(e)r i mellu(m) i dag oc viii vger søndass bogstaff g
+
+[[red][A]]ar aureus numer(us) ær xvi Tha ær th(e)r i mellu(m)
+
+vi dage oc v vg(e)r l(itte)ra d(o)m(ini)cales F oc e skod aar
+
+[[blue][A]]ar th(et) gierne tal ær svii thæ ær th(e)r i mellu(m) v da-
+
+ge oc viii vg{/er} søndags bogstaff D [[red][A]]ar th(et) gil-
+
+lerne tal ær xviii i mellu(m) iiii dage oc vij søndas
+
+bogstaff C [[blue][A]]ar th(et) gillerne tal er xix tha
+
+ær th(e)r i mellu(m) ij dage oc v x ug(e)r søndags bog(staff) G
+
+[[red][A]]ar th(et) gilderne tal ær ij tha ær th(e)r i mellu(m) 
+
+vij vger søndags bo(gstaff) F [[red][A]]ar th(et) gil(erne) tal ær iij
+
+tha ær th(e)r i mellu(m) vi dage oc ix vger søndas
+
+bog E [[blue][A]]ar th(et) gillerne tal ær iiij tha ær th(e)r 
+
+i mellu(m) v dage oc vii vger Søndags bog(staff) D
+
+[[red][A]]ar th(et) gillerne tal ær v Tha ær th(e)r i mellu(m) 
+
+iij dage oc vi vger skodaar søndas bogstaffe c oc b
+
+---9v---
+
+[[red][A]]ar th(e)r gillerne tal ær vi Tha ær th(e)r i mellu(m) ii da-
+
+ge oc ix vger Sø(n)d(ags)b(ogstaff) A [[blue][A]]ar th(et) gillerne tal
+
+ær vii Tha ær th(e)r mellu(m) i dag oc vii vger S(øndags) bo(gstaff) G
+
+[[red][A]]ar th(et) gil(erne) tal ær viij tha ær th(e)r i mellu(m) x vger
+
+Søn(dags) bog(staff) F [[blue][A]]ar aur(eus) nu(m)er(us) ær ix Tha ær th(e)r 
+
+i mellu(m) v dage oc viij vger l(tte)re d(o)m(ini)cales E oc D skodaar
+
+[[red][A]]ar the gillerne tal ær x tha er th(e)r i mellu(m) iiii
+
+dage oc sex vger Søn(dags) bog(staff) C [[blue][A]]ar th(et) gil(erne) tal
+
+ær xi tha ær th(e)r i mellu(m) iij dage oc ix vger Sønd(ags)
+
+bog(staff) B [[red][A]]ar th(et) gil(erne) tal ær vii Tha ær th(er) i mel(lum)
+
+ii dage oc viij vger Søn(dags) bog(staff) A [[blue][A]]ar th(et) gil(lerne)
+
+tal ær xiii Tha ær th(e)r i mel(lum) vii vger skod ar søn-
+
+dags bogstawe g oc F [[red][A]]ar aureus num(eru)s ær xiiii
+
+Tha ær th(e)r mellu(m) viij vger oc vi dage Søn(dags) bog(staff) E
+
+[[blue][A]]ar th(et) gillerne tal ær xv tha ær th(e)r i mellu(m)
+
+v dage oc vij vger Sænda(gs) bog(staff) D [[red][A]]ar th(et) gil(erne)
+
+tal ær svi tha ær th(e)r i mellu(m) iiii dage oc vi vger søn(dags)
+
+bog(staff) C

@@ -3,18 +3,19 @@ AM04-0784_026v_m.org,AM 784 4to,Prayer for a traveller,,da,transcribed,42
 AM12-0417_001r.org,AM12-0417,Hours of the Holy Spirit,HOURS_HOLY_SPIRIT,gml,Started,513
 UUB-C-496-136r.org,UUB C 496,Prayers for a traveller,,Danish,,140
 GKS08-3423_211r.org,GKS 3423 8vo,XV Pater Noster,,Low German,,2047
-AM08-0073_098r.org,AM08-0073,Added psalms,,da,Transcribed,99
+AM08-0073_098r.org,AM 73 8vo,Added psalms,,da,transcribed,99
 AM08-0073_077r.org,AM08-0073,Hours of the Virgin (Sext),HOURS_VIRGIN.SEXT,gml,Transcribed,266
-AM08-0070_253v.org,AM08-0070,AM08_0070-253v,,da,Transcribed,33
-GKS04-1615_019r.org,GKS 1615 4to,Magnificat,,Danish,,171
+AM08-0070_253v.org,AM 70 8vo,AM08_0070-253v,,da,transcribed,33
+GKS04-1615_019r.org,GKS 1615 4to,Magnificat,MAGNIFICAT,da,transcribed,171
 AM08-0073_099r.org,AM08-0073,Hours of St. Anne,HOURS_ANNE,gml,begun,223
-AM08-0073_237v.org,AM 73 8vo,Magnificat,,Low German,,127
-AM08-0073_082v.org,AM08-0073,Hours of the Virgin (Vespers),HOURS_VIRGIN.VESPERS,gml,Transcribed,918
+AM08-0073_237v.org,AM 73 8vo,Magnificat,MAGNIFICAT,gml,transcribed,127
+AM08-0073_082v.org,AM 73 8vo,Hours of the Virgin (Vespers),HOURS_VIRGIN.vespers,gml,transcribed,918
 Beschauwing_009.org,Boek der Beschauwing,First Sunday of Advent,ADVENT_1,gml,transcribed,380
 GKS08-3423_071v.org,GKS 3423 8vo,Magnificat,,Low German,,135
-AM12-0417_050r.org,AM12-0417,Litany of the Virgin,LITANY_VIRGIN,gml,Transcribed,672
+AM12-0417_050r.org,AM 417 12mo,Litany of the Virgin,LITANY_VIRGIN,gml,transcribed,672
 AM08-0070_002v.org,AM08-0070,AM08_0070-2v,,da,Begun,44
 AM08-0070_003r.org,AM 70 8vo,Cantus Sororum (Matins),CANTUS.matins,gml,begun,626
+AM08-0073_230v.org,AM 73 8vo,A prayer to Jesus Christ,,gml,transcribed,51
 AM08-0073_071r.org,AM08-0073,Hours of the Virgin (Prime),HOURS_VIRGIN.PRIME,gml,Transcribed,605
 AM08-0073_067r.org,AM08-0073,O Gloriosa Domina,O_GLORIOSA_DOMINA,gml,transcribed,170
 AM12-0417_63r.org,AM12-0417,Hours of St. Anne,HOURS_ANNE,gml,Transcribed,1113
@@ -28,26 +29,28 @@ AM04-0782_001r.org,AM 782 4to,First Sunday in Advent,ADVENT_1,da,transcribed,624
 AM08-0073_088v.org,AM08-0073,Hours of the Virgin (Compline),HOURS_VIRGIN.COMPLINE,gml,Transcribed,674
 GKS08-3423_001r.org,GKS 3423 8vo,O Bone Jesu,,Low German,,352
 Holm-A42_032r.org,Holm. A 42,Magnificat,,Latin,,145
+GKS04-1615_009r.org,GKS 1615 4to,An explanation of Christmas to Lent (written 1514),,da,transcribed,416
 GKS08-1613_161r.org,GKS 1613 8vo,Magnificat,,Danish,,256
 AM08-0070_001r.org,AM08-0070,Cantus Sororum (Introduction),CANTUS.intro,gml,Transcribed,503
 UBB-C-496-019v.org,,Prayers for the entire day,,Low German,,559
 GKS08-3423_202v.org,GKS 3423 8vo,Seven Words of Mary under the Cross,,Low German,,176
 AM12-0417_073v.org,AM12-0417,Seven Penitential Psalms,PENITENTIAL_PSALMS,gml,Transcribed,1645
 AM08-0075_022v-4.org,AM 75 8vo,A morning prayer,,Danish,proofread,180
-AM08-0073_228r.org,AM 73 8vo,Adoro te (St. Gregory),,gml,Transcription started,439
+AM08-0073_228r.org,AM 73 8vo,Adoro te (St. Gregory),,gml,transcribed,439
+AM08-0073_100v.org,AM 73 8vo,Hours of St. Anne (Prime),HOURS_ANNE.prime,gml,transcribed,160
 AM08-0073_044r.org,AM08-0073,Hours of the Virgin (Matins),HOURS_VIRGIN.MATINS,gml,,1284
 NKS08-0045_120v.org,NKS08-0045,,,da,,179
-AM08-0073_013r.org,AM08-0073,Seven Penitential Psalms,,gml,transcribed,2012
+AM08-0073_013r.org,AM 73 8vo,Seven Penitential Psalms,,gml,transcribed,2010
 AM08-0073_087r.org,,Magnificat,,Low German,,164
 AM08-0075_063r.org,AM 75 8vo,Magnificat,,Danish,,233
 AM08-0073_136v.org,AM 738vo,Credo,,Low German,,116
 Lund-0035_064v.org,Mh 35,Prayers of Our Lady (MDB 105),,Danish,,607
 AM08-0073_080r.org,AM08-0073,Hours of the Virgin (Nones),HOURS_VIRGIN.NONES,gml,Transcribed,449
 AM08-0070_247r_m.org,AM08-0070,,,da,Transcribed,5
-AM08-0073_055r.org,AM08-0073,Te Deum,TE_DEUM,gml,Transcribed,417
+AM08-0073_055r.org,AM 73 8vo,Te Deum,TE_DEUM,gml,transcribed,417
 AM08-0073_054v.org,AM08-0073,Hours of the Virgin (Lauds),HOURS_VIRGIN.LAUDS,gml,Transcribed,1495
-AM12-0421_030r.org,AM12-0421,Stabat Mater,STABAT_MATER,da,proofread,387
-AM08-0073_074v.org,AM08-0073,Hours of the Virgin (Terce),HOURS_VIRGIN.TERCE,gml,Transcribed,461
+AM12-0421_030r.org,AM 421 12mo,Stabat Mater,STABAT_MATER,da,proofread,387
+AM08-0073_074v.org,AM 73 8vo,Hours of the Virgin (Terce),HOURS_VIRGIN.terce,gml,transcribed,461
 AM08-0075_009r.org,AM 75 8vo,A morning prayer,,Danish,,148
 AM08-0070_247r.org,AM08-0070,Regina Cœli,REGINA_COELI,da,Transcribed,51
 AM04-0782_091r.org,AM07-0782,A Prayer for Every Day in Lent,,gml,Transcribed,503
