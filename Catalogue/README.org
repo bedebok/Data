@@ -30,13 +30,13 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | GKS 1614 4to  | Marine Issdatters prayer book               | Danish                |            |
 | [[file:org/GKS04-1615.org][GKS 1615 4to]]  | Danish prayer book                          | Danish                |            |
 | [[file:org/GKS08-3423.org][GKS 3423 8vo]]  | A Catholic Prayer Book                      | German                |  1400-1499 |
-| GKS 3451 8vo  | Book of Hours (rel. Thott 130 8vo?)         | German                |  1500-1787 |
+| [[file:org/GKS08-3451.org][GKS 3451 8vo]]  | Book of Hours (rel. Thott 130 8vo?)         | German                |  1500-1787 |
 | GKS 3457 8vo  | Maribo theological manuscript               | Danish                |      1520? |
-| GKS 3847 8vo  | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
+| GKS 3487 8vo  | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
 | NKS 41 8vo    | Psalter                                     | Latin, German         |  1500-1599 |
 | NKS 44 8vo    | Passionale Jesu Christi                     | German                |  1375-1400 |
 | NKS44 b 8vo   | Gudelige bønner (prayers of god?)           | Danish                |            |
-| NKS 45 8vo    | Liber devotionis                            | Latin, Danish, German |  1400-1499 |
+| [[file:org/NKS08-0045.org][NKS 45 8vo]]    | Liber devotionis                            | Latin, Danish, German |  1400-1499 |
 | Thott 553 4to | Anne Brade's prayer book                    | Danish                |            |
 | Thott 554 4to | Om at høre messe (copy of Chr. Pedersen)    | Danish                |            |
 | Thott 120 8vo | Liber devotionalis                          | Latin, German         |  1400-1499 |
