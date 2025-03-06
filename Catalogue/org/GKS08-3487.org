@@ -1,0 +1,38 @@
+#+TITLE: GKS 3487 8vo
+
+A leechbook with prayers
+
+* PhysDesc
+|---------+----------|
+| Support | pap      |
+| NUMBER  | i +  + i |
+
+
+
+* Contents
+
+|-----------+--------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------+--------|
+| Loc       | Type         | Text                                     | Rub/Inc/Exp                                                                                                                                            | Lang    | Status |
+|           |              |                                          | <10>                                                                                                                                                   |         |        |
+|-----------+--------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------+--------|
+| 1r 9r     | confession   |                                          | *Hyr na wolghet de loue vn(de) de ghemene bycht seghet dy* [[I]]n deme name des vaders [...]                                                               | gml     | main   |
+| 5r 5r     |              |                                          |                                                                                                                                                        |         | added  |
+| 5v 5v     |              |                                          |                                                                                                                                                        |         | added  |
+| 9v        |              |                                          |                                                                                                                                                        | gml lat | added  |
+| 10r 60r   | leechbook    | Kvindernes Rosengård                     | *Her efft(e)r fwlgh(e)r en bogh som kallis ffrwcthsomeligh qwyndh(er)nis Och Jordhemodhe(re)ness Rosengardh* [[I]] Th(et) ath gwdh also(m)me [...] Amen    | da      | main   |
+| 55r 60r   | glossary     |                                          | *Her effth(e)r fylgh(e)r tafflen til th(e)n(ne) sa(m)me bogh* Ite(m) i th(e)n(ne) bogh sta(n)dh(e)r ma(n)ghe ord [...]                                 | da      | main   |
+| 60r 66r   | leechbook    |                                          | Nota(n)da su(n)t aliq(ue) sigma (con)ceptio(n)is [...]                                                                                                 | la      | main   |
+| 66r 66r   | epistle      | Letter from Pope Leo X to Sultan Selim I | *PArva litter(um) t(ra)nsmissar(um) ad leone(m) papam x a cesare turchor* Selyembeck cesar turchor(um) [...] p(ro)phete (et cetera)                    | la      | main   |
+| 66v 68r   | recipe       |                                          | *COrda b(e)n(e)dicta (et cetera)* Ite(m) dat hele macket skorwe [...] dat ey(n) heft yn syme lyue (et cetera)                                          | gml     | main   |
+| 68r 69r   | benedictions |                                          | *BEnedictio(n)es et exhorcisiones a(n)i(m)al(iu)m et lactis (con)t(ra) i(n)cantac(i)ones maleficaru(m)* [[D]]Omine(m) s(anc)te p(ate)r op(eri)s [...] Amen | la      | main   |
+| 69v 75v   | recipe       |                                          | *Fetor oris* Fetor oris fit [...]                                                                                                                      | la      | main   |
+| 76r 79r   | leechbook    | Questions and answers of women's health  |                                                                                                                                                        | la      | main   |
+| 79v 98v   |              | (Continued?)                             |                                                                                                                                                        | la      | main   |
+| 98v 104r  | recipes      |                                          | *Con(ra) ?? et scabiem* Tagh edicke holstz ørth(e)r och rødhe skeppe [...]                                                                             | da      | main   |
+| 104v 106r | prayers      |                                          | [[D]]At cruzce vnses here(n) [...]                                                                                                                         | gml     | main   |
+| 106r 108v | epistle      |                                          | *L(itte)ra soldani su(m)mi paganor(um) siue za(ra)ccor(um)* [[B]]Altazar dan illustris fili(us) [...]                                                      | lat     | main   |
+| 109r 110v | recipes      |                                          | Ite(m) for bleguer och skab tagh(e)r ma(n) [...]                                                                                                       | da lat  | main   |
+| 129r 129v | glossary     | Latin-Danish plant register              |                                                                                                                                                        | da lat  | added  |
+| 130r 130r |              |                                          | *Seq(ui)t(ur) de medicinasi eff(e)ctu [...]*                                                                                                           | lat     | added  |
+| 134v 135r |              |                                          | Anetu(m) e(st) [...]                                                                                                                                   | lat     | added  |
+|-----------+--------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------+--------|
