@@ -32,7 +32,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/GKS08-3423.org][GKS 3423 8vo]]  | A Catholic Prayer Book                      | German                |  1400-1499 |
 | [[file:org/GKS08-3451.org][GKS 3451 8vo]]  | Book of Hours (rel. Thott 130 8vo?)         | German                |  1500-1787 |
 | GKS 3457 8vo  | Maribo theological manuscript               | Danish                |      1520? |
-| GKS 3487 8vo  | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
+| [[file:org/GKS08-3487][GKS 3487 8vo]] | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
 | NKS 41 8vo    | Psalter                                     | Latin, German         |  1500-1599 |
 | NKS 44 8vo    | Passionale Jesu Christi                     | German                |  1375-1400 |
 | NKS44 b 8vo   | Gudelige bønner (prayers of god?)           | Danish                |            |
