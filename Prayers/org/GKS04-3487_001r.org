@@ -1,12 +1,12 @@
 #+TITLE: Confession and Creed
 
-|------------+--------------|
-| Manuscript | GKS 3487 4to |
-| Locus      | 1r 9r        |
-| Work       |              |
-| Language   | gml          |
-| Status     |              |
-|------------+--------------|
+|------------+-----------------|
+| Manuscript | GKS 3487 4to    |
+| Locus      | 1r 9r           |
+| Work       | CREDO CONFESSIO |
+| Language   | gml             |
+| Status     | Transcribed     |
+|------------+-----------------|
 
 
 * Transcription
@@ -475,4 +475,275 @@ my leyt dat ik vader vn(de) moder in
 
 ereme leue(n)de nicht ghe_ereth hebbe
 
+vn(de) em nicht gothlich vru(n)tlick vn(de)
 
+vnderdaen sy ghe_west vn(de) in erer
+
+kra(n)cheyt nicht medelydich vn(de) beste(n)-
+
+dych vn(de) em vn(de) eren olderen nicht
+
+godes na ghedaen hebbe na eren do-
+
+de dat ys my leyt Jft ik wene ge-
+
+dodet hebbe myt radhe ofte myt dade
+
+ofte myt myner scheydeliken tunghe(n)
+
+syn ghuden ruchte ofte syne ere ghe-
+
+quelet vn(de) ghekrencket hebbe in sy-
+
+neme doet bedde ofte yenighe orsa-
+
+ke hebbe ghegeuen synes dodes dat
+
+⸌ys⸍ my leyt Jft ik yemande dat sy(n)
+
+afhendych hebbe ghemaket he(m)-
+
+melyken ofte apenbare myt loesz-
+
+heyt ofte myt walt in wat mothe vn(de)
+
+wise dat ghescheen ys dat ys my leyt
+
+vn(de) were weme des helnen wythlich-
+
+ken wes plychtich wolde ik gerne
+
+wedder geuen we(n)the anders mothe 
+
+---7r---
+
+ik nicht salich werden Jft ik ey-
+
+meme ⸠vnschn⸡ vnkuschscher sy ge-
+
+west myt seende vn(de) myt horende
+
+myt beghere myt lust myt vulbort
+
+vn(de) myt dancken ⸠vs⸡ vn(de) myt wor-
+
+den ofte myt werken ofte myt vn-
+
+tuchtighen helsende ofte nussende
+
+ofte myt tastende dat ys my va(n) gru(n)t
+
+mynes herthen leyth Jft ik vals-
+
+che tuchnisse hebbe ghe(n)geue(n) auer
+
+myne(n) neghesten jeghen syne(n) sele
+
+ere lyff ofte gud dat ys my leyt
+
+Jd sy vor den oghen ofte achter
+
+syne rugghe ghescheen Jft ik my-
+
+nes ghud syne(n) knecht ofte maghet
+
+jeghen syne(n) wylle(n) begheret ofte ent-
+
+spanet hebbe dat ys my leyt vn(de)
+
+ys my noch vele leyder dat my alle
+
+dysse sunde nicht so leyt syn als se
+
+eyneme warafticheme ruwer we-
+
+sen scholen [[red][¶]] Jk gheue my schul-
+
+dych jft ik ghesundyghet hebbe in
+
+---7v---
+
+den twelff stucken des hyllighen
+
+c(ri)sten louen jft ik myn ofte meer
+
+ghelouet hebbe als eyneme gud c(ri)-
+
+sten my(n)sche don schal id sy in wich-
+
+kerye in touerye ofte in botherye
+
+in ualschen seghynghe(n) in keterye
+
+vn(de) in vntemelyker beswerynghe
+
+des almechtighen ghodes ofte sy-
+
+ner werden leuen hilghen dat ys
+
+my leyt [[red][¶]] Jft ik ghesundyghet
+
+hebbe an den stu(m)men sunde(n) dat
+
+ys my leyt [[red][¶]] Jk gheue my
+
+schuldich dat ik ghesundyget hebbe
+
+in den weer ropenden sunde(n) Jft
+
+ik wedewen Jfte weysen ofte yeni-
+
+ghen vnschuldighen vordruchket
+
+hebbet ofte Jemande syn rechte loen
+
+vn(de) vordenste vor entholden hebben
+
+dat ys my leyt [[red][¶]]Jft ik ghesun-
+
+dighet hebbe in den veer beghere(n)
+
+myner sele alzo in hopene vppe
+
+Jenich ander erdesche dynck Jft
+
+ik de lude vn(de) de wertlyken
+
+dyncke meer hebbe ghevructhet
+
+---8r---
+
+
+wen god Jft ik my des hebbe
+
+ghe_vrouwet des ik my bedroue(n) schol-
+
+de ofte des bedrauet des ik my vrou-
+
+wen scholde dat ys my leyt [[red][¶]] Jk
+
+gheue my schuldich Jft ik ghesundiget
+
+hebbe in den sunden dede keden Je-
+
+ghen den hilghen geyst als in mystros-
+
+{c/}the der gnade godes Jn vor_meten-
+
+heyt dat ik vaken vn(de) vele hebbe
+
+ghesundyget sunder vruchten vn(de)
+
+sunder ghest dat ik myne sunde va-
+
+ken hebbe meer beleuet wen bele-
+
+det vn(de) beruwet vn(de) hebbe my der
+
+vorromet vn(de) grot dar aff ghe_spra-
+
+ken dat ik so leyder vaken vn(de) ve-
+
+le byn vorhardet in myne(n) sunden vn(de)
+
+byn dar langhe tyd inne ghebleuen
+
+van jare(n) to jaren vn(de) hebbe den louen
+
+nicht gheholden den ik gode vn(de) my-
+
+neme bychtuader hebbe ghelouet
+
+vn(de) byn vorsumelych ghe_wesen in
+
+myner bothe dat ys my leyt Jft 
+
+ok wa(n)neer hebbe ghespraken
+
+ofte ghekynet va(n) homodes weghe(n)
+
+---8v---
+
+Jeghen de bekanden waerheyt Jft
+
+ik ghe_hatet hebbe eynes anderen
+
+ghuden werck dat ik sulue(n) nicht
+
+doen kunde ofte doen wolde Jft ik
+
+ok wa(n)ner hebbe ghe_kurret ofte ghe-
+
+murret jeghen den wyllen godes
+
+v(m)me des wy(n)des wyllen ofte wed-
+
+ders wyllen ofte jeghen andere schik-
+
+nisse godes Edder gode ofte synen
+
+hilghen vnere ofte hoensprake ghe-
+
+gheuen hebbe dat ys my leyt va(n) gru(n)d
+
+mynes herthen [[red][¶]] Myt dyssen be-
+
+kanden sunden gheue ik my schul-
+
+dych god va(n) he(m)mele in alle myne(n)
+
+vnbekanden sunden dar my god
+
+va(n) he(m)mele ane bekant vn(de) de bo-
+
+se geyst an my wreke(n) wil tho
+
+deme Ju(n)ghesten daghe se syn doet-
+
+lyke ofte deghelick gheystlick ofte
+
+werlyck hemelick ofte apenbare
+
+wo ik se ghe_doen hebbe in wath
+
+stede vn(de) stu(n)den alleyne ofte sulf
+
+ander so beke(n)ne ik se in alle vp
+
+de gru(n)thloze(n) barmherticheyt
+
+---9r---
+
+godes vn(de) im gnade Here got vader
+
+ghenade Here god sone ghenade ge(re)
+
+got hyllighe gheyst ghenade vryst
+
+vn(de) spare my arme sundere in desseme
+
+kranckan vorghencklike leuende
+
+dat ik va(n) hyr nicht en schede sunder
+
+ik vorwerue dyne gnade in warer
+
+ruwe vn(de) in luchter bycht vn(de) in noth-
+
+aftiger bote vn(de) dyn hylghe lycham
+
+sy my(n) leste spyse vn(de) dyn hilghe blod
+
+my leste drancke de hylghe olghy(n)-
+
+ghe myn leste beschermy(n)ghe wor alle
+
+myne vyande vn(de) de byttere doet my(n)
+
+leste pyne dat ik na desseme kran-
+
+ken vorghenchlicheme leue(n)de va(n)
+
+gnaden moghe myt dy besyttent dat
+
+ewyghe leuent Ame(n)
