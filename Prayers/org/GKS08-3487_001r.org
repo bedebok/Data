@@ -1,7 +1,7 @@
 #+TITLE: Confession and Creed
 
 |------------+-----------------|
-| Manuscript | GKS 3487 4to    |
+| Manuscript | GKS 3487 8vo    |
 | Locus      | 1r 9r           |
 | Work       | CREDO CONFESSIO |
 | Language   | gml             |

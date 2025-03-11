@@ -1,0 +1,152 @@
+#+TITLE:
+
+|------------+--------------|
+| Manuscript | GKS 3487 8vo |
+| Locus      | 9v 5v        |
+| Work       |              |
+| Language   | Low German   |
+| Status     | Transcribed  |
+|------------+--------------|
+
+* Transcription
+** Rubric                                                :lat:PROVERBS_1_8_9:
+FFili ne dimittas lege(m) m(at)rris tue vt ad-
+
+dat(ur) gr(aci)a capiti tuo p(ro)v(erbio) .j. cap(itu)lo
+
+** Text
+Vnse leue her(e) jh(es)us (christus) de geue vns
+
+synen ewyghen vredhe vn(de) na dysseme
+
+leue(n)dhe dat ewyghe leuent Ame(n) Tho ey-
+
+neme loue vn(de) werdicheyt deme alle-
+
+mechtighen gode vn(de) syne(n) b(e)n(e)dicdhen mo-
+
+der ma(ri)en vn(de) alleme he(m)melsche(n) here
+
+vn(de) vns arme(n) sundighen my(n)sche(n) to bet-
+
+therynge vnses sundyghen leue(n)des So
+
+hebbe ik vor my ghenome(n) othlycke wor-
+
+dhe de vns beschrywet de hillyghe A-
+
+lere in syneme ersten capitele welker wort
+
+ludhen vns alzo vp vnse sprake (et_cetera) ___
+
+________ Van dessen worden
+
+vn(de) va(n) andere(n) worden de hyr vth moghe(n)
+
+kome(n) denck ik Jw(er) eyne(n) s(er)mo(nen) va(n) to do(n)-
+
+dhe des ik nicht vullenbry(n)ghen geysthes So
+
+bydde ik dat gy myt myt wyllen hebbe(n)
+
+to_vlucht to ma(ri)en der he(m)melsche(n) koni(n)ck-
+
+yne(n) de dar is ey(n) oueruletende borne der
+
+barmhertycheyt dat se my wyl vor_wer-
+
+uen de gnade va(n) ereme leuen sone my
+
+to spreckende vn(de) jw to horende dat de
+
+allemechge got dar va(n) werde ghelouet
+
+wy arme(n) my(n)sche(n) dar va(n) entfanghen
+
+---5r---
+
+ene beterynghe vnses sundyghe(n) leue{e/}(n)-
+
+des de arme zele de dar zynt barne(n)dhe
+
+in den pyne(n) des veghevueres dar va(n) kry-
+
+ghen vor kortynge ere pyne vppe dat
+
+vns desse vor benomede gnade besche
+
+szo spreket myt y(n)nicheyt Juwes herthe(n)
+
+de grod des engels gab(ri)elis Gegrod(et)
+
+sistu ma(ri)a vul gn⸌a⸍dhe (et_cetera) ____
+
+______
+
+** Rubric
+[[2][P]](ost) S(er)mone(m)
+
+** Text
+Dotey(n) ghemene beth vn(de) 
+
+byddet vor twe stade vor den gheystly-
+
+ke stad vn(de) werlyken stad vor den hylli-
+
+ghen vader den pawes vor zyne kar-
+
+dynal vor byschoppe vor prester(e) vn(de) alle
+
+orden der hyllighe(n) kerken Vor den
+
+werliken stad vor romesche(n) kony(n)gh
+
+vor alle here(n) vn(de) vorsten der hillighe(n)
+
+c(ri)stenheyt Bydde ok vor de doden vor
+
+alle de vns zynt beuolen in vnse ghebet
+
+der wy ere almyssen bruken vn(de) vp-
+
+boren ok vor de elenden zelen spreket
+
+em to hulpe ey(n) p(ate)r n(oste)r vn(de) Aue ma(ri)a
+
+** Text
+Alzegy hebbe ghebeden vor de leue(n)dy-
+
+ghen vn(de) doden vor_ghetet Juwer sulues
+
+nicht tekent Jw vor juwe borst myt de-
+
+⸠d⸡me teken des hillyghe(n) c(ru)ces vn(de) spreket
+
+my na jwe ghemene(n) bycht vn(de) louen
+
+Jn deme name des vaders (et_cetera)
+
+---5v---
+
+** Rubric
+D(omini)ca (segunda) p(ost) festu(m) t(ri)ni(tatis) I J(o)h(ann)is ij
+
+** Text                                                       :1John_3_13_18:
+
+** Rubric
+J(o)h(ann)is iij
+
+** Text                                                          :1John_3_18:
+Ffilioli mei no(n) diliga(m)us v(erb)o neq(ue) li(n)gua s(ed) op(ere) et ve[ritate]
+
+** Rubric
+[J](o)h(ann)is iiij
+
+** Text
+d(eus) cha(ri)tas e(st) et q(ui) man(et) (et_cetera) Jd(em) Si dili...
+
+[???] diliga(m)(us) i(n)uice(m) D(eus) i(n) nobis man(et) et cha(ritas)
+
+ei(us) i(n) nob(is) p(er)f(e)cta e(st) Id(em) Si q(ui)s dilexit q(ua)m  diligo
+
+Deu(m) et fr(atr)em suu(m)  
