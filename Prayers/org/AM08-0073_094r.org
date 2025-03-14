@@ -1,0 +1,63 @@
+#+TITLE: Ave regina coelorum
+
+|------------+---------------------|
+| Manuscript | AM 73 8vo           |
+| Locus      | 94r 94v             |
+| Work       | AVE_REGINA_COELORUM |
+| Language   | Low German          |
+| Status     | Transcribed         |
+|------------+---------------------|
+
+* Transcription
+** Rubric
+Aue regina celorum.
+
+** Text
+[[red 2][G]]hegrutet systu ene ko-
+
+nynge der hemmele ghe-
+
+grutet systu ene vrouwe der
+
+engele du hilge wortele wes
+
+gegrutet van welker der
+
+werlde licht ys vntsprunge(n)
+
+vrouwe dy du erwerdiges-
+
+te mank allen de schoneste
+
+wes gegrutet du schone
+
+---94v---
+
+vnd(e) bidde alle weghe gode vor
+
+vns.
+
+** Collect
+*** Rubric
+Coll(ec)ta fomulor(um) tuor(um)
+
+*** Text
+[[blue 2][H]]ere wy bidden dy dat du
+
+vorlatest de schult dynen
+
+knechte(n) vnd(e) wy dy nicht be-
+
+hagen mogen van vnsen wer-
+
+ken sunder vormiddelst deme
+
+bede der telerynnen dines so-
+
+nes vnses here ih(es)u dat wy
+
+salich werden Vormiddelste
+
+den suluen ih(esu)m (christu)m vnsen
+
+heren. Amen.

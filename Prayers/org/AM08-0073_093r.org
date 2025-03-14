@@ -1,0 +1,104 @@
+#+TITLE: Anna redemptoris
+
+|------------+------------------|
+| Manuscript | AM 73 8vo        |
+| Locus      | 93r 94r          |
+| Work       | ANNA_REDEMPTORIS |
+| Language   | Low German       |
+| Status     | Transcribed      |
+|------------+------------------|
+
+* Transcription
+** Rubric
+Anna rede(m)p-
+
+toris.
+
+** Text
+[[red 2][O]] du gutlike
+
+moder godes vn-
+
+ses forlosers du bloyende
+
+dorch_schynende porte des he(m)-
+
+mels vnde sterne des meres
+
+kum tho hulpe den vallen-
+
+den wolke de ere vpstandin-
+
+ge van dy esschen van eren
+
+sunden. du salige moder du
+
+geberedest dynen schepper
+
+de dy geschapen heft myt
+
+wunder der naturen vnde
+
+bleuest doch ene reyne iu(n)c-
+
+urouwe vor der bort (christ)i vn(de)
+
+na der bort. Wente du ent-
+
+---93v---
+
+fingest den grut van deme
+
+engele gabriele dat du scol-
+
+dest ih(esu)m geberen ane we.
+
+her v(m)me so vorbarme dy oue(r)
+
+dat we vnser sunde
+
+** Versicle
+*** Rubric
+v(ersus)
+
+*** Text
+Ma-
+
+ria bidde vor vns dat wy
+
+werdich werden des gelo-
+
+uedes ih(es)u (christ)i.
+
+** Collect
+*** Rubric
+Collecta.
+
+*** Text
+[[blue 2][H]]ere bescherme{(n)/} dyne de-
+
+nere. .vnde denerynnen
+
+myt der hulpe dines vredes
+
+vn(de) gyf en sekerheit vor alle
+
+eren vienden alle de gene de
+
+sik vorlate{m/n} vp dat milde
+
+beth der salige(n) ewige(n) iunc-
+
+---94r---
+
+urouwen marien de make
+
+sekere vnd(e) vry van alle ere(n)
+
+vienden dor dynen leuen so-
+
+ne ih(esu)m (christu)m vnsen leuen he-
+
+ren. Amen. P(ate)r n(oste)r. Aue ma-
+
+ria.
