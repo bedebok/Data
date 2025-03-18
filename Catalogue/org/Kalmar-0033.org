@@ -30,16 +30,20 @@
 | V     |         31-38 | quaternion  |                                                     |
 | VI    |         39-46 | quaternion  |                                                     |
 | VII   | 47-54 (50+51) | quaternion  |                                                     |
+|-------+---------------+-------------+-----------------------------------------------------|
 | VIII  |         55-62 | quaternion  | new cu?                                             |
 | IX    |         63-70 | quaternion  |                                                     |
+|-------+---------------+-------------+-----------------------------------------------------|
 | X     |         71-78 | quaternion  | new cu                                              |
 | XI    |         79-86 | quaternion  |                                                     |
 | XII   |         87-94 | quaternion  |                                                     |
 | XIII  |        95-101 | quaternion  | 96bis                                               |
-| XIV   |       102-109 | quaternion  | new cu                                              |
-| XV    |       110-116 | ternion     | no 115                                              |
+|-------+---------------+-------------+-----------------------------------------------------|
+| XIV   |       102-108 | quaternion  | new cu; leaf cut between 107-108                    |
+| XV    |       109-116 | quaternion  | no 115                                              |
 | XVI   |       117-122 | ternion     |                                                     |
 | XVII  |       123-132 | quinternion |                                                     |
+|-------+---------------+-------------+-----------------------------------------------------|
 | XVIII |       133-139 | quaternion  | 8th leaf cut                                        |
 | XIX   |       140-145 | ternion     |                                                     |
 | XX    |       146-end | ternion?    | unclear                                             |
@@ -67,9 +71,11 @@
 | 50r 51r    |            | charlemagne MDB920        | *Dette ær cristi breff huilket pawe leo sende ko(n)ning karl* [[O]] kors heel være dw eniste hob [...] Och leede mig til euindelig hiemmerigiss glede Amen                                                            | da       | main              |
 | 51v 54r    |            | "befalelse" MDB167        | [[O]] h(er)re gud fader søn oc then helligand [...] och hiem at komme Jn no(m)i(n)e patris (et) filii (et) sp(irit)ussancti Amen                                                                                      | da       | main              |
 | 54r 54r    | pen trials | pen trials                |                                                                                                                                                                                                                   |          | added             |
+|------------+------------+---------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+-------------------|
 | 55r 66r    |            | HOURS_HOLY_SPIRIT MDBI46  | [[S]]Ancti sp(irit)us assit nobis [...] Jntus et exterius confortat nos sp(irit)us almus Amen                                                                                                                         | lat      | main              |
 | 66v 69v    |            | HOURS_CROSS MDBI59        | *De s(an)c(t)a Cruce* [[T]]Vam cruce(m) adoramus [...] ad gaudia paradysi. Amen.                                                                                                                                      | lat      | main              |
 | 70r 70r    | pen trials |                           |                                                                                                                                                                                                                   | da       | added             |
+|------------+------------+---------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+-------------------|
 | 71r 71v    |            | ?Alternative reading?     | *Item* [[B]](e)n(e)dica(mus) d(omi)n(u)m in o(mn)i t(em)p(or)e [...] vt fructuosa sint suis ??? Amen                                                                                                                  | lat      | main              |
 | 71r        |            | PENITENTIAL_PSALMS MDBI63 | *psalm(us)* [[D]]Om(i)ne ne in fu(r)ore tuo arguas me [...] et ut au(er)tas indignac(i)o(nem) suam a nobis                                                                                                            | lat      | main              |
 | 84v 93v    |            | LITANY MDBI69             | [[K]]yrieleison [[X]](rist)eeleison [...] Per (christu)m Dominu(m) nostrum. Amen.                                                                                                                                         | lat      | main              |
@@ -82,8 +88,10 @@
 | 98v 98v    | added      |                           |                                                                                                                                                                                                                   |          |                   |
 | 99r 99r    | annal      | 1536                      | Anno d(omi)nj M C XXX VI J mellom [...] Kong Ffrederick(is) Søn (et_cetera)                                                                                                                                       | da       | added             |
 | 99v 99v    | annal      | 1440/1?                   |                                                                                                                                                                                                                   |          |                   |
+|------------+------------+---------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+-------------------|
 | 102r 132v  |            | VIGIL_MORT                | *Vigilie mortuor(u)m* Placebo [[D]]Ilexi qui [...]                                                                                                                                                                    |          |                   |
 | 124r ...   |            | final three lessons       | *Venth om bladeth saa faar tw then sywende leytze th(e)r ath See* *l(e)ctio vij(ra)* [[S]]p(irit)us meus [...]  Requiesca(n)t i(n) pace Ame(n)                                                                        | lat      | main              |
+|------------+------------+---------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+-------------------|
 | 133r 134r  |            | [MDB16]                   | *Her begynnes een god bøn aff wor herris pynelsæ oc th(e)r er ganskæ stort afflath til giffwet se(?)* [[D]]Eus qui pro rede(m)pc(i)one [...] p(er) o(mn)ia secula seculorum. Amen.                                    | lat da   | main              |
 | 134r 135r  |            | [MDB81]                   | *Orac(i)o bona* [[A]]VE dextera manus (christi) [...] [[faciant amore feru(er)tes. Per.                                                                                                                               | lat      | main              |
 | 135r 136v  |            | BERNHARD                  | *Sancti bernardi bøn.* [[I]]llumina oculos meos [...] Per (chr)istum Dominu(m) nostrum. Amen.                                                                                                                         | lat da   | main              |
