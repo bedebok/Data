@@ -32,7 +32,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/GKS08-3423.org][GKS 3423 8vo]]  | A Catholic Prayer Book                      | German                |  1400-1499 |
 | [[file:org/GKS08-3451.org][GKS 3451 8vo]]  | Book of Hours (rel. Thott 130 8vo?)         | German                |  1500-1787 |
 | GKS 3457 8vo  | Maribo theological manuscript               | Danish                |      1520? |
-| [[file:org/GKS08-3487][GKS 3487 8vo]] | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
+| [[file:org/GKS08-3487.org][GKS 3487 8vo]]  | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
 | NKS 41 8vo    | Psalter                                     | Latin, German         |  1500-1599 |
 | NKS 44 8vo    | Passionale Jesu Christi                     | German                |  1375-1400 |
 | NKS44 b 8vo   | Gudelige bønner (prayers of god?)           | Danish                |            |
@@ -77,22 +77,22 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | A 234     | Latin composite manuscripts with Low German texts | German      |           |
 | Huseby 25 |                                                   | German      |           |
 |-----------+---------------------------------------------------+-------------+-----------|
-** Kalmar, (Library?)
-|-----------+----------------------------+-------------+------|
-| Shelmark  | Description                | Language(s) | Date |
-|-----------+----------------------------+-------------+------|
-| Kalmar 33 | Knud Bille's book of hours | Danish      |      |
-|-----------+----------------------------+-------------+------|
+** Kalmar, Stadsbiblioteket
+|-----------+----------------------------+-------------+---------|
+| Shelmark  | Description                | Language(s) | Date    |
+|-----------+----------------------------+-------------+---------|
+| [[file:org/Kalmar-0033.org][Kalmar 33]] | Knud Bille's book of hours | Danish      | c. 1515 |
+|-----------+----------------------------+-------------+---------|
 ** Linköping, City Library
-|-----------------+------------------------------------+-------------+------|
-| Shelmark        | Description                        | Language(s) | Date |
-|-----------------+------------------------------------+-------------+------|
-| [[file:./org/Link-Teol-0009.org][Cod. Theol. 9]] |                                    | German      |      |
-| Cod. Theol. 10  |                                    | German      |      |
-| Cod. Theol. 215 |                                    | German      |      |
-| Cod. Theol. 216 |                                    | German      |      |
-| Cod. Theol. 217 |                                    | Danish      |      |
-|-----------------+------------------------------------+-------------+------|
+|-----------------+---------------+---------------+------|
+| Shelmark        | Description   | Language(s)   | Date |
+|-----------------+---------------+---------------+------|
+| [[file:./org/Link-Teol-0009.org][Cod. Theol. 9]]   | Psalter       | German, Latin |      |
+| [[file:org/Link-Teol-0010.org][Cod. Theol. 10]]  | Psalter       | German        |      |
+| [[file:org/Link-Teol-0215.org][Cod. Theol. 215]] | Psalter       | German        |      |
+| [[file:org/Link-Teol-0216.org][Cod. Theol. 216]] | Book of Hours | Dutch?        |      |
+| [[file:org/Link-Teol-0217.org][Cod. Theol. 217]] |               | Danish        |      |
+|-----------------+---------------+---------------+------|
 
 ** Lund, University Library
 |----------+------------------------------------+-------------+------|
