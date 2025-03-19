@@ -87,7 +87,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 |-----------------+------------------------------------+-------------+------|
 | Shelmark        | Description                        | Language(s) | Date |
 |-----------------+------------------------------------+-------------+------|
-| Cod. Theol. 9   |                                    | German      |      |
+| [[file:./org/Link-Teol-0009.org][Cod. Theol. 9]] |                                    | German      |      |
 | Cod. Theol. 10  |                                    | German      |      |
 | Cod. Theol. 215 |                                    | German      |      |
 | Cod. Theol. 216 |                                    | German      |      |
