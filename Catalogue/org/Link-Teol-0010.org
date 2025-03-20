@@ -46,3 +46,5 @@
 * Bibliography
 - Images :: http://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A369937&dswid=113
 - Borcheling 1900 :: 137-142
+
+digitized 28/2 2020
