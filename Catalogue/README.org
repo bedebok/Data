@@ -93,7 +93,6 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/Link-Teol-0216.org][Cod. Theol. 216]] | Book of Hours | Dutch?        |      |
 | [[file:org/Link-Teol-0217.org][Cod. Theol. 217]] |               | Danish        |      |
 |-----------------+---------------+---------------+------|
-
 ** Lund, University Library
 |----------+------------------------------------+-------------+------|
 | Shelmark | Description                        | Language(s) | Date |
@@ -101,7 +100,6 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | Mh 32b   |                                    | German      |      |
 | Mh 35    | Karen Ludvigsdatters book of hours | Danish      |      |
 |----------+------------------------------------+-------------+------|
-
 ** Uppsala, University Library
 |----------+-------------------------+---------------------------------+--------------|
 | Shelmark | Description             | Language(s)                     | Date         |

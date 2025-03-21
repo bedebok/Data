@@ -1,29 +1,48 @@
 #+Title: Linköping Cod Teol 10
 
 * PhysDesc
-|--------------+-------------|
-| SUPPORT      |             |
-| NUMBER       |             |
-| SIZE         |             |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
-| FOLIATION    |             |
-|--------------+-------------|
+|--------------+---------------|
+| SUPPORT      | pap perg      |
+| NUMBER       | iv + 139 + iv |
+| SIZE         | 210 143       |
+| WRITING AREA | 150 95        |
+| COLUMNS      | 1             |
+| LINES        | 28            |
+| FOLIATION    | multiple      |
+|--------------+---------------|
+
+Original foliation in red roman numerals at top of each leaf. Modern foliation in pen, fixed with pencil from f. 31 onwards.
 
 ** Binding
-|--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
-| SIZE         |             |
-|--------------+-------------|
+|------+------------|
+| TYPE | Cardboard  |
+| DATE | 19th cent. |
+| SIZE | 220 150 35 |
+|------+------------|
 
 ** Quire structure
-|---------|---------+--------------+-----------------------------------------------------------|
-| Quire   |  Leaves | Structure    | Changes                                                   |
-|---------+---------+--------------+-----------------------------------------------------------|
-|         |         |              |                                                           |
-|---------|---------+--------------+-----------------------------------------------------------|
+|-------+---------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Quire |  Leaves | Structure | Changes                                                                                                                                                                                                                                                            |
+|-------+---------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I     |    1-12 |           |                                                                                                                                                                                                                                                                    |
+| II    |   13-26 |           |                                                                                                                                                                                                                                                                    |
+| III   |   27-39 |           | Final leaf missing. 38, 39 with stubs between 27-28 and 28-29, resp. 32+33 perg.                                                                                                                                                                                   |
+| IV    |   40-50 |           | Original first leaf (parchment) missing. One more leaf is missing from either quire III or IV, judging from the foliation at the top. However, ff. 40-43 have visible signatures a-e at the bottom of the page, indicating f. 40 was the second leaf of the quire. |
+| V     |   57-60 |           | 56+57 perg. Stump after 60 (conjoined to 52?). Final leaf missing.                                                                                                                                                                                                 |
+| VI    |   61-71 |           | First leaf missing (perg). 65+66 perg.                                                                                                                                                                                                                             |
+| VII   |   72-83 |           | 77+78 perg.                                                                                                                                                                                                                                                        |
+| VIII  |   84-93 |           | Inner bifolium (perg) missing between 88-89.                                                                                                                                                                                                                       |
+| IX    |  94-105 |           | 99+100 perg.                                                                                                                                                                                                                                                       |
+| X     | 106-116 |           | 111 (perg.) on stub before                                                                                                                                                                                                                                         |
+|-------+---------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| XI    | 117-128 |           | paper                                                                                                                                                                                                                                                              |
+| XII   | 129-139 |           | paper. last(?) leaf missing.                                                                                                                                                                                                                                       |
+|-------+---------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Made up of quires with a parchment outer and inner bifolium.
+
+Original foliation at the top in red roman numerals shows that XL-XLII, LXV-LXVI, LXXXXVII-LXXXXVIII, are missing.
+
 
 * History
 |------------+-----------------------|
@@ -33,15 +52,49 @@
 |------------+-----------------------|
 
 * Contents
-|-----------+---------+---------------------+-------------+----------+--------|
-| Locus     | Type    | Text                | Rub/Inc/Exp | Language | Status |
-|-----------+---------+---------------------+-------------+----------+--------|
-| 1r 117r   | psalter |                     |             |          |        |
-| 101       | creed   | CREDO_ATH           |             |          |        |
-| 107v 108r |         | 72 names of Mary    |             |          |        |
-| 117 133   |         | Comments on Psalter |             |          |        |
-| 135       |         | Augustine           |             |          |        |
-|-----------+---------+---------------------+-------------+----------+--------|
+|--------------+----------+-------------------------------+-------------------------------------------------------------------------------------------------------------------+----------+--------|
+| Locus        | Type     | Text                          | Rub/Inc/Exp                                                                                                       | Language | Status |
+|--------------+----------+-------------------------------+-------------------------------------------------------------------------------------------------------------------+----------+--------|
+| 1r 93v       | psalter  |                               | *Dit is den selter mit dutschen wordin geschreue(n) [[B]]eatus vir* [[S]]elich  is der ma(n) [...] loist den h(er)rm      | gml      | main   |
+| 93v 94r      | prayer   | CONFITEBOR_TIBI               |                                                                                                                   |          |        |
+| 94r 94v      | prayer   | EGO_DIXI_IN_DIMIDO            |                                                                                                                   |          |        |
+| 94v 95r      | prayer   | EXULTAVIT_COR_MEUM            |                                                                                                                   |          |        |
+| 95r 96r      | prayer   | CANTEMUS_DOMINO               |                                                                                                                   |          |        |
+| 96r 97r      | prayer   | DOMINO_AUDIVI_AUDITIONEM_TUAM |                                                                                                                   |          |        |
+| 97v[r] 99v   | prayer   | AUDITE_CELI_QUI_LOQUITUR      |                                                                                                                   |          |        |
+| 99v 100r     | prayer   | BENEDICTE_OMNIA_OPERA         |                                                                                                                   |          |        |
+| 100r 100v    | prayer   | BENEDICTUS                    |                                                                                                                   |          |        |
+| 100v 101r    | prayer   | TE_DEUM                       | *[[T]]e deu(m) laudam(us) te dominu(m) confitenuur* [[G]]ot wir louen dich [...] ich inwerden nummer geschant             | gml      | main   |
+| 101r 103r    | creed    | CREDO_ATH                     | *Quicu(m)q(ue) uult saluus esse* [[S]]o we da behaldin [...] mach men behaldin wer                                    | gml      | main   |
+| 103r 103r    |          | MAGNIFICAT                    |                                                                                                                   |          |        |
+| 103r 103v    |          | NUNC_DIMITTIS                 |                                                                                                                   |          |        |
+| 103v 106r    |          | LITANY                        |                                                                                                                   |          |        |
+| 106r 106v    | prayer   |                               | *Oracio* [[G]]ot deme eygen is zu erbarmen alle czijt [...] inde van dir werde geendit                                |          |        |
+| 106v 106v    | prayer   |                               | *Oracio* [[O]] du ewich geweldich got [...] godis mosen rasten i(n) vredin Ame(n)                                     |          |        |
+| 107r 107r    | prayer   |                               | Here erbarme dich ouer vns [...] *Collecta* [[W]]ir bidden dich [...] dat gesheye vns allen samen Jn godes namen Amen | gml      | added? |
+| 107v 108r    |          | 72_NAMES_MARY                 |                                                                                                                   | gml      |        |
+| 108r 108v    | prayer   | BENEDICITE                    | *Benedicte* [[O]]culi omniu(m) in te sperant [...]                                                                    | lat      |        |
+| 108v 108v    | prayer   |                               | [[D]]eus patris (et) dilectio(n)is sit semp(er) [...]                                                                 | lat      |        |
+| 109r 109v    | prayer   |                               | [[E]]dent pauperes (et) saturabuntur                                                                                  |          |        |
+| 109v         |          | BENEDICITE                    | *benedicite* [[B]]Enedicite Alle oghen hoffent [...]                                                                  |          |        |
+|              |          | -More?-                       |                                                                                                                   |          |        |
+| 112r 112r    | prayer   | PATER_NOSTER                  | *pater noster* [[U]]ader vnser de du bis in den hemillen [...] erlase vns van oyuele Amen                             | gml      |        |
+| 112r 112r    | prayer   | AVE_MARIA                     | [[G]]egroit systu Maria [...] dins lynes ihesus cristus Amen                                                          | gml      |        |
+| 112v[r] 112v | creed    | CREDO                         | *Credo* [[J]]ch geloyuen in got vader almechtich                                                                      |          |        |
+| 112v 113r    |          | PRECOR_TE_AMATISSIME          |                                                                                                                   |          |        |
+| 113r         |          |                               | *Sequencia de domina nostra* [[A]]ue p(re)clara maris stella                                                          | gml      |        |
+| 114v         |          |                               | [[G]]loria in excelsis deo. Ere sy goide in der hugedin                                                               |          |        |
+|              |          | -more?-                       |                                                                                                                   |          |        |
+| 115r 115r    |          |                               | *veni s(anc)te* [[K]]um helicher geist                                                                                |          |        |
+| 115r 115v    |          |                               | *sequencia* [[U]]eni s(an)c(t)e sp(ritus) kum helicher geist                                                          |          |        |
+| 115v 115v    |          | REGINA_CELI                   |                                                                                                                   |          |        |
+| 115v 115v    |          | AVE_REGINA                    |                                                                                                                   |          |        |
+| 115v 116r    |          |                               | [[S]]it nomen d(ominu)m n(ostru)m                                                                                     | lat gml  | main   |
+| 116r 116v    |          | CREDO                         | *Credo in missa* [[J]]ch gheloyuen in eynim got vader almechtig                                                       | gml      | added? |
+| 116v 116v    |          |                               | Gloria dat is hoghe clare ere                                                                                     |          |        |
+| 117r 133v    | register | Register of the psalter       | *Hie heuet an der selter va(n) latine zo duytsche gemacht.*                                                       |          | defect |
+| 134r 136r    |          | Augustine                     | *Augustinus de p(ri)ma ininnge(n)da* Dicut b(ea)t(u)s Aug(ustinus)                                                |          |        |
+|--------------+----------+-------------------------------+-------------------------------------------------------------------------------------------------------------------+----------+--------|
 
 * Bibliography
 - Images :: http://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A369937&dswid=113
