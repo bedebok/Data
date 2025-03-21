@@ -4,7 +4,7 @@
 | Manuscript | AM 784 4to  |
 | Locus      | 26v 26v     |
 | Work       |             |
-| Language   | da          |
+| Language   | Danish      |
 | Status     | transcribed |
 |------------+-------------|
 

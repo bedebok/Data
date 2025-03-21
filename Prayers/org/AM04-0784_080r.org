@@ -4,7 +4,7 @@
 | Manuscript | AM 784 4to  |
 | Locus      | 80r:7 81r:3 |
 | Work       | ADVENT_1    |
-| Language   | da          |
+| Language   | Danish      |
 | Status     | transcribed |
 |------------+-------------|
 
