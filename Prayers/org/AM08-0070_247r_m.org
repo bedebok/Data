@@ -1,12 +1,12 @@
 #+TITLE: Virgo resurgentis
 
-|------------+-------------------|
-| Manuscript | AM 70 8vo         |
-| Locus      | 247rm 247m        |
+|------------+-------------------------|
+| Manuscript | AM 70 8vo               |
+| Locus      | 247rm 247m              |
 | Work       | VIRGO_MATER_RESURGENTIS |
-| Language   | da                |
-| Status     | Proofread         |
-|------------+-------------------|
+| Language   | da                      |
+| Status     | Proofread               |
+|------------+-------------------------|
 
 * Transcription
 ** Rurbic

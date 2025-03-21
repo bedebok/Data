@@ -1,9 +1,7 @@
-#+TITLE:
-#+AUTHOR: AM 70 8vo, 254r-254v
-# BIBLE: Lamentations 1:18-
+#+TITLE: Variants for the Cantus Sororum
 
 |------------+-------------|
-| Manuscript | AM08-0070   |
+| Manuscript | AM 70 8vo   |
 | Locus      | 254r 254v   |
 | Work       |             |
 | Language   | gml da lat  |
