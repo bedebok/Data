@@ -1,17 +1,16 @@
-#+TITLE:  AM08_0070-2v
-#+AUTHOR: AM 70 8vo f. 2v
+#+TITLE:  A prayer to Christ
 
 |------------+-----------|
-| Manuscript | AM08-0070 |
-| Locus      | 2v        |
+| Manuscript | AM 70 8vo |
+| Locus      | 2v 2v     |
 | Work       |           |
-| Language   | da        |
-| Status     | Begun     |
+| Language   | Danish    |
+| Status     | Proofread |
 |------------+-----------|
 
 * Transcription
 ** Text
-O herræ ih(es)u xr(ist)e thu som togsth
+[[2][O]] herræ ih(es)u (christ)e thu som togsth
 
 thette alsomheligstæ lego(m)mæ
 

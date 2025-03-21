@@ -1,10 +1,10 @@
 #+TITLE: Cantus Sororum (Introduction)
 
 |------------+--------------|
-| Manuscript | AM08-0070    |
+| Manuscript | AM 70 8vo    |
 | Locus      | 1r 2v        |
 | Work       | CANTUS.intro |
-| Language   | gml          |
+| Language   | Low German   |
 | Status     | Transcribed  |
 |------------+--------------|
 

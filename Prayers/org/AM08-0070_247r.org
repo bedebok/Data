@@ -2,7 +2,7 @@
 
 |------------+--------------|
 | Manuscript | AM08-0070    |
-| Locus      | 247r         |
+| Locus      | 247r 247r    |
 | Work       | REGINA_COELI |
 | Language   | da           |
 | Status     | Transcribed  |

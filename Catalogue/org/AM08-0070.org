@@ -117,11 +117,19 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
 
 ** Contents (new)
-|---------+-------+----------+--------------------------------------------------------------------------+------+--------|
-| Loc     | Type  | Text     | Rub/Inc/Exp                                                              | Lang | Status |
-|---------+-------+----------+--------------------------------------------------------------------------+------+--------|
-| 64r 65r | PSALM | PSALM_17 | [[H]]Ere twide my(n) rechtuerdicheit [...] wen dyneme ere sich openbaret Ere | mlg  | added  |
-|         |       |          |                                                                          |      |        |
+|-----------+--------+-----+-------------------------+---------------------------------------------------------------------------+------+--------|
+| Loc       | Type   | MDB | Text                    | Rub/Inc/Exp                                                               | Lang | Status |
+|-----------+--------+-----+-------------------------+---------------------------------------------------------------------------+------+--------|
+| 1r 2v     | hours  |     | [[file:~/Documents/DFF/Data/Prayers/org/AM08-0070_001r.org][CANTUS.intro]]            |                                                                           |      |        |
+| 2v 2v     | prayer | 980 | [[file:~/Documents/DFF/Data/Prayers/org/AM08-0070_002v.org][A prayer to Christ]]      |                                                                           |      |        |
+| 3r        | hours  |     | [[file:~/Documents/DFF/Data/Prayers/org/AM08-0070_003r.org][CANTUS.matins]]           |                                                                           |      |        |
+|           |        |     |                         |                                                                           |      |        |
+| 64r 65r   | PSALM  |     | PSALM_17                | [[H]]Ere twide my(n) rechtuerdicheit [...] wen dyneme ere sich openbaret Ere  | mlg  | added  |
+|           |        |     |                         |                                                                           |      |        |
+| 247r 247r | prayer |     | [[file:~/Documents/DFF/Data/Prayers/org/AM08-0070_247r.org][REGINA_COELI]]            | *Regina celi letare* [[K]]onynghynne des he(m)mels                            | da   | added  |
+| 247r 247r | prayer |     | [[file:~/Documents/DFF/Data/Prayers/org/AM08-0070_247r_m.org][VIRGO_MATER_RESURGENTIS]] | *Prosa* V(ir)go m(ate)r res(ur)gentis (et cetera) Jomffrw ha(n)s modh(e)r | da   | added  |
+|           |        |     |                         |                                                                           |      |        |
+| 253v 253v | prayer |     | [[file:/../../Prayers/org/AM08-0070_253r.org][A prayer to the Trinity]]          |                                                                           |      |        |
 
 * Bibliography
 - Ellen Jørgensen (1906) :: En Oversættelse af Cantus Sororum og Sermo Angelicus. /Arkiv för Nordisk Filologi/ 22: 367-370.
