@@ -119,7 +119,7 @@ A large part of the manuscript was written by Johannes Johannessen, an underteac
 | 25v     |                |                 |  918 |                                                                      |      |                 |
 | 26r     |                |                 | 1120 |                                                                      |      |                 |
 | 26v     |                |                 | 1121 |                                                                      |      |                 |
-| 26v 26v |                | [[file:~/Documents/DFF/Data/Prayers/org/AM04-0784_026v_m.org][TRAVELER]]        |      |                                                                      | da   | added           |
+| 26v 26v |                | [[file:/Prayers/org/AM04-0784_026v_m.org][TRAVELER]]        |      |                                                                      | da   | added           |
 | 27r     |                |                 | 1122 |                                                                      |      |                 |
 | 27r     |                |                 | 1123 |                                                                      |      |                 |
 | 27r     |                |                 | 1124 |                                                                      |      |                 |
