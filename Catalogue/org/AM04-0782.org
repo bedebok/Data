@@ -1,7 +1,5 @@
 #+Title: AM 782 4to
 
-https://handrit.is/manuscript/view/da/AM04-0782
-
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | perg        |
@@ -82,7 +80,7 @@ https://handrit.is/manuscript/view/da/AM04-0782
 |---------+--------+------------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
 | Locus   | Type   | Text       |      MDB | Rub/Inc/Exp                                                                                                                                                           | Lang | Status |
 |---------+--------+------------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
-| 1r 4r   | prayer | [[file:~/Documents/DFF/Data/Prayers/org/AM08-0782_001r.org][ADVENT_1]]   |  527 528 | *Jtem hær effther fylligher en bøn tw skalth læsse førsthe søndagh y adwent før jwll Och er th(et) th(e)n førstæ søndagh som ko(m)mer effth(e)r s(anc)te andras dag*  |      |        |
+| 1r 4r   | prayer | [[file:/Prayers/org/AM08-0782_001r.org][ADVENT_1]]   |  527 528 | *Jtem hær effther fylligher en bøn tw skalth læsse førsthe søndagh y adwent før jwll Och er th(et) th(e)n førstæ søndagh som ko(m)mer effth(e)r s(anc)te andras dag*  |      |        |
 | 4r      | prayer | ADVENT_ALL |      529 | *Jtem her efft(e)r ffølger en bøn tw skall læse hwer dag y adventh*                                                                                                   |      |        |
 | 6r      | prayer |            |      530 | *Jtem her effter følger en bøn tw skalt læse nar tw gonger thyll skripte*                                                                                             |      |        |
 | 7r      | prayer |            |      531 | *Jt(em) nar tw faller po tyne knæ for presten tha sy saa*                                                                                                             |      |        |
@@ -196,7 +194,7 @@ https://handrit.is/manuscript/view/da/AM04-0782
 |         |        |            |      630 |                                                                                                                                                                       |      |        |
 |         |        |            |      631 |                                                                                                                                                                       |      |        |
 |         |        |            |      632 |                                                                                                                                                                       |      |        |
-| 91r 92r | prayer | [[file:~/Documents/DFF/Data/Prayers/org/AM04-0789_091r.org][LENT_ALL]]   |          | *It(e)m eynen beth de ga(n)zen vasten ower alle dage to bedende* [[O]] ewige here vth der groten dwpe [...] in dat ewigen lewend aller vroude Amen p(ate)r n(oste)r ame(n) | gml  | main   |
+| 91r 92r | prayer | [[file:/Prayers/org/AM04-0789_091r.org][LENT_ALL]]   |          | *It(e)m eynen beth de ga(n)zen vasten ower alle dage to bedende* [[O]] ewige here vth der groten dwpe [...] in dat ewigen lewend aller vroude Amen p(ate)r n(oste)r ame(n) | gml  | main   |
 |         |        |            |      633 |                                                                                                                                                                       |      |        |
 |         |        |            |      634 |                                                                                                                                                                       |      |        |
 |         |        |            |      635 |                                                                                                                                                                       |      |        |
@@ -414,3 +412,5 @@ https://handrit.is/manuscript/view/da/AM04-0782
 | 246r    |        |            |     1153 |                                                                                                                                                                       |      |        |
 |---------+--------+------------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
 
+* Bibliography
+- Handrit :: https://handrit.is/manuscript/view/da/AM04-0782
