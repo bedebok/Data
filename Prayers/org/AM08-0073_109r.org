@@ -1,0 +1,1270 @@
+#+TITLE: Hours of the Trinity
+
+|------------+---------------------|
+| Manuscript | AM 73 8vo           |
+| Locus      | 109r:12 130r        |
+| Work       | HOURS_TRINITY       |
+| Language   | Low German          |
+| Status     | Transcription begun |
+|------------+---------------------|
+
+* Transcription
+*** Matins
+*** Rubric
+De hilge dre-
+
+ualdicheit.
+
+*** Text
+[[blue 3][O]] Hilghe
+
+dreualdicheit wy
+
+an_ropen dy wy an-
+
+---109v---
+
+beden di wy louen dy. De
+
+name des heren sy benediet
+
+van nu vnde to ewigen ty-
+
+den [[red][H]]ere opene myne
+
+lippen vnd(e) myn mvnt schal
+
+kundyghen dyn lof [[blue][G]]ot
+
+de[n]cke an myne hulpe. He-
+
+re snelle dy my to helpen-
+
+de. [[red][E]]re sy deme vadere
+
+vnde deme sone vnd(e) deme
+
+hilgen geyste. [[blue][A]]lso dat
+
+was an deme anbegin(n)e.
+
+vnd(e) nv vnd(e) iummer bli-
+
+uen schal. amen.
+
+** Rubric
+B(e)n(e)d(icite)
+
+** Text
+[[red][B]]enediet sy de vader vnd(e)
+
+---110r---
+
+de hilge gheest wente he
+
+heft ge_maket myt vns
+
+syne barmh(er)ticheit. [[blue][H]]ere
+
+vorbarme di [[red][C]]riste vorb(ar)-
+
+me dy [[blue][H]]ere vorbarme dy
+
+** Text                                                        :PATER_NOSTER:
+
+[[red][U]]ader vnse de d bist in de-
+
+me he(m)mele hilget we(r)de dy(n)
+
+name. To kome dy rike
+
+din wille werrde in deme
+
+hemmele also in der erden
+
+Vnse daghelike brot gif
+
+vns leue here huten vnd(e)
+
+vor_gif vns vnse schuldene-
+
+re. Vnd(e) vore vns nicht
+
+in bekoringe. Sunder lose
+
+---110v---
+
+vns van arche. amen.
+
+** Text                                                           :AVE_MARIA:
+[[blue][G]]he_grutet systu marie
+
+vulgaden de here ys met dy
+
+du bist gebenediet mank
+
+den vrouwen vnd(e) gebene-
+
+diet ys de frucht dynes li-
+
+ues ih(esus) (christus). amen.
+
+** Rubric
+B(e)n(e)d(ictamus)
+
+** Text
+[[red][W]]i benedien den vader vn(de)
+
+den sone myt deme hilghe(n)
+
+gh{ie/ei}ste wi willen louen
+
+vnde vorhoghen ene to e-
+
+wichen tiden. [[blue][H]]ere ent-
+
+wide myn beth. vnd myn
+
+ropent kome to dy
+
+*** Collect
+**** Rubric
+coll(ecta)
+
+**** Text
+[[red 2][A]]lmechtige got de du
+
+---111r---
+
+hefst gegeuen vns dynen
+
+deneren in der bekantnisse
+
+des waren louen der euiche(n)t[fn::Correct?]
+
+de ere to bekennende in der
+
+mechticheit an to bedende
+
+wi bidden dat wy myt der
+
+sterke des suluen louen alle
+
+weghe moten werden be-
+
+schermet van alle vnseme
+
+vedder stalle. amen. [[blue][H]]ere
+
+vntwide myn beth. Vnde
+
+myn ropent kome to dy.
+
+[[red][W]]y benedien den heren. Go-
+
+de sy lof [[blue][D]]e hilge dreual-
+
+dicheit benedie vnde be-
+
+---111v---
+
+ware vns amen.
+
+** Prime
+*** Rubric
+De p(ri)me
+
+*** Text
+[[red 2][O]] hilge dreualdicheit
+
+wy an_ropen di wy
+
+an_beden di wy louen dy.
+
+[[blue][D]]e name des heren sy be-
+
+nediet van nu vnd(e) to ewi-
+
+gen tiden [[red][G]]ot dencke an
+
+myne hulpe. Here snelle
+
+dy my to helpende [[blue][E]]re
+
+sy deme vadere vnd(e) deme
+
+sone vnd(e) deme hilgen ghes-
+
+te. [[red][A]]lso dat was an deme
+
+anbegynne vnd(e) nv vnde
+
+yu(m)mer bliuen schal amen
+
+[[blue][B]]enediet sy de vader vnd(e)
+
+---112r---
+
+de engheboren sone vnd(e) de
+
+hilge gheist wente he heft
+
+gemaket myt vns syne bar(m)-
+
+herticheit [[red][H]]ere vorbarme
+
+dy [[blue][C]]riste vorbarme di [[red][H]]e-
+
+re vorbarme di [[blue][U]]ader vnse.
+
+[[red][W]]y benedien den vander vn(de)
+
+den sone myt deme hilgen
+
+geyste wy willen louen vn(de)
+
+vorhoghen ene tho ewyge(n)
+
+tide [[blue][H]]ere entwide myn
+
+beth. vnd(e) my ropen ko-
+
+me to dy.
+
+** Collect
+*** Rubric
+Collecta
+
+*** Text
+[[red 2][O]] here grotet vnd(e) vru-
+
+chtende got hilge dre-
+
+---112v---
+
+ualdicheit vnd(e) ewighe
+
+walt. de du hefst gemaket
+
+hemmel vnd(e) ertrike met
+
+dyner sterke de du hefst
+
+geschapen den mynschen
+
+na dyme bilde vnd(e) liknisse
+
+se an dat beth dyner den(n)e-
+
+re dat ik hutene bede an
+
+dyme angesichte boghe
+
+dyne milden oren to deme
+
+bede dynes deners nicht
+
+na myneme vordenste men
+
+na dyner groten barmher-
+
+ticheit. O ware licht de du
+
+vor_luchtest alle mynsche(n)
+
+---113r---
+
+dede komende in desse werlt
+
+vorluchte de ogen mynes
+
+herten vnd(e) ghif my dat
+
+licht der wischeit vnd(e) vor-
+
+nuft des guden rades vnd(e)
+
+der sterke der samwitiche(n)t
+
+vnd(e) mildicheit vor_vullen
+
+myne sele myt deme gheste
+
+vructhen. Ghif my rech-
+
+ten louen vnd(e) ware leue
+
+butenwendich bri(n)ghet de(n)
+
+vruchten. O got nym va(n)
+
+my alle hardicheit mynes
+
+herten vnd(e) allen hat vnd(e)
+
+schedelike willen. Giff my
+
+---113v---
+
+en lerich herte vnd(e) en ru-
+
+wich herte vnd(e) en otmodich
+
+herte. vnd(e) dat licht der
+
+wetenheit vnd(e) dat ik mach
+
+voruemen tussche(n) deme
+
+ghuden vnd(e) quaden. Giff
+
+my wisheit meticheit vnd(e)
+
+sterke. Giff my dyne gna-
+
+de vnd(e) hulpe dat yk dy
+
+mach lef hebben van my-
+
+neme ghanzcen herten
+
+vn(de) den vrede der broderly-
+
+ken leue den du vns hefst
+
+geboden to bewarende vn-
+
+beulecket. Leue here ope-
+
+---114r---
+
+ne mynen syn vnd(e) vornuft
+
+vnd(e) gif my ene ghude decht-
+
+nisse dat ik inder hilgen
+
+scrift vnder dinen boden
+
+mach wanderen vnd(e) dyne
+
+bode bewaren vnd(e) to alle(n)
+
+tiden dat don dat dy be-
+
+haghen. Vorlene my leue
+
+got to bewarende de ganz-
+
+ce kusscheit myner sele
+
+vnd(e) lichames. Giff my
+
+vntholdinge vnd(e) lose my
+
+van der wollust des vles-
+
+sches vnd(e) der oghen Bo-
+
+ghe myn herte in dyne
+
+---114v---
+
+tuchnisse vnd(e) nicht in gy-
+
+richeit O ewige vader ik
+
+bidde dy dat ik van dyner
+
+anghestinge hebbe hulpe
+
+bekant van dyner weghe-
+
+ne muthe vor_vollen vnd(e)
+
+beth in den enende in ghu-
+
+den werken myt dyner
+
+regeringhe in dyneme
+
+leue vnd(e) in dyner hilgen
+
+gude mote vordene beste(n)-
+
+dich to bliuende vnd(e) dat
+
+ik moghe vordenen in de-
+
+me daghe dyner toku(m)pst
+
+na dyner bar(m)herticheit
+
+---115r---
+
+dat ik werde gevunden in
+
+dyme hemelschen rike. ame(n)
+
+[[blue][H]]ere twide myn beth. vnd(e)
+
+myn ropent kome to dy.
+
+[[red][W]]y benedien den heren. Go-
+
+de sy dancke [[blue][D]]e hilghe dre-
+
+ualdicheit benedie vnd(e) be-
+
+hode vns. Amen.
+
+** Terce
+*** Rubric
+De tercie
+
+*** Text
+[[red 2][O]] Hilge dreualdicheit
+
+wy an_ropen dy wy
+
+anb{ei/ie}den di wy {wy/} louen
+
+dy [[blue][D]]e name des heren sy
+
+benediet van nv vnd(e) to
+
+ewigen tiden [[red][G]]ot denc-
+
+ke an myne hulpende [[blue][E]]re
+
+---115v---
+
+sy deme vadere vnd(e) deme so-
+
+ne vnd(e) deme hilgen gheiste.
+
+[[red][A]]lso dat {v/w}as an deme an-
+
+begynne vnd(e) yummer bli-
+
+uen schal amen. [[blue][B]]enedi-
+
+et sy de vader vnd(e) de enge-
+
+boren sone vnd(e) de hilge gh-
+
+eist wente he heft gema-
+
+ket myt vns syne bar(m)her-
+
+ticheit. [[red][H]]ere vorbarme
+
+dy [[blue][C]]riste vorbarme dy
+
+[[red][H]]ere vorbarme dy [[blue][U]]ader
+
+vnse. [[red][W]]i benedien den va-
+
+der vnd(e) den sone myt de-
+
+me hilgen gheiste wy wil-
+
+---116r---
+
+len louen vnd(e) vorhoghen
+
+ene to ewigen tiden [[blue][H]]ere
+
+entwide my beth. vnd(e) myn
+
+ropent kome to dy.
+
+*** Collect
+**** Rubric
+Collecta.
+
+**** Text
+[[red 2][H]]ere almechtige got de
+
+du leuest in der vulle(n)-
+
+komen dreualdicheit vnd(e)
+
+herscopedes vnd(e) regnerest
+
+schone mynen sunden tros-
+
+te my krancken make su(n)t
+
+my vnmechtigen. Hele my
+
+sukaftigen. gif dat herte
+
+dat dy vruchte. Gif den
+
+synde dy mote vornemen.
+
+Here lose my van der walt
+
+---116v---
+
+myner we der saten vnd(e) la-
+
+ten my bouen myne macht
+
+nicht bekoren. Lose my van
+
+deme streke des dodes myn
+
+here myn got myn salich-
+
+maker vnd(e) lose my van
+
+der vloschliken wollust.
+
+Biddet vor my gy neghen
+
+kore der engele vnde engele
+
+vnde gi patr(i)archen. p(ro)phe-
+
+ten. apostole. ewangeliste(n)
+
+mertelere. bichteghere vn(de)
+
+iu(n)curouwen biddet vor my
+
+vnd(e) gi hilgen vedere. B(e)n(e)-
+
+dictus bernardus. francis-
+
+---117r---
+
+cus vnd(e) alle gi hilgen dede
+
+hebben de gnade godes bid-
+
+det vor my sundere. dat ik
+
+vngheserigheit mach kome(n)
+
+to der hanene des ewigen
+
+heiles vnd(e) dat ewige leuent
+
+myt dy besitten. amen. [[blue][H]]e-
+
+re entwide myn betch. vnde
+
+{/myn} ropent kome to dy [[red][W]]i
+
+b(e)n(e)dien den heren. Gode sy
+
+loff [[blue][D]]e hilge dr{/e}ualdiche⸌i⸍t
+
+benedie vnd(e) beware vns
+
+Amen.
+
+** Sext
+*** Rubric
+De sexte.
+
+*** Text
+[[red 2][O]] hilge dreualdicheit wi
+
+an_ropen dy wy an_be-
+
+---117v---
+
+den di wi louen di name des
+
+heren sy benediet van nv
+
+to ewigen tiden [[blue][G]]ot den-
+
+cke an myne hulpe here snel-
+
+le dy to helpende my [[red][E]]re
+
+sy deme vadere vnd(e) deme
+
+sone vnd(e) deme hilghen gheis-
+
+te [[blue][A]]lso dat was an deme
+
+anbegynne vnd(e) vn iu(m)mer
+
+bliuen schal. amen. [[red][G]]he-
+
+benediet sy de vader vnde
+
+de enborgne sone vnd(e) de hilge
+
+gheist wente he heft ge-
+
+maket myt vns syne bar(m)-
+
+herticheit. [[blue][H]]ere vorbar-
+
+---118r---
+
+me dy [[red][C]]riste vorbarme
+
+dy [[blue][H]]ere vorbarme di [[red][U]]a-
+
+der vnse [[blue][W]]y b(e)n(e)dien den
+
+vade{/r} vnd(e) den sone myt de-
+
+me hilgen gheiste wi wil-
+
+len louen vnd(e) vorhoghen
+
+ene to ewigen tiden [[red][H]]ere
+
+entwide myn betch. vnde
+
+myn ropent kome to dy.
+
+*** Collect
+**** Rubric
+Coll(ecta)
+
+**** Text
+[[blue 2][H]]ere hilge vader
+
+alse du west vn(e) alse
+
+du vult vorbarme dy ouer
+
+my sunder rmyt der hulpe
+
+godes des sones vnd(e) des
+
+hilghen gheistes vnd(e) myt
+
+---118v---
+
+deme bede der telerynnen
+
+godes der iu(n)curouwen ma-
+
+rien vnd alle der hilgen der
+
+wi ere dechtnisse beghan
+
+hir in desseme ertrike dat
+
+myne snoden sunde moten
+
+werden gedelget myt der
+
+anropinge eres namen
+
+vnd(e) myt ereme vorde(n)ste
+
+vnd(e) bede mote ik werden
+
+gerenigheit van mynen
+
+sunden dat yk mote kome(n)
+
+to der clarheit der hoges-
+
+te hilicheit. Amen. [[red][H]]ere
+
+twide myn betch. vnd(e) myn
+
+---119r---
+
+ropent kome to dy. [[blue][W]]y
+
+benedien den heren. Gode
+
+sy lof [[red][D]]e hilge dreualdic-
+
+heit benedie vnde behode
+
+vns Amen.
+
+** Nones
+*** Rubric
+De None
+
+*** Text
+[[blue 2][O]] hilge dreualdicheit
+
+wi an_ropen dy. wy
+
+an_beden dy wi louen dy.
+
+[[red][D]]e name des here(n) si bene-
+
+diet van nv vnd(e) to ewyge(n)
+
+tiden [[blue][G]]ot dencke an my-
+
+ne hulpe. Here snelle dy
+
+my to helpende [[red][E]]⸠e⸡re sy
+
+deme vadere vnd(e) deme so-
+
+ne vnd(e) deme hilghen geis-
+
+--119v---
+
+te [[red][A]]lso dat was an deme
+
+anbegynne vnd(e) nv iu(m)mer
+
+bliuen schal amen. [[blue][B]]ene-
+
+diet sy de vader vnd(e) de en-
+
+geboren sone vnd(e) de hilghe
+
+gheist. wente he heft ghe-
+
+maket myt vns sine bar-
+
+meherticheit. [[red][H]]ere vor-
+
+barme dy [[blue][C]]riste vorbar-
+
+me di [[red][H]]ere vorbarme di.
+
+[[blue][W]]y benedien den vader vn(de)
+
+den sone myt deme hilghe(n)
+
+gheist wi willen louen
+
+vnde vorhogen ene to ewi-
+
+ghen tiden [[red][H]]ere entwi-
+
+---120r---
+
+de myn beth vnd(e) myn ro-
+
+pent kome to dy.
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+[[red 2][O]] got der barmehertic-
+
+heit got der mildiche(i)t
+
+vader vnd(e) sone vnd(e) hilge
+
+geist en ewich got ik an_
+
+rope dyne vvnsprekelike
+
+walt der gotheit dat du
+
+my armen sundere dyne(n)
+
+deruet gheuest vryg to
+
+wesende van aller schult
+
+vnd(e) {v/w}ech nemest van my-
+
+nen sunden de wrake der
+
+bittericheit vnd(e) gheuest
+
+my de begheringhe der gna-
+
+---120v---
+
+de dat dy de dachtnisse my-
+
+ner bosheit nicht weder
+
+rope to der wrake men de
+
+beteringe myner sede boge
+
+dy to der vorlatinghe my-
+
+ner sunde De myt bute(n)
+
+welker wollust vnd(e) myt
+
+quaden begheringe ys
+
+ghetreden to vorbisteren-
+
+de van dy de du bist dat
+
+ware leuent vnd(e) de {v/w}ech
+
+dat ik myt dyner hulpe
+
+hir neghest de scheddeli-
+
+ken wollust moge vor-
+
+unden vnd(e) dy mote beha-
+
+---121r---
+
+gen alle tijd in mildichli-
+
+ker Jnnicheit vnd(e) mote
+
+so vordenen to komende
+
+to deme gesichte dyner al-
+
+weldicheit. Amen. [[blue][H]]ere
+
+twide myn beth vnd(e) myn
+
+ropent kome to dy [[red][W]]y
+
+benedien den heren. Gode
+
+sy lof. [[blue][D]]e hilge dreualdic-
+
+heit benedie vnd(e) beware
+
+vns.
+
+** Vesper
+*** Rubric
+De vespere
+
+*** Text
+
+[[red 2][O]] hilge dreualdicheit
+
+wi an_ropen dy wi lo-
+
+uen dy. [[blue][D]]e name des he-
+
+ren sy benediet van nv to
+
+---121v---
+
+ewigen tiden [[red][G]]ot denke
+
+an myne hulpe. Here snel-
+
+le dy to helpende my [[blue][E]]re
+
+sy deme vadere vnd(e) deme
+
+sone vnd(e) deme hilgen gheis-
+
+te [[red][A]]lso dat {v/w}as an deme
+
+ambegynne vnd(e) nv ium-
+
+mer bliuen schal. Amen.
+
+[[blue][G]]hebenediet si de vader
+
+vnd(e) de enborne sone vnd(e)
+
+de hilge gheist wente he
+
+heft gemaket myt vns
+
+syne. barmherticheit.
+
+[[red][H]]⸌e⸍re vorbarme dy [[blue][C]]riste
+
+vorbarme di [[red][H]]ere vorbar-
+
+---122r---
+
+me dy [[blue][U]]ader vnse [[red][W]]y
+
+benedien den vader vnd(e)
+
+den sone myt deme hilghe(n)
+
+gheiste wi willen louen
+
+vnd(e) vorhoghen ene to al-
+
+len tiden [[blue][H]]ere entwide
+
+my betch. Vnde myn ro-
+
+pent kome to dy.
+
+*** Collect
+**** Rubric
+Coll(ec)ta
+
+**** Text
+
+[[red 2][O]] almechtighe alder-
+
+sachtmodigheste got
+
+hillige dreualdicheit ik
+
+bidde dy by der gotliken
+
+meticheit dat du my mil-
+
+de got myt dyner barm-
+
+herticheit an seest. vnd(e)
+
+---122v---
+
+latest my nicht bedroue(n)
+
+van mynen vienden we(n)-
+
+te ik wet dat in otmodich-
+
+liker dult dat du my al-
+
+le tijd bewisest dyne gna-
+
+de vnd(e) van dyner mildic-
+
+heit vor_latest myne su(n)-
+
+de. wente dyne alder_hi-
+
+ligheste barmeherticheit
+
+mer vromelik ys to ster-
+
+kende my brekaftigen
+
+sundere wen des {w/v}iendes
+
+bedrechnisse to bedrege(n)-
+
+de vnd(e) to vorvolgende.
+
+O got vorbarme dy my-
+
+---123r---
+
+ner nach diner groten
+
+barmeherticheit dat du
+
+my dat vorgheuest dar
+
+ik schemenisse af hebbe
+
+vnd(e) dat my ruwet dat ik
+
+bedreuen hebbe dat vor-
+
+ghet barmhertichliken
+
+vnd(e) vore my to deme lich-
+
+te des hemelschen vader-
+
+landes. Amen. [[blue][H]]ere
+
+entwide myn beth vnde
+
+myn ropent kome to dy
+
+[[red][B]]enedie wy den heren
+
+Gode sy lof [[blue][D]]e hilghe
+
+dreualdicheit benedie
+
+---123v---
+
+vnd(e) beware vns. Amen.
+
+** Compline
+*** Rubric
+De nacht
+
+sanck
+
+*** Text
+[[red 2][O]] hilghe dre-
+
+ualdigheit wi an-
+
+ropen dy wy anbeden dy
+
+wi louen dy [[blue][D]]e name des
+
+heren sy benediet van vn
+
+to ewigen tiden [[red][G]]ot den-
+
+cke an myne hulpe. Here
+
+snelle dy my to helpende.
+
+[[blue][B]]ekere vns got vnse hen[fn::?]
+
+Vnd(e) kere dynen torn van
+
+vns [[blue][E]]re sy deme vadere
+
+vnd(e) deme sone vnd(e) deme
+
+hilgen gheiste [[red][A]]lso dat
+
+was an deme anbeginne
+
+---124r---
+
+vnd(e) nv vnd(e) iummer bliue(n)
+
+schal. Amen. [[blue][G]]hebenedi-
+
+et sy de vader vnd(e) de enbo-
+
+ren sone vnd(e) de hilge ghe-
+
+ist. Wente he heft gemaket
+
+myt vns syne ba(r)mhertic-
+
+heit. [[red][H]]⸌e⸍re vorbarme dy.
+
+[[blue][C]]riste vorbarme dy {[[blue][E]]/He}re
+
+vorbarme dy [[red][U]]ader vnse
+
+[[blue][A]]ue maria
+
+*** Text                                                              :CREDO:
+[[red][I]]k loue in
+
+enen got den alweldigen
+
+vader de en schepper ys he(m)-
+
+meles vnd(e) ertrikes vnd(e)
+
+aller sunliken dynk vnd(e)
+
+vnsunlik vnd(e) in enen he-
+
+---124v---
+
+ren ih(esu)m (christu)m vnd(e) in den
+
+enbornen godes sone de va(n)
+
+deme vadere wart gebo-
+
+ren er alle der tijd in der
+
+ew(i)cheit De en got ys
+
+van gode en licht van e-
+
+neme lichte en war got
+
+van eneme waren gode
+
+geboren ys vn(de) nicht
+
+gemaket ener substanci-
+
+en gemaket ener substan-
+
+cien myt syneme vadere
+
+vor_middelst deme alle
+
+creature synt gemaket
+
+De dorch vnser lude wil-
+
+---125r---
+
+len vnd(e) dorch vnse saliche(i)t
+
+willen Hir nedder trat
+
+van den hemelen vn(de) wart
+
+ghevleschet van deme
+
+hilghen geiste geboren
+
+van iuncurouwen ma-
+
+rien vnd(e) wart mynsche
+
+vnd(e) wart gecrucighet
+
+vor vns vnd(e) poncius
+
+pylatus vnd(e) leet de mar-
+
+tere vnd(e) wart begraue(n)
+
+vnd(e) stunt wedder vp
+
+in deme drudden daghe
+
+na der hilghen scrift vn(de)
+
+trat vp in den hemmel
+
+---126r---
+
+dar he set to der vorderen
+
+hant des vaders. Vnd(e) wil
+
+noch komen to richtende
+
+de leuendighen vnd(e) de do-
+
+den vnd(e) synes rikes wert
+
+non ende. Ik loue ok in
+
+den hilgen gheist de en
+
+here ys vnd(e) leuendich ma-
+
+ket alle de de leuet[fn::pl.-et] dat va(n)
+
+deme vadere van deme so-
+
+ne angebedet wert vnd(e)
+
+wert myt en to samene
+
+eret de dorch de p(ro)pheten
+
+heft gesproken. Vnd(e) ik
+
+loue in ene hilgen louege(n)
+
+---126r---
+
+samelinge de van de van
+
+den apostelen begrepen
+
+ys. Vnd(e) ik loue an ener
+
+dope to aflate alle sunde
+
+Vnd(e) ik warde der vpstan-
+
+dinge der doden vnd(e) des
+
+ewigen leuendes der to
+
+komenden werlt. Amen.
+
+[[blue][W]]i benedien den vader
+
+vnd(e) den sone myt deme
+
+hilgen geiste wi willen
+
+louen vnd(e) vorhogen ene
+
+to allen tiden [[red][H]]ere ent-
+
+twide myn beth. vnd(e) my(n)
+
+ropent kome to dy
+
+*** Collect
+**** Rubric
+Coll(ecta)
+
+---126v---
+
+**** Text
+[[blue 2][O]] alderbarmehertige
+
+got hilge dreualdiche(i)t
+
+wente du ne wult nicht
+
+den dot der sundere. vnde
+
+vrouwest dy nicht an der
+
+domenisse der ienen dede
+
+steruende sint. Ik bidde
+
+dy innichliken dat du my
+
+dynen denere willest vor-
+
+lien vorgheuinge myner
+
+sunde de ik ye gedan hebbe
+
+dat ik arme sundere de
+
+hir namals nicht mer
+
+en do vnd(e) wen de ende my-
+
+nes leuendes kumpt de
+
+---127r---
+
+hilge engel de my gheghe-
+
+uen ys to eme hodere de
+
+mothe my renighen van
+
+allen sunden vnde voren
+
+to deme kore der engele.
+
+Dyt vorlie my here ih(es)u
+
+(christ)e de du myt gode deme
+
+vadere vnd(e) myt deme hil-
+
+gen gheiste leuest vnd(e) re-
+
+nerest een got ewichlike(n)
+
+Amen. [[red][O]] here entwide my(n)
+
+beth. Vnde my(n) ropent
+
+mote komen to dy [[blue][W]]y
+
+benedien den heren. Da(n)ck
+
+sy gode. [[red][D]]e hilge dre-
+
+---127v---
+
+ualdicheit benedie vnd(e) be-
+
+ware vns Amen.
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text

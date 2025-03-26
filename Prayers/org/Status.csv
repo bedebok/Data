@@ -10,13 +10,13 @@ AM08-0070_253v.org,AM 70 8vo,AM08_0070-253v,,da,transcribed,33
 GKS04-1615_019r.org,GKS 1615 4to,Magnificat,MAGNIFICAT,da,transcribed,171
 AM08-0073_099r.org,AM 73 8vo,Hours of St. Anne,HOURS_ANNE,gml,transcribed,1332
 AM08-0073_237v.org,AM 73 8vo,Magnificat,MAGNIFICAT,gml,transcribed,127
+AM08-0073_109r.org,AM 73 8vo,Hours of the Trinity,HOURS_TRINITY,Low German,Transcription begun,2178
 AM08-0073_082v.org,AM 73 8vo,Hours of the Virgin (Vespers),HOURS_VIRGIN.vespers,gml,transcribed,918
 Beschauwing_009.org,Boek der Beschauwing,First Sunday of Advent,ADVENT_1,gml,transcribed,380
 GKS08-3423_071v.org,GKS 3423 8vo,Magnificat,,Low German,,135
 AM12-0417_050r.org,AM 417 12mo,Litany of the Virgin,LITANY_VIRGIN,gml,transcribed,672
 AM08-0070_002v.org,AM 70 8vo,A prayer to Christ,,Danish,Proofread,44
 AM08-0070_003r.org,AM 70 8vo,Cantus Sororum (Matins),CANTUS.matins,gml,begun,626
-AM08-0073_230v.org,AM 73 8vo,A prayer to Jesus Christ,,gml,transcribed,51
 AM08-0073_071r.org,AM08-0073,Hours of the Virgin (Prime),HOURS_VIRGIN.PRIME,gml,Transcribed,605
 AM08-0073_067r.org,AM08-0073,O Gloriosa Domina,O_GLORIOSA_DOMINA,gml,transcribed,170
 AM08-0073_011v.org,AM 73 8vo,A prayer in verse,,da,proofread,57
@@ -32,6 +32,7 @@ AM08-0073_088v.org,AM08-0073,Hours of the Virgin (Compline),HOURS_VIRGIN.COMPLIN
 GKS08-3423_001r.org,GKS 3423 8vo,O Bone Jesu,,Low German,,352
 Holm-A42_032r.org,Holm. A 42,Magnificat,,Latin,,145
 GKS04-1615_009r.org,GKS 1615 4to,An explanation of Christmas to Lent (written 1514),,da,transcribed,416
+AM08-0073_230r.org,AM 73 8vo,A prayer to Jesus Christ,,gml,transcribed,51
 GKS08-1613_161r.org,GKS 1613 8vo,Magnificat,,Danish,,256
 AM08-0070_001r.org,AM 70 8vo,Cantus Sororum (Introduction),CANTUS.intro,Low German,Transcribed,503
 UBB-C-496-019v.org,,Prayers for the entire day,,Low German,,559
