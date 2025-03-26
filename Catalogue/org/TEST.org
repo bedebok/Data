@@ -1,0 +1,30 @@
+#+TITLE: AM 73 8vo
+#+COLUMNS: %25ITEM %LOCUS %RUBRIC %LATIN %INCIPIT %EXPLICIT
+
+* Contents
+** Miniature
+** Calendar
+** Added prayer
+** Computus
+** Prognosticon
+** Seven Penitential Psalms
+:PROPERTIES:
+:LOCUS:    13r 37v
+:RUBRIC:   Hir begynne(n) soue(n) salme(n)
+:LATIN:    Domine ne in furo(r)e tuo arguas me
+:INCIPIT:  Here en schelt my nicht in dyneme
+:END:
+*** Psalm 6
+:PROPERTIES:
+:LOCUS:    13r 14r
+:END:
+*** Psalm 31
+:PROPERTIES:
+:LOCUS:    14r 15v
+:END:
+*** Psalm 38 (Vulgate 37)
+:PROPERTIES:
+:LOCUS:    15v 17r
+:END:
+*** Psalm 51 (Vulgate 50)
+*** Psalm 102 (Vulgate 101)
