@@ -1,12 +1,12 @@
 #+TITLE: Hours of the Trinity
 
-|------------+---------------------|
-| Manuscript | AM 73 8vo           |
-| Locus      | 109r:12 130r        |
-| Work       | HOURS_TRINITY       |
-| Language   | Low German          |
-| Status     | Transcription begun |
-|------------+---------------------|
+|------------+---------------|
+| Manuscript | AM 73 8vo     |
+| Locus      | 109r:12 130r  |
+| Work       | HOURS_TRINITY |
+| Language   | Low German    |
+| Status     | Transcribed   |
+|------------+---------------|
 
 * Transcription
 *** Matins
@@ -1268,3 +1268,192 @@ ware vns Amen.
 Collecta
 
 **** Text
+[[blue 2][O]] hilge dreualdicheit
+
+vader vnd(e) sone vnd(e)
+
+de hilge gheist. Jk arme
+
+sunder brekaftich vnd(e)
+
+vnwerdich bekenne loue
+
+ere vnd(e) anbede dy dorch
+
+dyne groten barmehertic-
+
+heit ouer alle louesche cris-
+
+ten leuendich vnd(e) doeth.
+
+vnd(e) vorbarme dy ock ouer
+
+my brocsame vnd(e) vnwer-
+
+dige sunder do[r]ch dyner
+
+barmherticheit willen
+
+---128r---
+
+lose my van den benden my-
+
+ner sunde vor_middelst den
+
+beden vnd(e) vordensten aller
+
+hilgen. Lose my van der walt
+
+des duuels vnd(e) van der pi-
+
+ne der helle dat yk mach
+
+komen to dyne rike de du
+
+bist gebenediet ewichly-
+
+ken Amen.
+
+*** Collect
+**** Rubric
+Collecta
+
+**** Text
+[[red 2][O]] hilge dreualdicheit
+
+vnd(e) vngedelde ewicheit
+
+ware vnd(e) hilge gotheit
+
+alweldige vader vnd(e) sone
+
+vnd(e) hilge gheist de du bust
+
+dreualdich vnd(e) een. De
+
+---128v---
+
+du hest gemaket den hem-
+
+mel vnd(e) de erden vnd(e) dat
+
+in en ys Jk arme sunder
+
+bekraftich vnd(e) vnwer-
+
+dich bekenne loue ere an-
+
+bede vnd(e) benedie dy Jk seg-
+
+ghe dangk dyner barm-
+
+herticheit van alle deme
+
+gude dat du my vnwerdi-
+
+ghen sunder barmhertich-
+
+liken ghe_dan hefst loff
+
+vnd(e) dangk segghe ik dy-
+
+ner aller hilighesten walt
+
+dat du my {v/w}underliken
+
+hefst gheschapen do yk
+
+---129r---
+
+nicht en was vnd(e) dat du
+
+my ghere nighet hefst
+
+van den e(r)fsunden mit der
+
+dope do ik gheschen was
+
+vn(de) dat du na der re(n){ni/in}ge
+
+der dope heft aldus lange
+
+leden mynen willen de ghe-
+
+nodet ys vnd(e) gewesen in
+
+den anderen vulnissen der
+
+sunde vnd(e) hefst ene behol-
+
+pen dy to vorbarmende to
+
+der ruwe. Hir v(m)me systu
+
+benedet to ewigen tiden.
+
+Amen.
+
+*** Collect
+**** Rubric
+Collecta
+
+*** Text
+[[blue 2][I]]k bidde dy
+
+ok alder_mildeste got dat
+
+---130r---
+
+du my vorgheuest van
+
+mynen vorhangheuen
+
+sunden gnade vnd(e) van de(n)
+
+ieghenwardighen bete-
+
+ringhe van den to mende(n)
+
+bewaringhe. vnd(e) vordriff
+
+werue van myneme her-
+
+ten alle de daancken vnd(e)
+
+lust dede mogen myne
+
+vnselige sele teen iamer-
+
+liken to sundegende wppe
+
+dat ik nichten vallen in
+
+de to latinghe der sunde.
+
+vnd(e) dar du entfenghest
+
+mynen syn myt deme vn-[fn::Quire missing?]
+
+---130r---
+
+re dyner sotesten leue vp-
+
+pe dat yk mach {v/w}esen dy
+
+lef hebbende bouen alle
+
+dingk vnd(e) dat ik moghe
+
+lef hebben allene de dingk
+
+de dy behaghen vn(de) moghe
+
+vullenbringhen vnd(e) dat
+
+ik moge vordenen to heb-
+
+bende sunder vortoch dat
+
+ik van dy begherende byn
+
+Amen.
