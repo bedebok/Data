@@ -35,16 +35,17 @@ A fifteenth-century manuscript containing the /Extendit manum/ passion story (at
 |------------+---------------|
 
 * Contents
-|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
-| start | MDB | text type  | text          | end   | incipit                                                | explicit | language | status |
-|-------+-----+------------+---------------+-------+--------------------------------------------------------+----------+----------+--------|
-| 1r    |      | Passional | Extendit manum |
-| 114r  | 431 |
-| 126r  | 1075|
-| 127r  | 1076|
-| 128v  | 1077|
-| 129v  | 1078|
-| 130r  | 501 |
+|-----------+------+-----------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+---------------|
+| Locus     |  MDB | Type      | Text                    | Rub/Inc/Exp                                                                                                                                                                                                                                      | Language | Status | Notes         |
+|-----------+------+-----------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+---------------|
+| 1r        |      | Passional | Extendit manum          | [[E]]xtendit manu(m) et accipiunt                                                                                                                                                                                                                    | da       | main   | Copy of A 31? |
+| 114r 126r |  431 | cycle     | Hours of Mary Magdalene | *Her byris s(an)c(t)e ma(r)ie m(a)gdile(n) tidh(er)* [...] *Her ennes s(an)c(t)a ma(r)ia m(ag)d(alenas) tidh(er) (et cetera)*                                                                                                                    | da lat   | main   |               |
+| 126r      | 1075 | prayer    | St. Barbara             | *H(er) boris j god bøøn aff jomfrw s(an)c(t)a barb(ar)a* [[O]] welskap hedh(er) fwl oc erfwl jomfrw [...] p(er) eu(m) qui ventur(us) e(st) (et cetera) *Hær nest sees tre Aue ma(r)ia oc j salue regi(n)a (et cetera)*                               | da lat   | main   |               |
+| 127r      | 1076 | prayer    | Mary                    | *En godh bøn aff war frw (et cetera)* [[O]] alwelwylighedz moth(e)r jomfrw s(an)c(t)a maria [...] oc aff th(e)n wi(n)nelik døth p(er) (christu)m (et cetera) *Thæ(n)ne forsc(ri)uen bøn lefdhe s(an)c(t)us bernard(us) j hans wdest døss tidh [...]* | da       | main   |               |
+| 128v      | 1077 | prayer    | Mary                    | *Hær næst stonn(er) jen god bøn aff jomrrw maria* [[I]]eg hæls(er) theg alth hellisthe moth(er) gws [...] oc ær ewi(n)nelikt Ame(n)                                                                                                                  | da       | main   |               |
+| 129v      | 1078 | prayer    | Mary                    | *Jen bøn aff war frwe* [[O]] maria hemelskæ p(ar)adys [...] Amen                                                                                                                                                                                     | da       | main   |               |
+| 130r      |  501 | cycle     | Mary's Psalter          | *Godhe mæ(n)nyskæ sighe at th(et) hær æft(er) [...]* [[A]]ue paradyses poort [...] veth samme vor h(er)re (christu)m Amen                                                                                                                            | da       | main   |               |
+|-----------+------+-----------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+---------------|
 
 * Bibliography
 - Handrit :: https://handrit.is/manuscript/view/da/AM08-0072 
