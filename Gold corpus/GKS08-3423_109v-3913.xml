@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GKS08-3423_109v.ana" type="text">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Magnificat</title>
+        <respStmt xml:id="SDV">
+          <resp when="2024">Data retrieval, linguistic annotation, and conversion to TEI</resp>
+          <persName>Seán D. Vrieland</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno corresp="GKS08-3423"/>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus from="109v" to="110r"/>
+              <title key="MAGNIFICAT">Magnificat</title>
+              <textLang mainLang="gml"/>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="w">
+            <elementSpec ident="w">
+              <attList>
+                <attDef ident="lemma">
+                  <desc>Lemmatized using Text Tonsorium</desc>
+                </attDef>
+                <attDef ident="pos">
+                  <desc>Part-of-speech tagging for Middle Low German uses the Historisches-Niederdeutsch-Tagset (HiNTS).</desc>
+                </attDef>
+              </attList>
+            </elementSpec>
+          </tagUsage>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="rubric">
+        <p>
+          <s>
+            <w lemma="psalmus" pos="HiNTS=FM">psal<supplied>mus</supplied></w>
+            <w lemma="Magnificat" pos="HiNTS=FM">Mag<ex>nifica</ex>t</w>
+          </s>
+          <lb n="1"/>
+        </p>
+      </div>
+      <div type="text">
+        <p>
+          <s>
+            <w lemma="Min" pos="HiNTS=DPOSA"><hi rend="2 red">M</hi>yne</w>
+            <w lemma="sele" pos="HiNTS=NA">sele</w>
+            <w lemma="grot" pos="HiNTS=ADJD">grot</w>
+            <w lemma="maken" pos="HiNTS=VVFIN">maket</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de<ex>n</ex></w>
+            <w lemma="here" pos="HiNTS=NA">here<ex>n</ex></w>
+            <lb n="2"/>
+            <w lemma="Unde" pos="HiNTS=KON"><hi rend="red">U</hi>n<ex>de</ex></w>
+            <w lemma="min" pos="HiNTS=DPOSA">my<ex>n</ex></w>
+            <w lemma="geist" pos="HiNTS=NA">gest</w>
+            <w lemma="hoge" pos="HiNTS=VVFIN">hogede</w>
+            <w lemma="sik" pos="HiNTS=PRF">syk</w>
+            <w lemma="in" pos="HiNTS=APPR">yn</w>
+            <lb n="3"/>
+            <w lemma="got" pos="HiNTS=NA">gade</w>
+            <w lemma="min" pos="HiNTS=DPOSA">myneme</w>
+            <w lemma="heil" pos="HiNTS=NA">heyle</w>
+            <w lemma="Wente" pos="HiNTS=KON"><hi rend="red">W</hi>e<ex>n</ex>te</w>
+            <w lemma="he" pos="HiNTS=PPER">he</w>
+            <w lemma="hebben" pos="HiNTS=VAFIN">heft</w>
+            <lb n="4"/>
+            <w lemma="ansen" pos="HiNTS=VVPP">anghesen</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="otmodicheit" pos="HiNTS=NA">otmodycheyt</w>
+            <w lemma="er" pos="HiNTS=DPOSA">syner</w>
+            <lb n="5"/>
+            <w lemma="derne" pos="HiNTS=NA">derne<ex>n</ex></w>
+            <w lemma="se" pos="HiNTS=PPER">se</w>
+            <w lemma="hir" pos="HiNTS=PAVKO">hyr</w>
+            <w lemma="umme" pos="HiNTS=PAVAP">v<ex>m</ex>me</w>
+            <w lemma="werden" pos="HiNTS=VAFIN">werde<ex>n</ex></w>
+            <w lemma="ik" pos="HiNTS=PPER">my</w>
+            <w lemma="seggen" pos="HiNTS=VVINF">segghe<ex>n</ex></w>
+            <lb n="6"/>
+            <w lemma="salich" pos="HiNTS=VMFIN">salych</w>
+            <w lemma="al" pos="HiNTS=DIA">alle</w>
+            <w lemma="slechte" pos="HiNTS=NA">slechte</w>
+            <w lemma="Wente" pos="HiNTS=KON"><hi rend="red">W</hi>e<ex>n</ex>te</w>
+            <w lemma="de" pos="HiNTS=DPRELS">de</w>
+            <w lemma="dar" pos="HiNTS=AVD">dar</w>
+            <w lemma="weldich" pos="HiNTS=ADJD">wel<lb n="7"/>dych</w>
+            <w lemma="wesen" pos="HiNTS=VVFIN">ys</w>
+            <w lemma="de" pos="HiNTS=DPDS">de</w>
+            <w lemma="hebben" pos="HiNTS=VAFIN">heft</w>
+            <w lemma="ik" pos="HiNTS=PPER">my</w>
+            <w lemma="grot" pos="HiNTS=ADJA">grote</w>
+            <w lemma="dinc" pos="HiNTS=NA">dynk</w>
+            <lb n="8"/>
+            <w lemma="don" pos="HiNTS=VVPP">ghedan</w>
+            <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+            <w lemma="sin" pos="HiNTS=DPOSA">syn</w>
+            <w lemma="name" pos="HiNTS=NA">name</w>
+            <w lemma="de" pos="HiNTS=DPDS">de</w>
+            <w lemma="wesen" pos="HiNTS=VVFIN">ys</w>
+            <w lemma="hillich" pos="HiNTS=ADJD">hyllych</w>
+            <lb n="9"/>
+            <w lemma="Unde" pos="HiNTS=KON"><hi rend="red">U</hi>n<ex>de</ex></w>
+            <w lemma="sin" pos="HiNTS=DPOSA">syne</w>
+            <w lemma="barmerticheite" pos="HiNTS=NA">barmhertycheit</w>
+            <w lemma="wesen" pos="HiNTS=VVFIN">ys</w>
+            <w lemma="van" pos="HiNTS=APPR">va<ex>n</ex></w>
+            <lb n="10"/>
+            <w lemma="geslechte" pos="HiNTS=NA">gheslechte<ex>n</ex></w>
+            <w lemma="to" pos="HiNTS=APPR">to</w>
+            <w lemma="geslechte" pos="HiNTS=NA">gheslechte<ex>n</ex></w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="he" pos="HiNTS=DPIS">ene</w>
+            <w lemma="vruchte" pos="HiNTS=VVFIN">fruch<lb n="11"/><pb n="110r"/><lb n="1"/>te<ex>n</ex></w>
+            <w lemma="He" pos="HiNTS=PPER"><hi rend="red">H</hi>e</w>
+            <w lemma="hebben" pos="HiNTS=VAFIN">heft</w>
+            <w lemma="mach" pos="HiNTS=PRF">mach</w>
+            <w lemma="maken" pos="HiNTS=VVPP">ghemaket</w>
+            <w lemma="in" pos="HiNTS=APPR">in</w>
+            <lb n="2"/>
+            <w lemma="sin" pos="HiNTS=DPOSA">syne<ex>n</ex></w>
+            <w lemma="arm" pos="HiNTS=NA">arme</w>
+            <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+            <w lemma="he" pos="HiNTS=PPER">he</w>
+            <w lemma="vortrouwen" pos="HiNTS=VVFIN">vortrowet</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="houerdigen" pos="HiNTS=NA">ho<lb n="3"/>uerdyghe<ex>n</ex></w>
+            <w lemma="in" pos="HiNTS=APPR">in</w>
+            <w lemma="de" pos="HiNTS=DDARTA">den</w>
+            <w lemma="danke" pos="HiNTS=NA">danken</w>
+            <w lemma="sin" pos="HiNTS=DPOSA">synes</w>
+            <w lemma="herte" pos="HiNTS=NA">herte<ex>n</ex></w>
+            <lb n="4"/>
+            <w lemma="He" pos="HiNTS=PPER"><hi rend="red">H</hi>e</w>
+            <w lemma="setten" pos="HiNTS=VVFIN">settede</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="weldich" pos="HiNTS=NA">weldyghe<ex>n</ex></w>
+            <w lemma="van" pos="HiNTS=APPR">va<ex>n</ex></w>
+            <w lemma="de" pos="HiNTS=DDARTA">dem</w>
+            <w lemma="stol" pos="HiNTS=NA">sto<lb n="5"/>le</w>
+            <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+            <w lemma="vorhogen" pos="HiNTS=VVFIN">vorhogede</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="otmodich" pos="HiNTS=NA">otmodyghe<ex>n</ex></w>
+            <w lemma="He" pos="HiNTS=PPER"><hi rend="red">H</hi>e</w>
+            <lb n="6"/>
+            <w lemma="vorvullen" pos="HiNTS=VVFIN">vorvullede</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="hungeren" pos="HiNTS=NA">hu<ex>n</ex>gerghe<ex>n</ex></w>
+            <w lemma="mit" pos="HiNTS=APPR">myt</w>
+            <w lemma="got" pos="HiNTS=ADJA">gude<ex>n</ex></w>
+            <lb n="7"/>
+            <w lemma="dinc" pos="HiNTS=NA">dynghe<ex>n</ex></w>
+            <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+            <w lemma="leit" pos="HiNTS=VVFIN">let</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <w lemma="rike" pos="HiNTS=ADJA">ryken</w>
+            <w lemma="idel" pos="HiNTS=ADJA">ydel</w>
+            <w lemma="Israhel" pos="HiNTS=NE"><hi rend="red">I</hi>sra<lb n="8"/>hel</w>
+            <w lemma="entvan" pos="HiNTS=VVFIN">entfynk</w>
+            <w lemma="sin" pos="HiNTS=DPOSA">syn</w>
+            <w lemma="kint" pos="HiNTS=NA">kynt</w>
+            <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+            <w lemma="denken" pos="HiNTS=VVFIN">dachte</w>
+            <lb n="9"/>
+            <w lemma="er" pos="HiNTS=DPOSA">syner</w>
+            <w lemma="barmherticheit" pos="HiNTS=NA">barmhertycheyt</w>
+            <w lemma="Also" pos="HiNTS=KOUS"><hi rend="red">A</hi>lso</w>
+            <w lemma="he" pos="HiNTS=PPER">he</w>
+            <w lemma="spreken" pos="HiNTS=VVPP">ghe<lb n="10"/>sprake<ex>n</ex></w>
+            <w lemma="hebben" pos="HiNTS=VAFIN">heft</w>
+            <w lemma="to" pos="HiNTS=APPR">to</w>
+            <w lemma="unse" pos="HiNTS=DPOSA">vnsem</w>
+            <w lemma="veder" pos="HiNTS=NA">vedere<ex>n</ex></w>
+            <w lemma="abraham" pos="HiNTS=NE">abra<lb n="11"/>ham</w>
+            <w lemma="ewichliken" pos="HiNTS=ADJA">ewychlyke<ex>n</ex></w>
+            <w lemma="Here" pos="HiNTS=NA"><hi rend="red">H</hi>ere</w>
+            <w lemma="geven" pos="HiNTS=VVIMP">gyf</w>
+            <w lemma="se" pos="HiNTS=PPER">en</w>
+            <w lemma="de" pos="HiNTS=DDARTA">de</w>
+            <lb n="12"/>
+            <w lemma="ewich" pos="HiNTS=ADJA">ewyghe<ex>n</ex></w>
+            <w lemma="rouwe" pos="HiNTS=NA">rowe</w>
+            <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+            <w lemma="dat" pos="HiNTS=DDARTA">dat</w>
+            <w lemma="ewich" pos="HiNTS=ADJA">ewyghe</w>
+            <w lemma="licht" pos="HiNTS=NA">lycht</w>
+            <lb n="13"/>
+            <w lemma="luchten" pos="HiNTS=VVFIN">luchte</w>
+            <w lemma="se" pos="HiNTS=PPER">en</w>
+          </s>
+          <lb n="14"/>
+        </p>
+      </div>
+      <div type="antiphon">
+        <p/>
+        <div type="rubric">
+          <p>
+            <s>
+              <w lemma="antifone" pos="HiNTS=VVIMP">An<ex>tiphona</ex></w>
+            </s>
+            <lb n="15"/>
+          </p>
+        </div>
+        <div type="text">
+          <p>
+            <s>
+              <w lemma="Wi" pos="HiNTS=PPER">Wy</w>
+              <w lemma="bidden" pos="HiNTS=VVFIN">bydde<ex>n</ex></w>
+              <w lemma="din" pos="HiNTS=DPOSA">dyne</w>
+              <w lemma="got" pos="HiNTS=NA">gu<lb n="16"/>de</w>
+              <w lemma="datton" pos="HiNTS=DPRELS">dattu</w>
+              <w lemma="he" pos="HiNTS=PPER">ene</w>
+              <w lemma="geven" pos="HiNTS=VVFIN">geuest</w>
+              <w lemma="dat" pos="HiNTS=DDARTA">dat</w>
+              <w lemma="ewich" pos="HiNTS=ADJA">ewyghe</w>
+              <lb n="17"/>
+              <w lemma="licht" pos="HiNTS=NA">lycht</w>
+              <w lemma="unde" pos="HiNTS=KON">vn<ex>de</ex></w>
+              <w lemma="de" pos="HiNTS=DDARTA">de</w>
+              <w lemma="ewich" pos="HiNTS=ADJA">ewyghe<ex>n</ex></w>
+              <w lemma="rouwe" pos="HiNTS=NA">rowe</w>
+              <w lemma="se" pos="HiNTS=PPER">se</w>
+              <w lemma="moten" pos="HiNTS=VMFIN">mo<lb n="18"/>ten</w>
+              <w lemma="rosten" pos="HiNTS=VVINF">roste<ex>n</ex></w>
+              <w lemma="in" pos="HiNTS=APPR">yn</w>
+              <w lemma="de" pos="HiNTS=DDARTA">den</w>
+              <w lemma="vrede" pos="HiNTS=NA">frede</w>
+              <w lemma="Amen" pos="HiNTS=ITJ">Ame<ex>n</ex></w>
+            </s>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
