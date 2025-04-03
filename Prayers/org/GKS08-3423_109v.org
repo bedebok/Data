@@ -1,12 +1,12 @@
 #+TITLE: Magnificat
 
-|------------+------------|
-| Manuscript | GKS08-3423 |
-| Locus      | 109v 110r  |
-| Work       | MAGNIFICAT |
-| Language   | gml        |
-| Status     | Proofread  |
-|------------+------------|
+|------------+----------------|
+| Manuscript | GKS08-3423     |
+| Locus      | 109v:9:4 110r  |
+| Work       | MAGNIFICAT     |
+| Language   | gml            |
+| Status     | Proofread      |
+|------------+----------------|
 
 * Transcription
 ** Rubric

@@ -9,11 +9,13 @@ file_id = sys.argv[1].replace('.org','').split('/')[-1]
 
 line_break = 1
 page_break = ''
+word_count = 1
 start_text_level = 0
 
 transcribe = False
 header_written = False # Set to False until we write the header (after catching metadata)
 broken_word = False # checks to see if words are broken across lines or pages
+break_line = False # checks to see if there is a line break
 
 # Possible updates
 # sentence = False # checks whether text can be divided into further sentences
@@ -44,6 +46,10 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 locus_from = locus[3]
                 if ":" in locus_from:
                     line_break = int(locus_from.split(':')[1])
+                    try:
+                        word_count = int(locus_from.split(':')[2])
+                    except Exception:
+                        pass
                     locus_from = locus_from.split(':')[0]
                 locus_to = locus[4]
                 if ":" in locus_to:
@@ -88,14 +94,19 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
             # TODO: Make different levels of section
             # HOW: Variable of "start_tag" and "end_tag"
             # Text: start_tag = <p>
-            if line == "\n":
-                write_file.write("<lb n=\""+str(line_break)+"\"/>")
-                if broken_word == False:
-                    write_file.write("\n")
-                line_break += 1
-                # ISSUE: Catches last blank of page as new line
 
-            if "*" in line[0]:
+            # Check for new lines
+            if line == "\n":
+                #write_file.write("<lb n=\""+str(line_break + 1)+"\"/>")
+                #if broken_word == False:
+                #    write_file.write("\n")
+                line_break += 1
+                word_count = 1
+                break_line = True
+                # ISSUE: Catches last blank of page as new line
+                # Issue resolved by pushing the writing of the lb to later.
+
+            elif "*" in line[0]:
                 text_level = line.split()[0].count('*') - 1
                 text_type = line.split()[1]
                 print("New text type on line",str(i+1)+":",text_type,"(level:",str(text_level),"of",str(start_text_level)+")")
@@ -117,9 +128,15 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 write_file.write("<pb n=\""+page_break+"\"/>")
                 if broken_word == False:
                     write_file.write("\n")
-                line_break = 1
+                line_break = 0
+                break_line = False
 
             else:
+                if break_line == True:
+                    write_file.write("<lb n=\""+str(line_break)+"\"/>")
+                    if broken_word == False:
+                        write_file.write("\n")
+                    break_line = False
                 # First I need to check for highlights in words. They look like this:
                 # [[3 red blue][M]] ...
                 line = re.sub(r" (?=[^][]*\])", "_", line)
@@ -138,7 +155,8 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 is_note = False
                 for i, word in enumerate(words, 1):
                     word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>').replace('⸠','<del>').replace('⸡', '</del>').replace('⸌', '<add>').replace('⸍', '</add>')
-                    word_id = str(idno)+"_" + page_break+"." + str(line_break)+"."+str(i)
+                    word_id = str(idno)+"_" + page_break+"." + str(line_break)+"."+str(word_count)
+                    word_count += 1
                     if is_note == True:
                         next
                     elif "fn::" in word:
