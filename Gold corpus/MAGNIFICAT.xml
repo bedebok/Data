@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAGNIFICAT" type="work">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Magnificat</title>
+        <respStmt xml:id="ILK">
+          <resp when="2025">Written by</resp>
+          <persName>Iliana Kandzha</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+   <body>
+     <div>
+     <p>
+       The <title key="MAGNIFICAT">Magnificat</title> or <title key="MAGNIFICAT" type="alternate">Canticle of Mary</title> is one of the prayers used in the Divine Office whose text is derived from the New Testament (Luke 1:46-55). The episode recounts the Visitation, that is <persName key="Mary">Mary</persName>’s visit to her cousin <persName key="Elisabeth">Elisabeth</persName>, at that time pregnant with <persName key="John_Baptist">John the Baptist</persName>, following the events of the Annunciation (archangel <persName key="Gabriel_archangel">Gabriel</persName>’s visit to <persName key="Mary">Mary</persName>). The canticle itself is <persName key="Mary">Mary</persName>’s answer to <persName key="Elisabeth">Elisabeth</persName>’s greeting, which is the source of the <title key="AVE_MARIA">Ave Maria</title>.</p>
+       <p>In prayer books, the <title key="MAGNIFICAT">Magnificat</title> can be found within the Vespers, most often in the <title key="HOURS_VIRGIN">Hours of the Virign</title>.
+    </p>
+   </div>
+   </body>
+  </text>
+</TEI>
