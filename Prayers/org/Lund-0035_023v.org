@@ -1,15 +1,16 @@
 #+TITLE: Magnificat
 
-|------------+------------------------|
-| Manuscript | Medeltidshandskrift 35 |
-| Locus      | 23v-24r                |
-| Language   | Danish                 |
-|------------+------------------------|
-
-** Parallels
+|------------+------------|
+| Manuscript | Lund-0035  |
+| Locus      | 23v 24r    |
+| Work       | MAGNIFICAT |
+| Language   | da         |
+| Status     | Proofread  |
+|------------+------------|
 
 * Transcription
-[[2][M]]in siæl loffuær h(er)ræn och myn andh
+** Text
+[[2 red][M]]in siæl loffuær h(er)ræn och myn andh
 
 hauer fryd(et) sik j gudh myn hielsen
 
@@ -19,40 +20,44 @@ hauer fryd(et) sik j gudh myn hielsen
 
 gh(et) see forthy tha skullæ heden fra alle sle-
 
-ktæ seyæ mik ath være helligh [[F]]orthy han 
+ktæ seyæ mik ath være helligh [[red][F]]orthy han 
 
-giordhe store thingh vedh mik th(e)n som vær-
+giordhæ store thingh vedh mik th(e)n som vær-
 
-dugh ær, och hans naffn ære helligh [[O]]ch 
+dugh ær och hans naffn ære helligh [[red][O]]ch 
 
 hans miskwndh ær fraa slektæ och til slekte 
 
-th(e)m som ha(num) rædes [[H]]an hauer voldh j sin 
+th(e)m som ha(num) rædes [[red][H]]an hauer voldh j sin 
 
-arm ha(n) hauer for smath the høffærdughæ j sith hiærtes
+arm ha(n) hauer for_smath the høffærdughæ j 
 
-[b/h]ugh [[H]]an hauer saath vælduge 
+sith hiærtes [b/h]ugh [[red][H]]an hauer saath vælduge 
 
-aff sædh(et) och opp høffuet the ødmyghæ [[H]]an 
+aff sædh(et) och opp_høffuet the ødmyghæ [[red][H]]an 
 
 hauer opp fylt the hwngræ aff godhæ thi(n)g 
 
-och lodh the rigæ bliffue [d/t]o(m)me [[H]]an hauer 
+och lodh the rigæ bliffue [d/t]o(m)me [[red][H]]an hauer 
 
-vntfongh(et) sith barn isr(ae)l och hauer my(n)net 
+vntfongh(et) sith barn isr(ahe)l och hauer my(n)net 
 
-sin miskwndh [[S]]aa som han hauer talet 
+sin miskwndh [[red][S]]aa som han hauer talet 
 
 til vore fedræ abraham och hans aff ko(m)me 
 
-ewinneligh [[Æ]]ræ være fadær [[S]](an)c(t)a ma(ria)
+ewinneligh [[red][E]]ræ være fadær 
+
+** Collect
+
+[[red][S]](an)c(t)a ma(ria)
 
 ko(m) til hielp the vslæ hielp the mystrøstigæ æ-
 
-ræ vedær quegh the grædindhæ, bedh for fol-
+ræ vedær quegh the grædindhæ bedh for fol-
 
-ket bedh for klærkænæ bedh for the gudælig qwi(n)ne kiøn
+ket bedh for klærkænæ bedh for the gudælig
 
-ladh the(m) alle føle thin hielp the 
+qwi(n)ne kiøn ladh the(m) alle føle thin hielp the 
 
-som giøre thin amy(n)nelsæ [[H]]erræ høør my(n) bø(n)
+som giøre thin amy(n)nelsæ [[red][H]]erræ høør my(n) bø(n)
