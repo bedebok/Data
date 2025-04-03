@@ -2,7 +2,7 @@
 
 |------------+----------------------|
 | Manuscript | AM 73 8vo            |
-| Locus      | 82v                  |
+| Locus      | 82v 88r              |
 | Work       | HOURS_VIRGIN.vespers |
 | Language   | gml                  |
 | Status     | transcribed          |
@@ -10,17 +10,43 @@
 
 * Transcription
 ** Rubric
-ad v(espera)s
+Ad v(espera)s
 
 ** Text
-Got dencke an myne helpe. Here snelle my to helpende. Ere sy deme vadere de- me sone vnde deme hilge(n) geyste Also dat was van ambegynne vnde nu. (et) (cetera).
+[[red 2][G]]ot dencke an myne
 
-** Psalm
+helpe. Here snelle my to
+
+helpende. Ere sy deme vadere de- 
+
+me sone vnde deme hilge(n) geyste 
+
+Also dat was van ambegynne
+
+vnde nu. (et_cetera).
+
+** Psalm                                                          :PSALM_109:
 *** Rubric
 Psalmus
 
 *** Text
-De here sprak to myneme here(n) sitte to myner vorderen hant [A]lso lange went dat ik dyne viande sette to eme sche- mele dyner vöte [D]e here wil senden van syon de roden dyner doghet to herscoppe(n) de vormid- delst dynen vienden [D]at be- gyn is mit dy in deme daghe
+[[blue 2][D]]e here sprak to myneme
+
+here(n) sitte to myner vorderen
+
+hant [[red][A]]lso lange went dat ik
+
+dyne viande sette to eme sche- 
+
+mele dyner vöte [[blue][D]]e here wil
+
+senden van syon de roden dyner
+
+doghet to herscoppe(n) de vormid- 
+
+delst dynen vienden [[red][D]]at be- 
+
+gyn is mit dy in deme daghe
 
 ---83r---
 
@@ -108,7 +134,7 @@ v(ersiculus)
 *** Text
 Na der bort bleuest vmbeulecket Iuncurowe godes moder bidde vor vns nu vnde to allen tiden.
 
-** Psalm
+** Psalm                                                         :MAGNIFICAT:
 *** Rubric
 psalm(us)
 
