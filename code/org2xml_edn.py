@@ -3,7 +3,7 @@
 import sys
 import re
 import string
-write_file = open(sys.argv[1].replace('.org','').replace('.txt.','') + '.xml', 'w')
+write_file = open(sys.argv[1].replace('org','xml'), 'w')
 
 file_id = sys.argv[1].replace('.org','').split('/')[-1]
 

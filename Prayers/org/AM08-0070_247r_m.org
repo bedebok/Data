@@ -1,19 +1,20 @@
 #+TITLE: Virgo resurgentis
 
 |------------+-------------------------|
-| Manuscript | AM 70 8vo               |
-| Locus      | 247rm 247m              |
+| Manuscript | AM08-0070               |
+| Locus      | 247rm 247rm             |
 | Work       | VIRGO_MATER_RESURGENTIS |
 | Language   | da                      |
 | Status     | Proofread               |
 |------------+-------------------------|
 
 * Transcription
-** Rurbic
+** Rubric
 prosa
-
+** Incipit
+_V(ir)go res(ur)ge(n)tis (et_cetera)_
 ** Text
-_V(ir)go res(ur)ge(n)tis (et_cetera)_ [[J]]omffrw ha(n)s modh(e)r
+Jomffrw ha(n)s modh(e)r
 
 ⸠som⸡ som opstod aff døde lad os fanghe bliff-
 

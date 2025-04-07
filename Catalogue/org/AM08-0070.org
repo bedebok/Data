@@ -1,4 +1,4 @@
-#+TITLE: AM 70 8vo
+#+TITLE: AM 70 8vo (Cantus Sororum)
 A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
 [[../imgs/AM08-0070.jpg]]
 * Physical Description
@@ -13,11 +13,11 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |--------------+----------|
 
 ** Binding
-|--------------+-------------|
-| TYPE         |             |
-| DATE         |             |
-| SIZE         |             |
-|--------------+-------------|
+|------+------|
+| TYPE | test |
+| DATE |      |
+| SIZE |      |
+|------+------|
 
 * History
 |------------+--------------|
@@ -63,93 +63,92 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |--------+----------+-------------+----------------------------------------------------|
 
 * Contents
-** Contents (new)
-|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------|
-| Loc       | Type   | Level |  MDB | Text                      | Rub/Inc/Exp                                                                     | Lang | Status       |
-|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------|
-| 1r 253v   | cycle  |     1 |      | Cantus Sororum            |                                                                                 |      |              |
-| 1r 2v     | hour   |     2 |      | [[../../Prayers/org/AM08-0070_001r.org][CANTUS.intro]]              |                                                                                 |      |              |
-| 2v 2v     | prayer |     3 |  980 | [[../../Prayers/org/AM08-0070_002v.org][A prayer to Christ]]        |                                                                                 |      |              |
-| 3r        | day    |     2 |      | CANTUS_SUNDAY             |                                                                                 |      |              |
-| 3r        | hour   |     3 |      | [[../../Prayers/org/AM08-0070_003r.org][CANTUS.sunday.matins]]      |                                                                                 |      |              |
-| 21v       | hour   |     3 |      | CANTUS.sunday.prime       |                                                                                 |      |              |
-| 27v       | hour   |     3 |      | CANTUS.sunday.terce       |                                                                                 |      |              |
-| 30v       | hour   |     3 |      | CANTUS.sunday.sext        |                                                                                 |      |              |
-| 34r       | hour   |     3 |      | CANTUS.sunday.none        |                                                                                 |      |              |
-| 36v       | hour   |     3 |      | CANTUS.sunday.vesper      |                                                                                 |      |              |
-| 40v       | hour   |     3 |      | CANTUS.sunday.compline    | *Hir begy(n)net de nacht sank* [[H]]illighe juncvrouwe maria wille my werdich maken | mlg  | main         |
-| 44r       | day    |     2 |      | CANTUS_MONDAY             |                                                                                 |      |              |
-| 44r       | hour   |     3 |      | CANTUS.monday.matins      |                                                                                 |      |              |
-| 55r       | hour   |     3 |      | CANTUS.monday.lauds       |                                                                                 |      |              |
-| 56v       | hour   |     3 |      | CANTUS.monday.prime       |                                                                                 |      |              |
-| 58v       | hour   |     3 |      | CANTUS.monday.terce       |                                                                                 |      |              |
-| 61r       | hour   |     3 |      | CANTUS.monday.sext        |                                                                                 |      |              |
-| 64r 65r   | PSALM  |     4 |      | PSALM_17                  | [[H]]Ere twide my(n) rechtuerdicheit [...] wen dyneme ere sich openbaret Ere        | mlg  | added        |
-| 66r       | hour   |     3 |      | CANTUS.monday.none        |                                                                                 |      |              |
-| 68v       | hour   |     3 |      | CANTUS.monday.vesper      |                                                                                 |      |              |
-| 74r       | hour   |     3 |      | CANTUS.monday.compline    |                                                                                 |      |              |
-| 75v 75v   | prayer |     4 |      | Added prayer in Danish    |                                                                                 |      |              |
-| 76r       | day    |     2 |      | CANTUS_TUESDAY            |                                                                                 |      |              |
-| 76r       | hour   |     3 |      | CANTUS.tuesday.matins     |                                                                                 |      |              |
-| 86v       | hour   |     3 |      | CANTUS.tuesday.prime      |                                                                                 |      |              |
-| 90v       | hour   |     3 |      | CANTUS.tuesday.terce      |                                                                                 |      |              |
-| 94v       | hour   |     3 |      | CANTUS.tuesday.sext       |                                                                                 |      |              |
-| 97r       | hour   |     3 |      | CANTUS.tuesday.none       |                                                                                 |      |              |
-| 100v      | hour   |     3 |      | CANTUS.tuesday.vesper     |                                                                                 |      |              |
-| 105r      | hour   |     3 |      | CANTUS.tuesday.compline   |                                                                                 |      |              |
-| 106v 106v | prayer |     4 |      | Added prayer in Danish    |                                                                                 | da   | added defect |
-| 107r      | day    |     2 |      | CANTUS_WEDNESDAY          |                                                                                 |      |              |
-| 107r      | hour   |     3 |      | CANTUS.wednesday.matins   |                                                                                 |      | main defect  |
-| 116v      | hour   |     3 |      | CANTUS.wednesday.lauds    |                                                                                 |      |              |
-| 117v 117v | prayer |     4 |      | Added prayer in LG        |                                                                                 |      |              |
-| 117v      | hour   |     3 |      | CANTUS.wednesday.prime    |                                                                                 |      |              |
-| 120v      | hour   |     3 |      | CANTUS.wednesday.terce    |                                                                                 |      |              |
-| 124v      | hour   |     3 |      | CANTUS.wednesday.sext     |                                                                                 |      |              |
-| 128v      | hour   |     3 |      | CANTUS.wednesday.nones    |                                                                                 |      |              |
-| 131v      | hour   |     3 |      | CANTUS.wednesday.vesper   |                                                                                 |      |              |
-| 136v      | hour   |     3 |      | CANTUS.wednesday.compline |                                                                                 |      |              |
-| 138r      | day    |     2 |      | CANTUS_THURSDAY           |                                                                                 |      |              |
-| 138r      | hour   |     3 |      | CANTUS.thursday.matins    |                                                                                 |      |              |
-| 154r      | hour   |     3 |      | CANTUS.thursday.prime     |                                                                                 |      |              |
-| 157v      | hour   |     3 |      | CANTUS.thursday.terce     |                                                                                 |      |              |
-| 160v      | hour   |     3 |      | CANTUS.thursday.sext      |                                                                                 |      |              |
-| 164v      | hour   |     3 |      | CANTUS.thursday.nones     |                                                                                 |      |              |
-| 168r      | hour   |     3 |      | CANTUS.thursday.vesper    |                                                                                 |      |              |
-| 171r      | hour   |     3 |      | CANTUS.thursday.compline  |                                                                                 |      |              |
-| 172v 172v | prayer |     4 |      | Added prayer in Danish    |                                                                                 | da   | added defect |
-| 173r      | day    |     2 |      | CANTUS_FRIDAY             |                                                                                 |      |              |
-| 173r      | hour   |     3 |      | CANTUS.friday.matins      |                                                                                 | gml  | main defect  |
-| 189v      | hour   |     3 |      | CANTUS.friday.lauds       |                                                                                 |      |              |
-| 197v      | hour   |     3 |      | CANTUS.friday.prime       |                                                                                 |      |              |
-| 200r      | hour   |     3 |      | CANTUS.friday.terce       |                                                                                 |      |              |
-| 203r      | hour   |     3 |      | CANTUS.friday.sext        |                                                                                 |      |              |
-| 207v      | hour   |     3 |      | CANTUS.friday.nones       |                                                                                 |      |              |
-| 213r      | hour   |     3 |      | CANTUS.friday.vespers     |                                                                                 |      |              |
-| 218r      | hour   |     3 |      | CANTUS.friday.compline    |                                                                                 |      |              |
-| 220r      | day    |     2 |      | CANTUS_SATURDAY           |                                                                                 |      |              |
-| 220r      | hour   |     3 |      | CANTUS.saturday.matins    |                                                                                 | gml  | main defect  |
-| 233v      | hour   |     3 |      | CANTUS.saturday.lauds     |                                                                                 |      |              |
-| 234v      | hour   |     3 |      | CANTUS.saturday.prime     |                                                                                 |      |              |
-| 236r      | hour   |     3 |      | CANTUS.saturday.terce     |                                                                                 |      |              |
-| 238r      | hour   |     3 |      | CANTUS.saturday.sext      |                                                                                 |      |              |
-| 239v      | hour   |     3 |      | CANTUS.saturday.nones     |                                                                                 |      |              |
-| 241r      | hour   |     3 |      | CANTUS.saturday.vesper    |                                                                                 |      |              |
-| 245v      | hour   |     3 |      | CANTUS.saturday.compline  |                                                                                 |      |              |
-| 247r 247r | prayer |     4 |      | [[../../Prayers/org/AM08-0070_247r.org][REGINA_COELI]]              | *Regina celi letare* [[K]]onynghynne des he(m)mels                                  | da   | added        |
-| 247r 247r | prayer |     4 |      | [[../../Prayers/org/AM08-0070_247r_m.org][VIRGO_MATER_RESURGENTIS]]   | *Prosa* V(ir)go m(ate)r res(ur)gentis (et cetera) Jomffrw ha(n)s modh(e)r       | da   | added        |
-| 247r 253v | cycle  |     2 |      | CANTUS.extra              | *Hir na volge(n) nv de capitele vnde collecten Jn sunderghen tyden vnde festen* | gml  | main         |
-| 253v 253v | prayer |     4 |      | [[../../Prayers/org/AM08-0070_253r.org][A prayer to the Trinity]]   |                                                                                 |      |              |
-|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------|
-| 254r 254v | prayer |     1 |      | [[../../Prayers/org/AM08-0070_254r.org][Variants to the Cantus]]    |                                                                                 |      |              |
-| 254v      | prayer |     2 | 1069 | Virgo noster              |                                                                                 |      |              |
-| 254v      |        |       | 1070 |                           |                                                                                 |      |              |
-| 255r      |        |       | 1071 |                           |                                                                                 |      |              |
-| 255v      |        |       | 1072 |                           |                                                                                 |      |              |
-| 255v      |        |       | 1073 |                           |                                                                                 |      |              |
-| 256r      |        |       | 1074 | Benedicamus tropes        |                                                                                 |      |              |
-|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------|
+|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------+-----------+------+-------------------------|
+| Loc       | Type   | Level |  MDB | Text                      | Rub/Inc/Exp                                                                     | Lang | Status       | Filiation | Note | Key                     |
+|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------+-----------+------+-------------------------|
+| 1r 253v   | cycle  |     1 |      | Cantus Sororum            |                                                                                 |      |              |           |      |                         |
+| 1r 2v     | hour   |     2 |      | [[../../Prayers/org/AM08-0070_001r.org][Introduction]]              |                                                                                 |      |              |           |      |                         |
+| 2v 2v     | prayer |     3 |  980 | [[../../Prayers/org/AM08-0070_002v.org][A prayer to Christ]]        |                                                                                 |      |              |           |      |                         |
+| 3r        | day    |     2 |      | CANTUS_SUNDAY             |                                                                                 |      |              |           |      |                         |
+| 3r        | hour   |     3 |      | [[../../Prayers/org/AM08-0070_003r.org][Sunday matins]]             |                                                                                 |      |              |           |      |                         |
+| 21v       | hour   |     3 |      | CANTUS.sunday.prime       |                                                                                 |      |              |           |      |                         |
+| 27v       | hour   |     3 |      | CANTUS.sunday.terce       |                                                                                 |      |              |           |      |                         |
+| 30v       | hour   |     3 |      | CANTUS.sunday.sext        |                                                                                 |      |              |           |      |                         |
+| 34r       | hour   |     3 |      | CANTUS.sunday.none        |                                                                                 |      |              |           |      |                         |
+| 36v       | hour   |     3 |      | CANTUS.sunday.vesper      |                                                                                 |      |              |           |      |                         |
+| 40v       | hour   |     3 |      | CANTUS.sunday.compline    | *Hir begy(n)net de nacht sank* [[H]]illighe juncvrouwe maria wille my werdich maken | mlg  | main         |           |      |                         |
+| 44r       | day    |     2 |      | CANTUS_MONDAY             |                                                                                 |      |              |           |      |                         |
+| 44r       | hour   |     3 |      | CANTUS.monday.matins      |                                                                                 |      |              |           |      |                         |
+| 55r       | hour   |     3 |      | CANTUS.monday.lauds       |                                                                                 |      |              |           |      |                         |
+| 56v       | hour   |     3 |      | CANTUS.monday.prime       |                                                                                 |      |              |           |      |                         |
+| 58v       | hour   |     3 |      | CANTUS.monday.terce       |                                                                                 |      |              |           |      |                         |
+| 61r       | hour   |     3 |      | CANTUS.monday.sext        |                                                                                 |      |              |           |      |                         |
+| 64r 65r   | PSALM  |     4 |      | PSALM_17                  | [[H]]Ere twide my(n) rechtuerdicheit [...] wen dyneme ere sich openbaret Ere        | mlg  | added        |           |      |                         |
+| 66r       | hour   |     3 |      | CANTUS.monday.none        |                                                                                 |      |              |           |      |                         |
+| 68v       | hour   |     3 |      | CANTUS.monday.vesper      |                                                                                 |      |              |           |      |                         |
+| 74r       | hour   |     3 |      | CANTUS.monday.compline    |                                                                                 |      |              |           |      |                         |
+| 75v 75v   | prayer |     4 |      | Added prayer in Danish    |                                                                                 |      |              |           |      |                         |
+| 76r       | day    |     2 |      | CANTUS_TUESDAY            |                                                                                 |      |              |           |      |                         |
+| 76r       | hour   |     3 |      | CANTUS.tuesday.matins     |                                                                                 |      |              |           |      |                         |
+| 86v       | hour   |     3 |      | CANTUS.tuesday.prime      |                                                                                 |      |              |           |      |                         |
+| 90v       | hour   |     3 |      | CANTUS.tuesday.terce      |                                                                                 |      |              |           |      |                         |
+| 94v       | hour   |     3 |      | CANTUS.tuesday.sext       |                                                                                 |      |              |           |      |                         |
+| 97r       | hour   |     3 |      | CANTUS.tuesday.none       |                                                                                 |      |              |           |      |                         |
+| 100v      | hour   |     3 |      | CANTUS.tuesday.vesper     |                                                                                 |      |              |           |      |                         |
+| 105r      | hour   |     3 |      | CANTUS.tuesday.compline   |                                                                                 |      |              |           |      |                         |
+| 106v 106v | prayer |     4 |      | Added prayer in Danish    |                                                                                 | da   | added defect |           |      |                         |
+| 107r      | day    |     2 |      | CANTUS_WEDNESDAY          |                                                                                 |      |              |           |      |                         |
+| 107r      | hour   |     3 |      | CANTUS.wednesday.matins   |                                                                                 |      | main defect  |           |      |                         |
+| 116v      | hour   |     3 |      | CANTUS.wednesday.lauds    |                                                                                 |      |              |           |      |                         |
+| 117v 117v | prayer |     4 |      | Added prayer in LG        |                                                                                 |      |              |           |      |                         |
+| 117v      | hour   |     3 |      | CANTUS.wednesday.prime    |                                                                                 |      |              |           |      |                         |
+| 120v      | hour   |     3 |      | CANTUS.wednesday.terce    |                                                                                 |      |              |           |      |                         |
+| 124v      | hour   |     3 |      | CANTUS.wednesday.sext     |                                                                                 |      |              |           |      |                         |
+| 128v      | hour   |     3 |      | CANTUS.wednesday.nones    |                                                                                 |      |              |           |      |                         |
+| 131v      | hour   |     3 |      | CANTUS.wednesday.vesper   |                                                                                 |      |              |           |      |                         |
+| 136v      | hour   |     3 |      | CANTUS.wednesday.compline |                                                                                 |      |              |           |      |                         |
+| 138r      | day    |     2 |      | CANTUS_THURSDAY           |                                                                                 |      |              |           |      |                         |
+| 138r      | hour   |     3 |      | CANTUS.thursday.matins    |                                                                                 |      |              |           |      |                         |
+| 154r      | hour   |     3 |      | CANTUS.thursday.prime     |                                                                                 |      |              |           |      |                         |
+| 157v      | hour   |     3 |      | CANTUS.thursday.terce     |                                                                                 |      |              |           |      |                         |
+| 160v      | hour   |     3 |      | CANTUS.thursday.sext      |                                                                                 |      |              |           |      |                         |
+| 164v      | hour   |     3 |      | CANTUS.thursday.nones     |                                                                                 |      |              |           |      |                         |
+| 168r      | hour   |     3 |      | CANTUS.thursday.vesper    |                                                                                 |      |              |           |      |                         |
+| 171r      | hour   |     3 |      | CANTUS.thursday.compline  |                                                                                 |      |              |           |      |                         |
+| 172v 172v | prayer |     4 |      | Added prayer in Danish    |                                                                                 | da   | added defect |           |      |                         |
+| 173r      | day    |     2 |      | CANTUS_FRIDAY             |                                                                                 |      |              |           |      |                         |
+| 173r      | hour   |     3 |      | CANTUS.friday.matins      |                                                                                 | gml  | main defect  |           |      |                         |
+| 189v      | hour   |     3 |      | CANTUS.friday.lauds       |                                                                                 |      |              |           |      |                         |
+| 197v      | hour   |     3 |      | CANTUS.friday.prime       |                                                                                 |      |              |           |      |                         |
+| 200r      | hour   |     3 |      | CANTUS.friday.terce       |                                                                                 |      |              |           |      |                         |
+| 203r      | hour   |     3 |      | CANTUS.friday.sext        |                                                                                 |      |              |           |      |                         |
+| 207v      | hour   |     3 |      | CANTUS.friday.nones       |                                                                                 |      |              |           |      |                         |
+| 213r      | hour   |     3 |      | CANTUS.friday.vespers     |                                                                                 |      |              |           |      |                         |
+| 218r      | hour   |     3 |      | CANTUS.friday.compline    |                                                                                 |      |              |           |      |                         |
+| 220r      | day    |     2 |      | CANTUS_SATURDAY           |                                                                                 |      |              |           |      |                         |
+| 220r      | hour   |     3 |      | CANTUS.saturday.matins    |                                                                                 | gml  | main defect  |           |      |                         |
+| 233v      | hour   |     3 |      | CANTUS.saturday.lauds     |                                                                                 |      |              |           |      |                         |
+| 234v      | hour   |     3 |      | CANTUS.saturday.prime     |                                                                                 |      |              |           |      |                         |
+| 236r      | hour   |     3 |      | CANTUS.saturday.terce     |                                                                                 |      |              |           |      |                         |
+| 238r      | hour   |     3 |      | CANTUS.saturday.sext      |                                                                                 |      |              |           |      |                         |
+| 239v      | hour   |     3 |      | CANTUS.saturday.nones     |                                                                                 |      |              |           |      |                         |
+| 241r      | hour   |     3 |      | CANTUS.saturday.vesper    |                                                                                 |      |              |           |      |                         |
+| 245v      | hour   |     3 |      | CANTUS.saturday.compline  |                                                                                 |      |              |           |      |                         |
+| 247r 247r | prayer |     4 |      | [[../../Prayers/org/AM08-0070_247r.org][Regina cœli]]               | *Regina celi letare* [[K]]onynghynne des he(m)mels                                  | da   | added        |           |      | REGINA_COELI            |
+| 247r 247r | prayer |     4 |      | [[../../Prayers/org/AM08-0070_247r_m.org][Virgo mater resurgentis]]   | *Prosa* V(ir)go m(ate)r res(ur)gentis (et cetera) Jomffrw ha(n)s modh(e)r       | da   | added        |           |      | VIRGO_MATER_RESURGENTIS |
+| 247r 253v | cycle  |     2 |      | CANTUS.extra              | *Hir na volge(n) nv de capitele vnde collecten Jn sunderghen tyden vnde festen* | gml  | main         |           |      |                         |
+| 253v 253v | prayer |     4 |      | [[../../Prayers/org/AM08-0070_253r.org][A prayer to the Trinity]]   |                                                                                 |      |              |           |      |                         |
+|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------+-----------+------+-------------------------|
+| 254r 254v | prayer |     1 |      | [[../../Prayers/org/AM08-0070_254r.org][Variants to the Cantus]]    |                                                                                 |      |              |           |      |                         |
+| 254v      | prayer |     2 | 1069 | Virgo noster              |                                                                                 |      |              |           |      |                         |
+| 254v      |        |       | 1070 |                           |                                                                                 |      |              |           |      |                         |
+| 255r      |        |       | 1071 |                           |                                                                                 |      |              |           |      |                         |
+| 255v      |        |       | 1072 |                           |                                                                                 |      |              |           |      |                         |
+| 255v      |        |       | 1073 |                           |                                                                                 |      |              |           |      |                         |
+| 256r      |        |       | 1074 | Benedicamus tropes        |                                                                                 |      |              |           |      |                         |
+|-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+------+--------------+-----------+------+-------------------------|
 
-** Contents (old)
+** Old
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
 | start | end  | text type    | text            |  MDB | incipit                             | explicit                           | language | status |
 |-------+------+--------------+-----------------+------+-------------------------------------+------------------------------------+----------+--------|
