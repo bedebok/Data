@@ -1,5 +1,5 @@
 #+TITLE: AM 70 8vo (Cantus Sororum)
-A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
+A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
 [[../imgs/AM08-0070.jpg]]
 * Physical Description
 |--------------+----------|
@@ -20,11 +20,11 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 |------+------|
 
 * History
-|------------+--------------|
-| PLACE      | #DE #DK      |
-| DATE       | XV           |
-| PROVENANCE | Rostgård 356 |
-|------------+--------------|
+** Origin
+Written in [[#DK][Denmark]] or [[#DE][Germany]] in the [[#1450 1525][Late fifteenth century]].
+
+** Provenance
+Purchased at the auction of [[ROSTGAARD][Frederik Rostgård]] as number 356.
 
 * Quire Structure
 |--------+----------+-------------+----------------------------------------------------|
@@ -137,7 +137,7 @@ A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many 
 | 247r 247r | prayer |     4 |      | [[../../Prayers/org/AM08-0070_247r.org][Regina cœli]]               | *Regina celi letare* [[K]]onynghynne des he(m)mels                                  | da      | added        | REGINA_COELI            |                          |
 | 247r 247r | prayer |     4 |      | [[../../Prayers/org/AM08-0070_247r_m.org][Virgo mater resurgentis]]   | *Prosa* V(ir)go m(ate)r res(ur)gentis (et cetera) Jomffrw ha(n)s modh(e)r       | da      | added        | VIRGO_MATER_RESURGENTIS |                          |
 | 247r 253v | cycle  |     2 |      | CANTUS.extra              | *Hir na volge(n) nv de capitele vnde collecten Jn sunderghen tyden vnde festen* | gml     | main         |                         |                          |
-| 253v 253v | prayer |     4 |      | [[../../Prayers/org/AM08-0070_253r.org][A prayer to the Trinity]]   |                                                                                 |         |              |                         |                          |
+| 253v 253v | prayer |     3 |      | [[../../Prayers/org/AM08-0070_253r.org][A prayer to the Trinity]]   |                                                                                 |         |              |                         |                          |
 |-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+---------+--------------+-------------------------+--------------------------|
 | 254r 254v | prayer |     1 |      | [[../../Prayers/org/AM08-0070_254r.org][Variants to the Cantus]]    |                                                                                 |         |              |                         |                          |
 | 254v      | prayer |     2 | 1069 | Virgo noster              |                                                                                 |         |              |                         |                          |

@@ -1,65 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM08-0070_247r_m" type="text">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Virgo resurgentis</title>
-<respStmt xml:id="SDV">
-<resp when="2024">Catalogue</resp>
-<persName>Seán D. Vrieland</persName>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<authority>When Danes Prayed in German</authority>
-</publicationStmt>
-<sourceDesc>
-<msDesc>
-<msIdentifier>
-<idno corresp="AM08-0070"/>
-</msIdentifier>
-<msContents>
-<msItem>
-<locus from="247rm" to="247rm"/>
-<title key="VIRGO_MATER_RESURGENTIS">Virgo resurgentis</title>
-<textLang mainLang="da"/>
-</msItem>
-</msContents>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-</teiHeader>
-<text>
-<body>
-<div type="rubric">
-<p>
-<w xml:id="AM08-0070_247rm.1.1">prosa</w>
-</p></div>
-<div type="incipit">
-<p>
-<w xml:id="AM08-0070_247rm.1.2"> V<ex>ir</ex>go</w>
-<w xml:id="AM08-0070_247rm.1.3">res<ex>ur</ex>ge<ex>n</ex>tis</w>
-<w xml:id="AM08-0070_247rm.1.4"><ex>et cetera</ex> </w>
-</p></div>
-<div type="text">
-<p>
-<w xml:id="AM08-0070_247rm.1.5">Jomffrw</w>
-<w xml:id="AM08-0070_247rm.1.6">ha<ex>n</ex>s</w>
-<w xml:id="AM08-0070_247rm.1.7">modh<ex>e</ex>r</w>
-<lb n="2"/>
-<w xml:id="AM08-0070_247rm.2.1"><del>som</del></w>
-<w xml:id="AM08-0070_247rm.2.2">som</w>
-<w xml:id="AM08-0070_247rm.2.3">opstod</w>
-<w xml:id="AM08-0070_247rm.2.4">aff</w>
-<w xml:id="AM08-0070_247rm.2.5">døde</w>
-<w xml:id="AM08-0070_247rm.2.6">lad</w>
-<w xml:id="AM08-0070_247rm.2.7">os</w>
-<w xml:id="AM08-0070_247rm.2.8">fanghe</w>
-<w xml:id="AM08-0070_247rm.2.9">bliff<lb n="3"/>uendes</w>
-<w xml:id="AM08-0070_247rm.3.2">liiffs</w>
-<w xml:id="AM08-0070_247rm.3.3">fødhæ</w>
-<w xml:id="AM08-0070_247rm.3.4"> Alleluya </w>
-</p>
-</div>
-</body>
-</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Virgo resurgentis</title>
+        <respStmt xml:id="SDV">
+          <resp when="2024">Catalogue</resp>
+          <persName>Seán D. Vrieland</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno corresp="AM08-0070"/>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus from="247rm" to="247rm"/>
+              <title key="VIRGO_MATER_RESURGENTIS">Virgo resurgentis</title>
+              <textLang mainLang="da"/>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="rubric">
+        <p>
+          <w xml:id="AM08-0070_247rm.1.1">prosa</w>
+        </p>
+      </div>
+      <div type="incipit">
+        <p>
+          <w xml:id="AM08-0070_247rm.1.2"> V<ex>ir</ex>go</w>
+          <w xml:id="AM08-0070_247rm.1.3">res<ex>ur</ex>ge<ex>n</ex>tis</w>
+          <w xml:id="AM08-0070_247rm.1.4"><ex>et cetera</ex>
+          </w>
+        </p>
+      </div>
+      <div type="text">
+        <p>
+          <w xml:id="AM08-0070_247rm.1.5">Jomffrw</w>
+          <w xml:id="AM08-0070_247rm.1.6">ha<ex>n</ex>s</w>
+          <w xml:id="AM08-0070_247rm.1.7">modh<ex>e</ex>r</w>
+          <lb n="2"/>
+          <w xml:id="AM08-0070_247rm.2.1"><del>som</del></w>
+          <w xml:id="AM08-0070_247rm.2.2" lemma="som">som</w>
+          <w xml:id="AM08-0070_247rm.2.3" lemma="upsta">opstod</w>
+          <w xml:id="AM08-0070_247rm.2.4">aff</w>
+          <w xml:id="AM08-0070_247rm.2.5">døde</w>
+          <w xml:id="AM08-0070_247rm.2.6">lad</w>
+          <w xml:id="AM08-0070_247rm.2.7">os</w>
+          <w xml:id="AM08-0070_247rm.2.8">fanghe</w>
+          <w xml:id="AM08-0070_247rm.2.9">bliff<lb n="3"/>uendes</w>
+          <w xml:id="AM08-0070_247rm.3.2">liiffs</w>
+          <w xml:id="AM08-0070_247rm.3.3">fødhæ</w>
+          <w xml:id="AM08-0070_247rm.3.4"> Alleluya </w>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

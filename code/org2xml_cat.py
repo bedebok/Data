@@ -140,6 +140,11 @@ dictionaries = {
     "History" : {},
     }
 
+supports = {
+    "perg" : "parchment",
+    "pap" : "paper",
+    "perg pap" : "parchment and paper"
+    }
 
 quireIndex = []
 quireStructure = {
@@ -190,10 +195,16 @@ with open(sys.argv[1], 'r') as read_file:
                print("Document title:", title)
                print("Summary:", summary)
            else:
-               if not "[[" in line and head == '':
+               if not "[[.." in line and head == '':
                    head = line.strip('\n')
-                   #while "/" in head:
                    head = re.sub(r'/(.+)/','<title>\\1</title>',head)
+                   if "][" in head:
+                       print("There seems to be a name in the header")
+                       head = head.split('][')
+                       for item in range(len(head)):
+                           head[item] = re.sub(r'\[\[(.+)',r'<name key="\1">',head[item])
+                           head[item] = re.sub(r'\]\]',r'</name>',head[item])
+                       head = ' '.join(head)
                    print("There is now a header:", head)
                    # TODO: Header needs to be formatted perhaps?
        elif read_mode in dictionaries:
@@ -268,6 +279,7 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
                 print("Level not found on line",line,". Treating as 1.")
                 get_level(1)
             else:
+                print("Skipping line",line)
                 continue
         for item in contents:
             try: 
@@ -325,5 +337,34 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
     # close contents
     write_file.write("</msContents>\n")
 
+    print("Finished writing contents. Now moving on to Physical Description.")
+
+    write_file.write("<physDesc>\n<objectDesc>\n")
+    #SupportDesc
+    print(dictionaries["Physical"])
+    try:
+        write_file.write("<supportDesc material=\""+dictionaries["Physical"]["SUP"]+"\">\n<support>"+supports[dictionaries["Physical"]["SUP"]]+"</support>\n")
+    except Exception:
+        write_file.write("<supportDesc>\n")
+        print("Cannot find support. Skipping for now.")
+        pass
+
+    try:
+        write_file.write("<extent>"+dictionaries["Physical"]["NUM"]+".")
+    except Exception:
+        write_file.write("<extent>")
+        print("Cannot find extent. Skipping for now.")
+        pass
+    try:
+        write_file.write("<dimensions>\n<height>"+dictionaries["Physical"]["SIZ"].split(' ')[0]+"</height>\n<width>"+dictionaries["Physical"]["SIZ"].split(' ')[1]+"</width>\n</dimensions></extent>\n")
+    except Exception:
+        write_file.write("</extent>\n")
+        print("Cannot find dimensions. Skipping for now.")
+
+    #Close Support Desc
+    write_file.write("</supportDesc>\n")
+    write_file.write("</objectDesc>\n")
+    write_file.write("</physDesc>\n")
+    
     # close rest of file
     write_file.write("</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<facsimile>\n<surface/>\n</facsimile>\n</TEI>")

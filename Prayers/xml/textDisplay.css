@@ -1,0 +1,53 @@
+/* This stylesheet is used to display the individual prayers */
+
+teiHeader {
+  display: none;
+}
+
+body {
+    display: block;
+    font-family: "Andron Corpus";
+    margin-left: 150pt;
+    margin-right: 15pt;
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    font-size: 14pt;
+    line-height: 14pt;
+    text-align: left
+}
+
+div[type = "rubric"]{
+    color: darkred;
+}
+
+div[type = "incipit"]{
+    text-decoration: underline;
+}
+
+lb:after {
+  content: "\a";
+  white-space: pre
+}
+
+ex {
+  font-style: italic;
+}
+
+del {
+  text-decoration: line-through
+}
+
+w[lemma]:hover:after {
+  content: attr(lemma);
+  display: inline;
+  float: left;
+  width: 0pt;
+  margin-left: -75pt;
+  font-style: italic;
+  color: cornflowerblue
+}
+
+w:hover {
+  background-color: lightgray
+}
+/* TODO: Hover-over to get lemma */

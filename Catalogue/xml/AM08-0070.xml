@@ -21,7 +21,7 @@
 <idno corresp="AM 70 8vo "/>
 </msIdentifier>
 <head>
-A copy of St. Bridget of Sweden's <title>Cantus Sororum</title> in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
+A copy of <name key="BIRGITTA"> St. Bridget</name> of Sweden's <title>Cantus Sororum</title> in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
 </head>
 <msContents>
 <summary>Cantus Sororum</summary>
@@ -40,7 +40,8 @@ A copy of St. Bridget of Sweden's <title>Cantus Sororum</title> in Low German. C
 </msItem>
 <msItem class="day" n="4">
 <locus from="3r" to="undefined"/>
-<title/><msItem class="hour" n="5">
+<title/>
+<msItem class="hour" n="5">
 <locus from="3r" to="undefined"/>
 <title>Sunday matins</title>
 </msItem>
@@ -330,32 +331,45 @@ A copy of St. Bridget of Sweden's <title>Cantus Sororum</title> in Low German. C
 <msItem class="prayer" n="72">
 <locus from="253v" to="253v"/>
 <title>A prayer to the Trinity</title>
-<msItem class="undefined" n="73">
-<title/></msItem>
 </msItem>
 </msItem>
 </msItem>
-<msItem class="prayer" n="74">
+<msItem class="prayer" n="73">
 <locus from="254r" to="254v"/>
 <title>Variants to the Cantus</title>
-<msItem class="prayer" n="75">
+<msItem class="prayer" n="74">
 <locus from="254v" to="undefined"/>
 <title>Virgo noster</title>
 </msItem>
-<msItem class="undefined" n="76">
+<msItem class="undefined" n="75">
 <locus from="254v" to="undefined"/>
-<title/></msItem>
-<msItem class="undefined" n="77">
+<title/>
+</msItem>
+<msItem class="undefined" n="76">
 <locus from="255r" to="undefined"/>
-<title/></msItem>
+<title/>
+</msItem>
+<msItem class="undefined" n="77">
+<locus from="255v" to="undefined"/>
+<title/>
+</msItem>
 <msItem class="undefined" n="78">
 <locus from="255v" to="undefined"/>
-<title/></msItem>
-<msItem class="undefined" n="79">
-<locus from="255v" to="undefined"/>
-<title/></msItem>
+<title/>
+</msItem>
 </msItem>
 </msContents>
+<physDesc>
+<objectDesc>
+<supportDesc material="perg">
+<support>parchment</support>
+<extent>257.<dimensions>
+<height>160</height>
+<width>112</width>
+</dimensions></extent>
+</supportDesc>
+</objectDesc>
+</physDesc>
 </msDesc>
 </sourceDesc>
 </fileDesc>
