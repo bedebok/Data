@@ -28,14 +28,25 @@ def rubricate(text):
     # Separates out the text items
     #print(text)
     rubric = ''
+    latin_incipit = ''
     incipit = ''
     explicit = ''
+    text = text.replace('[[','<hi>').replace(']]','</hi>').replace('(','<ex>').replace(')','</ex>')
     if "*" in text:
         #TODO final rubrics
         try:
             rubric = text.split("*",2)[1].strip("*")
             text = text.split("*",2)[2]
             contents_items.update({"rubric":rubric})
+        except Exception:
+            pass
+    if "_" in text:
+        print("Latin incipit found:")
+        try:
+            latin_incipit = text.split("_",2)[1].strip("_")
+            print(latin_incipit)
+            contents_items.update({"latin_incipit":latin_incipit})
+            text = text.split("_",2)[2]
         except Exception:
             pass
     if "[...]" in text:
@@ -53,10 +64,63 @@ def rubricate(text):
 def get_class(item):
     contents_items.update({"class":item})
 
+def get_langs(lang):
+    langs = lang.split(' ',1)
+    contents_items.update({"mainLang":langs[0]})
+    try:
+        contents_items.update({"otherLangs":langs[1]})
+    except Exception:
+        pass
+
+def get_level(this_level):
+    global level
+    level = int(this_level)
+    global prev_level
+    while prev_level >= level:
+        write_file.write("</msItem>\n")
+        prev_level -= 1
+    prev_level = level
+        
+def get_title(text):
+    try:
+        title = text.split('][')[1].strip(']')
+    except Exception:
+        title = text
+    contents_items.update({"title":title})
+
+def get_key(titleKey):
+    contents_items.update({"titleKey":titleKey})
+
+def get_status(status):
+    if "defect" in status:
+        contents_items.update({"defective":"true"})
+
+def add_note(note):
+    contents_items.update({"note":note})
+
+def find_author(author):
+    try:
+        author = author.split(' ',1)
+        if author[0].isupper():
+            contents_items.update({"authorKey":author[0]})
+            author = author[1]
+    except Exception:
+        pass
+    contents_items.update({"author":author})
+            
+        
+    
 functions = {
     "Loc" : get_locus,
     "Rub/Inc/Exp" : rubricate,
-    "Type" : get_class
+    "Type" : get_class,
+    "Lang" : get_langs,
+    "Level" : get_level,
+    "Text" : get_title,
+    "Key" : get_key,
+    "Status" : get_status,
+    "Note" : add_note,
+    "Author" : find_author
     }
 
 
@@ -66,6 +130,8 @@ head = ''
 locus_from = ''
 locus_to = ''
 text_class = ''
+prev_level = 0
+level = 1
 
 # Dictionaries
 dictionaries = {
@@ -102,7 +168,9 @@ city, repository = repositories.get(file_id[0:2])
 
 with open(sys.argv[1], 'r') as read_file:
     for i, line in enumerate(read_file):
-
+       if line.startswith("|-"):
+           print("Skipping line", i)
+           continue
        if line.startswith("*"):
            read_mode = line.split(' ')[1].strip('\n')
            print("Okay, now changing reading mode to:", read_mode)
@@ -124,6 +192,8 @@ with open(sys.argv[1], 'r') as read_file:
            else:
                if not "[[" in line and head == '':
                    head = line.strip('\n')
+                   #while "/" in head:
+                   head = re.sub(r'/(.+)/','<title>\\1</title>',head)
                    print("There is now a header:", head)
                    # TODO: Header needs to be formatted perhaps?
        elif read_mode in dictionaries:
@@ -160,12 +230,12 @@ with open(sys.argv[1], 'r') as read_file:
                        contents[item_key].update({i:item})
                    except Exception:
                        pass
-           
+
   
 # BIBLIOGRAPHY        
 with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
     # First write the header
-    write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\""+file_id+"\" type=\"manuscript\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
+    write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/css\" href=\"msDesc.css\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\""+file_id+"\" type=\"manuscript\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
 
      #Source Description
     write_file.write("<sourceDesc>\n<msDesc>\n<msIdentifier>\n<settlement key=\""+city+"\"/>\n<repository key=\""+repository+"\"/>\n<idno corresp=\""+title+"\"/>\n</msIdentifier>\n")
@@ -188,6 +258,17 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
     print("Contents found on lines",starting_line,"to",ending_line)
     item_nr = 1
     for line in range(starting_line, ending_line):
+        #print (type(contents))
+        if line not in contents["Level"]:
+            in_keys = False
+            for item in contents:
+                if line in contents[item]:
+                    in_keys = True
+            if in_keys == True:
+                print("Level not found on line",line,". Treating as 1.")
+                get_level(1)
+            else:
+                continue
         for item in contents:
             try: 
                 func = functions.get(item)
@@ -196,22 +277,53 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
             except Exception:
                 pass
             # Start writing msItem
-        if "class" in contents_items.keys():
-            write_file.write("<msItem class=\""+contents_items['class']+"\" n=\""+str(item_nr)+"\">\n")
-        else:
-            write_file.write("<msItem class=\"undefined\" n=\""+str(item_nr)+"\">\n")
+        if "class" not in contents_items.keys():
+            contents_items.update({"class":"undefined"})
+
+        write_file.write("<msItem class=\""+contents_items['class']+"\" n=\""+str(item_nr)+"\"")
+        if "defective" in contents_items.keys():
+            write_file.write(" defective=\"true\"")
+        write_file.write(">\n")
         if "locus_from" in contents_items.keys():
             write_file.write("<locus from=\""+contents_items['locus_from']+"\" to=\""+contents_items['locus_to']+"\"/>\n")
-            #NB currently single locus will be considered beginning and end
+        try:
+            write_file.write("<title key=\""+contents_items['titleKey']+"\">"+contents_items['title']+"</title>\n")
+        except Exception:
+            try:
+                write_file.write("<title>"+contents_items['title']+"</title>\n")
+            except Exception:
+                write_file.write("<title/>\n")
         if "rubric" in contents_items.keys():
             write_file.write("<rubric>"+contents_items['rubric']+"</rubric>\n")
+        if "latin_incipit" in contents_items.keys():
+             write_file.write("<incipit type=\"latin\">"+contents_items['latin_incipit']+"</incipit>\n")
         if "incipit" in contents_items.keys():
             write_file.write("<incipit>"+contents_items['incipit']+"</incipit>\n")
         if "explicit" in contents_items.keys():
             write_file.write("<explicit>"+contents_items['explicit']+"</explicit>\n")
-        write_file.write("</msItem>\n")
+
+        if "mainLang" in contents_items.keys():
+            write_file.write("<textLang mainLang=\""+contents_items['mainLang']+"\"")
+            if "otherLangs" in contents_items.keys():
+                write_file.write(" otherLangs=\""+contents_items['otherLangs']+"\"")
+            write_file.write("/>\n")
+        if "note" in contents_items.keys():
+            write_file.write("<note>"+contents_items[note]+"</note>\n")
+        if "author" in contents_items.keys():
+            try:
+                write_file.write("<author key=\""+contents_items['authorKey']+"\">"+contents_items['author']+"</author>\n")
+            except Exception:
+                write_file.write("<author>"+contents_items['author']+"</author>\n")
+
+        
+        
         contents_items.clear()
         item_nr += 1
-
+    while level >= 1:
+        write_file.write("</msItem>\n")
+        level -= 1
     # close contents
     write_file.write("</msContents>\n")
+
+    # close rest of file
+    write_file.write("</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<facsimile>\n<surface/>\n</facsimile>\n</TEI>")

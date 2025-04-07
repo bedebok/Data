@@ -72,9 +72,7 @@ title {
 head title {
     font-style: italic
 }
-head > title:after {
-    content: ". "
-}
+
 head > origPlace:after {
     content: ", "
 }

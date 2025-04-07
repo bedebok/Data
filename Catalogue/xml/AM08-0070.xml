@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM08-0070" type="manuscript">
 <teiHeader>
 <fileDesc>
@@ -20,254 +21,346 @@
 <idno corresp="AM 70 8vo "/>
 </msIdentifier>
 <head>
-A copy of St. Bridget of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
+A copy of St. Bridget of Sweden's <title>Cantus Sororum</title> in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
 </head>
 <msContents>
 <summary>Cantus Sororum</summary>
 <msItem class="cycle" n="1">
 <locus from="1r" to="253v"/>
-</msItem>
+<title key="CANTUS">Cantus Sororum</title>
+<textLang mainLang="gml" otherLangs="lat"/>
+<author key="BIRGITTA">Psuedo-Birgitta</author>
 <msItem class="hour" n="2">
 <locus from="1r" to="2v"/>
-</msItem>
+<title>Introduction</title>
 <msItem class="prayer" n="3">
 <locus from="2v" to="2v"/>
+<title>A prayer to Christ</title>
+</msItem>
 </msItem>
 <msItem class="day" n="4">
 <locus from="3r" to="undefined"/>
-</msItem>
-<msItem class="hour" n="5">
+<title/><msItem class="hour" n="5">
 <locus from="3r" to="undefined"/>
+<title>Sunday matins</title>
 </msItem>
 <msItem class="hour" n="6">
 <locus from="21v" to="undefined"/>
+<title>CANTUS.sunday.prime</title>
 </msItem>
 <msItem class="hour" n="7">
 <locus from="27v" to="undefined"/>
+<title>CANTUS.sunday.terce</title>
 </msItem>
 <msItem class="hour" n="8">
 <locus from="30v" to="undefined"/>
+<title>CANTUS.sunday.sext</title>
 </msItem>
 <msItem class="hour" n="9">
 <locus from="34r" to="undefined"/>
+<title>CANTUS.sunday.none</title>
 </msItem>
 <msItem class="hour" n="10">
 <locus from="36v" to="undefined"/>
+<title>CANTUS.sunday.vesper</title>
 </msItem>
 <msItem class="hour" n="11">
 <locus from="40v" to="undefined"/>
-<rubric>Hir begy(n)net de nacht sank</rubric>
-<incipit> [[H]]illighe juncvrouwe maria wille my werdich maken</incipit>
+<title>CANTUS.sunday.compline</title>
+<rubric>Hir begy<ex>n</ex>net de nacht sank</rubric>
+<incipit> <hi>H</hi>illighe juncvrouwe maria wille my werdich maken</incipit>
+<textLang mainLang="gml"/>
+</msItem>
 </msItem>
 <msItem class="day" n="12">
 <locus from="44r" to="undefined"/>
-</msItem>
+<title>CANTUS_MONDAY</title>
 <msItem class="hour" n="13">
 <locus from="44r" to="undefined"/>
+<title>CANTUS.monday.matins</title>
 </msItem>
 <msItem class="hour" n="14">
 <locus from="55r" to="undefined"/>
+<title>CANTUS.monday.lauds</title>
 </msItem>
 <msItem class="hour" n="15">
 <locus from="56v" to="undefined"/>
+<title>CANTUS.monday.prime</title>
 </msItem>
 <msItem class="hour" n="16">
 <locus from="58v" to="undefined"/>
+<title>CANTUS.monday.terce</title>
 </msItem>
 <msItem class="hour" n="17">
 <locus from="61r" to="undefined"/>
-</msItem>
+<title>CANTUS.monday.sext</title>
 <msItem class="PSALM" n="18">
 <locus from="64r" to="65r"/>
-<incipit>[[H]]Ere twide my(n) rechtuerdicheit </incipit>
+<title>PSALM_17</title>
+<incipit><hi>H</hi>Ere twide my<ex>n</ex> rechtuerdicheit </incipit>
 <explicit> wen dyneme ere sich openbaret Ere</explicit>
+<textLang mainLang="gml"/>
+</msItem>
 </msItem>
 <msItem class="hour" n="19">
 <locus from="66r" to="undefined"/>
+<title>CANTUS.monday.none</title>
 </msItem>
 <msItem class="hour" n="20">
 <locus from="68v" to="undefined"/>
+<title>CANTUS.monday.vesper</title>
 </msItem>
 <msItem class="hour" n="21">
 <locus from="74r" to="undefined"/>
-</msItem>
+<title>CANTUS.monday.compline</title>
 <msItem class="prayer" n="22">
 <locus from="75v" to="75v"/>
+<title>Added prayer in Danish</title>
+</msItem>
+</msItem>
 </msItem>
 <msItem class="day" n="23">
 <locus from="76r" to="undefined"/>
-</msItem>
+<title>CANTUS_TUESDAY</title>
 <msItem class="hour" n="24">
 <locus from="76r" to="undefined"/>
+<title>CANTUS.tuesday.matins</title>
 </msItem>
 <msItem class="hour" n="25">
 <locus from="86v" to="undefined"/>
+<title>CANTUS.tuesday.prime</title>
 </msItem>
 <msItem class="hour" n="26">
 <locus from="90v" to="undefined"/>
+<title>CANTUS.tuesday.terce</title>
 </msItem>
 <msItem class="hour" n="27">
 <locus from="94v" to="undefined"/>
+<title>CANTUS.tuesday.sext</title>
 </msItem>
 <msItem class="hour" n="28">
 <locus from="97r" to="undefined"/>
+<title>CANTUS.tuesday.none</title>
 </msItem>
 <msItem class="hour" n="29">
 <locus from="100v" to="undefined"/>
+<title>CANTUS.tuesday.vesper</title>
 </msItem>
 <msItem class="hour" n="30">
 <locus from="105r" to="undefined"/>
-</msItem>
-<msItem class="prayer" n="31">
+<title>CANTUS.tuesday.compline</title>
+<msItem class="prayer" n="31" defective="true">
 <locus from="106v" to="106v"/>
+<title>Added prayer in Danish</title>
+<textLang mainLang="da"/>
+</msItem>
+</msItem>
 </msItem>
 <msItem class="day" n="32">
 <locus from="107r" to="undefined"/>
-</msItem>
-<msItem class="hour" n="33">
+<title>CANTUS_WEDNESDAY</title>
+<msItem class="hour" n="33" defective="true">
 <locus from="107r" to="undefined"/>
+<title>CANTUS.wednesday.matins</title>
 </msItem>
 <msItem class="hour" n="34">
 <locus from="116v" to="undefined"/>
-</msItem>
+<title>CANTUS.wednesday.lauds</title>
 <msItem class="prayer" n="35">
 <locus from="117v" to="117v"/>
+<title>Added prayer in LG</title>
+</msItem>
 </msItem>
 <msItem class="hour" n="36">
 <locus from="117v" to="undefined"/>
+<title>CANTUS.wednesday.prime</title>
 </msItem>
 <msItem class="hour" n="37">
 <locus from="120v" to="undefined"/>
+<title>CANTUS.wednesday.terce</title>
 </msItem>
 <msItem class="hour" n="38">
 <locus from="124v" to="undefined"/>
+<title>CANTUS.wednesday.sext</title>
 </msItem>
 <msItem class="hour" n="39">
 <locus from="128v" to="undefined"/>
+<title>CANTUS.wednesday.nones</title>
 </msItem>
 <msItem class="hour" n="40">
 <locus from="131v" to="undefined"/>
+<title>CANTUS.wednesday.vesper</title>
 </msItem>
 <msItem class="hour" n="41">
 <locus from="136v" to="undefined"/>
+<title>CANTUS.wednesday.compline</title>
+</msItem>
 </msItem>
 <msItem class="day" n="42">
 <locus from="138r" to="undefined"/>
-</msItem>
+<title>CANTUS_THURSDAY</title>
 <msItem class="hour" n="43">
 <locus from="138r" to="undefined"/>
+<title>CANTUS.thursday.matins</title>
 </msItem>
 <msItem class="hour" n="44">
 <locus from="154r" to="undefined"/>
+<title>CANTUS.thursday.prime</title>
 </msItem>
 <msItem class="hour" n="45">
 <locus from="157v" to="undefined"/>
+<title>CANTUS.thursday.terce</title>
 </msItem>
 <msItem class="hour" n="46">
 <locus from="160v" to="undefined"/>
+<title>CANTUS.thursday.sext</title>
 </msItem>
 <msItem class="hour" n="47">
 <locus from="164v" to="undefined"/>
+<title>CANTUS.thursday.nones</title>
 </msItem>
 <msItem class="hour" n="48">
 <locus from="168r" to="undefined"/>
+<title>CANTUS.thursday.vesper</title>
 </msItem>
 <msItem class="hour" n="49">
 <locus from="171r" to="undefined"/>
-</msItem>
-<msItem class="prayer" n="50">
+<title>CANTUS.thursday.compline</title>
+<msItem class="prayer" n="50" defective="true">
 <locus from="172v" to="172v"/>
+<title>Added prayer in Danish</title>
+<textLang mainLang="da"/>
+</msItem>
+</msItem>
 </msItem>
 <msItem class="day" n="51">
 <locus from="173r" to="undefined"/>
-</msItem>
-<msItem class="hour" n="52">
+<title>CANTUS_FRIDAY</title>
+<msItem class="hour" n="52" defective="true">
 <locus from="173r" to="undefined"/>
+<title>CANTUS.friday.matins</title>
+<textLang mainLang="gml"/>
 </msItem>
 <msItem class="hour" n="53">
 <locus from="189v" to="undefined"/>
+<title>CANTUS.friday.lauds</title>
 </msItem>
 <msItem class="hour" n="54">
 <locus from="197v" to="undefined"/>
+<title>CANTUS.friday.prime</title>
 </msItem>
 <msItem class="hour" n="55">
 <locus from="200r" to="undefined"/>
+<title>CANTUS.friday.terce</title>
 </msItem>
 <msItem class="hour" n="56">
 <locus from="203r" to="undefined"/>
+<title>CANTUS.friday.sext</title>
 </msItem>
 <msItem class="hour" n="57">
 <locus from="207v" to="undefined"/>
+<title>CANTUS.friday.nones</title>
 </msItem>
 <msItem class="hour" n="58">
 <locus from="213r" to="undefined"/>
+<title>CANTUS.friday.vespers</title>
 </msItem>
 <msItem class="hour" n="59">
 <locus from="218r" to="undefined"/>
+<title>CANTUS.friday.compline</title>
+</msItem>
 </msItem>
 <msItem class="day" n="60">
 <locus from="220r" to="undefined"/>
-</msItem>
-<msItem class="hour" n="61">
+<title>CANTUS_SATURDAY</title>
+<msItem class="hour" n="61" defective="true">
 <locus from="220r" to="undefined"/>
+<title>CANTUS.saturday.matins</title>
+<textLang mainLang="gml"/>
 </msItem>
 <msItem class="hour" n="62">
 <locus from="233v" to="undefined"/>
+<title>CANTUS.saturday.lauds</title>
 </msItem>
 <msItem class="hour" n="63">
 <locus from="234v" to="undefined"/>
+<title>CANTUS.saturday.prime</title>
 </msItem>
 <msItem class="hour" n="64">
 <locus from="236r" to="undefined"/>
+<title>CANTUS.saturday.terce</title>
 </msItem>
 <msItem class="hour" n="65">
 <locus from="238r" to="undefined"/>
+<title>CANTUS.saturday.sext</title>
 </msItem>
 <msItem class="hour" n="66">
 <locus from="239v" to="undefined"/>
+<title>CANTUS.saturday.nones</title>
 </msItem>
 <msItem class="hour" n="67">
 <locus from="241r" to="undefined"/>
+<title>CANTUS.saturday.vesper</title>
 </msItem>
 <msItem class="hour" n="68">
 <locus from="245v" to="undefined"/>
-</msItem>
+<title>CANTUS.saturday.compline</title>
 <msItem class="prayer" n="69">
 <locus from="247r" to="247r"/>
+<title key="REGINA_COELI">Regina cœli</title>
 <rubric>Regina celi letare</rubric>
-<incipit> [[K]]onynghynne des he(m)mels</incipit>
+<incipit> <hi>K</hi>onynghynne des he<ex>m</ex>mels</incipit>
+<textLang mainLang="da"/>
 </msItem>
 <msItem class="prayer" n="70">
 <locus from="247r" to="247r"/>
+<title key="VIRGO_MATER_RESURGENTIS">Virgo mater resurgentis</title>
 <rubric>Prosa</rubric>
-<incipit> V(ir)go m(ate)r res(ur)gentis (et cetera) Jomffrw ha(n)s modh(e)r</incipit>
+<incipit> V<ex>ir</ex>go m<ex>ate</ex>r res<ex>ur</ex>gentis <ex>et cetera</ex> Jomffrw ha<ex>n</ex>s modh<ex>e</ex>r</incipit>
+<textLang mainLang="da"/>
+</msItem>
+</msItem>
 </msItem>
 <msItem class="cycle" n="71">
 <locus from="247r" to="253v"/>
-<rubric>Hir na volge(n) nv de capitele vnde collecten Jn sunderghen tyden vnde festen</rubric>
+<title>CANTUS.extra</title>
+<rubric>Hir na volge<ex>n</ex> nv de capitele vnde collecten Jn sunderghen tyden vnde festen</rubric>
 <incipit></incipit>
-</msItem>
+<textLang mainLang="gml"/>
 <msItem class="prayer" n="72">
 <locus from="253v" to="253v"/>
-</msItem>
+<title>A prayer to the Trinity</title>
 <msItem class="undefined" n="73">
+<title/></msItem>
+</msItem>
+</msItem>
 </msItem>
 <msItem class="prayer" n="74">
 <locus from="254r" to="254v"/>
-</msItem>
+<title>Variants to the Cantus</title>
 <msItem class="prayer" n="75">
 <locus from="254v" to="undefined"/>
+<title>Virgo noster</title>
 </msItem>
 <msItem class="undefined" n="76">
 <locus from="254v" to="undefined"/>
-</msItem>
+<title/></msItem>
 <msItem class="undefined" n="77">
 <locus from="255r" to="undefined"/>
-</msItem>
+<title/></msItem>
 <msItem class="undefined" n="78">
 <locus from="255v" to="undefined"/>
-</msItem>
+<title/></msItem>
 <msItem class="undefined" n="79">
 <locus from="255v" to="undefined"/>
+<title/></msItem>
 </msItem>
 </msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>

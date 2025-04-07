@@ -1,337 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="msDesc.css"?> <!-- Just something I use for display locally; can be deleted if needed -->
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM08-0073" type="manuscript">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>AM 73 8vo</title>
-      </titleStmt>
-      <publicationStmt>
-        <authority>When Danes Prayed in German</authority>
-      </publicationStmt>
-      <sourceDesc>
-        <msDesc>
-          <msIdentifier>
-            <settlement key="KBH"/>
-            <repository key="AMS"/>
-            <idno>AM 73 8vo</idno>
-          </msIdentifier>
-          <head>
-            A fifteenth-century book of hours in Low German with multiple full-page miniatures. It contains added prayers in Danish.
-          </head>
-          <!-- Somewhere here: A link to an image of the manuscript? -->
-          <msContents>
-            <msItem class="calendar">
-              <locus from="2r" to="11v"/>
-              <title>Calendarium</title>
-              <rubric>Calendarium ad uso XX</rubric>
-              <incipit>Januari(us) heft .xxxi. daghe</incipit>
-              <explicit>De nacht is xviij stunde de dagh vj.</explicit>
-              <textLang mainLang="gml"/>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="11v" to="11v"/>
-              <title>Added prayer</title>
-              <incipit>Gudtz Guodhied will wi prise</incipit>
-              <explicit>est Anima mea</explicit>
-              <textLang mainLang="dan" otherLangs="lat"/>
-            </msItem>
-            <msItem class="computus">
-              <locus from="12r" to="12r"/>
-              <title>Computus</title>
-              <textLang mainLang="lat"/>
-            </msItem>
-            <msItem class="prognosticon">
-              <locus from="12v" to="12v"/>
-              <title>Prognosticon</title>
-              <textLang mainLang="dan"/>
-            </msItem>
-            <msItem class="cycle">
-              <locus from="13r"/>
-              <title key="SEVEN_PSALMS">Seven Penitential Psalms</title>
-              <rubric>Hir begynne<ex>n</ex> soue<ex>n</ex> salme<ex>n</ex></rubric>
-              <msItem class="psalm">
-                <locus from="13r" to="14r"/>
-                <title key="PSALM_6">Psalm 6</title>
-                <incipit xml:lang="lat" type="latin"><hi>D</hi>omine ne in furo<ex>r</ex>e tuo</incipit>
-                <incipit xml:lang="gml"><hi>H</hi>ere en schelt my nicht in dyneme vmmode</incipit>
-                <explicit>vnde deme hilgen geyste. Amen.</explicit>
-                <textLang mainLang="gml" otherLangs="lat"/>
-              </msItem>
-              <msItem class="psalm">
-                <locus from="14r" to="15v"/>
-                <title key="PSALM_31">Psalm 31</title>
-                <rubric>P<ex>salmu</ex>s</rubric>
-                <incipit xml:lang="lat" type="latin">Beati quo(rum) remisse sunt iniq(ui)tates:</incipit>
-                <incipit xml:lang="gml">Salich sint de den ere bosheyt is vorgeue:</incipit>
-                <explicit>Ere sy deme vadere vnde deme sone vnde deme hilge(n) geyste</explicit>
-                <textLang mainLang="gml" otherLangs="lat"/>
-              </msItem>
-              <msItem class="psalm">
-                <locus from="15v" to="17v"/>
-                <title key="PSALM_38_v37">Psalm 38 (Vulgate 37)</title>
-                <!-- Note: Many of the psalms are numbered differently in the Vulgate than in the common numbering. These differences are indicated both in the key and in the title to avoid potential confusion. -->
-                <!-- incipit, etc. -->
-              </msItem>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="42v" to="43r"/>
-              <title>Prayer to the Virgin Mary</title>
-              <incipit>Grot sistu maria lilien wit</incipit>
-              <explicit>dorch dynes leue<ex>n</ex> kindes milden barmherticheit. Amen.</explicit>
-              <textLang mainLang="gml"/>
-            </msItem>
-            <msItem class="cycle">
-              <locus from="44r" to="92v"/>
-              <title key="HOURS_VIRGIN">Hours of the Virgin</title>
-              <incipit type="latin" xml:lang="lat">Domine labia mea aperies</incipit>
-              <incipit xml:lang="gml">Here opene myne lippen</incipit>
-              <textLang mainLang="gml" otherLangs="lat"/>
-              <msItem class="cycle">
-                <locus from="44r" to="54v"/>
-                <title key="HOURS_VIRGIN_MATINS">Matins</title>
-                <textLang mainLang="gml"/>
-                <msItem class="prayer added">
-                  <locus from="46r" to="46v"/>
-                  <title key="QUEM_TERRA_PONTUS">Quem terra pontus</title>
-                  <rubric>Quem terra pontus</rubric>
-                  <incipit>Dat lyf der iunvrouwen</incipit>
-                  <explicit>inde ewigen werlt. amen.</explicit>
-                  <textLang mainLang="gml"/>
-                  <note>On inserted leaf.</note>
-                </msItem>
-              </msItem>
-              <msItem class="prayer added">
-                <locus from="55r" to="57r"/>
-                <title key="TE_DEUM">Te deum</title>
-                <rubric>Te deum</rubric>
-                <incipit type="latin">Te uirginem mariam</incipit>
-                <incipit>Wy louen di iu<ex>n</ex>curouwe maria</incipit>
-                <explicit>Wy hopen an dy vrouwe make vns salich ewichliken. Amen.</explicit>
-                <textLang mainLang="gml" otherLangs="lat"/>
-              </msItem>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="93r" to="94r"/>
-              <title key="ANNA_REDEMPTORIS">Anna Redemptoris</title>
-              <rubric>Anna rede<ex>m</ex>toris.</rubric>
-              <incipit>O du gutlike moder godes</incipit>
-              <explicit>so vorbarme dy oue<ex>r</ex> dat we vnser sunde</explicit>
-              <msItem class="versicle">
-                <locus from="93v" to="93v"/>
-                  <title>Versicle</title>
-                <rubric>v<ex>ersiculus</ex></rubric>
-                <incipit>Maria bidde vor vns</incipit>
-                <explicit>des goluedes ih<ex>es</ex>u <ex>christ</ex>i</explicit>
-              </msItem>
-              <msItem class="collect">
-                <locus from="93v" to="94r"/>
-                <title>Collect</title>
-                <rubric>Collecta.</rubric>
-                <incipit>Here bescheme<ex>n</ex> dyne denere</incipit>
-                <explicit>dor dynen leuen sone ih<ex>esu</ex>m <ex>christu</ex>m vnsen leuen heren. Amen. P<ex>ate</ex>r n<ex>oste</ex>r. Aue maria.</explicit>
-              </msItem>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="94r" to="95r"/>
-              <title key="AVE_REGINA_COELORUM">Ave Maria Cœlorum</title>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="95r" to="95r"/>
-              <title key="O_FLORENS_ROSA">O Florens Rosa</title>
-              <rubric>o florens</rubric>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="95r" to="95v"/>
-              <title key="AVE_STELLA_MATUTINA">Ave Stella Matutina</title>
-              <rubric>A<sic>nt</sic>e stella matutina</rubric>
-              <incipit>Ghegrutet systu morghen sterne</incipit>
-              <explicit>to der ewigen vro<sic><ex>n</ex></sic>de.</explicit>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="95v" to="96r"/>
-              <title key="MUNDI_DOMINA">Mundi Domina</title>
-              <rubric>Mundi d<ex>omi</ex>na.</rubric>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="96r" to="96v"/>
-              <title key="DE_TE_VIRGO">De te virgo</title>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="96v" to="97r"/>
-              <rubric>Deus qui de b<ex>eate</ex> marie</rubric>
-              <!-- Oratio in the Hours of the Virgin terce? -->
-              <incipit>Got de du van der hilgen iu<ex>n</ex>curouwen marie lychame</incipit>
-              <explicit>Vorwunddelst den suluen ih<ex>esu</ex>m <ex>christu</ex>m vnsen heren.</explicit>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="97r" to="99r"/>
-              <title key="GAUDENDUM_NOBIS_EST">Gaudendum nobis est</title>
-              <rubric>Gaudendum nob<ex>is</ex></rubric>
-              <incipit>Tho vrouwen de ys vns dat <ex>christus</ex> en middeler godes vnde des mynschen</incipit>
-              <explicit>vor des olden viandes dusent suse<ex>n</ex>derleye drognisse.</explicit>
-              <msItem class="collect">
-                 <locus from="97v" to="99r"/>
-                <title>Collect</title>
-                <rubric>Collecta</rubric>
-                <incipit>Got we du dat ewuge heil vormiddelst</incipit>
-                <explicit>vormiddelste vnsen here<ex>n</ex> ih<ex>esu</ex>m <ex>christu</ex>m</explicit>
-              </msItem>
-            </msItem>
-            <msItem class="prayer hours">
-              <locus from="99r" to="109r"/>
-              <title key="HOURS_ANNE">Hours of St. Anne</title>
-              <rubric>Van S<ex>ancte</ex> annen</rubric>
-              <incipit>Got denke an myne hulpe my to hulpe<ex>n</ex>de</incipit>
-              <explicit>Ih<ex>esus</ex> <ex>christus</ex> godes sone. Amen.</explicit>
-            </msItem>
-            <msItem class="prayer hours">
-              <locus from="109r" to="130r"/>
-              <title key="HOURS_TRINITY">Hours of the Trinity</title>
-              <rubric>De hilge dreualdicheit</rubric>
-              <incipit>O Hilghe dreualdicheit wy an ropen dy</incipit>
-              <explicit>sunder vortoch dat ik van dy begherende byn Amen.</explicit>
-            </msItem>
-            <msItem class="prayer hours">
-              <locus from="130r"/>
-              <title key="HOURS_PASSION">Hours of the Passion</title>
-              <rubric>Hir beghinnin sik de tide van deme lydende godes.</rubric>
-              <incipit>Wy anbeden dy cristus vnd<ex>e</ex> benedien dy</incipit>
-              <msItem class="credo">
-                <locus from="136v" to="137r"/>
-                <title key="CREDO">Credo</title>
-                <incipit>Ik loue in got vader alweldich</incipit>
-                <explicit>vnd<ex>e</ex> in dat ewigen leuent Ame<ex>n</ex></explicit>
-              </msItem>
-              <msItem class="prayer">
-                <locus from="141r" to="142r"/>
-                <title key="TE_DEUM">Te deum</title>
-                <rubric>Te deum</rubric>
-                <incipit>Wy luen dy cristus</incipit>
-                <explicit>to ewigen tiden. Amen.</explicit>
-            </msItem>
-            </msItem>
-            <msItem class="prayer">
-              <locus from="165v" to="166r"/>
-              <rubric>En ghut becht na deme lydende to losende.</rubric>
-              <incipit>Ik bidde dy leue here ih<ex>es</ex>u <ex>christ</ex>e dor dynen swaren dot</incipit>
-              <explicit>alle dyner leuen hilghen. Amen.</explicit>
-            </msItem>
-            <msItem class="prayer hours">
-              <locus from="166v"/>
-              <title key="HOURS_HOLY_SPIRIT">Hours of the Holy Spirit</title>
-              <rubric>Hir begynne<ex>n</ex> de tide va<ex>n</ex> deme hilgen gheiste.</rubric>
-              <incipit>De vader vnd<ex>e</ex> de sone in der ewicheit des hilghen gheistes</incipit>
-              <msItem class="prayer">
-                <locus from="169r" to="171r"/>
-                <title key="TE_DEUM">Te deum</title>
-                <rubric>Te deu<ex>m</ex> la<ex>udamus</ex></rubric>
-                <incipit>Wy louen dy got wi bekenne<ex>n</ex> des dat du en here byst.</incipit>
-                <explicit>gyf my dat ik ewichliken nicht werde vorstoret.</explicit>
-              </msItem>
-              <msItem class="prayer added">
-                <locus from="173r" to="173r"/>
-                <title key="VENI_SANCTE_SPIRITUS">Veni Sancte Spiritus</title>
-                <incipit>Ueni sancte sp<ex>iri</ex>tus et emitte celitus lucis tue radiu<ex>m</ex></incipit>
-                <explicit>Confirma hoc deus quod operatus es in nobis Amen</explicit>
-                <textLang mainLang="lat"/>
-                <msItem class="collect">
-                  <locus from="173r" to="173r"/>
-                  <title>Collect</title>
-                  <rubric>coll<ex>ect</ex>a</rubric>
-                  <incipit>Exaudi d<ex>omi</ex>ne ih<ex>es</ex>u <ex>christ</ex>e</incipit>
-                  <explicit>regnas ins<ex>e</ex>c<ex>u</ex>la s<ex>e</ex>c<ex>u</ex>lor<ex>um</ex> am<ex>en</ex>.</explicit>
-              </msItem>
-                <msItem class="prayer">
-                  <locus from="193r" to="195r"/>
-                  <title key="MAGNIFICAT">Magnificat</title>
-                  <rubric>Magnifica.</rubric>
-                  <incipit>Myne sele schal grot maken den heren</incipit>
-                  <explicit>Ere sy deme vadere vnd<ex>e</ex> deme sonde vnd<ex>e</ex> deme hilghen gheyste.</explicit>
-                  <msItem class="antiphone">
-                    <locus from="194v" to="194v"/>
-                    <title>Antiphone</title>
-                    <rubric>Ant<ex>iphona</ex></rubric>
-                    <incipit>De hilge geist war he wil</incipit>
-                    <explicit>here entwide my<ex>n</ex> beth vnd<ex>e</ex> my<ex>n</ex> ropent kome to dy.</explicit>
-                  </msItem>
-                  <msItem class="collect">
-                    <locus from="194v" to="195r"/>
-                    <title>Collect</title>
-                    <rubric>Collecta.</rubric>
-                    <incipit>Got deme alle herte openbare ys</incipit>
-                    <explicit>De hilge geist mote vns sterken in ghuden werke<ex>n</ex>.</explicit>
-                  </msItem>
-                </msItem>
-              </msItem>
-            </msItem>
-            <!-- MORE MS ITEMS HERE -->
-            <msItem class="prayer">
-              <locus from="237v" to="238v" corresp="AM08-0073_237v"/> <!--  @corresp means there is a text file of this item -->
-              <title key="MAGNIFICAT">Magnificat</title>
-              <rubric><hi>M</hi>agnificat</rubric>
-              <incipit>Myne sele grote den herren</incipit>
-              <explicit>vnde lat en shine<ex>n</ex> dyn ewige licht.</explicit>
-              <textLang mainLang="gml"/>
-              <msItem class="antiphone">
-                <locus from="238v">238v</locus>
-                <title>Antiphone</title>
-                <rubric>an<ex>tiphonia</ex></rubric>
-                <incipit>Wy biddet dyne vroude</incipit>
-                <explicit>du en geuest lichte vnde rouwe gewonynge</explicit>
-              </msItem>
-            </msItem>
-          </msContents>
-          <physDesc>
-            <objectDesc>
-              <supportDesc material="parch">
-                <support>Parchment</support>
-                <extent>288. <dimensions>
-                    <height>157</height>
-                    <width>112</width>
-                  </dimensions></extent>
-                <collation>
-                  <list>
-                    <item n="1">
-                      <locus from="1" to="1">1</locus>
-                      <desc>singleton</desc>
-                    </item>
-                    <item n="2">
-                      <locus from="2" to="11">2-11</locus>
-                      <desc>quinternion</desc>
-                    </item>
-                    <item n="3">
-                      <locus from="12" to="12">12</locus>
-                      <desc>singleton</desc>
-                    </item>
-                    <item n="4"><locus from="13" to="22">13-22</locus>
-                      <desc>quinternion</desc>
-                    </item>
-                    <item><locus from="23" to="32">23-32</locus>
-                      <desc>quinternion</desc>
-                    </item>
-                    <item>
-                      <locus from="33" to="42">33-42</locus>
-                      <desc>quinternion. Loose guard between <locus from="37v" to="38r"
-                          >37v-38r</locus></desc>
-                    </item>
-                   <!-- etc -->
-                  </list>
-                </collation>
-              </supportDesc>
-            </objectDesc>
-          </physDesc>
-          <history>
-            <origin>Most likely written in Northern <origPlace key="DE">Germany</origPlace> at the
-              end of the <origDate notBefore="1470" notAfter="1500">fifteenth
-              century</origDate>.</origin>
-            <provenance>Owner's notes from the sixteenth century name <persName>Lars Pedersen</persName>.</provenance>
-          </history>
-        </msDesc>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <facsimile>
-    <surface/>
-  </facsimile>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>AM 73 8vo</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM 73 8vo"/>
+</msIdentifier>
+<head>
+A fifteenth-century prayer book in Low German with many full-page miniatures. It contains added prayers in Danish.
+</head>
+<msContents>
+<msItem class="miniature" n="1">
+<locus from="1v" to="1v"/>
+<title>[Mary at reading]</title>
+</msItem>
+<msItem class="calendar" n="2">
+<locus from="2r" to="11v"/>
+<title>Calendar</title>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="3">
+<locus from="11v" to="11v"/>
+<title>Added prayer in Danish</title>
+<incipit>Gudtz Guodhied will wi prise </incipit>
+<explicit> est Anima mea</explicit>
+<textLang mainLang="da" otherLangs="lat"/>
+</msItem>
+<msItem class="computus" n="4">
+<locus from="12r" to="12r"/>
+<title>Computus table</title>
+</msItem>
+<msItem class="prognosticon" n="5">
+<locus from="12v" to="12v"/>
+<title>Prognosticon</title>
+<incipit>Første dagh i ny manæ </incipit>
+<explicit> gør me<ex>n</ex>isken let...</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="cycle" n="6">
+<locus from="13r" to="37v"/>
+<title>Seven Penitential Psalms</title>
+<rubric>Hir begynne<ex>n</ex> soue<ex>n</ex> salme<ex>n</ex></rubric>
+<incipit type="latin"><hi>D</hi>omine ne in furo<ex>r</ex>e tuo arguas me: de q<ex>uod</ex> in</incipit>
+<incipit> <hi>H</hi>ere en schelt my nicht in dyneme vmmode </incipit>
+<explicit> dar ynny sy de wonunghe der sachtmodicheit vn<ex>de</ex> des vredes. Amen.</explicit>
+<textLang mainLang="gml" otherLangs="lat"/>
+<msItem class="litany" n="7">
+<locus from="24r" to="37v"/>
+<title>Litany of the Saints</title>
+</msItem>
+<msItem class="litany" n="8">
+<locus from="37v" to="42v"/>
+<title>LITANY_MARY</title>
+<rubric>Vnser leue<ex>n</ex> vrowe<ex>n</ex> letanni<ex>e</ex></rubric>
+<incipit> <hi>K</hi>yrie<ex>leyson</ex> </incipit>
+<explicit> dynes leue<ex>n</ex> kindes milden barmherticheit. amen.</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+</msItem>
+<msItem class="miniature" n="9">
+<locus from="43v" to="43v"/>
+<title>[Crowned Madonna]</title>
+</msItem>
+<msItem class="cycle" n="10">
+<locus from="44r" to="92v"/>
+<title>HOURS_VIRGIN</title>
+<incipit type="latin"><hi>D</hi>omine labia mea aperies. Et os meu<ex>m</ex> annu<ex>n</ex>ciabit laudem tuo</incipit>
+<incipit> <hi>H</hi>ere openen myne lippen </incipit>
+<explicit> O barmhertige. O milde. O sote maria. <ex>et cetera</ex></explicit>
+<textLang mainLang="gml"/>
+<msItem class="hour" n="11">
+<locus from="44r" to="54v"/>
+<title>Matins</title>
+</msItem>
+<msItem class="hour" n="12">
+<locus from="54v" to="71r"/>
+<title>Lauds</title>
+<msItem class="prayer" n="13">
+<locus from="55r" to="57r"/>
+<title>Te Deum</title>
+</msItem>
+<msItem class="prayer" n="14">
+<locus from="67r" to="67v"/>
+<title>O Gloriosa Domina</title>
+<rubric>O gloriosa domina</rubric>
+<incipit> <hi>O</hi> aller hogiste vrowe up ge hoghet bouen alle hemele </incipit>
+<explicit> lose vns ewyliken benedyde iu<ex>n</ex>curowen</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+</msItem>
+</msItem>
+<msItem class="miniature" n="15">
+<locus from="68v" to="68v"/>
+<title>[John the Baptist]</title>
+<msItem class="hour" n="16">
+<locus from="71r" to="74v"/>
+<title>Prime</title>
+</msItem>
+<msItem class="hour" n="17">
+<locus from="74v" to="77r"/>
+<title>Terce</title>
+</msItem>
+<msItem class="hour" n="18">
+<locus from="77r" to="79v"/>
+<title>Sext</title>
+</msItem>
+<msItem class="hour" n="19">
+<locus from="80r" to="82r"/>
+<title>Nones</title>
+</msItem>
+<msItem class="hour" n="20">
+<locus from="82v" to="88r"/>
+<title>Vespers</title>
+</msItem>
+<msItem class="hour" n="21">
+<locus from="88v" to="92r"/>
+<title>Compline</title>
+</msItem>
+<msItem class="prayers" n="22">
+<locus from="93r" to="99r"/>
+<title>Extra prayers</title>
+<rubric>Alma rede<ex>m</ex>ptoris</rubric>
+<incipit> <hi>O</hi> du gutlike moder godes </incipit>
+<explicit> vnsen leuen here<ex>n</ex> ih<ex>esu</ex>m <ex>christu</ex>m</explicit>
+<textLang mainLang="gml"/>
+<msItem class="undefined" n="23">
+<locus from="93r" to="94r"/>
+<title>Alma Redemptoris</title>
+</msItem>
+<msItem class="undefined" n="24">
+<locus from="94r" to="94v"/>
+<title>Ave Regina Cœlorum</title>
+</msItem>
+</msItem>
+</msItem>
+<msItem class="psalms" n="25">
+<locus from="98r" to="98r"/>
+<title>Psalms 113, 117, 118</title>
+<incipit>Herrens tienere loffuer hanom </incipit>
+<explicit> Las Pesßenn Egen Haandt</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="miniature" n="26">
+<locus from="98v" to="98v"/>
+<title>[Anna selbdritt]</title>
+</msItem>
+<msItem class="cycle" n="27">
+<locus from="99r" to="109r"/>
+<title>Hours of St. Anne</title>
+<rubric>van S. Annen</rubric>
+<incipit> <hi>G</hi>ot denke an myne hulpe </incipit>
+<explicit> Ih<ex>esus</ex> <ex>christus</ex> godes sone. Amen</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="cycle" n="28">
+<locus from="109r" to="130r"/>
+<title>Hours of the Trinity</title>
+<rubric>De hilge dreualdigheit</rubric>
+<incipit> <hi>O</hi> Hilge dreualdicheit wy an ropen dy </incipit>
+<explicit> dat ik van dy begherende byn Amen</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="cycle" n="29">
+<locus from="130r" to="165v"/>
+<title>HOURS_PASSION</title>
+<rubric>Hir beghinnen sik de tide van deme lydende godes</rubric>
+<incipit> <hi>W</hi>y anbeden dy cristus </incipit>
+<explicit> myt bernender beghericheit beholden. Amen.</explicit>
+<textLang mainLang="gml"/>
+<msItem class="credo" n="30">
+<locus from="136v" to="137r"/>
+<title>Credo</title>
+</msItem>
+</msItem>
+<msItem class="prayer" n="31">
+<locus from="165v" to="166r"/>
+<title/>
+<rubric>En ghut becht na deme lydende to losende.</rubric>
+<incipit> <hi>I</hi>k bidde dy leue here </incipit>
+<explicit> alle dyner leuen hilghen. Amen.</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="cycle" n="32">
+<locus from="166v" to="undefined"/>
+<title>HOURS_SPIRIT</title>
+<rubric>Hir begynne<ex>n</ex> de tide va<ex>n</ex> deme hilgen gheiste.</rubric>
+<incipit> <hi>D</hi>e vader vnd<ex>e</ex> de sone </incipit>
+<explicit></explicit>
+</msItem>
+<msItem class="miniature" n="33">
+<locus from="167r" to="167r"/>
+<title>[Pentecost]</title>
+</msItem>
+<msItem class="undefined" n="34">
+<locus from="167v" to="167v"/>
+<title/>
+<incipit>Wi Christiann </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="35">
+<locus from="173r" to="173r"/>
+<title>VENI_SANCTE_SPIRITUS</title>
+<incipit><hi>U</hi>eni sancte sp<ex>irit</ex>us </incipit>
+<explicit> regnas in s<ex>e</ex>c<ex>u</ex>la s<ex>e</ex>c<ex>u</ex>lor<ex>um</ex> am<ex>en</ex>.</explicit>
+<textLang mainLang="lat"/>
+</msItem>
+<msItem class="miniature" n="36">
+<locus from="199v" to="199v"/>
+<title>[Purgatory]</title>
+</msItem>
+<msItem class="cycle" n="37">
+<locus from="200v" to="227r"/>
+<title>OFFICE_DEAD</title>
+<rubric>Vigilie</rubric>
+<incipit> <hi>G</hi>od here nym der cristenheyt bet vor alle cristene sele </incipit>
+<explicit></explicit>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="38">
+<locus from="228r" to="230r"/>
+<title>Adoro Te</title>
+<incipit>Here ih<ex>es</ex>u criste ick anbede dy hangende </incipit>
+<explicit> Ik bidde dy vor barme dy wnser Am<ex>en</ex></explicit>
+<textLang mainLang="gml"/>
+<msItem class="indulgence" n="39">
+<locus from="230r" to="230r"/>
+<title/>
+<incipit>De hillige gheyslike vad<ex>er</ex> de pawes sixt<ex>us</ex> de verde </incipit>
+<explicit> thosamede is xl m iar xlc iar vn<ex>de</ex> xlc daghe</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+</msItem>
+<msItem class="prayer" n="40">
+<locus from="230r" to="230r"/>
+<title>A prayer to Jesus Christ</title>
+<incipit>O here ih<ex>es</ex>u <ex>christ</ex>e ik anbede dy tho kome<ex>n</ex>de </incipit>
+<explicit> ame<ex>n</ex> p<ex>ate</ex>r n<ex>oste</ex>r Aue maria</explicit>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="miniature" n="41">
+<locus from="230v" to="230v"/>
+<title>[Archangel Michael]</title>
+</msItem>
+<msItem class="cycle" n="42">
+<locus from="231r" to="270v"/>
+<title>OFFICE_DEAD</title>
+<incipit type="latin"><hi>D</hi>Ilexi quoniam ex audiet dominus:</incipit>
+<incipit> <hi>I</hi>k hebbe de gude myt leue des here wt erkoren </incipit>
+<explicit> <hi>A</hi>alle louigen selen laeth milde got vmme dyne barmeherticheit yn dynen vrede rouwen. Amen.</explicit>
+<textLang mainLang="gml"/>
+<msItem class="prayer" n="43">
+<locus from="237v" to="238v"/>
+<title>Magnificat</title>
+</msItem>
+</msItem>
+<msItem class="absolution" n="44">
+<locus from="271r" to="271v"/>
+<title/>
+<rubric>FForma plenissi<ex>m</ex>e absoluc<ex>i</ex>o<ex>n</ex>is <ex>et</ex> remissionis i<ex>nter</ex> vita</rubric>
+<incipit> misereat<ex>ur</ex> tui <hi>D</hi><ex>omi</ex>n<ex>u</ex>s </incipit>
+<explicit> in no<ex>m</ex>i<ex>n</ex>e p<ex>at</ex>ris <ex>et</ex> filij <ex>et</ex> sp<ex>irit</ex>us s<ex>an</ex>c<ex>t</ex>i Amen</explicit>
+<textLang mainLang="lat"/>
+</msItem>
+<msItem class="absolution" n="45">
+<locus from="272r" to="272r"/>
+<title/>
+<incipit>D<ex>omin</ex>us nost<ex>er</ex> ihe<ex>sus</ex> <ex>christus</ex> </incipit>
+<explicit> In no<ex>m</ex>i<ex>n</ex>e p<ex>at</ex>r<ex>is</ex> et filij</explicit>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
 </TEI>
