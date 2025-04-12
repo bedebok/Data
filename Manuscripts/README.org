@@ -14,6 +14,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/AM08-0072.org][AM 72 8vo]]   | A prayer book                             | Danish, Latin         | 1400-1499 |
 | [[file:org/AM08-0073.org][AM 73 8vo]]   | German book of hours with Danish notes    | German, Danish        | 1400-1499 |
 | [[file:org/AM08-0075.org][AM 75 8vo]]   | A prayer book                             | Danish                | 1490-1510 |
+| AM 76 8vo   | Per Ræv's manuscript                      | Danish, Latin         | 1460-1480 |
 | [[file:org/AM12-0417.org][AM 417 12mo]] | Count Gerhard's book of hours             | German                | 1400-1499 |
 | [[file:org/AM12-0418.org][AM 418 12mo]] | A Danish Nun's Prayer Book                | Danish, Latin         | 1490-1510 |
 | [[file:org/AM12-0419.org][AM 419 12mo]] | Hours of the Virgin (Christiern Pedersen) | Danish                | 1514-1525 |
@@ -44,29 +45,13 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | Thott 159 8vo | En lille bønnebog                           | Danish                |            |
 | Pedersen 1514 | (Bound with Chr. Pedersen)                  | Danish                |            |
 |---------------+---------------------------------------------+-----------------------+------------|
-** Roskilde, Karen Brahes Bibliotek
-|-----------+-----------------------------------------+-------------+-----------|
-| Shelfmark | Description                             | Language(s) | Date      |
-|-----------+-----------------------------------------+-------------+-----------|
-| A IV, 4   | Karen Rønnow's prayer book              | Danish      |     c1575 |
-| A IV, 5   | Mette Hardenberg's prayer book          | Danish      |     c1600 |
-| A IV, 6   | Kirstine Huitfeldts prayer book         | Danish      |      1562 |
-| A IV, 7   | Karen Iffuersdatter's prayer book       | Danish      |      1570 |
-| A IV, 8   | A collection of prayers                 | Danish      |   1581-82 |
-| A IV, 9   | Prayer book                             | Danish      |      1555 |
-| A IV, 10  | A selection of prayers to pray each day | Danish      | 1500-1599 |
-| A IV, 11  | Anne Brahe's prayer book                | Danish      |      1592 |
-| A IV, 12  | Sybille Gyldenstierne's prayer book     | Danish      |     c1600 |
-| A IV, 14  | Thoughts for every day in the week      | Danish      |     C1600 |
-| A IV, 18  | Giese Brockenhus' prayer book           | Danish      | 1574-1601 |
-| A IV, 22  | Some selected prayers                   | Danish      |      1590 |
-|-----------+-----------------------------------------+-------------+-----------|
+
 ** Stockholm, National Library of Sweden
 |-----------+---------------------------------------------------+-------------+-----------|
 | Shelmark  | Description                                       | Language(s) |      Date |
 |-----------+---------------------------------------------------+-------------+-----------|
-| A 29      | Maribo prayer book                                | Danish      |      1500 |
-| A 31      | (Source of AM 72 8vo?)                            | Danish?     |           |
+| [[file:org/Holm-A-0029.org][A 29]]      | Maribo prayer book                                | Danish      |      1500 |
+| [[file:org/Holm-A-0031.org][A 31]]      | Psalter                                           | Danish      |           |
 | A 40      | Ingeborg Predbjørnsdatters prayer book            | Danish      |           |
 | A 42      | Johanne Nielsdatters prayer book                  | Danish      |           |
 | A 51      | A Vadstena prayer book?                           | Danish      |      1450 |

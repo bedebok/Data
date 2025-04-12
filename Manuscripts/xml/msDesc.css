@@ -225,8 +225,11 @@ msItem > bibl:before {
 msItem > listBibl > bibl:after {
     content: "."
 }
+author:before {
+  content: " ("
+}
 author:after {
-    content: ", "
+    content: ") "
 }
 bibl > editor:after {
     content: ", ";
@@ -514,6 +517,10 @@ list item {
 q item {
     list-style-type: none
 }
+item locus:before {
+  content: attr(from) "-" attr(to)
+}
+
 item locus:after {
     content: ": "
 }

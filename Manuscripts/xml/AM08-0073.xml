@@ -283,7 +283,22 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 <incipit>D<ex>omin</ex>us nost<ex>er</ex> ihe<ex>sus</ex> <ex>christus</ex> </incipit>
 <explicit> In no<ex>m</ex>i<ex>n</ex>e p<ex>at</ex>r<ex>is</ex> et filij</explicit>
 </msItem>
+<msItem class="cycle" n="46">
+<locus from="273r" to="287v"/>
+<title>OFFICE_DEA.lessons</title>
+<rubric>l<ex>e</ex>cc<ex>i</ex>o prima</rubric>
+<incipit> <hi>A</hi>ch here schone my vnder dynen geyslen </incipit>
+<explicit> In deme greseliken da <ex>/defective/</ex></explicit>
+<textLang mainLang="gml"/>
+</msItem>
 </msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<extent></extent>
+</supportDesc>
+</objectDesc>
+</physDesc>
 </msDesc>
 </sourceDesc>
 </fileDesc>

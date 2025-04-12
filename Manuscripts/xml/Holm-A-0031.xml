@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Holm-A-0031" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Holm A 31</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="STH"/>
+<repository key="KBS"/>
+<idno corresp="Holm A 31"/>
+</msIdentifier>
+<head>
+Heinrich von St. Gallen's <title>Extendit Manum</title> passional.
+</head>
+<msContents>
+<msItem class="passional" n="1">
+<locus from="1r" to="103v"/>
+<title>Extendit Manum-Passional</title>
+<author>Heinrich von St. Gallen</author>
+<incipit type="latin"><hi>E</hi>xtendit manu<ex>m</ex> et arripuit gladiu<ex>m</ex> vt y<ex>m</ex>molaret filiu<ex>m</ex> suu<ex>m</ex> genes<ex>is</ex> vicesimo secu<ex>n</ex>do</incipit>
+<incipit> <hi>H</hi>an vt raktæ sin handh oc greep swærdhet </incipit>
+<explicit> om syffwindæ daghen <ex>et cetera</ex></explicit>
+<filiation type="source" corresp="AM08-0072"/>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc material="perg">
+<support>parchment</support>
+<extent>i + 103 + ii.<dimensions>
+<height>205</height>
+<width>148</width>
+</dimensions></extent>
+<collation>
+<list>
+<item n="1">
+<locus from="1" to="11"/>
+<desc>fals bw 13, 14.</desc>
+</item><item n="2">
+<locus from="20" to="29"/>
+<desc>something</desc>
+</item><item n="3">
+<locus from="30" to="39"/>
+</item><item n="4">
+<locus from="40" to="49"/>
+</item><item n="5">
+<locus from="50" to="59"/>
+</item><item n="6">
+<locus from="60" to="69"/>
+</item><item n="7">
+<locus from="70" to="81"/>
+</item><item n="8">
+<locus from="82" to="89"/>
+</item><item n="9">
+<locus from="90" to="99"/>
+</item><item n="10">
+<locus from="100" to="103"/>
+<desc>also. 102+103</desc>
+</item></list>
+</collation></supportDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>

@@ -104,14 +104,23 @@ def find_author(author):
         if author[0].isupper():
             contents_items.update({"authorKey":author[0]})
             author = author[1]
+        else:
+            author = ' '.join(author)
     except Exception:
-        pass
+        pass 
     contents_items.update({"author":author})
             
-        
+def find_fil(fil):
+    try:
+        fil = fil.split(' ')
+        contents_items.update({"fil_type":fil[0]})
+        contents_items.update({"filiation":fil[1]})
+    except Exception:
+        pass
     
 functions = {
     "Loc" : get_locus,
+    "Locus" : get_locus,
     "Rub/Inc/Exp" : rubricate,
     "Type" : get_class,
     "Lang" : get_langs,
@@ -120,7 +129,8 @@ functions = {
     "Key" : get_key,
     "Status" : get_status,
     "Note" : add_note,
-    "Author" : find_author
+    "Author" : find_author,
+    "Filiation" : find_fil
     }
 
 
@@ -152,6 +162,12 @@ quireStructure = {
     "Leaves" : {},
     "Structure" : {},
     "Changes" : {}
+    }
+
+handStructure = {
+    "Loci" : [],
+    "Hand" : [],
+    "Script" : []
     }
 
 contentsIndex = []
@@ -215,16 +231,16 @@ with open(sys.argv[1], 'r') as read_file:
                pass
        elif read_mode == "Quire":
            line_items = [x.strip() for x in line.split('|')]
-           if "Quires" in line_items:
+           if "Quire" in line_items:
                quireIndex = line_items
                print(quireIndex)
            elif len(line_items) == len(quireIndex):
                for item in line_items:
                    try:
                        item_key = quireIndex[line_items.index(item)]
-                       #print(item_key, item)
-                       #print(quireStructure[item_key])
-                       quireStructure[item_key].append({i:item})
+                       print(item_key, item)
+                       print(quireStructure[item_key])
+                       quireStructure[item_key].update({i:item})
                    except Exception:
                        pass
        elif read_mode == "Contents":
@@ -242,8 +258,9 @@ with open(sys.argv[1], 'r') as read_file:
                    except Exception:
                        pass
 
-  
-# BIBLIOGRAPHY        
+print(quireStructure)
+
+                   # BIBLIOGRAPHY        
 with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
     # First write the header
     write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/css\" href=\"msDesc.css\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\""+file_id+"\" type=\"manuscript\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
@@ -264,12 +281,14 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
         write_file.write("<msContents>\n")
 
     # TODO: Nest in levels
-    starting_line = min([min(contents[item]) for item in contents])
-    ending_line = max([max(contents[item]) for item in contents])
-    print("Contents found on lines",starting_line,"to",ending_line)
+    try:
+        starting_line = min([min(contents[item]) for item in contents])
+        ending_line = max([max(contents[item]) for item in contents])
+        print("Contents found on lines",starting_line,"to",ending_line)
+    except Exception:
+        print("Something didn't work in counting lines. Are you missing a rubric?")
     item_nr = 1
-    for line in range(starting_line, ending_line):
-        #print (type(contents))
+    for line in range(starting_line, ending_line + 1):
         if line not in contents["Level"]:
             in_keys = False
             for item in contents:
@@ -305,6 +324,11 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
                 write_file.write("<title>"+contents_items['title']+"</title>\n")
             except Exception:
                 write_file.write("<title/>\n")
+        if "author" in contents_items.keys():
+            try:
+                write_file.write("<author key=\""+contents_items['authorKey']+"\">"+contents_items['author']+"</author>\n")
+            except Exception:
+                write_file.write("<author>"+contents_items['author']+"</author>\n")
         if "rubric" in contents_items.keys():
             write_file.write("<rubric>"+contents_items['rubric']+"</rubric>\n")
         if "latin_incipit" in contents_items.keys():
@@ -321,11 +345,11 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
             write_file.write("/>\n")
         if "note" in contents_items.keys():
             write_file.write("<note>"+contents_items[note]+"</note>\n")
-        if "author" in contents_items.keys():
+        if "filiation" in contents_items.keys():
             try:
-                write_file.write("<author key=\""+contents_items['authorKey']+"\">"+contents_items['author']+"</author>\n")
+                write_file.write("<filiation type=\""+contents_items['fil_type']+"\" corresp=\""+contents_items['filiation']+"\"/>\n")
             except Exception:
-                write_file.write("<author>"+contents_items['author']+"</author>\n")
+                pass
 
         
         
@@ -360,6 +384,30 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
     except Exception:
         write_file.write("</extent>\n")
         print("Cannot find dimensions. Skipping for now.")
+
+        #Quire structure
+    try:
+        starting_line = min([min(quireStructure['Leaves']) for item in quireStructure['Leaves']])
+        ending_line = max([max(quireStructure['Leaves']) for item in quireStructure['Leaves']])
+        print("Quire structure found on lines",starting_line,"to",ending_line)
+    except Exception:
+        print("Something didn't work in Quire Structure")
+    write_file.write("<collation>\n<list>\n")
+    for line in range(starting_line, ending_line + 1):
+        quireNum = line - starting_line + 1
+        locus = quireStructure['Leaves'][line].split('-')
+        print(locus)
+        write_file.write("<item n=\""+str(quireNum)+"\">\n")
+        write_file.write("<locus from=\""+locus[0]+"\" to=\""+locus[1]+"\"/>\n")
+        if line in quireStructure['Structure'].keys():
+            if line in quireStructure['Changes'].keys():
+               write_file.write("<desc>"+quireStructure['Structure'][line]+". "+quireStructure['Changes'][line]+"</desc>\n")
+            else:
+                write_file.write("<desc>"+quireStructure['Structure'][line]+"</desc>\n")
+        elif line in quireStructure['Changes'].keys():
+            write_file.write("<desc>"+quireStructure['Changes'][line]+"</desc>\n")
+        write_file.write("</item>")
+    write_file.write("</list>\n</collation>")
 
     #Close Support Desc
     write_file.write("</supportDesc>\n")
