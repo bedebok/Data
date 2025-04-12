@@ -6,6 +6,7 @@ import string
 write_file = open(sys.argv[1].replace('org','xml'), 'w')
 
 file_id = sys.argv[1].replace('.org','').split('/')[-1]
+ms_id = file_id.split('_')[0]
 
 line_break = 1
 page_break = ''
@@ -20,6 +21,19 @@ break_line = False # checks to see if there is a line break
 # Possible updates
 # sentence = False # checks whether text can be divided into further sentences
 # The idea here is to catch [[ ]] highlights as the start of a new sentence. The problem is it would also catch if only the first letter of the entire text is highlighted. Could be a boolean input "Sentence divisions y/n"?
+
+repositories = {
+    "AM" : ["KBH", "AMS"],
+    "GK" : ["KBH", "KBK"],
+    "NK" : ["KBH", "KBK"],
+    "Ho" : ["STH", "KBS"],
+    "Lu" : ["LUN", "LUB"],
+    "Ka" : ["KAL", "KSB"],
+    "Li" : ["LNK", "LSB"],
+    "UU" : ["UPS", "UUB"]
+    }
+
+city, repository = repositories.get(file_id[0:2])
 
 
 # MAIN RUN-THROUGH OF LINES
@@ -39,7 +53,7 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 title = line.split(' ',1)[1].replace('\n','')
                 print("Title:",title)
             elif "Manuscript" in line:
-                idno = line.split()[3]
+                idno = line.split('|')[2].strip()
                 print("Manuscript key:",idno)
             elif "Locus" in line:
                 locus = line.split()
@@ -81,10 +95,14 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
             # First write the header and then set variable to "True"
             if header_written == False:
                 print("Okay, now writing the teiHeader into the XML file.")
-                write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\""+file_id+"\" type=\"text\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
+                write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/css\" href=\"textDisplay.css\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\""+file_id+"\" type=\"text\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n")
 
                 #Source Description
-                write_file.write("<sourceDesc>\n<msDesc>\n<msIdentifier>\n<idno corresp=\""+idno+"\"/>\n</msIdentifier>\n<msContents>\n<msItem>\n"+locus_Decl+"\n<title key=\""+titleKey+"\">"+title+"</title>\n"+lang_Decl+"\n</msItem>\n</msContents>\n</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n")
+                write_file.write("<sourceDesc>\n<msDesc>\n<msIdentifier>\n<settlement key=\""+city+"\"/>\n<repository key=\""+repository+"\"/>\n<idno corresp=\""+ms_id+"\">"+idno+"</idno>\n</msIdentifier>\n")
+
+                #Contents
+                write_file.write("<msContents>\n<msItem>\n"+locus_Decl+"\n<title key=\""+titleKey+"\">"+title+"</title>\n"+lang_Decl+"\n</msItem>\n</msContents>\n</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n")
+                
 
                 #This is the original I am working from
 #                                write_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n<teiHeader>\n<fileDesc>\n<titleStmt>\n<title>"+title+"</title>\n<respStmt xml:id=\"SDV\">\n<resp when=\"2024\">Catalogue</resp>\n<persName>Seán D. Vrieland</persName>\n</respStmt>\n</titleStmt>\n<publicationStmt>\n<authority>When Danes Prayed in German</authority>\n</publicationStmt>\n<sourceDesc>\n<msDesc>\n<msIdentifier>\n<idno xml:id=\""+idno+"\"/>\n</msIdentifier>\n<msContents>\n<msItem>\n<locus from=\""+locus_from+"\" to=\""+locus_to+"\"/>\n<title key=\""+titleKey+"\">"+title.replace('\n','')+"</title>\n<textLang mainLang=\""+xmlLang+"\"/>\n</msItem>\n</msContents>\n</msDesc>\n</sourceDesc>\n</fileDesc>\n</teiHeader>\n<text>\n<body>\n")
@@ -155,7 +173,7 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 is_note = False
                 for i, word in enumerate(words, 1):
                     word = word.replace('_', ' ').replace('(','<ex>').replace(')','</ex>').replace('⸠','<del>').replace('⸡', '</del>').replace('⸌', '<add>').replace('⸍', '</add>')
-                    word_id = str(idno)+"_" + page_break+"." + str(line_break)+"."+str(word_count)
+                    word_id = str(ms_id)+"_" + page_break+"." + str(line_break)+"."+str(word_count)
                     word_count += 1
                     if is_note == True:
                         next

@@ -4,8 +4,8 @@
 | Manuscript | AM 782 4to  |
 | Locus      | 1r 4r       |
 | Work       | ADVENT_1    |
-| Language   | Danish      |
-| Status     | transcribed |
+| Language   | da          |
+| Status     | Transcribed |
 |------------+-------------|
 
 * Transcription

@@ -51,3 +51,54 @@ w:hover {
   background-color: lightgray
 }
 /* TODO: Hover-over to get lemma */
+
+hi[rend~="red"] {
+  color: darkred
+}
+
+hi[rend~="blue"] {
+  color: blue
+}
+
+hi[rend~="green"] {
+  color: green
+}
+
+hi[rend~="gold"] {
+  color: gold
+}
+
+hi[rend~="2"] {
+  display: inline-block;
+  float: left;
+  margin-top: 7pt;
+  font-size: calc(200%)
+}
+
+hi[rend~="3"] {
+  display: inline-block;
+  float: left;
+  margin-top: 14pt;
+  font-size: calc(300%)
+}
+
+hi[rend~="4"] {
+  display: inline-block;
+  float: left;
+  margin-top: 21pt;
+  font-size: calc(400%)
+}
+
+hi[rend~="5"] {
+  display: inline-block;
+  float: left;
+  margin-top: 28pt;
+  font-size: calc(500%)
+}
+
+hi[rend~="6"] {
+  display: inline-block;
+  float: left;
+  margin-top: 35pt;
+  font-size: calc(600%)
+}

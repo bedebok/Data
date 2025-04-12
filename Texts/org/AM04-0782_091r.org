@@ -1,7 +1,7 @@
 #+TITLE: A Prayer for Every Day in Lent
 
 |------------+-------------|
-| Manuscript | AM07-0782   |
+| Manuscript | AM 782 4to  |
 | Locus      | 91r 92r     |
 | Work       |             |
 | Language   | gml         |
