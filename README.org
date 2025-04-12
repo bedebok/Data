@@ -1,4 +1,8 @@
 #+TITLE: When Danes Prayed in German
-An open-access Git repository for the DFF funded project
+An open-access Git repository for the research project /When Danes Prayed in German/ funded by the Independent Research Fund Denmark (project number 1055-00040B)
 
-* Contents
+https://dff.dk/media/rbihpmen/b0775090-618d-42f6-abb2-3588e1240044.png
+
+* About the project
+
+* Repository contents
