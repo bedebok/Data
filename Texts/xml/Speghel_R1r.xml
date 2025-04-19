@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Speghel_R1r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A Prayer for Every Day in Lent</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="N/A"/>
+<repository key="N/A"/>
+<idno corresp="Speghel">Speghel der Sammiticheyt</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="R1r" to="R3v"/>
+<title key="LENT_DAILY">A Prayer for Every Day in Lent</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="rubric">
+<p>
+<w xml:id="Speghel_R1r.1.1">¶</w>
+<w xml:id="Speghel_R1r.1.2">Eyn</w>
+<w xml:id="Speghel_R1r.1.3">bed.</w>
+<w xml:id="Speghel_R1r.1.4">de</w>
+<w xml:id="Speghel_R1r.1.5">ghantzen</w>
+<w xml:id="Speghel_R1r.1.6">vaste<ex>n</ex></w>
+<lb n="2"/>
+<w xml:id="Speghel_R1r.2.1">ouer.</w>
+<w xml:id="Speghel_R1r.2.2">alle</w>
+<w xml:id="Speghel_R1r.2.3">daghe</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="4"/>
+<w xml:id="Speghel_R1r.4.1"><hi rend="red 4">L</hi>Eue</w>
+<w xml:id="Speghel_R1r.4.2">here.</w>
+<w xml:id="Speghel_R1r.4.3">vth</w>
+<w xml:id="Speghel_R1r.4.4">der</w>
+<lb n="5"/>
+<w xml:id="Speghel_R1r.5.1">grote<ex>n</ex></w>
+<w xml:id="Speghel_R1r.5.2">dupe.</w>
+<w xml:id="Speghel_R1r.5.3">myner</w>
+<lb n="6"/>
+<w xml:id="Speghel_R1r.6.1">sware<ex>n</ex></w>
+<w xml:id="Speghel_R1r.6.2">sunde.</w>
+<w xml:id="Speghel_R1r.6.3">rope</w>
+<lb n="7"/>
+<w xml:id="Speghel_R1r.7.1">ik</w>
+<w xml:id="Speghel_R1r.7.2">vorloren</w>
+<w xml:id="Speghel_R1r.7.3">sone.</w>
+<w xml:id="Speghel_R1r.7.4">to</w>
+<lb n="8"/>
+<w xml:id="Speghel_R1r.8.1">di</w>
+<w xml:id="Speghel_R1r.8.2">vader,</w>
+<w xml:id="Speghel_R1r.8.3">aller</w>
+<w xml:id="Speghel_R1r.8.4">gnade</w>
+<w xml:id="Speghel_R1r.8.5">vn<ex>de</ex></w>
+<w xml:id="Speghel_R1r.8.6">barm<lb n="9"/>herticheyt.</w>
+<w xml:id="Speghel_R1r.9.2">de</w>
+<w xml:id="Speghel_R1r.9.3">du</w>
+<w xml:id="Speghel_R1r.9.4">nemande</w>
+<w xml:id="Speghel_R1r.9.5">vor<lb n="10"/>lust</w>
+<w xml:id="Speghel_R1r.10.2">vn<ex>de</ex></w>
+<w xml:id="Speghel_R1r.10.3">vorsmaest.</w>
+<w xml:id="Speghel_R1r.10.4">sunder</w>
+<w xml:id="Speghel_R1r.10.5">he</w>
+<w xml:id="Speghel_R1r.10.6">wil<lb n="11"/>le</w>
+<w xml:id="Speghel_R1r.11.2">vorloren</w>
+<w xml:id="Speghel_R1r.11.3">vn<ex>de</ex></w>
+<w xml:id="Speghel_R1r.11.4">vorsmaet</w>
+<w xml:id="Speghel_R1r.11.5">wesen.</w>
+<lb n="12"/>
+<w xml:id="Speghel_R1r.12.1">dar</w>
+<w xml:id="Speghel_R1r.12.2">vmme</w>
+<w xml:id="Speghel_R1r.12.3">seette</w>
+<w xml:id="Speghel_R1r.12.4">yk</w>
+<w xml:id="Speghel_R1r.12.5">alle</w>
+<w xml:id="Speghel_R1r.12.6">mynen</w>
+<lb n="13"/>
+<w xml:id="Speghel_R1r.13.1">troest</w>
+<w xml:id="Speghel_R1r.13.2">an</w>
+<w xml:id="Speghel_R1r.13.3">di.</w>
+<w xml:id="Speghel_R1r.13.4">vnde</w>
+<w xml:id="Speghel_R1r.13.5">spreke.</w>
+<w xml:id="Speghel_R1r.13.6">Criste</w>
+<lb n="14"/>
+<w xml:id="Speghel_R1r.14.1">des</w>
+<w xml:id="Speghel_R1r.14.2">leuendyghen</w>
+<w xml:id="Speghel_R1r.14.3">ghodes</w>
+<w xml:id="Speghel_R1r.14.4">sone.</w>
+<lb n="15"/>
+<w xml:id="Speghel_R1r.15.1">vorbarme</w>
+<w xml:id="Speghel_R1r.15.2">dy</w>
+<w xml:id="Speghel_R1r.15.3">myner.</w>
+<w xml:id="Speghel_R1r.15.4">wente</w>
+<w xml:id="Speghel_R1r.15.5">yd</w>
+<lb n="16"/>
+<w xml:id="Speghel_R1r.16.1">is</w>
+<w xml:id="Speghel_R1r.16.2">dy</w>
+<w xml:id="Speghel_R1r.16.3">eechlyk</w>
+<w xml:id="Speghel_R1r.16.4">vn<ex>de</ex></w>
+<w xml:id="Speghel_R1r.16.5">natuerlik.</w>
+<w xml:id="Speghel_R1r.16.6">dat</w>
+<lb n="17"/>
+<w xml:id="Speghel_R1r.17.1">du</w>
+<w xml:id="Speghel_R1r.17.2">alle</w>
+<w xml:id="Speghel_R1r.17.3">tijd</w>
+<w xml:id="Speghel_R1r.17.4">schonest</w>
+<w xml:id="Speghel_R1r.17.5">den</w>
+<w xml:id="Speghel_R1r.17.6">armen</w>
+<lb n="18"/>
+<w xml:id="Speghel_R1r.18.1">sunderen.</w>
+<w xml:id="Speghel_R1r.18.2">dede</w>
+<w xml:id="Speghel_R1r.18.3">wedder</w>
+<w xml:id="Speghel_R1r.18.4">to</w>
+<w xml:id="Speghel_R1r.18.5">di</w>
+<w xml:id="Speghel_R1r.18.6">ke<pb n="261"/><lb n="1"/>ren</w>
+<w xml:id="Speghel_261.1.2">wylle<ex>n</ex>.</w>
+<w xml:id="Speghel_261.1.3">Jk</w>
+<w xml:id="Speghel_261.1.4">bin</w>
+<w xml:id="Speghel_261.1.5">alte</w>
+<w xml:id="Speghel_261.1.6">verne</w>
+<w xml:id="Speghel_261.1.7">va<ex>n</ex></w>
+<lb n="2"/>
+<w xml:id="Speghel_261.2.1">dy</w>
+<w xml:id="Speghel_261.2.2">vorduelet.</w>
+<w xml:id="Speghel_261.2.3">vn<ex>de</ex></w>
+<w xml:id="Speghel_261.2.4">ka<ex>n</ex></w>
+<w xml:id="Speghel_261.2.5">doch</w>
+<w xml:id="Speghel_261.2.6">nycht</w>
+<lb n="3"/>
+<w xml:id="Speghel_261.3.1">wedder</w>
+<w xml:id="Speghel_261.3.2">komen</w>
+<w xml:id="Speghel_261.3.3">to</w>
+<w xml:id="Speghel_261.3.4">dy.</w>
+<w xml:id="Speghel_261.3.5">su<ex>n</ex>der</w>
+<w xml:id="Speghel_261.3.6">du</w>
+<lb n="4"/>
+<w xml:id="Speghel_261.4.1">helpest</w>
+<w xml:id="Speghel_261.4.2">my.</w>
+<w xml:id="Speghel_261.4.3">Jk</w>
+<w xml:id="Speghel_261.4.4">wolde</w>
+<w xml:id="Speghel_261.4.5">gheerne.</w>
+<lb n="5"/>
+<w xml:id="Speghel_261.5.1">me<ex>n</ex></w>
+<w xml:id="Speghel_261.5.2">dat</w>
+<w xml:id="Speghel_261.5.3">vulle<ex>n</ex>bringhent</w>
+<w xml:id="Speghel_261.5.4">is</w>
+<w xml:id="Speghel_261.5.5">nicht</w>
+<lb n="6"/>
+<w xml:id="Speghel_261.6.1">by</w>
+<w xml:id="Speghel_261.6.2">my.</w>
+<w xml:id="Speghel_261.6.3">Myner</w>
+<w xml:id="Speghel_261.6.4">su<ex>n</ex>de</w>
+<w xml:id="Speghel_261.6.5">is</w>
+<w xml:id="Speghel_261.6.6">neyn</w>
+<w xml:id="Speghel_261.6.7">en<lb n="7"/>de.</w>
+<w xml:id="Speghel_261.7.2">in</w>
+<w xml:id="Speghel_261.7.3">da<ex>n</ex>ken.</w>
+<w xml:id="Speghel_261.7.4">in</w>
+<w xml:id="Speghel_261.7.5">worde<ex>n</ex>.</w>
+<w xml:id="Speghel_261.7.6">i<ex>n</ex></w>
+<w xml:id="Speghel_261.7.7">werke<ex>n</ex>.</w>
+<lb n="8"/>
+<w xml:id="Speghel_261.8.1">in</w>
+<w xml:id="Speghel_261.8.2">quader</w>
+<w xml:id="Speghel_261.8.3">woenheyt.</w>
+<w xml:id="Speghel_261.8.4">in</w>
+<w xml:id="Speghel_261.8.5">ri<ex>n</ex>gwe<lb n="9"/>ghinghe.</w>
+<w xml:id="Speghel_261.9.2">vn<ex>de</ex></w>
+<w xml:id="Speghel_261.9.3">in</w>
+<w xml:id="Speghel_261.9.4">entschuldynghe</w>
+<lb n="10"/>
+<w xml:id="Speghel_261.10.1">myner</w>
+<w xml:id="Speghel_261.10.2">sware<ex>n</ex></w>
+<w xml:id="Speghel_261.10.3">sunde.</w>
+<w xml:id="Speghel_261.10.4">Almechti<lb n="11"/>ghe</w>
+<w xml:id="Speghel_261.11.2">god.</w>
+<w xml:id="Speghel_261.11.3">ik</w>
+<w xml:id="Speghel_261.11.4">hebbe</w>
+<w xml:id="Speghel_261.11.5">dy</w>
+<w xml:id="Speghel_261.11.6">nicht</w>
+<w xml:id="Speghel_261.11.7">vor<lb n="12"/>oghe<ex>n</ex></w>
+<w xml:id="Speghel_261.12.2">gheholde<ex>n</ex>.</w>
+<w xml:id="Speghel_261.12.3">als</w>
+<w xml:id="Speghel_261.12.4">myne<ex>n</ex></w>
+<w xml:id="Speghel_261.12.5">here<ex>n</ex></w>
+<lb n="13"/>
+<w xml:id="Speghel_261.13.1">vn<ex>de</ex></w>
+<w xml:id="Speghel_261.13.2">god.</w>
+<w xml:id="Speghel_261.13.3">minen</w>
+<w xml:id="Speghel_261.13.4">salichmaker</w>
+<w xml:id="Speghel_261.13.5">vn<ex>de</ex></w>
+<lb n="14"/>
+<w xml:id="Speghel_261.14.1">vorlozer.</w>
+<w xml:id="Speghel_261.14.2">Mine<ex>n</ex></w>
+<w xml:id="Speghel_261.14.3">neghesten</w>
+<w xml:id="Speghel_261.14.4">heb<lb n="15"/>be</w>
+<w xml:id="Speghel_261.15.2">yk</w>
+<w xml:id="Speghel_261.15.3">vorerghert.</w>
+<w xml:id="Speghel_261.15.4">vn<ex>de</ex></w>
+<w xml:id="Speghel_261.15.5">to</w>
+<w xml:id="Speghel_261.15.6">sunden</w>
+<lb n="16"/>
+<w xml:id="Speghel_261.16.1">ghebracht.</w>
+<w xml:id="Speghel_261.16.2">Wat</w>
+<w xml:id="Speghel_261.16.3">eghe</w>
+<w xml:id="Speghel_261.16.4">ik</w>
+<w xml:id="Speghel_261.16.5">arme.</w>
+<lb n="17"/>
+<w xml:id="Speghel_261.17.1">dorre.</w>
+<w xml:id="Speghel_261.17.2">afghesnede<ex>n</ex></w>
+<w xml:id="Speghel_261.17.3">rijs.</w>
+<w xml:id="Speghel_261.17.4">va<ex>n</ex></w>
+<w xml:id="Speghel_261.17.5">di</w>
+<w xml:id="Speghel_261.17.6">wa<lb n="18"/>re</w>
+<w xml:id="Speghel_261.18.2">winstokke.</w>
+<w xml:id="Speghel_261.18.3">me<ex>n</ex></w>
+<w xml:id="Speghel_261.18.4">dat</w>
+<w xml:id="Speghel_261.18.5">du</w>
+<w xml:id="Speghel_261.18.6">na</w>
+<w xml:id="Speghel_261.18.7">dy<pb n="262"/><lb n="1"/>ner</w>
+<w xml:id="Speghel_262.1.2">rechtuerdycheyt.</w>
+<w xml:id="Speghel_262.1.3">my</w>
+<w xml:id="Speghel_262.1.4">weer<lb n="2"/>pest</w>
+<w xml:id="Speghel_262.2.2">in</w>
+<w xml:id="Speghel_262.2.3">dath</w>
+<w xml:id="Speghel_262.2.4">ewyghe</w>
+<w xml:id="Speghel_262.2.5">vur.</w>
+<w xml:id="Speghel_262.2.6">Ach</w>
+<lb n="3"/>
+<w xml:id="Speghel_262.3.1">wol</w>
+<w xml:id="Speghel_262.3.2">ghift</w>
+<w xml:id="Speghel_262.3.3">nu</w>
+<w xml:id="Speghel_262.3.4">myneme</w>
+<w xml:id="Speghel_262.3.5">steinighe<ex>n</ex></w>
+<lb n="4"/>
+<w xml:id="Speghel_262.4.1">herte<ex>n</ex></w>
+<w xml:id="Speghel_262.4.2">ware</w>
+<w xml:id="Speghel_262.4.3">ruwe.</w>
+<w xml:id="Speghel_262.4.4">myne<ex>n</ex></w>
+<w xml:id="Speghel_262.4.5">oghen</w>
+<lb n="5"/>
+<w xml:id="Speghel_262.5.1">de<ex>n</ex></w>
+<w xml:id="Speghel_262.5.2">borne</w>
+<w xml:id="Speghel_262.5.3">der</w>
+<w xml:id="Speghel_262.5.4">trane.</w>
+<w xml:id="Speghel_262.5.5">dat</w>
+<w xml:id="Speghel_262.5.6">ik</w>
+<w xml:id="Speghel_262.5.7">slym<lb n="6"/>me</w>
+<w xml:id="Speghel_262.6.2">moerder</w>
+<w xml:id="Speghel_262.6.3">myner</w>
+<w xml:id="Speghel_262.6.4">armen</w>
+<w xml:id="Speghel_262.6.5">zele</w>
+<lb n="7"/>
+<w xml:id="Speghel_262.7.1">nacht</w>
+<w xml:id="Speghel_262.7.2">vn<ex>de</ex></w>
+<w xml:id="Speghel_262.7.3">dach.</w>
+<w xml:id="Speghel_262.7.4">beweyne<ex>n</ex></w>
+<w xml:id="Speghel_262.7.5">vn<ex>de</ex></w>
+<w xml:id="Speghel_262.7.6">be<lb n="8"/>scryen</w>
+<w xml:id="Speghel_262.8.2">moghe:</w>
+<w xml:id="Speghel_262.8.3">den</w>
+<w xml:id="Speghel_262.8.4">doed</w>
+<w xml:id="Speghel_262.8.5">miner</w>
+<lb n="9"/>
+<w xml:id="Speghel_262.9.1">zele.</w>
+<w xml:id="Speghel_262.9.2">vn<ex>de</ex></w>
+<w xml:id="Speghel_262.9.3">eer</w>
+<w xml:id="Speghel_262.9.4">afschedent</w>
+<w xml:id="Speghel_262.9.5">va<ex>n</ex></w>
+<w xml:id="Speghel_262.9.6">gode</w>
+<lb n="10"/>
+<w xml:id="Speghel_262.10.1">myneme</w>
+<w xml:id="Speghel_262.10.2">heyle.</w>
+<w xml:id="Speghel_262.10.3">O</w>
+<w xml:id="Speghel_262.10.4">here</w>
+<w xml:id="Speghel_262.10.5">vn<ex>de</ex></w>
+<w xml:id="Speghel_262.10.6">va<lb n="11"/>der.</w>
+<w xml:id="Speghel_262.11.2">ghyf</w>
+<w xml:id="Speghel_262.11.3">my</w>
+<w xml:id="Speghel_262.11.4">de<ex>n</ex></w>
+<w xml:id="Speghel_262.11.5">borne</w>
+<w xml:id="Speghel_262.11.6">der</w>
+<w xml:id="Speghel_262.11.7">gna<lb n="12"/>de.</w>
+<w xml:id="Speghel_262.12.2">de<ex>n</ex></w>
+<w xml:id="Speghel_262.12.3">du</w>
+<w xml:id="Speghel_262.12.4">in</w>
+<w xml:id="Speghel_262.12.5">der</w>
+<w xml:id="Speghel_262.12.6">wustenye.</w>
+<w xml:id="Speghel_262.12.7">dyne<lb n="13"/>me</w>
+<w xml:id="Speghel_262.13.2">volke</w>
+<w xml:id="Speghel_262.13.3">gheuest</w>
+<w xml:id="Speghel_262.13.4">dat</w>
+<w xml:id="Speghel_262.13.5">vorquik<lb n="14"/>kende</w>
+<w xml:id="Speghel_262.14.2">water.</w>
+<w xml:id="Speghel_262.14.3">vth</w>
+<w xml:id="Speghel_262.14.4">deme</w>
+<w xml:id="Speghel_262.14.5">harden</w>
+<lb n="15"/>
+<w xml:id="Speghel_262.15.1">steine.</w>
+<w xml:id="Speghel_262.15.2">Ghif</w>
+<w xml:id="Speghel_262.15.3">mi</w>
+<w xml:id="Speghel_262.15.4">de</w>
+<w xml:id="Speghel_262.15.5">traen</w>
+<w xml:id="Speghel_262.15.6">marie</w>
+<lb n="16"/>
+<w xml:id="Speghel_262.16.1">magdalene<ex>n</ex></w>
+<w xml:id="Speghel_262.16.2">des</w>
+<w xml:id="Speghel_262.16.3">speghels</w>
+<w xml:id="Speghel_262.16.4">der</w>
+<w xml:id="Speghel_262.16.5">su<ex>n</ex><lb n="17"/>dere.</w>
+<w xml:id="Speghel_262.17.2">su<ex>n</ex>te</w>
+<w xml:id="Speghel_262.17.3">peters</w>
+<w xml:id="Speghel_262.17.4">di<ex>n</ex>es</w>
+<w xml:id="Speghel_262.17.5">vorsekers</w>
+<lb n="18"/>
+<w xml:id="Speghel_262.18.1">Hore</w>
+<w xml:id="Speghel_262.18.2">myt</w>
+<w xml:id="Speghel_262.18.3">gnade<ex>n</ex></w>
+<w xml:id="Speghel_262.18.4">my</w>
+<w xml:id="Speghel_262.18.5">arme</w>
+<w xml:id="Speghel_262.18.6">sun<pb n="263"/><lb n="1"/>dere.</w>
+<w xml:id="Speghel_263.1.2">de</w>
+<w xml:id="Speghel_263.1.3">ik</w>
+<w xml:id="Speghel_263.1.4">doch</w>
+<w xml:id="Speghel_263.1.5">vake<ex>n</ex>.</w>
+<w xml:id="Speghel_263.1.6">dy</w>
+<w xml:id="Speghel_263.1.7">nicht</w>
+<lb n="2"/>
+<w xml:id="Speghel_263.2.1">horen</w>
+<w xml:id="Speghel_263.2.2">wolde.</w>
+<w xml:id="Speghel_263.2.3">Gheystu</w>
+<w xml:id="Speghel_263.2.4">in</w>
+<w xml:id="Speghel_263.2.5">dath</w>
+<lb n="3"/>
+<w xml:id="Speghel_263.3.1">scarpe</w>
+<w xml:id="Speghel_263.3.2">richte.</w>
+<w xml:id="Speghel_263.3.3">myt</w>
+<w xml:id="Speghel_263.3.4">dyneme</w>
+<w xml:id="Speghel_263.3.5">ar<lb n="4"/>men</w>
+<w xml:id="Speghel_263.4.2">knechte.</w>
+<w xml:id="Speghel_263.4.3">zo</w>
+<w xml:id="Speghel_263.4.4">byn</w>
+<w xml:id="Speghel_263.4.5">ik</w>
+<w xml:id="Speghel_263.4.6">vorlore<ex>n</ex>.</w>
+<lb n="5"/>
+<w xml:id="Speghel_263.5.1">wente</w>
+<w xml:id="Speghel_263.5.2">neen</w>
+<w xml:id="Speghel_263.5.3">mynsche</w>
+<w xml:id="Speghel_263.5.4">wert</w>
+<w xml:id="Speghel_263.5.5">vulle<ex>n</ex></w>
+<lb n="6"/>
+<w xml:id="Speghel_263.6.1">komen</w>
+<w xml:id="Speghel_263.6.2">richtich,</w>
+<w xml:id="Speghel_263.6.3">vor</w>
+<w xml:id="Speghel_263.6.4">di</w>
+<w xml:id="Speghel_263.6.5">ghev<choice><sic>n</sic><corr>u</corr></choice>n<lb n="7"/>den.</w>
+<w xml:id="Speghel_263.7.2">Reynighe</w>
+<w xml:id="Speghel_263.7.3">min</w>
+<w xml:id="Speghel_263.7.4">herte.</w>
+<w xml:id="Speghel_263.7.5">ik</w>
+<w xml:id="Speghel_263.7.6">o<lb n="8"/>pene</w>
+<w xml:id="Speghel_263.8.2">dy</w>
+<w xml:id="Speghel_263.8.3">dat</w>
+<w xml:id="Speghel_263.8.4">openbaer.</w>
+<w xml:id="Speghel_263.8.5">du</w>
+<w xml:id="Speghel_263.8.6">allei<lb n="9"/>ne</w>
+<w xml:id="Speghel_263.9.2">ke<ex>n</ex>nest</w>
+<w xml:id="Speghel_263.9.3">mi.</w>
+<w xml:id="Speghel_263.9.4">Gnade</w>
+<w xml:id="Speghel_263.9.5">de</w>
+<w xml:id="Speghel_263.9.6">ik</w>
+<w xml:id="Speghel_263.9.7">nicht</w>
+<lb n="10"/>
+<w xml:id="Speghel_263.10.1">en</w>
+<w xml:id="Speghel_263.10.2">heebbe</w>
+<w xml:id="Speghel_263.10.3">ghyff</w>
+<w xml:id="Speghel_263.10.4">my.</w>
+<w xml:id="Speghel_263.10.5">vp</w>
+<w xml:id="Speghel_263.10.6">dat</w>
+<w xml:id="Speghel_263.10.7">yk</w>
+<lb n="11"/>
+<w xml:id="Speghel_263.11.1">in</w>
+<w xml:id="Speghel_263.11.2">dyssen</w>
+<w xml:id="Speghel_263.11.3">daghen</w>
+<w xml:id="Speghel_263.11.4">der</w>
+<w xml:id="Speghel_263.11.5">gnade</w>
+<w xml:id="Speghel_263.11.6">vn<lb n="12"/>de</w>
+<w xml:id="Speghel_263.12.2">der</w>
+<w xml:id="Speghel_263.12.3">penite<ex>n</ex>cien.</w>
+<w xml:id="Speghel_263.12.4">Moghe</w>
+<w xml:id="Speghel_263.12.5">my</w>
+<lb n="13"/>
+<w xml:id="Speghel_263.13.1">myt</w>
+<w xml:id="Speghel_263.13.2">dynen</w>
+<w xml:id="Speghel_263.13.3">gnaden,</w>
+<w xml:id="Speghel_263.13.4">beheghelik</w>
+<lb n="14"/>
+<w xml:id="Speghel_263.14.1">maken.</w>
+<w xml:id="Speghel_263.14.2">dat</w>
+<w xml:id="Speghel_263.14.3">ik</w>
+<w xml:id="Speghel_263.14.4">ghereinighet</w>
+<w xml:id="Speghel_263.14.5">van</w>
+<lb n="15"/>
+<w xml:id="Speghel_263.15.1">alle</w>
+<w xml:id="Speghel_263.15.2">mine<ex>n</ex></w>
+<w xml:id="Speghel_263.15.3">sunden.</w>
+<w xml:id="Speghel_263.15.4">dy</w>
+<w xml:id="Speghel_263.15.5">ware</w>
+<w xml:id="Speghel_263.15.6">paes<lb n="16"/>chelam.</w>
+<w xml:id="Speghel_263.16.2">entfanghen</w>
+<w xml:id="Speghel_263.16.3">moghe.</w>
+<w xml:id="Speghel_263.16.4">yn</w>
+<lb n="17"/>
+<w xml:id="Speghel_263.17.1">myn</w>
+<w xml:id="Speghel_263.17.2">heerte</w>
+<w xml:id="Speghel_263.17.3">vn<ex>de</ex></w>
+<w xml:id="Speghel_263.17.4">in</w>
+<w xml:id="Speghel_263.17.5">myne</w>
+<w xml:id="Speghel_263.17.6">zele.</w>
+<w xml:id="Speghel_263.17.7">vp</w>
+<lb n="18"/>
+<w xml:id="Speghel_263.18.1">dat</w>
+<w xml:id="Speghel_263.18.2">ik</w>
+<w xml:id="Speghel_263.18.3">ghanslyken</w>
+<w xml:id="Speghel_263.18.4">in</w>
+<w xml:id="Speghel_263.18.5">dy</w>
+<w xml:id="Speghel_263.18.6">vmme<pb n="264"/><lb n="1"/>ghebyldet</w>
+<w xml:id="Speghel_264.1.2">werde.</w>
+<w xml:id="Speghel_264.1.3">dat</w>
+<w xml:id="Speghel_264.1.4">ik</w>
+<w xml:id="Speghel_264.1.5">dy</w>
+<w xml:id="Speghel_264.1.6">le<lb n="2"/>ue,</w>
+<w xml:id="Speghel_264.2.2">vnde</w>
+<w xml:id="Speghel_264.2.3">nicht</w>
+<w xml:id="Speghel_264.2.4">my.</w>
+<w xml:id="Speghel_264.2.5">alzo</w>
+<w xml:id="Speghel_264.2.6">dath</w>
+<w xml:id="Speghel_264.2.7">ik</w>
+<lb n="3"/>
+<w xml:id="Speghel_264.3.1">ewych</w>
+<w xml:id="Speghel_264.3.2">blyue</w>
+<w xml:id="Speghel_264.3.3">by</w>
+<w xml:id="Speghel_264.3.4">dy.</w>
+<w xml:id="Speghel_264.3.5">des</w>
+<w xml:id="Speghel_264.3.6">heelp</w>
+<lb n="4"/>
+<w xml:id="Speghel_264.4.1">mi.</w>
+<w xml:id="Speghel_264.4.2">du</w>
+<w xml:id="Speghel_264.4.3">weerde</w>
+<w xml:id="Speghel_264.4.4">god.</w>
+<w xml:id="Speghel_264.4.5">vader.</w>
+<w xml:id="Speghel_264.4.6">sone.</w>
+<lb n="5"/>
+<w xml:id="Speghel_264.5.1">vn<ex>de</ex></w>
+<w xml:id="Speghel_264.5.2">hillighe</w>
+<w xml:id="Speghel_264.5.3">gheyst.</w>
+<w xml:id="Speghel_264.5.4">du</w>
+<w xml:id="Speghel_264.5.5">hyllighe</w>
+<lb n="6"/>
+<w xml:id="Speghel_264.6.1">dreuoldicheyt</w>
+<w xml:id="Speghel_264.6.2">in</w>
+<w xml:id="Speghel_264.6.3">dren</w>
+<w xml:id="Speghel_264.6.4">personen</w>
+<lb n="7"/>
+<w xml:id="Speghel_264.7.1">vn<ex>de</ex></w>
+<w xml:id="Speghel_264.7.2">in</w>
+<w xml:id="Speghel_264.7.3">eyneme</w>
+<w xml:id="Speghel_264.7.4">wesende</w>
+<w xml:id="Speghel_264.7.5">Amen</w>
+</p></div>
+<div type="versicle">
+<p>
+</p><div type="rubric">
+<p>
+<lb n="9"/>
+<w xml:id="Speghel_264.9.1">¶</w>
+<w xml:id="Speghel_264.9.2">Dat</w>
+<w xml:id="Speghel_264.9.3">versikel</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="11"/>
+<w xml:id="Speghel_264.11.1">Here.</w>
+<w xml:id="Speghel_264.11.2">do</w>
+<w xml:id="Speghel_264.11.3">vns</w>
+<w xml:id="Speghel_264.11.4">nycht</w>
+<w xml:id="Speghel_264.11.5">na</w>
+<w xml:id="Speghel_264.11.6">vnsen</w>
+<lb n="12"/>
+<w xml:id="Speghel_264.12.1">sunden.</w>
+<w xml:id="Speghel_264.12.2">vn<ex>de</ex></w>
+<w xml:id="Speghel_264.12.3">betale</w>
+<w xml:id="Speghel_264.12.4">vns</w>
+<w xml:id="Speghel_264.12.5">nicht</w>
+<w xml:id="Speghel_264.12.6">na</w>
+<lb n="13"/>
+<w xml:id="Speghel_264.13.1">vnsen</w>
+<w xml:id="Speghel_264.13.2">vnlyken</w>
+<w xml:id="Speghel_264.13.3">boeszheyden</w>
+</p></div>
+</div>
+<div type="collect">
+<p>
+</p><div type="rubric">
+<p>
+<lb n="15"/>
+<w xml:id="Speghel_264.15.1">¶</w>
+<w xml:id="Speghel_264.15.2">De</w>
+<w xml:id="Speghel_264.15.3">collecta</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="17"/>
+<w xml:id="Speghel_264.17.1"><hi rend="2 blue">A</hi>lmechtighe</w>
+<w xml:id="Speghel_264.17.2">ewighe</w>
+<w xml:id="Speghel_264.17.3">god.</w>
+<lb n="18"/>
+<w xml:id="Speghel_264.18.1">dorch</w>
+<w xml:id="Speghel_264.18.2">de</w>
+<w xml:id="Speghel_264.18.3">ere</w>
+<w xml:id="Speghel_264.18.4">dynes</w>
+<w xml:id="Speghel_264.18.5">na<lb n="19"/>men</w>
+<w xml:id="Speghel_264.19.2">wylle</w>
+<w xml:id="Speghel_264.19.3">vns</w>
+<w xml:id="Speghel_264.19.4">nicht</w>
+<w xml:id="Speghel_264.19.5">vorlezen,</w>
+<lb n="20"/>
+<w xml:id="Speghel_264.20.1">vmme</w>
+<w xml:id="Speghel_264.20.2">vnser</w>
+<w xml:id="Speghel_264.20.3">vele<ex>n</ex></w>
+<w xml:id="Speghel_264.20.4">myssedaed.</w>
+<w xml:id="Speghel_264.20.5">me<ex>n</ex></w>
+<lb n="21"/>
+<w xml:id="Speghel_264.21.1">dorch.</w>
+<w xml:id="Speghel_264.21.2">dat</w>
+<w xml:id="Speghel_264.21.3">stede</w>
+<w xml:id="Speghel_264.21.4">vorbydde<ex>n</ex>t</w>
+<w xml:id="Speghel_264.21.5">der</w>
+<lb n="22"/>
+<w xml:id="Speghel_264.22.1">iuncfrouwe<ex>n</ex></w>
+<w xml:id="Speghel_264.22.2">marie<ex>n</ex></w>
+<w xml:id="Speghel_264.22.3">der</w>
+<w xml:id="Speghel_264.22.4">ewyghe<ex>n</ex></w>
+<pb n="265"/>
+<lb n="1"/>
+<w xml:id="Speghel_265.1.1">reynen</w>
+<w xml:id="Speghel_265.1.2">iuncfrouwen.</w>
+<w xml:id="Speghel_265.1.3">vn<ex>de</ex></w>
+<w xml:id="Speghel_265.1.4">dorch</w>
+<lb n="2"/>
+<w xml:id="Speghel_265.2.1">de</w>
+<w xml:id="Speghel_265.2.2">bede.</w>
+<w xml:id="Speghel_265.2.3">vn<ex>de</ex></w>
+<w xml:id="Speghel_265.2.4">dat</w>
+<w xml:id="Speghel_265.2.5">grote</w>
+<w xml:id="Speghel_265.2.6">vordee<ex>n</ex>st</w>
+<lb n="3"/>
+<w xml:id="Speghel_265.3.1">alle</w>
+<w xml:id="Speghel_265.3.2">dyner</w>
+<w xml:id="Speghel_265.3.3">vterkoren.</w>
+<w xml:id="Speghel_265.3.4">vorleene</w>
+<lb n="4"/>
+<w xml:id="Speghel_265.4.1">vns</w>
+<w xml:id="Speghel_265.4.2">dine</w>
+<w xml:id="Speghel_265.4.3">gnade.</w>
+<w xml:id="Speghel_265.4.4">vn<ex>de</ex></w>
+<w xml:id="Speghel_265.4.5">de</w>
+<w xml:id="Speghel_265.4.6">tijd</w>
+<w xml:id="Speghel_265.4.7">der</w>
+<lb n="5"/>
+<w xml:id="Speghel_265.5.1">waren</w>
+<w xml:id="Speghel_265.5.2">penitencien.</w>
+<w xml:id="Speghel_265.5.3">dat</w>
+<w xml:id="Speghel_265.5.4">wy</w>
+<w xml:id="Speghel_265.5.5">ghe<lb n="6"/>vryget</w>
+<w xml:id="Speghel_265.6.2">va<ex>n</ex></w>
+<w xml:id="Speghel_265.6.3">alle</w>
+<w xml:id="Speghel_265.6.4">vnsen</w>
+<w xml:id="Speghel_265.6.5">benden</w>
+<w xml:id="Speghel_265.6.6">in</w>
+<lb n="7"/>
+<w xml:id="Speghel_265.7.1">reyner</w>
+<w xml:id="Speghel_265.7.2">co<ex>n</ex>sciencie<ex>n</ex></w>
+<w xml:id="Speghel_265.7.3">va<ex>n</ex></w>
+<w xml:id="Speghel_265.7.4">dy</w>
+<w xml:id="Speghel_265.7.5">weerde<ex>n</ex></w>
+<lb n="8"/>
+<w xml:id="Speghel_265.8.1">gnedighe<ex>n</ex></w>
+<w xml:id="Speghel_265.8.2">entfa<ex>n</ex>ghe<ex>n</ex>.</w>
+<w xml:id="Speghel_265.8.3">in</w>
+<w xml:id="Speghel_265.8.4">dat</w>
+<w xml:id="Speghel_265.8.5">ewy<lb n="9"/>ghe</w>
+<w xml:id="Speghel_265.9.2">leuend</w>
+<w xml:id="Speghel_265.9.3">aller</w>
+<w xml:id="Speghel_265.9.4">vroude</w>
+<w xml:id="Speghel_265.9.5">Ame<ex>n</ex>.</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="11"/>
+<w xml:id="Speghel_265.11.1">¶</w>
+<w xml:id="Speghel_265.11.2">Dyt</w>
+<w xml:id="Speghel_265.11.3">bed</w>
+<w xml:id="Speghel_265.11.4">machstu</w>
+<w xml:id="Speghel_265.11.5">alle</w>
+<w xml:id="Speghel_265.11.6">tijd</w>
+<lb n="12"/>
+<w xml:id="Speghel_265.12.1">vor</w>
+<w xml:id="Speghel_265.12.2">dyne</w>
+<w xml:id="Speghel_265.12.3">sunde</w>
+<w xml:id="Speghel_265.12.4">lesen</w>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

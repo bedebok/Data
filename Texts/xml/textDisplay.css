@@ -42,7 +42,7 @@ w[lemma]:hover:after {
   display: inline;
   float: left;
   width: 0pt;
-  margin-left: -75pt;
+  margin-left: -100pt;
   font-style: italic;
   color: cornflowerblue
 }

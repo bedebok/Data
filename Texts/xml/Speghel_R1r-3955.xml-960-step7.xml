@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Speghel_R1r.ana" type="text">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Prayer for Every Day in Lent</title>
+        <respStmt xml:id="SDV">
+          <resp when="2024">Data retrieval, linguistic annotation, and conversion to TEI</resp>
+          <persName>Seán D. Vrieland</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement key="N/A"/>
+            <repository key="N/A"/>
+            <idno corresp="Speghel">Speghel der Sammiticheyt</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus from="R1r" to="R3v"/>
+              <title key="LENT_DAILY">A Prayer for Every Day in Lent</title>
+              <textLang mainLang="gml"/>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="rubric">
+        <p>
+          <s>
+            <w lemma="¶" pos="$;">¶</w>
+            <w lemma="ein" pos="DIARTA">Eyn</w>
+            <w lemma="bid." pos="NA">bed.</w>
+            <w lemma="de" pos="DDARTA">de</w>
+            <w lemma="gans" pos="ADJA">ghantzen</w>
+            <w lemma="vasten" pos="NA">vaste<ex>n</ex></w>
+            <lb n="2"/>
+            <w lemma="over." pos="APPR">ouer.</w>
+            <w lemma="al" pos="DIA">alle</w>
+            <w lemma="dach" pos="NA">daghe</w>
+          </s>
+        </p>
+      </div>
+      <div type="text">
+        <p>
+          <lb n="4"/>
+          <s>
+            <w lemma="lef" pos="ADJA"><hi rend="red 4">L</hi>Eue</w>
+            <w lemma="here." pos="NA">here.</w>
+            <w lemma="ut" pos="APPR">vth</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <lb n="5"/>
+            <w lemma="grot" pos="ADJA">grote<ex>n</ex></w>
+            <w lemma="dupe." pos="NA">dupe.</w>
+            <w lemma="min" pos="DPOSA">myner</w>
+            <lb n="6"/>
+            <w lemma="swar" pos="ADJA">sware<ex>n</ex></w>
+            <w lemma="sunde." pos="NA">sunde.</w>
+            <w lemma="ropen" pos="VVFIN">rope</w>
+            <lb n="7"/>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="vorlesen" pos="ADJA">vorloren</w>
+            <w lemma="sove." pos="NA">sone.</w>
+            <w lemma="to" pos="APPR">to</w>
+            <lb n="8"/>
+            <w lemma="de" pos="DDARTA">di</w>
+            <w lemma="vader," pos="NA">vader,</w>
+            <w lemma="al" pos="DIA">aller</w>
+            <w lemma="genade" pos="NA">gnade</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="barmherticheit." pos="NA">barm<lb n="9"/>herticheyt.</w>
+            <w lemma="de" pos="DPRELS">de</w>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="nemant" pos="DPNEGS">nemande</w>
+            <w lemma="vorlesen" pos="VVFIN">vor<lb n="10"/>lust</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="vorsmot." pos="VVFIN">vorsmaest.</w>
+            <w lemma="sunder" pos="APPR">sunder</w>
+            <w lemma="he" pos="PPER">he</w>
+            <w lemma="willen" pos="VMFIN">wil<lb n="11"/>le</w>
+            <w lemma="vorlesen" pos="VVINF">vorloren</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="vorsmaden" pos="VVINF">vorsmaet</w>
+            <w lemma="wesen." pos="VMFIN">wesen.</w>
+            <lb n="12"/>
+            <w lemma="dar" pos="PAVKO">dar</w>
+            <w lemma="umme" pos="PAVAP">vmme</w>
+            <w lemma="seitte" pos="VVFIN">seette</w>
+            <w lemma="ik" pos="PPER">yk</w>
+            <w lemma="al" pos="DIA">alle</w>
+            <w lemma="min" pos="DPOSA">mynen</w>
+            <lb n="13"/>
+            <w lemma="trost" pos="NA">troest</w>
+            <w lemma="an" pos="APPR">an</w>
+            <w lemma="di." pos="NA">di.</w>
+            <w lemma="unde" pos="KON">vnde</w>
+            <w lemma="sereke." pos="OA">spreke.</w>
+            <w lemma="Krist" pos="FM">Criste</w>
+            <lb n="14"/>
+            <w lemma="de" pos="DDARTA">des</w>
+            <w lemma="levendich" pos="ADJA">leuendyghen</w>
+            <w lemma="got" pos="NA">ghodes</w>
+            <w lemma="sove." pos="$;">sone.</w>
+            <lb n="15"/>
+            <w lemma="vorbarmen" pos="VVIMP">vorbarme</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="mir." pos="AVD">myner.</w>
+            <w lemma="wente" pos="APPR">wente</w>
+            <w lemma="he" pos="PPER">yd</w>
+            <lb n="16"/>
+            <w lemma="wesen" pos="VVFIN">is</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="eichlik" pos="ADJD">eechlyk</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="netierlik." pos="ADJD">natuerlik.</w>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <lb n="17"/>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="al" pos="DIA">alle</w>
+            <w lemma="tit" pos="NA">tijd</w>
+            <w lemma="schonen" pos="VVFIN">schonest</w>
+            <w lemma="de" pos="DDARTA">den</w>
+            <w lemma="arm" pos="ADJS">armen</w>
+            <lb n="18"/>
+            <w lemma="sunderen." pos="$;">sunderen.</w>
+            <w lemma="don" pos="VVFIN">dede</w>
+            <w lemma="wedder" pos="AVD">wedder</w>
+            <w lemma="to" pos="APPR">to</w>
+            <w lemma="de" pos="PPER">di</w>
+            <w lemma="keren" pos="VVINF">ke<pb n="261"/><lb n="1"/>ren</w>
+            <w lemma="willen." pos="VMFIN">wylle<ex>n</ex>.</w>
+            <w lemma="ik" pos="PPER">Jk</w>
+            <w lemma="wesen" pos="AVD">bin</w>
+            <w lemma="alto" pos="PTKA">alte</w>
+            <w lemma="verne" pos="ADJD">verne</w>
+            <w lemma="van" pos="APPR">va<ex>n</ex></w>
+            <lb n="2"/>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="urdvelet." pos="VVINF">vorduelet.</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="kunnen" pos="VMFIN">ka<ex>n</ex></w>
+            <w lemma="doch" pos="AVKO">doch</w>
+            <w lemma="nicht" pos="PTKNEG">nycht</w>
+            <lb n="3"/>
+            <w lemma="wedder" pos="AVD">wedder</w>
+            <w lemma="komen" pos="VVINF">komen</w>
+            <w lemma="to" pos="APPR">to</w>
+            <w lemma="i." pos="OA">dy.</w>
+            <w lemma="sunder" pos="APPR">su<ex>n</ex>der</w>
+            <w lemma="du" pos="PPER">du</w>
+            <lb n="4"/>
+            <w lemma="helpen" pos="VVFIN">helpest</w>
+            <w lemma="my." pos="APPR">my.</w>
+            <w lemma="ik" pos="PPER">Jk</w>
+            <w lemma="willen" pos="VMFIN">wolde</w>
+            <w lemma="gerne." pos="OA">gheerne.</w>
+            <lb n="5"/>
+            <w lemma="man" pos="DPIS">me<ex>n</ex></w>
+            <w lemma="dat" pos="DDARTA">dat</w>
+            <w lemma="vullenbringhent" pos="NA">vulle<ex>n</ex>bringhent</w>
+            <w lemma="wesen" pos="VVFIN">is</w>
+            <w lemma="nicht" pos="PTKNEG">nicht</w>
+            <lb n="6"/>
+            <w lemma="bi" pos="APPR">by</w>
+            <w lemma="my." pos="PPER">my.</w>
+            <w lemma="min" pos="DPOSA">Myner</w>
+            <w lemma="sunde" pos="NA">su<ex>n</ex>de</w>
+            <w lemma="wesen" pos="VVFIN">is</w>
+            <w lemma="nein" pos="DNEGA">neyn</w>
+            <w lemma="ende." pos="NA">en<lb n="7"/>de.</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="danken." pos="NA">da<ex>n</ex>ken.</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="worden." pos="NA">worde<ex>n</ex>.</w>
+            <w lemma="in" pos="APPR">i<ex>n</ex></w>
+            <w lemma="werken." pos="NA">werke<ex>n</ex>.</w>
+            <lb n="8"/>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="quat" pos="ADJA">quader</w>
+            <w lemma="wonheit." pos="NA">woenheyt.</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="ringwagine." pos="NE">ri<ex>n</ex>gwe<lb n="9"/>ghinghe.</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="entschuldinge" pos="NA">entschuldynghe</w>
+            <lb n="10"/>
+            <w lemma="min" pos="DPOSA">myner</w>
+            <w lemma="swar" pos="ADJA">sware<ex>n</ex></w>
+            <w lemma="sunde." pos="NA">sunde.</w>
+            <w lemma="almechtich" pos="ADJA">Almechti<lb n="11"/>ghe</w>
+            <w lemma="god." pos="NA">god.</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="hebben" pos="VAFIN">hebbe</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="nicht" pos="PTKNEG">nicht</w>
+            <w lemma="voragen" pos="VVINF">vor<lb n="12"/>oghe<ex>n</ex></w>
+            <w lemma="helden." pos="$;">gheholde<ex>n</ex>.</w>
+            <w lemma="also" pos="KOKOM">als</w>
+            <w lemma="min" pos="DPOSA">myne<ex>n</ex></w>
+            <w lemma="here" pos="NA">here<ex>n</ex></w>
+            <lb n="13"/>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="god." pos="NA">god.</w>
+            <w lemma="min" pos="DPOSA">minen</w>
+            <w lemma="salichmaker" pos="NA">salichmaker</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <lb n="14"/>
+            <w lemma="vorlr." pos="APPR">vorlozer.</w>
+            <w lemma="min" pos="DPOSA">Mine<ex>n</ex></w>
+            <w lemma="na" pos="ADJS">neghesten</w>
+            <w lemma="hebben" pos="VAFIN">heb<lb n="15"/>be</w>
+            <w lemma="ik" pos="PPER">yk</w>
+            <w lemma="aorerrt." pos="VVPP">vorerghert.</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="to" pos="APPR">to</w>
+            <w lemma="sunde" pos="NA">sunden</w>
+            <lb n="16"/>
+            <w lemma="gebr.nken" pos="VVPP">ghebracht.</w>
+            <w lemma="wat" pos="DPWS">Wat</w>
+            <w lemma="eigen" pos="VVFIN">eghe</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="arme." pos="OA">arme.</w>
+            <lb n="17"/>
+            <w lemma="dorre." pos="OA">dorre.</w>
+            <w lemma="afsniden" pos="VVPP">afghesnede<ex>n</ex></w>
+            <w lemma="re.en" pos="OA">rijs.</w>
+            <w lemma="van" pos="APPR">va<ex>n</ex></w>
+            <w lemma="de" pos="PPER">di</w>
+            <w lemma="wesen" pos="ADJA">wa<lb n="18"/>re</w>
+            <w lemma="winisthoukke." pos="NA">winstokke.</w>
+            <w lemma="man" pos="DPIS">me<ex>n</ex></w>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="na" pos="APPR">na</w>
+            <w lemma="din" pos="DPOSA">dy<pb n="262"/><lb n="1"/>ner</w>
+            <w lemma="rechtverdicheyt." pos="NA">rechtuerdycheyt.</w>
+            <w lemma="ik" pos="PPER">my</w>
+            <w lemma="utweerpen" pos="VVFIN">weer<lb n="2"/>pest</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="dat" pos="DDARTA">dath</w>
+            <w lemma="ewich" pos="ADJA">ewyghe</w>
+            <w lemma="vur." pos="NA">vur.</w>
+            <w lemma="ach" pos="ITJ">Ach</w>
+            <lb n="3"/>
+            <w lemma="wol" pos="AVD">wol</w>
+            <w lemma="geven" pos="VVFIN">ghift</w>
+            <w lemma="nu" pos="AVD">nu</w>
+            <w lemma="min" pos="DPOSA">myneme</w>
+            <w lemma="steinigen" pos="ADJA">steinighe<ex>n</ex></w>
+            <lb n="4"/>
+            <w lemma="herte" pos="NA">herte<ex>n</ex></w>
+            <w lemma="wesen" pos="ADJA">ware</w>
+            <w lemma="ruwe." pos="NA">ruwe.</w>
+            <w lemma="min" pos="DPOSA">myne<ex>n</ex></w>
+            <w lemma="oge" pos="NA">oghen</w>
+            <lb n="5"/>
+            <w lemma="de" pos="DDARTA">de<ex>n</ex></w>
+            <w lemma="beren" pos="NA">borne</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <w lemma="tre." pos="NA">trane.</w>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="slim" pos="ADJA">slym<lb n="6"/>me</w>
+            <w lemma="morder" pos="NA">moerder</w>
+            <w lemma="min" pos="DPOSA">myner</w>
+            <w lemma="arm" pos="ADJA">armen</w>
+            <w lemma="sele" pos="NA">zele</w>
+            <lb n="7"/>
+            <w lemma="nacht" pos="NA">nacht</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="dach." pos="NA">dach.</w>
+            <w lemma="beweinen" pos="VVINF">beweyne<ex>n</ex></w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="beschrien" pos="VVINF">be<lb n="8"/>scryen</w>
+            <w lemma="moge:" pos="VMFIN">moghe:</w>
+            <w lemma="de" pos="DDARTA">den</w>
+            <w lemma="don" pos="NA">doed</w>
+            <w lemma="min" pos="DPOSA">miner</w>
+            <lb n="9"/>
+            <w lemma="sele." pos="NA">zele.</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="he" pos="DPOSA">eer</w>
+            <w lemma="afscheident" pos="NA">afschedent</w>
+            <w lemma="van" pos="APPR">va<ex>n</ex></w>
+            <w lemma="got" pos="NA">gode</w>
+            <lb n="10"/>
+            <w lemma="min" pos="DPOSA">myneme</w>
+            <w lemma="heille." pos="NA">heyle.</w>
+            <w lemma="o" pos="ITJ">O</w>
+            <w lemma="here" pos="NA">here</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="vader." pos="NA">va<lb n="11"/>der.</w>
+            <w lemma="ghiven" pos="VVIMP">ghyf</w>
+            <w lemma="ik" pos="PPER">my</w>
+            <w lemma="de" pos="DDARTA">de<ex>n</ex></w>
+            <w lemma="beren" pos="NA">borne</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <w lemma="gnade." pos="NA">gna<lb n="12"/>de.</w>
+            <w lemma="de" pos="DPRELS">de<ex>n</ex></w>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <w lemma="wustenie." pos="NE">wustenye.</w>
+            <w lemma="din" pos="DPOSA">dyne<lb n="13"/>me</w>
+            <w lemma="volk" pos="NA">volke</w>
+            <w lemma="geven" pos="VVFIN">gheuest</w>
+            <w lemma="dat" pos="DDARTA">dat</w>
+            <w lemma="vorquikken" pos="ADJA">vorquik<lb n="14"/>kende</w>
+            <w lemma="water." pos="NA">water.</w>
+            <w lemma="ut" pos="APPR">vth</w>
+            <w lemma="de" pos="DDARTA">deme</w>
+            <w lemma="harden" pos="ADJA">harden</w>
+            <lb n="15"/>
+            <w lemma="steine." pos="NA">steine.</w>
+            <w lemma="geven" pos="VVIMP">Ghif</w>
+            <w lemma="ik" pos="PPER">mi</w>
+            <w lemma="de" pos="DDARTA">de</w>
+            <w lemma="tran" pos="NA">traen</w>
+            <w lemma="marie" pos="NE">marie</w>
+            <lb n="16"/>
+            <w lemma="magdalenen" pos="NE">magdalene<ex>n</ex></w>
+            <w lemma="de" pos="DDARTA">des</w>
+            <w lemma="spegel" pos="NA">speghels</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <w lemma="sundere." pos="NA">su<ex>n</ex><lb n="17"/>dere.</w>
+            <w lemma="sunte" pos="ADJA">su<ex>n</ex>te</w>
+            <w lemma="peters" pos="NE">peters</w>
+            <w lemma="din" pos="DPOSA">di<ex>n</ex>es</w>
+            <w lemma="vorseker" pos="NA">vorsekers</w>
+            <lb n="18"/>
+            <w lemma="horen" pos="VVFIN">Hore</w>
+            <w lemma="mit" pos="APPR">myt</w>
+            <w lemma="genade" pos="NA">gnade<ex>n</ex></w>
+            <w lemma="ik" pos="PPER">my</w>
+            <w lemma="arm" pos="ADJA">arme</w>
+            <w lemma="sundere." pos="NA">sun<pb n="263"/><lb n="1"/>dere.</w>
+            <w lemma="de" pos="DPRELS">de</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="doch" pos="AVKO">doch</w>
+            <w lemma="vaken." pos="ADJV">vake<ex>n</ex>.</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="nicht" pos="PTKNEG">nicht</w>
+            <lb n="2"/>
+            <w lemma="horen" pos="VVINF">horen</w>
+            <w lemma="wule.n" pos="VMFIN">wolde.</w>
+            <w lemma="ghestuwe" pos="ADJV">Gheystu</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="dat" pos="DDARTA">dath</w>
+            <lb n="3"/>
+            <w lemma="scharp" pos="ADJA">scarpe</w>
+            <w lemma="richte." pos="NA">richte.</w>
+            <w lemma="mit" pos="APPR">myt</w>
+            <w lemma="din" pos="DPOSA">dyneme</w>
+            <w lemma="arm" pos="ADJA">ar<lb n="4"/>men</w>
+            <w lemma="knecht." pos="NA">knechte.</w>
+            <w lemma="so" pos="AVKO">zo</w>
+            <w lemma="wesen" pos="VVFIN">byn</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="vorloren." pos="ADJD">vorlore<ex>n</ex>.</w>
+            <lb n="5"/>
+            <w lemma="wente" pos="APPR">wente</w>
+            <w lemma="nein" pos="DNEGA">neen</w>
+            <w lemma="minsche" pos="NA">mynsche</w>
+            <w lemma="werden" pos="VAFIN">wert</w>
+            <w lemma="vul" pos="AVD">vulle<ex>n</ex></w>
+            <lb n="6"/>
+            <w lemma="komen" pos="VVPP">komen</w>
+            <w lemma="retih,en" pos="VAFIN">richtich,</w>
+            <w lemma="vor" pos="APPR">vor</w>
+            <w lemma="de" pos="PPER">di</w>
+            <w lemma="vnunden." pos="VVPP">ghev<choice><sic>n</sic><corr>u</corr></choice>n<lb n="7"/>den.</w>
+            <w lemma="reinigen" pos="ADJA">Reynighe</w>
+            <w lemma="min" pos="DPOSA">min</w>
+            <w lemma="herte." pos="NA">herte.</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="open" pos="VVFIN">o<lb n="8"/>pene</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="dat" pos="DDARTA">dat</w>
+            <w lemma="openbar." pos="ADJS">openbaer.</w>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="alleine" pos="ADJV">allei<lb n="9"/>ne</w>
+            <w lemma="kennen" pos="VVFIN">ke<ex>n</ex>nest</w>
+            <w lemma="mi." pos="DPOSA">mi.</w>
+            <w lemma="genade" pos="NA">Gnade</w>
+            <w lemma="de" pos="DPRELS">de</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="nicht" pos="PTKNEG">nicht</w>
+            <lb n="10"/>
+            <w lemma="ein" pos="PTKNEG">en</w>
+            <w lemma="heibben" pos="VVFIN">heebbe</w>
+            <w lemma="geven" pos="OA">ghyff</w>
+            <w lemma="my." pos="OA">my.</w>
+            <w lemma="up" pos="APPR">vp</w>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <w lemma="ik" pos="PPER">yk</w>
+            <lb n="11"/>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="desse" pos="DDA">dyssen</w>
+            <w lemma="dach" pos="NA">daghen</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <w lemma="genade" pos="NA">gnade</w>
+            <w lemma="unde" pos="KON">vn<lb n="12"/>de</w>
+            <w lemma="de" pos="DDARTA">der</w>
+            <w lemma="penitencien." pos="NA">penite<ex>n</ex>cien.</w>
+            <w lemma="mogen" pos="VMFIN">Moghe</w>
+            <w lemma="ik" pos="PPER">my</w>
+            <lb n="13"/>
+            <w lemma="mit" pos="APPR">myt</w>
+            <w lemma="din" pos="DPOSA">dynen</w>
+            <w lemma="gnaden," pos="NA">gnaden,</w>
+            <w lemma="behegelik" pos="ADJV">beheghelik</w>
+            <lb n="14"/>
+            <w lemma="maken." pos="VVFIN">maken.</w>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="reinigen" pos="VVFIN">ghereinighet</w>
+            <w lemma="van" pos="APPR">van</w>
+            <lb n="15"/>
+            <w lemma="al" pos="DIA">alle</w>
+            <w lemma="min" pos="DPOSA">mine<ex>n</ex></w>
+            <w lemma="sunden." pos="NA">sunden.</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="wesen" pos="ADJA">ware</w>
+            <w lemma="poschelom." pos="NA">paes<lb n="16"/>chelam.</w>
+            <w lemma="entfan" pos="VVINF">entfanghen</w>
+            <w lemma="moge." pos="VMFIN">moghe.</w>
+            <w lemma="in" pos="APPR">yn</w>
+            <lb n="17"/>
+            <w lemma="min" pos="DPOSA">myn</w>
+            <w lemma="herte" pos="NA">heerte</w>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="min" pos="DPOSA">myne</w>
+            <w lemma="sele." pos="NA">zele.</w>
+            <w lemma="up" pos="APPR">vp</w>
+            <lb n="18"/>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="ghensliken" pos="AVD">ghanslyken</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="ummeghebildet" pos="VVPP">vmme<pb n="264"/><lb n="1"/>ghebyldet</w>
+            <w lemma="were.n" pos="VAFIN">werde.</w>
+            <w lemma="dat" pos="KOUS">dat</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <w lemma="du" pos="PPER">dy</w>
+            <w lemma="leue," pos="VVINF">le<lb n="2"/>ue,</w>
+            <w lemma="unde" pos="KON">vnde</w>
+            <w lemma="nicht" pos="PTKNEG">nicht</w>
+            <w lemma="my." pos="PPER">my.</w>
+            <w lemma="also" pos="AVKO">alzo</w>
+            <w lemma="dat" pos="KOUS">dath</w>
+            <w lemma="ik" pos="PPER">ik</w>
+            <lb n="3"/>
+            <w lemma="ewich" pos="ADJV">ewych</w>
+            <w lemma="bliven" pos="VVFIN">blyue</w>
+            <w lemma="bi" pos="APPR">by</w>
+            <w lemma="i." pos="PRF">dy.</w>
+            <w lemma="de" pos="DDARTA">des</w>
+            <w lemma="helpe" pos="NA">heelp</w>
+            <lb n="4"/>
+            <w lemma="mi." pos="DPOSN">mi.</w>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="werden" pos="ADJA">weerde</w>
+            <w lemma="god." pos="ADJA">god.</w>
+            <w lemma="vader." pos="NA">vader.</w>
+            <w lemma="sove." pos="NA">sone.</w>
+            <lb n="5"/>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="hillich" pos="ADJA">hillighe</w>
+            <w lemma="geist." pos="NA">gheyst.</w>
+            <w lemma="du" pos="PPER">du</w>
+            <w lemma="hillich" pos="ADJA">hyllighe</w>
+            <lb n="6"/>
+            <w lemma="drevoldicheit" pos="NA">dreuoldicheyt</w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="dre" pos="CARDA">dren</w>
+            <w lemma="persone" pos="NA">personen</w>
+            <lb n="7"/>
+            <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+            <w lemma="in" pos="APPR">in</w>
+            <w lemma="eine" pos="DIARTA">eyneme</w>
+            <w lemma="wesen" pos="NA">wesende</w>
+            <w lemma="amen" pos="ITJ">Amen</w>
+          </s>
+        </p>
+      </div>
+      <div type="versicle">
+        <p/>
+        <div type="rubric">
+          <p>
+            <lb n="9"/>
+            <s>
+              <w lemma="¶" pos="VVIMP">¶</w>
+              <w lemma="dat" pos="DDARTA">Dat</w>
+              <w lemma="versikel" pos="NA">versikel</w>
+            </s>
+          </p>
+        </div>
+        <div type="text">
+          <p>
+            <lb n="11"/>
+            <s>
+              <w lemma="here." pos="$;">Here.</w>
+              <w lemma="do" pos="KOUS">do</w>
+              <w lemma="wi" pos="PPER">vns</w>
+              <w lemma="nicht" pos="PTKNEG">nycht</w>
+              <w lemma="na" pos="APPR">na</w>
+              <w lemma="unse" pos="DPOSA">vnsen</w>
+              <lb n="12"/>
+              <w lemma="sunden." pos="NA">sunden.</w>
+              <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+              <w lemma="betalen" pos="VVIMP">betale</w>
+              <w lemma="wi" pos="PPER">vns</w>
+              <w lemma="nicht" pos="PTKNEG">nicht</w>
+              <w lemma="na" pos="APPR">na</w>
+              <lb n="13"/>
+              <w lemma="unse" pos="DPOSA">vnsen</w>
+              <w lemma="unlik" pos="ADJA">vnlyken</w>
+              <w lemma="bosheiden" pos="NA">boeszheyden</w>
+            </s>
+          </p>
+        </div>
+      </div>
+      <div type="collect">
+        <p/>
+        <div type="rubric">
+          <p>
+            <lb n="15"/>
+            <s>
+              <w lemma="¶" pos="VVFIN">¶</w>
+              <w lemma="de" pos="DDARTA">De</w>
+              <w lemma="kollecte" pos="NA">collecta</w>
+            </s>
+          </p>
+        </div>
+        <div type="text">
+          <p>
+            <lb n="17"/>
+            <s>
+              <w lemma="almechtich" pos="ADJA"><hi rend="2 blue">A</hi>lmechtighe</w>
+              <w lemma="ewich" pos="ADJA">ewighe</w>
+              <w lemma="god." pos="NA">god.</w>
+              <lb n="18"/>
+              <w lemma="dor" pos="APPR">dorch</w>
+              <w lemma="de" pos="DDARTA">de</w>
+              <w lemma="er" pos="NA">ere</w>
+              <w lemma="din" pos="DPOSA">dynes</w>
+              <w lemma="name" pos="NA">na<lb n="19"/>men</w>
+              <w lemma="willen" pos="VMFIN">wylle</w>
+              <w lemma="wi" pos="PPER">vns</w>
+              <w lemma="nicht" pos="PTKNEG">nicht</w>
+              <w lemma="vorlesen," pos="VVINF">vorlezen,</w>
+              <lb n="20"/>
+              <w lemma="umme" pos="APPR">vmme</w>
+              <w lemma="unse" pos="DPOSA">vnser</w>
+              <w lemma="vele" pos="DIA">vele<ex>n</ex></w>
+              <w lemma="mysstat." pos="NA">myssedaed.</w>
+              <w lemma="man" pos="DPIS">me<ex>n</ex></w>
+              <lb n="21"/>
+              <w lemma="dorh.en" pos="APPR">dorch.</w>
+              <w lemma="dat" pos="DDARTA">dat</w>
+              <w lemma="stede" pos="NA">stede</w>
+              <w lemma="vorbiddenst" pos="VVFIN">vorbydde<ex>n</ex>t</w>
+              <w lemma="de" pos="DDARTA">der</w>
+              <lb n="22"/>
+              <w lemma="juncvruwe" pos="NA">iuncfrouwe<ex>n</ex></w>
+              <w lemma="marien" pos="NE">marie<ex>n</ex></w>
+              <w lemma="de" pos="DDARTA">der</w>
+              <w lemma="ewich" pos="ADJA">ewyghe<ex>n</ex></w>
+              <pb n="265"/>
+              <lb n="1"/>
+              <w lemma="rein" pos="ADJA">reynen</w>
+              <w lemma="juncvruwen." pos="NA">iuncfrouwen.</w>
+              <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+              <w lemma="dor" pos="APPR">dorch</w>
+              <lb n="2"/>
+              <w lemma="de" pos="DDARTA">de</w>
+              <w lemma="b." pos="NA">bede.</w>
+              <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+              <w lemma="dat" pos="DDARTA">dat</w>
+              <w lemma="grot" pos="ADJA">grote</w>
+              <w lemma="vordenst" pos="NA">vordee<ex>n</ex>st</w>
+              <lb n="3"/>
+              <w lemma="al" pos="DIA">alle</w>
+              <w lemma="din" pos="DPOSA">dyner</w>
+              <w lemma="uterkoren." pos="OA">vterkoren.</w>
+              <w lemma="vorlen" pos="NA">vorleene</w>
+              <lb n="4"/>
+              <w lemma="wi" pos="PPER">vns</w>
+              <w lemma="din" pos="DPOSA">dine</w>
+              <w lemma="gnade." pos="NA">gnade.</w>
+              <w lemma="unde" pos="KON">vn<ex>de</ex></w>
+              <w lemma="de" pos="DDARTA">de</w>
+              <w lemma="tit" pos="NA">tijd</w>
+              <w lemma="de" pos="DDARTA">der</w>
+              <lb n="5"/>
+              <w lemma="wesen" pos="ADJA">waren</w>
+              <w lemma="penitencien." pos="NA">penitencien.</w>
+              <w lemma="dat" pos="KOUS">dat</w>
+              <w lemma="wi" pos="PPER">wy</w>
+              <w lemma="vrigen" pos="VVPP">ghe<lb n="6"/>vryget</w>
+              <w lemma="van" pos="APPR">va<ex>n</ex></w>
+              <w lemma="al" pos="DIA">alle</w>
+              <w lemma="unse" pos="DPOSA">vnsen</w>
+              <w lemma="bant" pos="NA">benden</w>
+              <w lemma="in" pos="APPR">in</w>
+              <lb n="7"/>
+              <w lemma="reyner" pos="ADJA">reyner</w>
+              <w lemma="consiencie" pos="NA">co<ex>n</ex>sciencie<ex>n</ex></w>
+              <w lemma="van" pos="APPR">va<ex>n</ex></w>
+              <w lemma="du" pos="PPER">dy</w>
+              <w lemma="werde" pos="VVFIN">weerde<ex>n</ex></w>
+              <lb n="8"/>
+              <w lemma="genedich" pos="ADJA">gnedighe<ex>n</ex></w>
+              <w lemma="entvanlgen." pos="NA">entfa<ex>n</ex>ghe<ex>n</ex>.</w>
+              <w lemma="in" pos="APPR">in</w>
+              <w lemma="dat" pos="DDARTA">dat</w>
+              <w lemma="ewich" pos="ADJA">ewy<lb n="9"/>ghe</w>
+              <w lemma="leven" pos="NA">leuend</w>
+              <w lemma="al" pos="DIA">aller</w>
+              <w lemma="vroude" pos="NA">vroude</w>
+              <w lemma="amen." pos="$;">Ame<ex>n</ex>.</w>
+            </s>
+          </p>
+        </div>
+        <div type="rubric">
+          <p>
+            <lb n="11"/>
+            <s>
+              <w lemma="¶" pos="KOUS">¶</w>
+              <w lemma="dit" pos="DDA">Dyt</w>
+              <w lemma="bat" pos="NA">bed</w>
+              <w lemma="machstlen" pos="VMFIN">machstu</w>
+              <w lemma="al" pos="DIA">alle</w>
+              <w lemma="tit" pos="NA">tijd</w>
+              <lb n="12"/>
+              <w lemma="vor" pos="APPR">vor</w>
+              <w lemma="din" pos="DPOSA">dyne</w>
+              <w lemma="sunde" pos="NA">sunde</w>
+              <w lemma="lesen" pos="VVINF">lesen</w>
+            </s>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

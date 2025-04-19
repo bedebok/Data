@@ -33,8 +33,11 @@ repositories = {
     "UU" : ["UPS", "UUB"]
     }
 
-city, repository = repositories.get(file_id[0:2])
-
+#TODO: Printed books
+try:
+    city, repository = repositories.get(file_id[0:2])
+except Exception:
+    city, repository = "N/A", "N/A"
 
 # MAIN RUN-THROUGH OF LINES
 with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
