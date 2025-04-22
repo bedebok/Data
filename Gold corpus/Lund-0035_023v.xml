@@ -30,6 +30,7 @@
   </teiHeader>
   <text>
     <body>
+      <pb n="23v"/>  <!-- initial pb missing; inserted by [sg] -->
       <div type="text">
         <p>
           <w xml:id="Lund-0035_23v.1.1"><hi rend="2 red">M</hi>in</w>
