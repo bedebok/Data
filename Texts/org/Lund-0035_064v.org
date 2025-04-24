@@ -1,7 +1,12 @@
-#+TITLE: Prayers of Our Lady (MDB 105)
-| Manuscript | Mh 35 |
-| Locus | 64v-69v |
-| Language | Danish |
+#+TITLE: Golden Coronation Prayer of Mary's Ten Joys
+
+|------------+-----------|
+| Manuscript | Mh 35     |
+| Locus      | 64v 69v   |
+| Work       | KRONGEBET |
+| Language   | Danish    |
+| Status     | begun     |
+|------------+-----------|
 
 * Transcription
 ** Rubric
@@ -107,7 +112,7 @@ fonger vissæligh hielp aff iomfrw ma(ria) j
 
 alle thieres bøn
 
-** Text 105a
+** Text 1
 [[M]]aria, iech bedær 
 
 thik och paa myn(n)-
@@ -148,19 +153,21 @@ thu fulko(m)mer my(n) bøn æfftær thin nadhæ
 
 och æfftær myn begieringh Ame(n) 
 
-** Rubric
+** Text 2
+*** Rubric
 Les x aue 
 
 maria standendæ och faal siden pa knæ 
 
 och les bønen so(m) hære æffter star skreffue(n) 
 
-** Text 105b
+*** Text
 [[M]]aria iæch bed(e)r thic och pa mynær 
 
 thic for then store frygdh ære oc
 
 ---66v---
+
  værdugh(et) som thin siæl och thit liiff vntfik
  
  tha gabriel angel thik ku(n)giordæ ath thu 
@@ -201,4 +208,174 @@ vær lou(et) och b(e)n(e)did och fulko(m)me my(n) bø(n)
 
 æfftær thin nadhæ och æfftær myn begie-
 
-ringh Ame(n) 
+ringh Ame(n)
+
+---67r---
+
+** Text 3
+*** Text
+[[red 2][M]]aria iæch bedh(e)r thik och paa my(n)-
+
+ner thik for then store frygd och
+
+ouer flødughæ frygh och værdugh(et) som
+
+thin siæl och liiff vntfik [th/p]a then helli-
+
+ghæ iulæ dagh tha thu thit aldræ kiæ-
+
+riste barn ih(esu)m (christu)m alle things skaba-
+
+ræ och gienkiøbære fyrst i voggæ laude
+
+gledeligh vden sorgh och vee och bleff io(m)-
+
+frw i fødilsæ och iomfru for fødilsæ och io(m)-
+
+frw æfftær fødilsæ och ewigh iomfru
+
+bliffuær Maria then store frygdh var
+
+stor tha thu sost paa thin kiære barn oc
+
+kystæ th(et) for sin mwndh th(e)r m(eth) talet
+
+thu ien fredh mello(m) os arme syndughæ me(n)-
+
+niskæ och thin søn och ewigh gusz søn thes
+
+frygdær sik alt th(et) i hi(m)melen och i iørdæ-
+
+rigi ær Maria for the(n) store frygdh bedær
+
+iæch thik ath thu fulko(m)mær myn bøn æff-
+
+tær thin nadhæ och æfftær myn begie-
+
+ringh Ame(n).
+
+** Text 4
+*** Rubric
+Læs x Aue maria standindis
+
+*** Text
+
+[[red 2][M]]aria iæch bedær thik och paa my(n)-
+
+ner thik for th(e)n store fryghdh och ouer-
+
+flødughæ frygdh och værdugh(et) som thin siel
+
+och thit liiff vntfik paa then hellighæ
+
+---67v---
+
+tolfftæ iule dagh tha the hellige tree kon-
+
+gær thin søn och thik offær førdhæ røgil-
+
+sæ mirre och guldh thu och the varæ the
+
+som fyrst offrædæ th(et) barn och bekiændæ
+
+ath th(et) gudh och me(n)niskæ var Maria
+
+then store frygdh bedhær iæch [bedær/] thic
+
+[ath_thu/och] paa my(n)nær thik for och vær be-
+
+nedidæ och fulkom myn bøn æfftær thi(n) 
+
+nadhæ och æfftær [n/m]yn begieringh Am(en)
+
+** Text 5
+*** Rubric
+
+Læs x aue maria stani(n)dhæ
+
+*** Text
+Maria iæch bedær thik och paa my(n)nær thik * for th(e)n store 
+frygdh och ouer fløduge frygdh och værdugh(et) som thin 
+siæl och liiff vntfæk, th(e)n tidh thu thit kiære barn igien fanst, 
+th(et) som thu indh til the(n) tridie dagh tabet haudhæ, och thu
+ 
+vistæ vel at han døth aff iødærne lidæ skullæ ; th(e)r for var thin 
+frygdh this mere, tha thu th(et) i|gie(n) fandst. Maria, th(e)n store 
+frygdh bedær iæch thik ath thu fulko(m)me myn bøn æfftær thin 
+nadhæ och æfftær my(n) begiering.
+
+** Text 6
+Læs x aue maria stani(n)dhæ.
+
+Maria, iæch bedhær thik och paa my(n)ner thic for then store 
+frygdh och ouer flødughæ fry||gdh och værdugh(et) som
+thin liiff och thin siæl vntfæk paa then hellige paska nath, th(e)n 
+tidh thu thit kiære barn æfftær hans hellighæ opp standilsæ 
+aldær fyrst saa, ther æfftær obænbarædæ han sik maria magda- 
+lena och hans kiæræ appostel och discipul och foor veldæligh 
+til hilwidis och løstæ th(e)r vt alle them som hans signæde viliæ
+ 
+haudæ giordh och førdhæ them indh til paredis, ther som the 
+bleffue til hans hi(m)mels færdh. Maria, gusz modær, for the(n) 
+store frygdh bedær iæch thik for ath thu fulko(m)mer myn bøn 
+æfftær thin nadhæ och æfftær myn begieringh. Am(en).
+
+** Text 7
+Læs x aue maria. 
+
+Maria, iæch bedær thik och paa mynnær thik for th(e)n store 
+frygdh oc ouer flødughæ frygdh som thin siæl och thin 
+liiff haudhæ, tha thit kiære barn i(esu)m til he(m)mels foor m(eth) 
+alle the(m) so(m) ha(n) a poskæ dagh vth aff hilwidi løst haude. 
+Maria, thin frygdh var fuldh stoor, tha thw sost the ix ængel
+ 
+koor och sost appa the(n) stool | * the(n) som aff ewigh viishetz 
+krafft var giordh, och thu skullæ then besiddhæ || ewigh ; for 
+the(n) store frygdh bedær iæch tik Maria gusz modær ath thu 
+fulko(m)mær my(n) bøn æfftær thin nadhæ och æfftær myn be- 
+gieringh. Ame(n).
+
+** Text 8
+Læs x aue maria stan[indhæ].
+ 
+Maria, iæch bedær thik och pa my(n)nær thik for th(e)n store 
+frygdh oc ouer flødughæ frygdh och gledhæ so(m) thi(n) 
+siæl och thin liiff vntfæk pa the(n) hellige pinsz dagh, ther thu 
+och the hellighe appostel til same(n) vare i hus i mello(m) til 
+ stæ(n)gdæ dørre ; ther vortæ i alle for fyltæ m(eth) the(n) helligh 
+andh, ther ka(m) thit kiære barn myth i blant edær och taledæ 
+och saude : pax vobis, fredh være m(eth) edær ; tha sænde thit 
+kiære barn the xii appostel i verde(n) och saudhæ ath the skulle 
+gangæ och kinæ the(n) cristæne loff. Maria, for the(n) stor(e) frygdh 
+bedær iæch thik for, fulko(m)me my(n) bøn æfftær thin nadhæ och 
+æfftær myn begieringh. Ame(n).
+
+** Text 9
+Læs x aue maria. 
+
+Maria, iæch bedær thik och pa my(n)nær thik for the(n) store 
+frygdh oc ouer flødughæ frygdh, ære och gledæ som thu
+vntfæk, th(e)n tidh thit kiære barn || the(n) hellighæ ængel s(anct)e 
+gabriel til thik sændæ och kungiordhæ ath thu skullæ fraa th(ett)e 
+iørdærigi skilies och ko(m)mæ til ewigh frygd. Maria the(n) store 
+frygdh bedær iæch thik fore ; ther ka(m)me the hellighæ appostel 
+til thin iordfærdh, ther kam thit kiære bar(n) m(eth) the(n) he(m)- 
+melskæ skare til thin ath * skilielsæ och førdhæ thic m(eth) lego(m) 
+och siæl i the hellighæ ix ængel koor, ther vortæ thik stoor loff 
+och ære boddh(et) aff alle gusz helligen. Maria gusz modær, for 
+the(n) store frygdh bedhær iæch thik for ath thu fulko(m)mær 
+myn bøn æfftær thin nadæ och æfftær myn begieringh. Ame(n).
+
+** Text 10
+Læs x aue maria. 
+
+Maria, iæch bed(e)r thik och paa my(n)ner thik for the(n) store 
+frygdh so(m) thu haudæ, tha thit kiære barn thic væl- 
+dælig opp togh i hi(m)mele(n) och sattæ thik pa ha(n)s høgræ handh 
+
+i the(n) ouerstæ trone och gaff thik makt och voldh ouer he(m)mel 
+och iordh och troloffu(et) thik m(eth) hi(m)merigis krone och m(eth) 
+the xii stiærner ; ther vast thu * kallet barmhiærtugh(et) modær,
+edæle iomfru, ladh thin barmhiærtugh(et) skie(n)||næ paa mik 
+och fuldkom myn bøn æfftær thin nadhæ och æfftær myn be- 
+gieringh. Ame(n).
