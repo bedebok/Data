@@ -4,9 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Magnificat</title>
-        <respStmt xml:id="ILK">
+        <respStmt>
           <resp when="2025">Written by</resp>
-          <persName>Iliana Kandzha</persName>
+          <persName key="ILK">Iliana Kandzha</persName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
