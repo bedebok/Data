@@ -213,7 +213,7 @@ vnde du hefst dine hant geste-
 
 deget boue(n) my [[I]]n myneme
 
-vlesche ene is nene zuntheyt                      [fn::ZUNTHEYT Lasch §330. I. /z/ for anlaut /s/ especially popular in west.]
+vlesche ene is nene zuntheyt                      
 
 van dyme antlate dines tornes
 
@@ -275,9 +275,9 @@ ok macht de myne zele sachte(n)
 
 de hebbe(n) uppe ydelecheit gespra-
 
-ken: vn(de) dachten alle den gan-                 [fn::GESPRAKEN Why <a> in participle?]
+ken: vn(de) dachten alle den gan-                 
 
-czen dach drogene [[S]]e ik was                       [fn::GANCZEN Note <cz> for /ts/] 
+czen dach drogene [[S]]e ik was                     
 
 eyn doue de nicht en horde: vn(de)
 
@@ -291,7 +291,7 @@ twide(n): vnde also sik myne
 
 ---17r---
 
-viende bewegede(n). Se spreken                    [fn:SE S highlighted with red]
+viende bewegede(n). Se spreken                   
 
 grote dink uppe my vn(de) hebbe(n)
 
@@ -301,7 +301,7 @@ ten den ganczen dach droge-
 
 ne [[W]]ente ik bin bereyde in
 
-der geysele(n): vnde myne rode                    [fn:RODE 'suffering' -- what is this word? MDu hours WEE]
+der geysele(n): vnde myne rode                  
 
 de is yu(m)mer an dyme angesich-
 
@@ -333,7 +333,7 @@ ke an myne hulpe [[E]]re sy
 
 deme uadere vnde deme sone 
 
-vn(de) deme hilgen geyste. Ame(n).                [fn::AMEN A highlighted with red]
+vn(de) deme hilgen geyste. Ame(n).           
 
 ** Psalm                                                       :PSALM_51_v50:
 *** Incipit
@@ -354,7 +354,7 @@ ne bosheit. [[U]]ortmer so was-
 
 sche myne bosheyt: vnde rene-
 
-ge my oc va(n) mynen sunden                       [fn::RENEGE Monophthongization of /ei/?]
+ge my oc va(n) mynen sunden                 
 
 [[W]]ente ik bekerme myne bos-
 
@@ -428,7 +428,7 @@ ersten geyste [[I]]k wil den bosen
 
 dyne(n) wech leren: vn(de) de argen
 
-de scholet to dy gekeret werde(n).                [fn::SCHOLET use of plural ending -et points westward]
+de scholet to dy gekeret werde(n).              
 
 [[H]]ere lose my van den zunde(n)
 
@@ -1179,7 +1179,7 @@ vns leue here [[red][U]]an dyneme
 
 torne. lose vns le(ue) h(er)e [[blue][U]]an
 
-deme snellen gayen[fn::correct?] dode. lose v(n)s.
+deme snellen gayen dode. lose v(n)s.
 
 [[red][U]]an der anlage des viendes.
 
@@ -1513,7 +1513,7 @@ delst der eren dynes name lose
 
 vns here vn(de) wez gnedich vnse(n)
 
-sunde(n) dor[fn::not dorch!] dyne(n) name(n) [[blue][H]]ere
+sunde(n) dor dyne(n) name(n) [[blue][H]]ere
 
 erhore my(n) beth. vnde myn
 
@@ -1538,7 +1538,7 @@ wy bidde(n) dy ghef vns alse wat
 
 wy hebben vordynet to deme
 
-ewighe(n) vnuorghentlichen[fn::!] do-
+ewighe(n) vnuorghentlichen do-
 
 de dat id gha to dyner milden
 
