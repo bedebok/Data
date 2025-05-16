@@ -1,0 +1,41 @@
+#+TITLE: Name prayer
+
+|------------+-------------|
+| Manuscript | Kalmar 33   |
+| Locus      | 139v10 145v |
+| Work       |             |
+| Language   | da          |
+| Status     |             |
+|------------+-------------|
+
+* Transcription
+** Rubric
+Hwo som denne effter(skreffne) bøn
+
+læss hwer dag dugelige ha(n)
+
+fanger forladelse aff alle
+
+syne synder Oc scal fange
+
+ond død Huilken veyfarinde
+
+mand denne bøn læss den
+
+Dag skal han ey hindres
+
+---140r---
+
+begribe vden gud ald ene
+
+Hwo som nogit vil forhuer-
+
+ffue aff gud m(et) denne bøn tha
+
+scal han først læse fire psal-
+
+mer Som ær Deus in no(m)i(n)e
+
+** Text
+
+[[red 2][O]]
