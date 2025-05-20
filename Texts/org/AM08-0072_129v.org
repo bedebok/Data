@@ -1,0 +1,24 @@
+#+TITLE: A prayer to Mary
+
+|------------+--------------|
+| Manuscript | AM 72 8vo    |
+| Locus      | 129v:14 129v |
+| Work       | 1078         |
+| Language   | da           |
+| Status     | Transcribed  |
+|------------+--------------|
+
+* Transcription
+** Rubric
+Jen bøn aff var
+
+frwe 
+
+** Text
+[[red][O]] maria hemel[/s]ke
+
+p(ar)adijs styæ w(er)dens stolpe hilp
+
+megh j alle myne nødh thor-
+
+thelikheth Amen 

@@ -1,75 +1,78 @@
 #+TITLE: Texts
 
-|-----------------------------+---------------+-------------------------------+---------------------+------------+-------------|
-| File                        | Manuscript    | Title                         | Work                | Language   | Status      |
-|-----------------------------+---------------+-------------------------------+---------------------+------------+-------------|
-| [[./org/AM04-0782_001r.org]]    | AM 782 4to    | First Sunday in Advent        | ADVENT_1            | da         | transcribed |
-| [[./org/AM04-0782_091r.org]]    | AM 782 4to    | Every Day in Lent             |                     | gml        | transcribed |
-| [[./org/AM04-0784_026v_m.org]]  | AM 784 4to    | For a traveller               |                     | da         | transcribed |
-| [[./org/AM04-0784_080r.org]]    | AM 784 4to    | First Sunday of Advent        | ADVENT_1            | da         | transcribed |
-| [[./org/AM04-0784_092r.org]]    | AM 784 4to    | Mary and Anna                 |                     | da         | transcribed |
-| [[./org/AM04-0789_001r.org]]    | AM 789 4to    | 15 Pater Noster (15 Os)       | 15_OS               | da         | transcribed |
-| [[./org/AM04-0789_002v.org]]    | AM 789 4to    | Five sorrows of the Virgin    | MARY_SORROWS        | da         | proofread   |
-| [[./org/AM04-0789_005r.org]]    | AM 789 4to    | Golden Crown Prayer (Rubric)  | KRONGEBET.rubric    | gml        | transcribed |
-| [[.org/AM08-0070_001r.org]]     | AM 70 8vo     | Cantus Sororum (introduction) | CANTUS.intro        | gml        | transcribed |
-| [[.org/AM08-0070_002v.org]]     | AM 70 8vo     | Christ                        |                     | da         | proofread   |
-| [[.org/AM08-0070_003r.org]]     | AM 70 8vo     | Cantus Sororum (matins)       | CANTUS.matins       | gml        | begun       |
-| [[.org/AM08-0070_247r.org]]     | AM 70 8vo     | Regina Cœli                   | REGINA_COELI        | da         | transcribed |
-| [[.org/AM08-0070_247r_m.org]]   | AM 70 8vo     | Virgo resurgentis             | VIRGO_RESURGENTIS   | da         | proofread   |
-| [[.org/AM08-0070_253v.org]]     | AM 70 8vo     |                               |                     | da         | transcribed |
-| [[.org/AM08-0070_254r.org]]     | AM 70 8vo     | Variants to Cantus Sororum    |                     | gml da lat | transcribed |
-| [[.org/AM08-0072_126r.org]]     | AM 72 8vo     | St. Barbara                   | BARBARA             | da         | transcribed |
-| [[.org/AM08-0073_011v.org]]     | AM 73 8vo     | A prayer in verse             |                     | da         | proofread   |
-| [[.org/AM08-0073_013r.org]]     | AM 73 8vo     | Seven Penitential Psalms      | PENITENTIAL_PSALMS  | gml        | transcribed |
-| [[.org/AM08-0073_044r.org]]     | AM 73 8vo     | Hours of the Virgin (matins)  | HOURS_VIRGIN.matins | gml        |             |
-| [[.org/AM08-0073_054v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_055r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_067r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_071r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_074v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_077r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_080r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_082v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_087r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_088v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_093r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_094r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_098r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_099r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_109r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_136v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_165v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_228r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_230r.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0073_237v.org]]     | AM 73 8vo     |                               |                     |            |             |
-| [[.org/AM08-0075_009r.org]]     | AM 75 8vo     |                               |                     |            |             |
-| [[.org/AM08-0075_022v-4.org]]   | AM 75 8vo     |                               |                     |            |             |
-| [[.org/AM08-0075_063r.org]]     | AM 75 8vo     |                               |                     |            |             |
-| [[.org/AM08-0079Ieta_001r.org]] | AM 79 I η 8vo |                               |                     |            |             |
-| [[.org/AM12-0417_001r.org]]     | AM 417 12mo   |                               |                     |            |             |
-| [[.org/AM12-0417_050r.org]]     | AM 417 12mo   |                               |                     |            |             |
-| [[.org/AM12-0417_063r.org]]     | AM 417 12mo   |                               |                     |            |             |
-| [[.org/AM12-0417_073r.org]]     | AM 417 12mo   |                               |                     |            |             |
-| [[.org/AM12-0421_030r.org]]     | AM 421 12mo   |                               |                     |            |             |
-| [[.org/Beschauwing_009.org]]    |               |                               |                     |            |             |
-| [[.org/GKS04-1613_161r.org]]    | GKS 1613 4to  |                               |                     |            |             |
-| [[.org/GKS04-1614_001r.org]]    | GKS 1614 4to  |                               |                     |            |             |
-| [[.org/GKS04-1615_009r.org]]    | GKS 1615 4to  |                               |                     |            |             |
-| [[.org/GKS04-1615_019r.org]]    | GKS 1615 4to  |                               |                     |            |             |
-| [[.org/GKS08-3423_001r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3423_020r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3423_071v.org]]    | GKS 3423 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3423_109v.org]]    | GKS 3423 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3423_202v.org]]    | GKS 3423 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3423_211r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3487_001r.org]]    | GKS 3487 8vo  |                               |                     |            |             |
-| [[.org/GKS08-3487_009v.org]]    | GKS 3487 8vo  |                               |                     |            |             |
-| [[.org/Holm-A42_032r.org]]      | A 42          |                               |                     |            |             |
-| [[.org/Kalmar-0033_139v.org]]   | Kalmar 33     |                               |                     |            |             |
-| [[.org/Lund-0035_023v.org]]     | Mh 35         |                               |                     |            |             |
-| [[.org/Lund-0035_064v.org]]     | Mh 35         |                               |                     |            |             |
-| [[.org/NKS08-0045_120v.org]]    | NKS 45 8vo    |                               |                     |            |             |
-| [[.org/Speghel_R1r.org]]        |               |                               |                     |            |             |
-| [[.org/UUB-C496_019v.org]]      | UUB C 496     |                               |                     |            |             |
-| [[.org/UUB-C496_136r.org]]      | UUB C 496     |                               |                     |            |             |
-|-----------------------------+---------------+-------------------------------+---------------------+------------+-------------|
+|------------------------------+---------------+-------------------------------+---------------------+------------+-------------|
+| File                         | Manuscript    | Title                         | Work                | Language   | Status      |
+|------------------------------+---------------+-------------------------------+---------------------+------------+-------------|
+| [[./org/AM04-0782_001r.org]]     | AM 782 4to    | First Sunday in Advent        | ADVENT_1            | da         | transcribed |
+| [[./org/AM04-0782_091r.org]]     | AM 782 4to    | Every Day in Lent             |                     | gml        | transcribed |
+| [[./org/AM04-0784_026v_m.org]]   | AM 784 4to    | For a traveller               |                     | da         | transcribed |
+| [[./org/AM04-0784_080r.org]]     | AM 784 4to    | First Sunday of Advent        | ADVENT_1            | da         | transcribed |
+| [[./org/AM04-0784_092r.org]]     | AM 784 4to    | Mary and Anna                 |                     | da         | transcribed |
+| [[./org/AM04-0789_001r.org]]     | AM 789 4to    | 15 Pater Noster (15 Os)       | 15_OS               | da         | transcribed |
+| [[./org/AM04-0789_002v.org]]     | AM 789 4to    | Five sorrows of the Virgin    | MARY_SORROWS        | da         | proofread   |
+| [[./org/AM04-0789_005r.org]]     | AM 789 4to    | Golden Crown Prayer (Rubric)  | KRONGEBET.rubric    | gml        | transcribed |
+| [[./org/AM08-0070_001r.org]]     | AM 70 8vo     | Cantus Sororum (introduction) | CANTUS.intro        | gml        | transcribed |
+| [[./org/AM08-0070_002v.org]]     | AM 70 8vo     | Christ                        |                     | da         | proofread   |
+| [[./org/AM08-0070_003r.org]]     | AM 70 8vo     | Cantus Sororum (matins)       | CANTUS.matins       | gml        | begun       |
+| [[./org/AM08-0070_247r.org]]     | AM 70 8vo     | Regina Cœli                   | REGINA_COELI        | da         | transcribed |
+| [[./org/AM08-0070_247r_m.org]]   | AM 70 8vo     | Virgo resurgentis             | VIRGO_RESURGENTIS   | da         | proofread   |
+| [[./org/AM08-0070_253v.org]]     | AM 70 8vo     |                               |                     | da         | transcribed |
+| [[./org/AM08-0070_254r.org]]     | AM 70 8vo     | Variants to Cantus Sororum    |                     | gml da lat | transcribed |
+| [[./org/AM08-0072_126r.org]]     | AM 72 8vo     | St. Barbara                   | BARBARA             | da         | transcribed |
+| [[./org/AM08-0072_127r.org]]     | AM 72 8vo     | Mary                          |                     | da         | transcribed |
+| [[./org/AM08-0072_128v.org]]     | AM 72 8vo     | Mary                          |                     | da         | transcribed |
+| [[./org/AM08-0072_129v.org]]     | AM 72 8vo     | Mary                          |                     | da         | transcribed |
+| [[./org/AM08-0073_011v.org]]     | AM 73 8vo     | A prayer in verse             |                     | da         | proofread   |
+| [[./org/AM08-0073_013r.org]]     | AM 73 8vo     | Seven Penitential Psalms      | PENITENTIAL_PSALMS  | gml        | transcribed |
+| [[./org/AM08-0073_044r.org]]     | AM 73 8vo     | Hours of the Virgin (matins)  | HOURS_VIRGIN.matins | gml        |             |
+| [[./org/AM08-0073_054v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_055r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_067r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_071r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_074v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_077r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_080r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_082v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_087r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_088v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_093r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_094r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_098r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_099r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_109r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_136v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_165v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_228r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_230r.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0073_237v.org]]     | AM 73 8vo     |                               |                     |            |             |
+| [[./org/AM08-0075_009r.org]]     | AM 75 8vo     |                               |                     |            |             |
+| [[./org/AM08-0075_022v-4.org]]   | AM 75 8vo     |                               |                     |            |             |
+| [[./org/AM08-0075_063r.org]]     | AM 75 8vo     |                               |                     |            |             |
+| [[./org/AM08-0079Ieta_001r.org]] | AM 79 I η 8vo |                               |                     |            |             |
+| [[./org/AM12-0417_001r.org]]     | AM 417 12mo   |                               |                     |            |             |
+| [[./org/AM12-0417_050r.org]]     | AM 417 12mo   |                               |                     |            |             |
+| [[./org/AM12-0417_063r.org]]     | AM 417 12mo   |                               |                     |            |             |
+| [[./org/AM12-0417_073r.org]]     | AM 417 12mo   |                               |                     |            |             |
+| [[./org/AM12-0421_030r.org]]     | AM 421 12mo   |                               |                     |            |             |
+| [[./org/Beschauwing_009.org]]    |               |                               |                     |            |             |
+| [[./org/GKS04-1613_161r.org]]    | GKS 1613 4to  |                               |                     |            |             |
+| [[./org/GKS04-1614_001r.org]]    | GKS 1614 4to  |                               |                     |            |             |
+| [[./org/GKS04-1615_009r.org]]    | GKS 1615 4to  |                               |                     |            |             |
+| [[./org/GKS04-1615_019r.org]]    | GKS 1615 4to  |                               |                     |            |             |
+| [[./org/GKS08-3423_001r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3423_020r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3423_071v.org]]    | GKS 3423 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3423_109v.org]]    | GKS 3423 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3423_202v.org]]    | GKS 3423 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3423_211r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3487_001r.org]]    | GKS 3487 8vo  |                               |                     |            |             |
+| [[./org/GKS08-3487_009v.org]]    | GKS 3487 8vo  |                               |                     |            |             |
+| [[./org/Holm-A42_032r.org]]      | A 42          |                               |                     |            |             |
+| [[./org/Kalmar-0033_139v.org]]   | Kalmar 33     |                               |                     |            |             |
+| [[./org/Lund-0035_023v.org]]     | Mh 35         |                               |                     |            |             |
+| [[./org/Lund-0035_064v.org]]     | Mh 35         |                               |                     |            |             |
+| [[./org/NKS08-0045_120v.org]]    | NKS 45 8vo    |                               |                     |            |             |
+| [[./org/Speghel_R1r.org]]        |               |                               |                     |            |             |
+| [[./org/UUB-C496_019v.org]]      | UUB C 496     |                               |                     |            |             |
+| [[./org/UUB-C496_136r.org]]      | UUB C 496     |                               |                     |            |             |
+|------------------------------+---------------+-------------------------------+---------------------+------------+-------------|
