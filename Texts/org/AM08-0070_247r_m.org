@@ -3,7 +3,7 @@
 |------------+-------------------------|
 | Manuscript | AM08-0070               |
 | Locus      | 247rm 247rm             |
-| Work       | VIRGO_MATER_RESURGENTIS |
+| Work       | VIRGO_RESURGENTIS  |
 | Language   | da                      |
 | Status     | Proofread               |
 |------------+-------------------------|
