@@ -18,6 +18,7 @@
 | [[.org/AM08-0070_247r_m.org]]   | AM 70 8vo     | Virgo resurgentis             | VIRGO_RESURGENTIS   | da         | proofread   |
 | [[.org/AM08-0070_253v.org]]     | AM 70 8vo     |                               |                     | da         | transcribed |
 | [[.org/AM08-0070_254r.org]]     | AM 70 8vo     | Variants to Cantus Sororum    |                     | gml da lat | transcribed |
+| [[.org/AM08-0072_126r.org]]     | AM 72 8vo     | St. Barbara                   | BARBARA             | da         | transcribed |
 | [[.org/AM08-0073_011v.org]]     | AM 73 8vo     | A prayer in verse             |                     | da         | proofread   |
 | [[.org/AM08-0073_013r.org]]     | AM 73 8vo     | Seven Penitential Psalms      | PENITENTIAL_PSALMS  | gml        | transcribed |
 | [[.org/AM08-0073_044r.org]]     | AM 73 8vo     | Hours of the Virgin (matins)  | HOURS_VIRGIN.matins | gml        |             |
