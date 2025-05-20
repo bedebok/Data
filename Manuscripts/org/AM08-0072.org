@@ -3,22 +3,22 @@
 A fifteenth-century manuscript containing the /Extendit manum/ passion story (attributed to Heinrich of St. Gallen) in Danish, followed by the Hours of Mary Magdalene and a psalter. The passion story is likely a copy of Stockholm A 31 and may point back to a Low German source (see e.g. [[https://digital-stadtbibliothek.luebeck.de/viewer/image/Mstheolgerm429/425/LOG_0003/][Lübeck Ms. Theol. 29 4to]]).
 
 * PhysDesc
-|--------------+-------------|
-| SUPPORT      | perg            |
-| NUMBER       | 148            |
-| SIZE         | 158 118            |
-| WRITING AREA |             |
-| COLUMNS      |             |
-| LINES        |             |
-| FOLIATION    | f 1-148             |
-|--------------+-------------|
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 148     |
+| SIZE         | 158 118 |
+| WRITING AREA |         |
+| COLUMNS      |         |
+| LINES        |         |
+| FOLIATION    | f 1-148 |
+|--------------+---------|
 
 ** Binding
-|--------------+-------------|
-| TYPE         | calfskin, wood, iron            |
-| DATE         |             |
-| SIZE         |             |
-|--------------+-------------|
+|------+----------------------|
+| TYPE | calfskin, wood, iron |
+| DATE |                      |
+| SIZE |                      |
+|------+----------------------|
 
 ** Quire structure
 |---------|---------+--------------+-----------------------------------------------------------|
@@ -28,11 +28,11 @@ A fifteenth-century manuscript containing the /Extendit manum/ passion story (at
 |---------|---------+--------------+-----------------------------------------------------------|
 
 * History
-|------------+---------------|
-| PLACE      | #DK Maribo              |
-| DATE       | XV              |
-| PROVENANCE | Bircherod,               |
-|------------+---------------|
+|------------+------------|
+| PLACE      | #DK Maribo |
+| DATE       | XV         |
+| PROVENANCE | Bircherod, |
+|------------+------------|
 
 * Contents
 |-----------+------+-----------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+---------------|
