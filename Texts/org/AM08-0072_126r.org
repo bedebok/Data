@@ -3,7 +3,7 @@
 |------------+--------------|
 | Manuscript | AM 72 8vo    |
 | Locus      | 126r:13 127r |
-| Work       | BARBARA      |
+| Work       | BARBARA 1075 |
 | Language   | da           |
 | Status     | Transcribed  |
 |------------+--------------|
