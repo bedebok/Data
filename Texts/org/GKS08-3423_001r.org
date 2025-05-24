@@ -1,42 +1,43 @@
 #+TITLE: O Bone Jesu
-#+AUTHOR: 
-| Manuscript | GKS 3423 8vo |
-| Locus      | [[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:3][1r]]-2v        |
-| Language   | Low German   |
 
-** Parallels
-| Danish     |   |
-| Low German |   |
-| Latin      |   |
+|------------+--------------|
+| Manuscript | GKS 3423 8vo |
+| Locus      | 1r:1 2v      |
+| Work       | O_BONE_JESU  |
+| Language   | gml          |
+| Status     | proofread    |
+|------------+--------------|
+- images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:3
 
 * Transcription
-O du gude iesu o du milde
+** Text
+[[red 2][O]] du gude iesu O du milde
 
-ihesu o du alder soteste
+yhesu O du alder soteste
 
-yh(es)u o ih(es)u der iu(n)cfrowe(n) sone
+yh(es)u O ih(es)u der iu(n)cfrowe(n) sone
 
 maryen vul barmhertycheit
 
-vn(de) myldycheit o sote ih(es)u
+vn(de) myldycheit O sote ih(es)u
 
 na dyner grote(n) barmher-
 
-ticheit so vorbarme dy auer
+tycheit so vorbarme dy auer
 
-my o du alder myldeste yesu
+my O du alder myldeste yesu
 
 yk bydde dy dorch dyn werde
 
 hylghe blot dattu dor den
 
-sun der vorgotest dattu my
+sunder vorgotest dattu my
 
-renegest van alle myner
+reynegest van alle myner
 
 bosheyt vn(de) se my armen 
 
-sunder an vn(de) my vnwerdy
+sunder an vn(de) my vnwerdy-
 
 che my(n)sche(n) dy sote yh(es)u So
 
@@ -46,21 +47,21 @@ otmodychlyke(n) to byddende
 
 vn(de) dynen name(n) yesu an to
 
-ropende o du name yh(es)u
+ropende O du name yh(es)u
 
-eyn sote name o du name
+eyn sote name O du name
 
-yh(esu)s eyn sterke name o du
+yh(esu)s eyn sterke name O du
 
 name yh(esu)s eyn leflyk name
 
-o wat bystu yh(esu)s anders we(n)
+O wat bystu yh(esu)s anders we(n)
 
-eyn salychmaker der v(m)me
+eyn salychmaker dar_v(m)me
 
 so bydde yk dy dattu dy auer
 
-my vorbarmest o sote yh(esu)s 
+my vorbarmest O sote yh(esu)s 
 
 dor dyne(n) namen so make my
 
@@ -70,19 +71,19 @@ vorga na deme dat du my
 
 gheschape(n) hefft so lat my
 
-doch nycht vordomet mer
+doch nycht vordomet wer-
 
----[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:4][2r]]---
+---2r---
 
 de(n) den du van nychte ghescha-
 
-pe(n) heft o sote yh(esu)s lat my doch
+pe(n) heft O sote yh(esu)s lat my doch
 
-nicht vorderuen yn myne(n)
+nycht vorderuen yn myne(n)
 
 sunden dar bydde yk dy sote
 
-yh(es)u v(m)me o sote yh(esu)s o du alder-
+yh(es)u v(m)me O sote yh(esu)s O du alder-
 
 myldeste yh(es)u lat my nycht 
 
@@ -90,11 +91,11 @@ vorgan den doch dyn dure al-
 
 mechtyghe gude gheschapen
 
-heft o sote yh(esu)s beke(n)ne yn my
+heft O sote yh(esu)s beke(n)ne yn my
 
 dat dyn ys vn(de) delghe vt dat
 
-dy vro(m)de ys o du alder gutly-
+dy vro(m)de ys O du alder gutly-
 
 keste yh(es)u vorbarme dy auer
 
@@ -104,32 +105,32 @@ tycheit vn(de) vordome my nycht
 
 in der tyd dynes rychtes wat
 
----[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/en/#kbOSD-0=page:6][2v]]---
+---2v---
 
-nutticheit were dy van myne?
+nuttycheit were dy van mynen
 
 sunden wan yk nedder steghe
 
 yn de ewyghen vordomenysse
 
-wente de do den laue(n) dy nycht
+wente de doden laue(n) dy nycht
 
 vn(de) ok neme(n)t de dar nedder sty-
 
-ghet yn de helle o du gude ih(es)u
+ghet yn de helle O du gude ih(es)u
 
-o du vnbegryplyke Jh(esu)s o Jh(esu)s
+O du vnbegryplyke Jh(esu)s O Jh(esu)s
 
 yh(esu)s yh(esu)s o du alder gutlykeste
 
 yh(es)u lat my mede yn gan ma(n)k 
 
-den tal dyner vtuorkare(n) o
+den tal dyner vtuorkare(n) O
 
 yh(esu)s eyn heyl der de yn dy loue(n)
 
-o Jh(esu)s eyn lef hebber der? de an
+O Jh(esu)s eyn lef_hebber der de an
 
-dy hapen o yh(esu)s eyn trost der
+dy hapen O yh(esu)s eyn trost der
 
-yennen de to dy alen o yh(es)u
+yennen de to dy vlen O yh(es)u

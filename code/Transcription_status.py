@@ -13,7 +13,7 @@
 import os
 
 # filepath = ~/Documents/DFF/Data/Prayers/org or ../Prayers/org
-path = "../Prayers/org"
+path = "../Texts/org"
 num_files = 0
 
 # Change the directory
