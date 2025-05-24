@@ -67,10 +67,19 @@
 | [[./org/GKS08-3423_211r.org]]    | GKS 3423 8vo  |                               |                     |            |             |
 | [[./org/GKS08-3487_001r.org]]    | GKS 3487 8vo  |                               |                     |            |             |
 | [[./org/GKS08-3487_009v.org]]    | GKS 3487 8vo  |                               |                     |            |             |
-| [[./org/Holm-A42_032r.org]]      | A 42          |                               |                     |            |             |
+| [[./org/Holm-A-0042_032r.org]]   | A 42          |                               |                     |            |             |
+| [[./org/Holm-A-0042_051v.org]]   | A 42          | Cross                         | MDB1                | da         | proofread   |
+| [[./org/Holm-A-0042_052v.org]]   | A 42          | Trinity                       | MDB2                | da         | proofread   |
+| [[./org/Holm-A-0042_053r.org]]   | A 42          | Five Wounds of Christ         | WOUNDS MDB3         | da         | proofread   |
+| [[./org/Holm-A-0042_054r.org]]   | A 42          | Three prayers to Christ       | MDB4                | da         | proofread   |
+| [[./org/Holm-A-0042_054v.org]]   | A 42          | Exaltation of the Cross       | MDB5                | da         | proofread   |
+| [[./org/Holm-A-0042_055r.org]]   | A 42          | A prayer by St. Augustine     | MDB6                | da         | proofread   |
+| [[./org/Holm-A-0042_055v.org]]   | A 42          | A prayer during Mass          | MDB7                | da         | proofread   |
 | [[./org/Kalmar-0033_139v.org]]   | Kalmar 33     |                               |                     |            |             |
-| [[./org/Lund-0035_023v.org]]     | Mh 35         |                               |                     |            |             |
-| [[./org/Lund-0035_064v.org]]     | Mh 35         |                               |                     |            |             |
+| [[./org/Lund-0035_023v.org]]     | Mh 35         | Magnificat                    | MAGNIFICAT          | da         | proofread   |
+| [[./org/Lund-0035_038v.org]]     | Mh 36         | Five Wounds of Christ         | WOUNDS MDB81        | da         | proofread   |
+| [[./org/Lund-0035_064v.org]]     | Mh 35         | Golden Coronation Prayer      | KRONGEBET           |            |             |
+|                              |               |                               |                     |            |             |
 | [[./org/NKS08-0045_120v.org]]    | NKS 45 8vo    |                               |                     |            |             |
 | [[./org/Speghel_R1r.org]]        |               |                               |                     |            |             |
 | [[./org/UUB-C496_019v.org]]      | UUB C 496     |                               |                     |            |             |

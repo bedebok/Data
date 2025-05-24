@@ -91,6 +91,15 @@ Initial hierarchy can be important in distinguishing parts of a text. Enlarged a
 It can be useful to include information about the color and height of initials. These can be done inside the first set of brackets with the number and color(s) separated by a whitespace. For example a three-line initial /M/ which is in red and blue (puzzle initial) can be indicated by encoding ~[[3 red blue][M~. In-line (single height) initials can be indicated simply by color, e.g. ~[[green][W~.
 
 *** Editorial interventions
+**** Expansion of abbreviations
+Abbreviation markers are not indicated in the transcription. Instead, abbreviations are expanded using parentheses ~( )~ which will be converted to ~<ex>~ tags in TEI. Note the following common abbreviations and their expansions:
+
+- ~m(eth)~ is expanded following the convention in MDB
+- ~vn(de)~  
+
+**** Blank spaces in words
+Spaces inside of a word are transcribed with an underscore ~_~
+
 **** SIC/CORR
 Clear mistakes in the text are indicated in curly braces separated by a foreward slash: {sic/corr}. For example:
 
@@ -103,3 +112,6 @@ Results in:
 #+BEGIN_SRC xml
 Ere sy <choice><sic>m</sic><corr>d</corr></choice>eme vadere
 #+END_SRC
+
+**** Names
+Personal names are tagged using double angled brackets ~<< >>~ and an optional key. the key is given first in CAPITALS followed by a forward slash: ~<<KEY/name>>~. Note the double angled brackets will result in an underline in the org file.

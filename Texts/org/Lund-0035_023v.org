@@ -1,11 +1,11 @@
 #+TITLE: Magnificat
 
 |------------+------------|
-| Manuscript | Lund-0035  |
-| Locus      | 23v 24r    |
+| Manuscript | Mh 35      |
+| Locus      | 23v:23 24r |
 | Work       | MAGNIFICAT |
 | Language   | da         |
-| Status     | Proofread  |
+| Status     | proofread  |
 |------------+------------|
 
 * Transcription

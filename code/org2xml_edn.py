@@ -169,9 +169,19 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 line = re.sub(r"\[#(.*)!(.*)\]", r'<supplied_source="#\1">\2</supplied>', line)
                 line = re.sub(r"\[", r"<supplied>", line)
                 line = re.sub(r"\]", r"</supplied>", line)
+
                 # Then I also need to check for editorial corrections. They look like this:
                 # {sic/corr}
                 line = re.sub(r"{(.*)/(.*)}", r"<choice><sic>\1</sic><corr>\2</corr></choice>", line)
+
+                #Now I can also look for names. They are found in angled brackets like this:
+                # <KEY/name>
+                line = re.sub(r"<<(.*)/(.*)>>", r'<name_key="\1">\2</name>', line)
+
+                #Then those without a key
+                line = re.sub(r"<<(.*)>>", r"<name>\1</name>", line)
+                
+                  
                 words = line.split()
                 is_note = False
                 for i, word in enumerate(words, 1):
@@ -194,7 +204,7 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                     else:
                         write_file.write("<w xml:id=\""+word_id+"\">"+word+"</w>\n")
                         
-                    
+                 
         
 
 

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Holm-A-0042_051v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A Prayer to the Cross</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="STH"/>
+<repository key="KBS"/>
+<idno corresp="Holm-A-0042">A 42</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="51v" to="52v"/>
+<title key="MDB1">A Prayer to the Cross</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="text">
+<p>
+<w xml:id="Holm-A-0042_51v.1.1"><hi rend="red 11">W</hi>ors</w>
+<w xml:id="Holm-A-0042_51v.1.2">h<ex>er</ex>ræ</w>
+<lb n="2"/>
+<w xml:id="Holm-A-0042_51v.2.1">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.2.2"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.2.3">ko<lb n="3"/>rs</w>
+<w xml:id="Holm-A-0042_51v.3.2">vær</w>
+<w xml:id="Holm-A-0042_51v.3.3">m<ex>eth</ex></w>
+<lb n="4"/>
+<w xml:id="Holm-A-0042_51v.4.1">mik</w>
+<w xml:id="Holm-A-0042_51v.4.2">ih<ex>es</ex>u</w>
+<lb n="5"/>
+<w xml:id="Holm-A-0042_51v.5.1"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.5.2">ko†rs</w>
+<lb n="6"/>
+<w xml:id="Holm-A-0042_51v.6.1">ær</w>
+<w xml:id="Holm-A-0042_51v.6.2">th<ex>et</ex></w>
+<w xml:id="Holm-A-0042_51v.6.3">te<lb n="7"/>ge<ex>n</ex></w>
+<w xml:id="Holm-A-0042_51v.7.2">som</w>
+<w xml:id="Holm-A-0042_51v.7.3">iec</w>
+<lb n="8"/>
+<w xml:id="Holm-A-0042_51v.8.1">til</w>
+<w xml:id="Holm-A-0042_51v.8.2">bedær</w>
+<lb n="9"/>
+<w xml:id="Holm-A-0042_51v.9.1">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.9.2"><ex>christ</ex>i</w>
+<lb n="10"/>
+<w xml:id="Holm-A-0042_51v.10.1">ko†rs</w>
+<w xml:id="Holm-A-0042_51v.10.2">ær</w>
+<lb n="11"/>
+<w xml:id="Holm-A-0042_51v.11.1">sand</w>
+<w xml:id="Holm-A-0042_51v.11.2">hiel<lb n="12"/>sen</w>
+<w xml:id="Holm-A-0042_51v.12.2">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.12.3"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.12.4">ko†rs</w>
+<w xml:id="Holm-A-0042_51v.12.5">ouer</w>
+<w xml:id="Holm-A-0042_51v.12.6">gaar</w>
+<lb n="13"/>
+<w xml:id="Holm-A-0042_51v.13.1">alle</w>
+<w xml:id="Holm-A-0042_51v.13.2">suærde</w>
+<w xml:id="Holm-A-0042_51v.13.3">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.13.4"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.13.5">ko†rs</w>
+<w xml:id="Holm-A-0042_51v.13.6">lø<lb n="14"/>sær</w>
+<w xml:id="Holm-A-0042_51v.14.2">døtze<ex>n</ex>s</w>
+<w xml:id="Holm-A-0042_51v.14.3">bandh</w>
+<w xml:id="Holm-A-0042_51v.14.4">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.14.5"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.14.6">ko†rs</w>
+<lb n="15"/>
+<w xml:id="Holm-A-0042_51v.15.1">ær</w>
+<w xml:id="Holm-A-0042_51v.15.2">ieth</w>
+<w xml:id="Holm-A-0042_51v.15.3">stadæligh</w>
+<w xml:id="Holm-A-0042_51v.15.4">vabe<ex>n</ex></w>
+<w xml:id="Holm-A-0042_51v.15.5">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.15.6"><ex>christ</ex>i</w>
+<lb n="16"/>
+<w xml:id="Holm-A-0042_51v.16.1">ko†rs</w>
+<w xml:id="Holm-A-0042_51v.16.2">ær</w>
+<w xml:id="Holm-A-0042_51v.16.3">ieth</w>
+<w xml:id="Holm-A-0042_51v.16.4">vitterligh</w>
+<w xml:id="Holm-A-0042_51v.16.5">tege<ex>n</ex></w>
+<lb n="17"/>
+<w xml:id="Holm-A-0042_51v.17.1">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.17.2"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.17.3">ko†rs</w>
+<w xml:id="Holm-A-0042_51v.17.4">verie</w>
+<w xml:id="Holm-A-0042_51v.17.5">my<ex>n</ex></w>
+<w xml:id="Holm-A-0042_51v.17.6">siæl</w>
+<lb n="18"/>
+<w xml:id="Holm-A-0042_51v.18.1">och</w>
+<w xml:id="Holm-A-0042_51v.18.2">my<ex>n</ex></w>
+<w xml:id="Holm-A-0042_51v.18.3">liiff</w>
+<w xml:id="Holm-A-0042_51v.18.4">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_51v.18.5"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_51v.18.6">ko†rs</w>
+<w xml:id="Holm-A-0042_51v.18.7">væ<lb n="19"/>ræf</w>
+<w xml:id="Holm-A-0042_51v.19.2">my<ex>n</ex></w>
+<w xml:id="Holm-A-0042_51v.19.3">veyæ</w>
+<w xml:id="Holm-A-0042_51v.19.4">ledær</w>
+<w xml:id="Holm-A-0042_51v.19.5">til</w>
+<w xml:id="Holm-A-0042_51v.19.6">alle</w>
+<w xml:id="Holm-A-0042_51v.19.7">dyg<pb n="52r"/><lb n="1"/>dæ</w>
+<w xml:id="Holm-A-0042_52r.1.2">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_52r.1.3"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_52r.1.4">ko†rs</w>
+<w xml:id="Holm-A-0042_52r.1.5">vt</w>
+<w xml:id="Holm-A-0042_52r.1.6">tyder</w>
+<w xml:id="Holm-A-0042_52r.1.7">alt</w>
+<lb n="2"/>
+<w xml:id="Holm-A-0042_52r.2.1">got</w>
+<w xml:id="Holm-A-0042_52r.2.2">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_52r.2.3"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_52r.2.4"><supplied>tagæ/ko†rs</supplied></w>
+<w xml:id="Holm-A-0042_52r.2.5">tagæ</w>
+<w xml:id="Holm-A-0042_52r.2.6">fra</w>
+<w xml:id="Holm-A-0042_52r.2.7">mik</w>
+<lb n="3"/>
+<w xml:id="Holm-A-0042_52r.3.1">alt</w>
+<w xml:id="Holm-A-0042_52r.3.2">vnt</w>
+<w xml:id="Holm-A-0042_52r.3.3">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_52r.3.4"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_52r.3.5">ko†rs</w>
+<w xml:id="Holm-A-0042_52r.3.6">tagæ</w>
+<w xml:id="Holm-A-0042_52r.3.7">fra</w>
+<lb n="4"/>
+<w xml:id="Holm-A-0042_52r.4.1">mik</w>
+<w xml:id="Holm-A-0042_52r.4.2">ewi<ex>n</ex>neligh</w>
+<w xml:id="Holm-A-0042_52r.4.3">pine</w>
+<w xml:id="Holm-A-0042_52r.4.4">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_52r.4.5"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_52r.4.6">ko†rs</w>
+<lb n="5"/>
+<w xml:id="Holm-A-0042_52r.5.1">hiele</w>
+<w xml:id="Holm-A-0042_52r.5.2">mik</w>
+<w xml:id="Holm-A-0042_52r.5.3">och</w>
+<w xml:id="Holm-A-0042_52r.5.4"><supplied>verie/være</supplied></w>
+<w xml:id="Holm-A-0042_52r.5.5">i</w>
+<w xml:id="Holm-A-0042_52r.5.6">dagh</w>
+<w xml:id="Holm-A-0042_52r.5.7">for</w>
+<w xml:id="Holm-A-0042_52r.5.8">mik</w>
+<lb n="6"/>
+<w xml:id="Holm-A-0042_52r.6.1">och</w>
+<w xml:id="Holm-A-0042_52r.6.2">ow<ex>er</ex></w>
+<w xml:id="Holm-A-0042_52r.6.3">mik</w>
+<w xml:id="Holm-A-0042_52r.6.4">och</w>
+<w xml:id="Holm-A-0042_52r.6.5">æffter</w>
+<w xml:id="Holm-A-0042_52r.6.6">mik</w>
+<w xml:id="Holm-A-0042_52r.6.7">saa</w>
+<lb n="7"/>
+<w xml:id="Holm-A-0042_52r.7.1">ath</w>
+<w xml:id="Holm-A-0042_52r.7.2">v ve<ex>n</ex>ne<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52r.7.3">dieffwele<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52r.7.4">flyær</w>
+<w xml:id="Holm-A-0042_52r.7.5">fraa</w>
+<lb n="8"/>
+<w xml:id="Holm-A-0042_52r.8.1">mik</w>
+<w xml:id="Holm-A-0042_52r.8.2">ther</w>
+<w xml:id="Holm-A-0042_52r.8.3">han</w>
+<w xml:id="Holm-A-0042_52r.8.4">seer</w>
+<w xml:id="Holm-A-0042_52r.8.5">mik</w>
+<w xml:id="Holm-A-0042_52r.8.6">j</w>
+<w xml:id="Holm-A-0042_52r.8.7">vors</w>
+<w xml:id="Holm-A-0042_52r.8.8">h<ex>er</ex>ræ</w>
+<lb n="9"/>
+<w xml:id="Holm-A-0042_52r.9.1">ih<ex>es</ex>u</w>
+<w xml:id="Holm-A-0042_52r.9.2"><ex>christ</ex>i</w>
+<w xml:id="Holm-A-0042_52r.9.3">naffn</w>
+<w xml:id="Holm-A-0042_52r.9.4">ih<ex>es</ex>us</w>
+<w xml:id="Holm-A-0042_52r.9.5">nazaren<ex>us</ex></w>
+<w xml:id="Holm-A-0042_52r.9.6">iødæ</w>
+<lb n="10"/>
+<w xml:id="Holm-A-0042_52r.10.1">kongæ</w>
+<w xml:id="Holm-A-0042_52r.10.2">velsigne</w>
+<w xml:id="Holm-A-0042_52r.10.3">mik</w>
+<w xml:id="Holm-A-0042_52r.10.4">ih<ex>es</ex>us</w>
+<w xml:id="Holm-A-0042_52r.10.5">ha<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52r.10.6">verie</w>
+<lb n="11"/>
+<w xml:id="Holm-A-0042_52r.11.1">mik</w>
+<w xml:id="Holm-A-0042_52r.11.2">gud</w>
+<w xml:id="Holm-A-0042_52r.11.3">han</w>
+<w xml:id="Holm-A-0042_52r.11.4">vændæ</w>
+<w xml:id="Holm-A-0042_52r.11.5">fra</w>
+<w xml:id="Holm-A-0042_52r.11.6">mik</w>
+<w xml:id="Holm-A-0042_52r.11.7">alt</w>
+<lb n="12"/>
+<w xml:id="Holm-A-0042_52r.12.1">vnt</w>
+<w xml:id="Holm-A-0042_52r.12.2">j</w>
+<w xml:id="Holm-A-0042_52r.12.3">naffn</w>
+<w xml:id="Holm-A-0042_52r.12.4">gud</w>
+<w xml:id="Holm-A-0042_52r.12.5">fader</w>
+<w xml:id="Holm-A-0042_52r.12.6">och</w>
+<w xml:id="Holm-A-0042_52r.12.7">søn</w>
+<w xml:id="Holm-A-0042_52r.12.8">och</w>
+<lb n="13"/>
+<w xml:id="Holm-A-0042_52r.13.1">the<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52r.13.2">helligand</w>
+<w xml:id="Holm-A-0042_52r.13.3">Amen</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="14"/>
+<w xml:id="Holm-A-0042_52r.14.1">p<ex>ate</ex>r</w>
+<w xml:id="Holm-A-0042_52r.14.2">n<ex>oste</ex>r</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="16"/>
+<w xml:id="Holm-A-0042_52r.16.1"><hi rend="2">T</hi>hi<ex>n</ex>næ</w>
+<w xml:id="Holm-A-0042_52r.16.2">for skreffne</w>
+<w xml:id="Holm-A-0042_52r.16.3">bøn</w>
+<w xml:id="Holm-A-0042_52r.16.4">gior<lb n="17"/>dæ</w>
+<w xml:id="Holm-A-0042_52r.17.2">s<ex>an</ex>c<ex>tu</ex>s</w>
+<w xml:id="Holm-A-0042_52r.17.3"><name key="LEO">leo</name></w>
+<w xml:id="Holm-A-0042_52r.17.4">och</w>
+<w xml:id="Holm-A-0042_52r.17.5">sændæ</w>
+<w xml:id="Holm-A-0042_52r.17.6">hi<ex>n</ex>næ</w>
+<lb n="18"/>
+<w xml:id="Holm-A-0042_52r.18.1">til</w>
+<w xml:id="Holm-A-0042_52r.18.2">sin</w>
+<w xml:id="Holm-A-0042_52r.18.3">brodær</w>
+<w xml:id="Holm-A-0042_52r.18.4">keysær</w>
+<w xml:id="Holm-A-0042_52r.18.5"><name key="CHARLEMAGNE">karl</name></w>
+<w xml:id="Holm-A-0042_52r.18.6">och</w>
+<lb n="19"/>
+<w xml:id="Holm-A-0042_52r.19.1">lod</w>
+<w xml:id="Holm-A-0042_52r.19.2">seye</w>
+<w xml:id="Holm-A-0042_52r.19.3">ha<ex>num</ex></w>
+<w xml:id="Holm-A-0042_52r.19.4">saa</w>
+<w xml:id="Holm-A-0042_52r.19.5">at</w>
+<w xml:id="Holm-A-0042_52r.19.6">huær</w>
+<w xml:id="Holm-A-0042_52r.19.7">so<ex>m</ex></w>
+<lb n="20"/>
+<w xml:id="Holm-A-0042_52r.20.1">bær</w>
+<w xml:id="Holm-A-0042_52r.20.2">hi<ex>n</ex>ne</w>
+<w xml:id="Holm-A-0042_52r.20.3">skreffue<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52r.20.4">paa</w>
+<w xml:id="Holm-A-0042_52r.20.5">sik</w>
+<w xml:id="Holm-A-0042_52r.20.6"><supplied>h/</supplied>ell<ex>er</ex></w>
+<lb n="21"/>
+<w xml:id="Holm-A-0042_52r.21.1">høre</w>
+<w xml:id="Holm-A-0042_52r.21.2">læse</w>
+<w xml:id="Holm-A-0042_52r.21.3"><supplied>h/</supplied>ell<ex>er</ex></w>
+<w xml:id="Holm-A-0042_52r.21.4">sielff</w>
+<w xml:id="Holm-A-0042_52r.21.5">les</w>
+<w xml:id="Holm-A-0042_52r.21.6">om</w>
+<w xml:id="Holm-A-0042_52r.21.7">the<ex>n</ex></w>
+<lb n="22"/>
+<w xml:id="Holm-A-0042_52r.22.1">dag</w>
+<w xml:id="Holm-A-0042_52r.22.2">skal</w>
+<w xml:id="Holm-A-0042_52r.22.3">han</w>
+<w xml:id="Holm-A-0042_52r.22.4">ey</w>
+<w xml:id="Holm-A-0042_52r.22.5">drogne</w>
+<w xml:id="Holm-A-0042_52r.22.6">ey</w>
+<w xml:id="Holm-A-0042_52r.22.7">bri<ex>n</ex><pb n="52v"/><lb n="1"/>ne</w>
+<w xml:id="Holm-A-0042_52v.1.2">och</w>
+<w xml:id="Holm-A-0042_52v.1.3">huerke<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52v.1.4">me<ex>n</ex>niske<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52v.1.5"><supplied>h/</supplied>ellær</w>
+<lb n="2"/>
+<w xml:id="Holm-A-0042_52v.2.1">dieffuelen</w>
+<w xml:id="Holm-A-0042_52v.2.2">ma</w>
+<w xml:id="Holm-A-0042_52v.2.3">ha<ex>num</ex></w>
+<w xml:id="Holm-A-0042_52v.2.4">skade</w>
+<w xml:id="Holm-A-0042_52v.2.5">giøræ</w>
+<lb n="3"/>
+<w xml:id="Holm-A-0042_52v.3.1">och</w>
+<w xml:id="Holm-A-0042_52v.3.2">ther</w>
+<w xml:id="Holm-A-0042_52v.3.3">til</w>
+<w xml:id="Holm-A-0042_52v.3.4">hauer</w>
+<w xml:id="Holm-A-0042_52v.3.5">han</w>
+<w xml:id="Holm-A-0042_52v.3.6">stort</w>
+<w xml:id="Holm-A-0042_52v.3.7">aff<lb n="4"/>lat</w>
+<w xml:id="Holm-A-0042_52v.4.2">och</w>
+<w xml:id="Holm-A-0042_52v.4.3">huer</w>
+<w xml:id="Holm-A-0042_52v.4.4">th<ex>et</ex></w>
+<w xml:id="Holm-A-0042_52v.4.5">si<ex>n</ex>næ</w>
+<w xml:id="Holm-A-0042_52v.4.6">han</w>
+<w xml:id="Holm-A-0042_52v.4.7">les</w>
+<lb n="5"/>
+<w xml:id="Holm-A-0042_52v.5.1">hi<ex>n</ex>ne</w>
+<w xml:id="Holm-A-0042_52v.5.2">skal</w>
+<w xml:id="Holm-A-0042_52v.5.3">ha<ex>n</ex></w>
+<w xml:id="Holm-A-0042_52v.5.4">m<ex>eth</ex></w>
+<w xml:id="Holm-A-0042_52v.5.5">sin</w>
+<w xml:id="Holm-A-0042_52v.5.6">hand</w>
+<w xml:id="Holm-A-0042_52v.5.7">giøre</w>
+<w xml:id="Holm-A-0042_52v.5.8">th<ex>et</ex></w>
+<lb n="6"/>
+<w xml:id="Holm-A-0042_52v.6.1">hellige</w>
+<w xml:id="Holm-A-0042_52v.6.2">kors</w>
+<w xml:id="Holm-A-0042_52v.6.3">tegen</w>
+<w xml:id="Holm-A-0042_52v.6.4">for</w>
+<w xml:id="Holm-A-0042_52v.6.5">sik</w>
+<lb n="7"/>
+<w xml:id="Holm-A-0042_52v.7.1">sa</w>
+<w xml:id="Holm-A-0042_52v.7.2">offtæ</w>
+<w xml:id="Holm-A-0042_52v.7.3">som</w>
+<w xml:id="Holm-A-0042_52v.7.4">han</w>
+<w xml:id="Holm-A-0042_52v.7.5">th<ex>et</ex></w>
+<w xml:id="Holm-A-0042_52v.7.6">hellige</w>
+<w xml:id="Holm-A-0042_52v.7.7">kors</w>
+<lb n="8"/>
+<w xml:id="Holm-A-0042_52v.8.1">neffner</w>
+<w xml:id="Holm-A-0042_52v.8.2">ther</w>
+<w xml:id="Holm-A-0042_52v.8.3">vdi</w>
+<w xml:id="Holm-A-0042_52v.8.4">Amen</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

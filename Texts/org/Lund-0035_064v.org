@@ -1,12 +1,12 @@
 #+TITLE: Golden Coronation Prayer of Mary's Ten Joys
 
-|------------+-----------|
-| Manuscript | Mh 35     |
-| Locus      | 64v 69v   |
-| Work       | KRONGEBET |
-| Language   | Danish    |
-| Status     | begun     |
-|------------+-----------|
+|------------+------------------|
+| Manuscript | Mh 35            |
+| Locus      | 64v:24 69v       |
+| Work       | KRONGEBET MDB105 |
+| Language   | da               |
+| Status     | begun            |
+|------------+------------------|
 
 * Transcription
 ** Rubric
