@@ -1,0 +1,132 @@
+#+TITLE: 
+
+|------------+--------------|
+| Manuscript | GKS 3423 8vo |
+| Locus      | 113r:1       |
+| Work       |              |
+| Language   | gml          |
+| Status     |              |
+|------------+--------------|
+- images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:227
+
+* Transcription
+** Rubric
+non ex vyrili semine
+
+** Text
+
+[[2 red][D]]at worth gades ys flesk ghe-
+
+worde(n) vn(de) de frucht des
+
+vlesskes hefft ghebloyet nycht
+
+dorch kraft my(n)schelyke(n) sades
+
+men dorch des hylge(n) gestes
+
+werk
+
+** Text
+
+[[2 red][D]]ar negest myn alder le-
+
+ueste here danke yk dy
+
+der sote(n) rowe de du negen man-
+
+te haddest yn deme kuske(n) lych-
+
+a(m)me dyner benedyeden moder
+
+marye(n) dar du ynne rowedest
+
+alse yn ene(n) te(m)pel vn(de) nycht to
+
+myn me(n) dar stretlyke(n) yne
+
+vussest na dyneme lycha(m)me
+
+---113v---
+
+gyf my dat myne sele moge
+
+stedes dyne leflyke wanynghe
+
+syn vn(de) du mogest dorch dyne
+
+gnade stedes yn my wasse(n) vp-
+
+pe dat yk de yn dy vulle(n)ka-
+
+me(n) werde des yn eyne dechte-
+
+nysse lauet dy de hylghe kerke
+
+alsus myt ynnycheyt
+
+** Rubric
+Almis
+
+tumescrit virginis
+
+** Text
+[[2 red][D]]er yu(n)cfrowen lycham de
+
+warth grof der slote der
+
+kuscheyt de synt nycht ghe-
+
+syget de tekene der dogede
+
+schyne(n) dar god wart yn sy-
+
+nem te(m)pel ghehandelt
+
+---114r---
+
+** Text
+[[red 2][O]]k so danke yk dy alder le-
+
+ueste here vor dyne hylge(n)
+
+vn(de) vunderlyke(n) borth alse du
+
+vt der kusken rowedest ghe-
+
+lyk alse dauyd secht eneme bru-
+
+dege(m)me vul groter leue to vns
+
+arme(n) sunders vn(de) alse eyn sterk
+
+rese va(n) dubbelder nature to
+
+lope(n)de den wech der salycheyt
+
+gyf dat myne arme sele dyne
+
+leue(n) bruth wesen moghe welk
+
+ere du alse eyn mechtych rese
+
+van deme bose(n) vyende vorlo-
+
+set hest yn eyne dancknamych
+
+synget alsus de hylge kerke
+
+---114v---
+
+** Rubric
+Pro te deus de talamo suo
+
+** Text
+
+[[red 2][H]]e ys van syner slapka-
+
+mere(n) ghegan van deme
+
+konyncklyke(n) sale der kuscheyt
+
+to lopende den grote(n) 

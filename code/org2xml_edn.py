@@ -162,8 +162,8 @@ with open(sys.argv[1].replace('.org','') + '.org', 'r') as read_file:
                 # [[3 red blue][M]] ...
                 line = re.sub(r" (?=[^][]*\])", "_", line)
                 line = re.sub(r"\[\[(.+?)\]\[(.)\]\]",r'<hi_rend="\1">\2</hi>', line)
-                line = re.sub(r"\[\[(.*)",r'<hi>\1</hi>', line)
-                line = re.sub(r"\]\]", r'</hi>', line)
+                line = re.sub(r"\[\[(.*)\]\]",r'<hi>\1</hi>', line)
+                # line = re.sub(r"\]\]", r'</hi>', line)
                 # Next I need to look for supplied text in words. They look like this:
                 # xxx[x]xxx
                 line = re.sub(r"\[#(.*)!(.*)\]", r'<supplied_source="#\1">\2</supplied>', line)

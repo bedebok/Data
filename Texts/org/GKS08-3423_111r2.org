@@ -1,0 +1,115 @@
+#+TITLE: Veni Redemptor Gentium (with meditation)
+
+|------------+----------------|
+| Manuscript | GKS 3423 8vo   |
+| Locus      | 111r:12 112v   |
+| Work       | VENI_REDEMPTOR |
+| Language   | gml            |
+| Status     | proofread      |
+|------------+----------------|
+- images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:223
+
+* Transcription
+** Rubric
+Hyr begynnet eyne medyta-
+
+tio auer der ymnu(m) Veni
+
+redemtor genciu(m) ostende
+
+---111v---
+
+** Text
+[[red 2][I]]k danke dy leue here yh(es)u
+
+(christ)i vt allen krefte(n) mynes
+
+herten vor dat furyge vn(de) gro-
+
+te beger dat dyn he(m)melsche
+
+vader vn(de) du dorch den hylge(n)
+
+gest geue(n) den hylge(n) oltuede-
+
+ren to dyner to_kumpst yn
+
+der mynsken nature gyf
+
+my dat yk furyger leue dat
+
+sulueste nu mote beschowe(n)
+
+dat se do andechtygen beger
+
+den to erer vn(de) vnser losyn-
+
+ghe vn(de) dat yk den hoch-
+
+werdyge(n) dach dyner hylge(n)
+
+bort van der kuske(n) yunc-
+
+---112r---
+
+frowen maryen myt vulheyt
+
+dyner gnade vorbeyden moghe
+
+des yn eyne sote dechtenysse syn-
+
+get to dyne(n) laue de hylge ker-
+
+ke
+
+** Hymn                                                      :VENI_REDEMPTOR:
+*** Rubric
+veni redemtor genciu(m)
+
+*** Text
+
+[[red 2][K]]um du vorloser alles vol-
+
+kes bewys wo eyne yu(n)c-
+
+frowe telet des schal syk
+
+vor_[v/w]u(n)dere(n) de gansen werlt
+
+vn(de) so_dane bort de temet ga-
+
+de [[red][O]]k so danke yk dy leue
+
+leue here yh(es)u cryste vor dyne
+
+hylge(n) gest mynck werdynge
+
+de dar ys gheschen dorch den
+
+---112v---
+
+hyllygen geyst vppe dat wy schol-
+
+den weten dat du vt vnbegry-
+
+pelyker leue so_dane [v/w]u(n)der_wer-
+
+ke aller [v/w]u(n)derwerke dedest
+
+gyf my dat yk dorch dyne leue
+
+vn(de) gnade moge delaftych
+
+werden dyner glorie vn(de) got-
+
+heyt alse du hest to dy ghe-
+
+name(n) vn(de) nycht vorsmadet
+
+vnse brechlycheyt des yn
+
+ene leflyke dechtenysse la-
+
+uet dy de hylghe kerke al-
+
+sus ynnychlyke(n) synge(n)de

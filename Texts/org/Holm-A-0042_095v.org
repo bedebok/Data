@@ -1,0 +1,160 @@
+#+TITLE: Das goldenes Krongebet
+
+|------------+-----------------------------|
+| Manuscript | A 42                        |
+| Locus      | 95v:13                      |
+| Work       | KRONGEBET                   |
+| Language   | da                          |
+| Status     | begun (proofread up to 97r) |
+|------------+-----------------------------|
+
+* Transcription
+** Rubric
+[[2][H]]uo som thissæ æffter_skreff-
+
+ne bøner læsær jxxx dage
+
+m(eth) gudæligh(et) for iomf(rv) ma(ria)
+
+billet oc m(eth) ieth brinendæ
+
+lyus tha vordær th(e)n me(n)nis-
+
+ke hørdh e_huat drøffwilsæ
+
+th(e)n me(n)niskæ pa kallær io(m)-
+
+fru maria vden alle thyff-
+
+---96r---
+
+wel och th(et) hauer ma(n)ghe
+
+me(n)niske prøuet m(eth) thisse bø-
+
+ner oc hauer fo(n)gh(et) hielp aff
+
+io(m)f(rv) ma(ria) oc ther skulle læses
+
+x aue ma(ria) standindæ opp j
+
+melle huer bøn oc sa bønen
+
+** Prayer                                                           :MDB105a:
+*** Text
+[[red 9][M]]aria iech be-
+
+dær thic oc paa_myner
+
+thik for the(n)
+
+store frygd
+
+och værdu-
+
+gh(et) som thit
+
+liiff och thi(n)
+
+siæl vntfik
+
+och anamæde th(e)n tidh gudh
+
+fadhær och søn och th(e)n hellig
+
+andh thik sik sielff til ien
+
+moder gaff æn doo at gusz
+
+søn alle mandom aff thik
+
+---96v---
+
+togh och alle værulde(n) æffter
+
+then helligæ trefoldughetz
+
+radh forræ æn han he(m)mel
+
+och iordh skaptæ iomfrw
+
+maria gusz modær for th(e)n
+
+store frygdh bedær jech thik
+
+ath thu fulko(m)mer myn bø(n) æff-
+
+ter thin nade och æffter myn
+
+begieringh
+** Prayer                                                           :MDB105b:
+*** Rubric
+les x aue maria sta(n)-
+
+dinde och fal på knæ
+*** Text
+[[red 2][M]]a-
+
+ria iech bedær thik oc pa-
+
+my(n)ner thik for th(e)n store frygd
+
+och ouerfløduge frygdh och
+
+værdugh(et) som thit liiff och thi(n)
+
+siæl vntfik tha gabriel ængel
+
+kwngiorde thik ath thu gusz
+
+moder skulle vorde och ewig
+
+ien iomfru bliffue skulle oc
+
+han saude til thik hielset væ-
+
+re thu maria fuldh m(eth) nade
+
+---97r---
+
+h(e)ræn ær[e/] m(eth) thik thu æst vel-
+
+sign(et) ouer alle qwi(n)ner b(e)n(e)dide
+
+ær thin ligoms fruct tha thu
+
+the ordh vel for_namst och vn-
+
+der_stodst tha bekiende thw
+
+gue faders godh(et) gusz søns bar(m)-
+
+hiærtugh(et) th(e)n helligand vish(et)
+
+tha saude thu iæch ær gusz tie-
+
+niste qwi(n)ne wordæ mik æfft(e)r
+
+thine ordh gusz vilie vordhæ
+
+m(eth) mik m(eth) th(et) same ordh
+
+vorte thu for_fylt m(eth) th(e)n hel-
+
+ligandz nade och vntfik thin
+
+søn ih(esu)m (christu)m for vden thit
+
+hiærtens pine och alzkiøns
+
+vee frygd tik iomfru maria
+
+for th(e)n store glede och frygd
+
+och vær loffu(et) och b(e)n(e)didæ oc
+
+fulkom myn bøn æffter thin
+
+nade och æffter my(n) begieri(n)g
+
+---97v---

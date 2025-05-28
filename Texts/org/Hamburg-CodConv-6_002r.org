@@ -1,22 +1,18 @@
-#+TITLE: Goldene Krongebet
+#+TITLE: Golden Coronation Prayer of Mary's Ten Joys 
+
 |------------+-----------------------|
 | Manuscript | Hamburg, Cod. conv. 6 |
-| Locus      | [[https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf%5Bid%5D=41819&tx_dlf%5Bpage%5D=8&tx_dlf_navigation%5Baction%5D=main&tx_dlf_navigation%5Bcontroller%5D=Navigation&cHash=6681880d9fa72a0c35e33f23d12c4d25][2r-]]                   |
-| Language   | LG                    |
-| Keywords   |                       |
-| Status     | Transcribed           |
+| Locus      | 2r:1                  |
+| Work       | KRONGEBET             |
+| Language   | gml                   |
+| Status     | transcribed           |
 |------------+-----------------------|
+- images :: https://resolver.sub.uni-hamburg.de/kitodo/PPN1043485368/page/5
 
-** Parallels
-|------------+---------|
-| Danish     | MDB 105 |
-| Low German |         |
-| Latin      |         |
-|------------+---------|
 
 * Transcription
 ** Rubric
-Wultu weten wo diit nascreuen(n)
+[[2][W]]ultu weten wo diit nascreuen(n)
 
 beth vppe erden ghekome(n) is
 
@@ -108,8 +104,9 @@ Aue maria vn(de) valle nedder
 
 vp dine knee vn(de) sprik dit beth
 
-** Text 1
-Maria ik vormane dy der ouer-
+** Prayer
+*** Text
+[[2 red][M]]aria ik vormane dy der ouer-
 
 vlodighe(n) vroude ere vn(de) wer-
 
@@ -136,8 +133,8 @@ dy twide myne bede na dinen gna-
 den vn(de) na myner begheringhe
 
 Amen.
-
-** Rubric
+** Prayer
+*** Rubric
 Sprek teyn Aue maria
 
 vn(de) valle nedder vppe dine knee
@@ -145,7 +142,9 @@ vn(de) valle nedder vppe dine knee
 vn(de) les dijt beth also hir na steyt
 
 ** Text 2
-Maria ik vormane dy der ouervlodighen vroude de dy(n)
+[[red 2][M]]aria ik vormane dy der ouer-
+
+vlodighen vroude de dy(n)
 
 zele vn(de) din licham vntfink do
 
@@ -159,7 +158,7 @@ ene ju(n)cvrowe bliue(n) scholdest
 
 vn(de) he sprak Ghegrutet sijstu
 
-vul gnade de here is mit dy (et cetera)
+vul gnade de here is mit dy (et_cetera)
 
 Do du de wort vornemest do
 
@@ -194,15 +193,15 @@ twide my(n) beth na diner gna-
 de vn(de) na myner begheringhe
 
 [[A]]men
-
-** Rubric
+** Prayer
+*** Rubric
 Sprek teyn Aue maria
 
 stande Dar na valle nedder vp
 
 dine knee vn(de) sprek dyt beth
 
-** Text 3
+*** Text
 [[M]]aria ik vormane dy der gro-
 
 te(n) vroude vn(de) werdicheit de
@@ -242,8 +241,8 @@ wes benediet [[v]]n(de) twide myne
 bede na diner gnade vn(de) na my-
 
 ner begheringhe [[A]]men
-
-** Rubric
+** Prayer
+*** Rubric
 [[S]]prek
 
 tey Aue maria stande vnde
@@ -252,7 +251,7 @@ tey Aue maria stande vnde
 
 dyt beth an dine(n) kneen
 
-** Text 4
+*** Text
 [[M]]aria ik vormane dy der
 
 ouervlodighe(n) vroude vnde
@@ -281,7 +280,8 @@ myne bede na diner gnade vn(de)
 
 na myner begheringhe [[A]]me(n)
 
-** Rubric
+** Prayer
+*** Rubric
 Sprek teyn Aue maria stande
 
 vn(de) valle in dine knee vnde
@@ -290,7 +290,7 @@ vn(de) valle in dine knee vnde
 
 sprek dyt nascreuen beth
 
-** Text 5
+*** Text
 [[M]]aria ik vormane di der gro-
 
 ten vroude vn(de) werdicheit
@@ -321,7 +321,8 @@ twidest na diner gnade vnde
 
 na myner notroft [[A]]men
 
-** Rubric
+** Prayer
+*** Rubric
 Sprek teyn Aue maria stande
 
 ---6r---
@@ -330,7 +331,7 @@ vn(de) valle an dine knee vn(de) sprik
 
 dijt beth also hir na steyt
 
-** Text 6
+*** Text
 [[M]]aria ik vormane dy der ou(er)-
 
 vlodighen vroude de du ent-
@@ -369,12 +370,13 @@ beth na dinen gnaden vnde na
 
 myner notroft [[A]]men
 
-** Rubric
+** Prayer
+*** Rubric
 Sprek teyn Aue maria vn(de) valle vp
 
 dine knee vn(de) les dyt beth
 
-** Text 7
+*** Text
 [[M]]aria ike vormane dy der
 
 groten vroude de din zele
@@ -415,12 +417,13 @@ na diner gnade vn(de) na myner
 
 notroft [[A]]men 
 
-** Rubric
+** Prayer
+*** Rubric
 Sprek teyn Aue maria stande vn(de) valle an dy-
 
 ne knee vn(de) sprek dyt beth
 
-** Text 8
+*** Text
 [[M]]aria ik vormane dy der 
 
 ouervlodighe(n) vroude de
@@ -455,14 +458,15 @@ ner barmherticheit vn(de) na my-
 
 ner begheringhe [[A]]men
 
-** Rubric
+** Prayer
+*** Rubric
 [[S]]prek teyn Aue maria stande
 
 vn(de) valle in dyne knee vnde
 
 les dyt nascreuen beth
 
-** Text 9
+*** Text
 [[M]]aria ika vormane dy der
 
 groten vroude vn(de) ere de
@@ -511,14 +515,15 @@ du twidest myne bede na din(er)
 
 gnade vn(de) myner begheringhe [[A]]m(en)
 
-** Rubric
+** Prayer
+*** Rubric
 [[S]]prek teyn Aue maria stande 
 
 vn(de) valle vp dine knee vn(de) sprek
 
 dyt beth alse hir na steyt
 
-** Text 10
+*** Text
 [[M]]aria ik vormane dy der 
 
 groten vroude de du haddest 

@@ -16,6 +16,24 @@ body {
     text-align: left
 }
 
+/* Section or text headers: Float left */
+
+head {
+    display: inline;
+    float: left;
+    width: 0pt;
+    margin-left: -100pt;
+    font-style: italic;
+}
+
+pb:after {
+    display: block;
+    color: lightgray;
+    margin-top: 7pt;
+    margin-left: 35pt;
+    content: attr(n);
+}
+
 div[type = "rubric"]{
     color: darkred;
 }
@@ -93,6 +111,7 @@ hi[rend~="5"] {
   display: inline-block;
   float: left;
   margin-top: 28pt;
+  margin-bottom: 14pt;
   font-size: calc(500%)
 }
 
@@ -101,4 +120,23 @@ hi[rend~="6"] {
   float: left;
   margin-top: 35pt;
   font-size: calc(600%)
+}
+
+/* TODO: 7-10 */
+
+/* TODO: Margins don't work here */
+
+hi[rend~="11"] {
+  display: inline-block;
+  float: left;
+  margin-top: 70pt;
+  font-size: calc(1100%)
+}
+
+hi[rend~="12"] {
+  display: inline-block;
+  float: left;
+  margin-top: 77pt;
+  margin-bottom: 70pt;
+  font-size: calc(1200%)
 }
