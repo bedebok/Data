@@ -1,12 +1,12 @@
 #+TITLE:
 
-|------------+---|
-| Manuscript |   |
-| Locus      |   |
-| Work       |   |
-| Language   |   |
-| Status     |   |
-|------------+---|
+|------------+-----------|
+| Manuscript | AM 72 8vo |
+| Locus      | 128r      |
+| Work       |           |
+| Language   | da        |
+| Status     | copied    |
+|------------+-----------|
 
 * Transcription
 ** Rubric

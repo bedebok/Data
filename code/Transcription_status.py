@@ -26,13 +26,23 @@ def index_error_message(file):
 # Wordcount
 count = False
 wordcount = 0
+wordcount_gml = 0
+wordcount_da = 0
+wordcount_language = ""
 def count_words(line):
     global wordcount
+    global wordcount_language
+    global wordcount_da
+    global wordcount_gml
     words = len(line.split(' '))
     if line.endswith('-\n'):
         #print("Minus one word at line ", line)
         words =- 1
     wordcount += words
+    if wordcount_language == "da":
+        wordcount_da += words
+    elif wordcount_language == "gml":
+        wordcount_gml += words
     return words
 
 # Write .csv file
@@ -89,7 +99,17 @@ def read_text_file(file):
 
                 elif "Language" in line:
                     try:
+                        global wordcount_language
                         lang = line.split('|')[2].strip()
+                        if lang =="da" or lang == "Danish":
+                            print("Language is Danish")
+                            wordcount_language = "da"
+                        elif lang == "gml" or lang == "Low German":
+                            print("Language is Low German")
+                            wordcount_language = "gml"
+                        else:
+                            print("LANGUAGE ERROR")
+                            wordcount_language = "other"
                     except IndexError:
                         index_error_message(file)
     
@@ -140,4 +160,4 @@ for file in os.listdir():
 # Final Summary:
 print("#############\nFinal Summary\n#############")
 print("Total files: ", num_files)
-print("Total words: ", wordcount)
+print("Total words: ", wordcount, "(Danish: ", wordcount_da, "| Low German: ", wordcount_gml, "| Undefined: ", wordcount - wordcount_da - wordcount_gml,")")
