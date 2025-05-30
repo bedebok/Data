@@ -1,7 +1,41 @@
 /* This stylesheet is used to display the individual prayers */
 
-teiHeader {
+/* teiHeader {
   display: none;
+} */
+
+title{
+    display: block;
+    font-size: 28pt;
+    position: fixed;
+    right: 0;
+    width: 30%;
+    padding: 20pt;
+    background-color: white;
+    border: 1pt solid darkred;
+}
+
+respStmt {
+    display: none;
+}
+authority:before{
+    content: "\a";
+    white-space: pre;
+}
+authority {
+    position: fixed;
+    right: 15pt;
+    top: 0;
+    color: lightgray;
+    font-style: italic;
+}
+
+msDesc idno {
+    display: none;
+}
+
+msContents {
+    display: none;
 }
 
 body {
@@ -65,6 +99,11 @@ w[lemma]:hover:after {
   color: cornflowerblue
 }
 
+/* w:has(>hi[rend~="2"]) {
+    display: inline-block;
+    float: left;
+} */
+
 w:hover {
   background-color: lightgray
 }
@@ -122,9 +161,34 @@ hi[rend~="6"] {
   font-size: calc(600%)
 }
 
-/* TODO: 7-10 */
+hi[rend~="7"] {
+  display: inline-block;
+  float: left;
+  margin-top: 42pt;
+  font-size: calc(700%)
+}
 
-/* TODO: Margins don't work here */
+hi[rend~="8"] {
+  display: inline-block;
+  float: left;
+  margin-top: 49pt;
+  font-size: calc(800%)
+}
+
+hi[rend~="9"] {
+  display: inline-block;
+  float: left;
+  margin-top: 56pt;
+  margin-bottom: 49pt;
+  font-size: calc(900%);
+}
+
+hi[rend~="10"] {
+  display: inline-block;
+  float: left;
+  margin-top: 63pt;
+  font-size: calc(1000%)
+}
 
 hi[rend~="11"] {
   display: inline-block;
@@ -140,3 +204,5 @@ hi[rend~="12"] {
   margin-bottom: 70pt;
   font-size: calc(1200%)
 }
+
+/* Some bottom margins need to be fixed (cf rend 12) */

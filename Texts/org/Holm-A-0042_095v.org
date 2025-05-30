@@ -1,12 +1,12 @@
 #+TITLE: Das goldenes Krongebet
 
-|------------+-----------------------------|
-| Manuscript | A 42                        |
-| Locus      | 95v:13                      |
-| Work       | KRONGEBET                   |
-| Language   | da                          |
-| Status     | begun (proofread up to 97r) |
-|------------+-----------------------------|
+|------------+-------------|
+| Manuscript | A 42        |
+| Locus      | 95v:13 101r |
+| Work       | KRONGEBET   |
+| Language   | da          |
+| Status     | Proofread   |
+|------------+-------------|
 
 * Transcription
 ** Rubric
@@ -44,7 +44,9 @@ melle huer bøn oc sa bønen
 *** Text
 [[red 9][M]]aria iech be-
 
-dær thic oc paa_myner
+dær thic oc
+
+paa_myner
 
 thik for the(n)
 
@@ -87,11 +89,11 @@ ath thu fulko(m)mer myn bø(n) æff-
 ter thin nade och æffter myn
 
 begieringh
-** Prayer                                                           :MDB105b:
 *** Rubric
 les x aue maria sta(n)-
 
 dinde och fal på knæ
+** Prayer                                                           :MDB105b:
 *** Text
 [[red 2][M]]a-
 
@@ -158,3 +160,353 @@ fulkom myn bøn æffter thin
 nade och æffter my(n) begieri(n)g
 
 ---97v---
+
+** Prayer                                                           :MDB105c:
+*** Text
+[[red 2][M]]aria iech beder thik och
+
+paa_my(n)ner thik for then
+
+store frygd och ouerfløduge fry-
+
+gdh och værdugh(et) som thin hel-
+
+lige siæl och thit liiff vntfik pa
+
+th(e)n hellige jule dagh tha thu
+
+thit aldræ_kiæriste barn ih(esu)m (christum)
+
+alle things skabære och gienkiø-
+
+bære fyrst j voggæ laude glede-
+
+ligh vden sorigh och vee och
+
+bleff iomfru j fødilsæ och for
+
+fødilsæ och æffter fødilsæ och e-
+
+vigh bliffw(er) Maria thin frygdh
+
+var fuldh stor tha thu sost {a/u}ppa
+
+thit kiære barn och kyste th(et)
+
+offre for sin mwndh och ther m(eth)
+
+talet thu ien fredh mello(m) arme
+
+syndugh me(n)niske och thi(n) søn oc
+
+ewigh gusz søn tees frygdær oc
+
+gleder sik alt th(et) j hi(m)mele(n) oc
+
+---98r---
+
+paa iorden ær Maria th(e)n store
+
+frygd pa_my(n)ner iec thik oc
+
+beder jec thik at thu fulko(m)mer
+
+my(n) bø(n) æffter thin nade oc æff-
+
+ter my(n) begiering
+*** Rubric
+les x [ave_maria]
+
+** Prayer                                                           :MDB105d:
+*** Text
+[[red 2][M]]aria iech bedær thik och
+
+paa_my(n)ner thik for th(e)n sto-
+
+re glede och frygd so(m) thin siæl
+
+och thin liiff vntfik pa th(e)n helli-
+
+ge tolffte jule dagh tha the helli-
+
+ge tre konger thin søn oc tik
+
+offer førde røgilsæ mirre och
+
+guldh thu och the vare the som
+
+fyrst ærede th(et) barn och bekie(n)-
+
+de th(et) han bode gudh och ma(n)
+
+var vordæn for me(n)niske(n) skyldh
+
+Maria th(e)n store glede och frygd
+
+pa_my(n)ner jæch thik oc bedær
+
+jech thik at thu fulko(m)mer my(n)
+
+bøn æffter thin nade oc æffter
+
+---98v---
+
+myn begieringh Ame(n)
+
+** Prayer                                                           :MDB105e:
+*** Text
+[[red 2][M]]aria
+
+iech beder thik och paa-
+
+my(n)ner thik for the(n) store fry-
+
+gdh och værdugh(et) som thi(n) siæl
+
+och liiff vntfik och anamedæ
+
+th(e)n tidh thu thit kiære barn
+
+igie(n) fandst som thu j tre dage
+
+och tre natter tabet haudhæ
+
+och thu viste vel at han døt
+
+aff iødærne lide skulle ther æff-
+
+ter vare thin glede stor ther
+
+thu fandst pa thit barn jgien
+
+th(et) thu aff stor glede ey viste
+
+huat lode thu skulle gribe Ma-
+
+ria the(n) store gledæ beder jæc
+
+thik at thu fulko(m)mer my(n) bøn
+
+æffter thin nade och æfftær
+
+myn begieri(n)ngh
+
+** Prayer                                                           :MDB105f:
+*** Text
+[[red 2][M]]aria jech bedær thik och
+
+---99r---
+
+paa_my(n)ner thik for the(n) store
+
+glede och frydh och værdugh(et)
+
+som thin siæl och liiff vntfik oc
+
+anamede paa the(n) hellige poske
+
+nat ther thin kiære søn æfftær
+
+hans hellige opp_standilsæ oben-
+
+baret sik for thik och side(n) obe(n)-
+
+baret han sik for thik s(an)c(t)a ma(ria)
+
+magdalena och ther æffter sine
+
+kiære ve(n)ner som ha(num) tientte m(eth)
+
+kiærlighe(et) och side(n) frælste ha(n) the(m)
+
+so(m) vare j lymbo och førde the(m)
+
+j paredis ther vare the til ha(n)s
+
+opp_farilsæ dagh Maria the(n) sto-
+
+re glede skyldh bedhær iech thic
+
+at thu fulko(m)mer myn bøn æff-
+
+ter thin nade och æffter myn
+
+begieringh Ame(n)
+*** Rubric
+les x aue ma(ria)
+
+** Prayer                                                           :MDB105g:
+*** Text
+[[red 2][M]]aria iech beder thik oc pa-
+
+myner thik for th(e)n store
+
+---99v---
+
+ower_fløduge frygdh och vær-
+
+dugh(et) som thin siæl och liif vnt-
+
+fik och anamæde paa the(n) hel-
+
+lige torsdagh ther thin kiære
+
+søn til hi(m)merigi foor m(eth) alle the(m)
+
+som han a poskæ nat vdh aff
+
+hilwidi løst haude Maria thi(n)
+
+glede var fuldh stor ther thu
+
+sost j_giøme(n) the ix ængel koor
+
+och sost th(e)n stol th(e)n som æff-
+
+ter gusz vish(et) var beredh och
+
+thu skulle the(n) besidde och bru-
+
+ge ewi(n)neligh Maria the(n) store
+
+frygdh paa_my(n)ner jech thik oc
+
+beder iech thik at thu fulko(m)-
+
+mer my(n) bøn æffter thin nade oc
+
+æffter myn begiering
+
+** Prayer                                                           :MDB105h:
+*** Text
+[[red 2][M]]aria iech beder thik och pa-
+
+my(n)ner thik for the(n) storæ
+
+glede och frygdh och værdugh(et)
+
+---100r---
+
+som thin siæl och liiff vntfik oc
+
+anamæde paa then hellige pinsz
+
+dagh ther thu och the hellighe
+
+appostel til samel vare j hus jmel-
+
+lom til lutte dørre ther vortæ j
+
+alle for_fyltæ m(eth) the(n) helligandz
+
+nade ther kam thit kiære bar(n)
+
+myth j blant eder och taledæ
+
+och saude pax vobis frech være
+
+m(eth) eder tha sænde thin kiære
+
+barn the xii appostel j blant v(er)de(n)
+
+och saude ath the skulle ganghæ
+
+och ki(e)ne th(e)n cristæne loff Ma(ria)
+
+th(e)n store frygd pa_my(n)ner jech
+
+thik och beder jech thic at thu
+
+fulko(m)mer my(n) bøn æffter thin
+
+nade och æffter my(n) begiering
+
+*** Rubric
+les x aue maria
+** Prayer                                                           :MDB105i:
+*** Text
+[[red 2][M]]aria
+
+jech beder thik och paa_my(n)-
+
+ner tik for th(e)n store verdugh(et)
+
+---100v---
+
+som thin siæl och liiff vntfik och
+
+anamæde th(e)n tidh thit kiæræ
+
+barn the(n) helligæ ængel s(an)c(t)e gabri-
+
+el ængel til thik sænde och ku(n)-
+
+giorde thik ath thu skulle fare
+
+aff th(e){m/nn}e vsle verden och til the(n)
+
+ewineligh glede tha kam the
+
+hellige appostel til th(et) vderstæ
+
+leffn(et) och tha kam thit kiæris-
+
+tæ barn m(eth) alt hi(m)merigis her-
+
+skab til thit yderste och førde
+
+thik m(eth) liiff och siæl j giømel
+
+the ix ængel koor ther vortæ
+
+thik stor loff och ære bodh(et) aff
+
+alle gusz helligen och ængælær
+
+Maria th(e)n store frygd paa_my(n)-
+
+ner jæch thik och bedær jæc
+
+thik at thu fulko(m)mer my(n) bøn
+
+æffter thin nadæ och æfftær
+
+myn begieringh Ame(n)
+
+---101v---
+
+** Prayer                                                           :MDB105j:
+*** Text
+[[red 2][M]]aria iech beder thik och paa-
+
+my(n)ner thik for the(n) store fry-
+
+gdh som thin siæl och liiff vntfik
+
+och anamæde the(n) tidh thit kiæ-
+
+re barn thik veldæligh opp togh
+
+j hi(m)mele(n) och satte thik pa hans
+
+høgre hand j owerste trone och
+
+gaff thik makt ow(er) hi(m)mel oc iord
+
+och troloffu(et) thik m(eth) hi(m)merigis
+
+krone och m(eth) the xij stiærner
+
+ther vast thu kallet barmhiær-
+
+tigh(et) moder edele iomfru ladh
+
+thin barmhiærtugh(et) skie(n)ne paa
+
+mik och fulkom myn bø(n) æffter
+
+thin nade och æffter my(n) begie-
+
+ringh Ame(n)
+*** Rubric
+les v aue ma(ria)

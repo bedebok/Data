@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM12-0421_072r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A Prayer to Christ's Ascension </title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM12-0421">AM 421 12mo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="72r" to="72r"/>
+<title key="ASCENSION">A Prayer to Christ's Ascension </title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="text">
+<p>
+<w xml:id="AM12-0421_72r.1.1"><hi rend="blue 3">O</hi></w>
+<w xml:id="AM12-0421_72r.1.2">Godhe</w>
+<w xml:id="AM12-0421_72r.1.3">ih<ex>es</ex>u</w>
+<w xml:id="AM12-0421_72r.1.4">loff</w>
+<w xml:id="AM12-0421_72r.1.5">ware</w>
+<lb n="2"/>
+<w xml:id="AM12-0421_72r.2.1">tegh</w>
+<w xml:id="AM12-0421_72r.2.2">som</w>
+<w xml:id="AM12-0421_72r.2.3">ffor</w>
+<w xml:id="AM12-0421_72r.2.4">med</w>
+<w xml:id="AM12-0421_72r.2.5">stor</w>
+<w xml:id="AM12-0421_72r.2.6">ffryd</w>
+<lb n="3"/>
+<w xml:id="AM12-0421_72r.3.1">och</w>
+<w xml:id="AM12-0421_72r.3.2">glædhe</w>
+<w xml:id="AM12-0421_72r.3.3">som</w>
+<w xml:id="AM12-0421_72r.3.4">thyn</w>
+<w xml:id="AM12-0421_72r.3.5">kære</w>
+<lb n="4"/>
+<w xml:id="AM12-0421_72r.4.1">modh<ex>e</ex>r</w>
+<w xml:id="AM12-0421_72r.4.2">och</w>
+<w xml:id="AM12-0421_72r.4.3">alle</w>
+<w xml:id="AM12-0421_72r.4.4">the</w>
+<w xml:id="AM12-0421_72r.4.5">werdighe</w>
+<lb n="5"/>
+<w xml:id="AM12-0421_72r.5.1">appostele</w>
+<w xml:id="AM12-0421_72r.5.2">soo</w>
+<w xml:id="AM12-0421_72r.5.3">poo</w>
+<w xml:id="AM12-0421_72r.5.4">oc</w>
+<w xml:id="AM12-0421_72r.5.5">presente<lb n="6"/>redhe</w>
+<w xml:id="AM12-0421_72r.6.2">thyn</w>
+<w xml:id="AM12-0421_72r.6.3">himmeslek</w>
+<w xml:id="AM12-0421_72r.6.4">fadh<ex>e</ex>r</w>
+<lb n="7"/>
+<w xml:id="AM12-0421_72r.7.1">the</w>
+<w xml:id="AM12-0421_72r.7.2">siele</w>
+<w xml:id="AM12-0421_72r.7.3">som</w>
+<w xml:id="AM12-0421_72r.7.4">thw</w>
+<w xml:id="AM12-0421_72r.7.5">igh<ex>e</ex>nløsthe</w>
+<lb n="8"/>
+<w xml:id="AM12-0421_72r.8.1">med</w>
+<w xml:id="AM12-0421_72r.8.2">thyn</w>
+<w xml:id="AM12-0421_72r.8.3">hellige</w>
+<w xml:id="AM12-0421_72r.8.4">oc</w>
+<w xml:id="AM12-0421_72r.8.5">dyrbar<lb n="9"/>lighe</w>
+<w xml:id="AM12-0421_72r.9.2">død</w>
+<w xml:id="AM12-0421_72r.9.3">oc</w>
+<w xml:id="AM12-0421_72r.9.4">pyne</w>
+<w xml:id="AM12-0421_72r.9.5">O</w>
+<w xml:id="AM12-0421_72r.9.6">werdige</w>
+<lb n="10"/>
+<w xml:id="AM12-0421_72r.10.1">here</w>
+<w xml:id="AM12-0421_72r.10.2">ih<ex>es</ex>u</w>
+<w xml:id="AM12-0421_72r.10.3"><ex>christ</ex>e</w>
+<w xml:id="AM12-0421_72r.10.4">alwerdzens</w>
+<lb n="11"/>
+<w xml:id="AM12-0421_72r.11.1">frelsere</w>
+<w xml:id="AM12-0421_72r.11.2">jeg</w>
+<w xml:id="AM12-0421_72r.11.3">bedh<ex>e</ex>r</w>
+<w xml:id="AM12-0421_72r.11.4">teg</w>
+<w xml:id="AM12-0421_72r.11.5">ydmy<lb n="12"/>gelige</w>
+<w xml:id="AM12-0421_72r.12.2">ath</w>
+<w xml:id="AM12-0421_72r.12.3">thyn</w>
+<w xml:id="AM12-0421_72r.12.4">myskwndh</w>
+<lb n="13"/>
+<w xml:id="AM12-0421_72r.13.1">opladhe</w>
+<w xml:id="AM12-0421_72r.13.2">meg</w>
+<w xml:id="AM12-0421_72r.13.3">he<ex>m</ex>merigis</w>
+<w xml:id="AM12-0421_72r.13.4">dør</w>
+<lb n="14"/>
+<w xml:id="AM12-0421_72r.14.1">Amen</w>
+</p></div>
+<div type="rubric">
+<p>
+<w xml:id="AM12-0421_72r.14.2">Jtem</w>
+<w xml:id="AM12-0421_72r.14.3">her</w>
+<w xml:id="AM12-0421_72r.14.4">skal</w>
+<w xml:id="AM12-0421_72r.14.5">læsses</w>
+<lb n="15"/>
+<w xml:id="AM12-0421_72r.15.1">.v.</w>
+<w xml:id="AM12-0421_72r.15.2">aue</w>
+<w xml:id="AM12-0421_72r.15.3">maria</w>
+<w xml:id="AM12-0421_72r.15.4">wor</w>
+<w xml:id="AM12-0421_72r.15.5">h<ex>e</ex>re</w>
+<w xml:id="AM12-0421_72r.15.6">tyll</w>
+<lb n="16"/>
+<w xml:id="AM12-0421_72r.16.1">loff</w>
+<w xml:id="AM12-0421_72r.16.2">som</w>
+<w xml:id="AM12-0421_72r.16.3">han</w>
+<w xml:id="AM12-0421_72r.16.4">for</w>
+<w xml:id="AM12-0421_72r.16.5">tyl</w>
+<w xml:id="AM12-0421_72r.16.6">hi<ex>m</ex>mels</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>
