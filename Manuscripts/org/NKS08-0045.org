@@ -1,5 +1,9 @@
 #+Title: NKS 45 8vo
 
+A book of hours in three parts, the second of which is primarily in Low German.
+
+[[../../imgs/NKS08-0045.jpg]]
+
 * PhysDesc
 |--------------+-------------|
 | SUPPORT      | perg        |
@@ -23,6 +27,10 @@
 | Quire |  Leaves | Structure | Changes |
 |-------+---------+-----------+---------|
 | CU 1  |         |           |         |
+|       |     -26 |           |         |
+|       |     27- |           |         |
+|       |     -54 |           |         |
+|       |     55- |           |         |
 |-------+---------+-----------+---------|
 | CU 2  | 157-166 |           |         |
 |       | 167-176 |           |         |
@@ -41,19 +49,24 @@
 
 * Contents
 ** Section 1 (Latin)
-|---------+------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------+------+--------|
-| Locus   | Type             | Text           | Rub/Inc/Exp                                                                                                                       | Lang | Status |
-|---------+------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------+------+--------|
-| 1r 1r   | table            |                |                                                                                                                                   |      |        |
-| 1v 13r  | calendar         |                |                                                                                                                                   |      |        |
-| ??      |                  |                |                                                                                                                                   |      |        |
-| 15v 16r | prayer           | MDB 1182       |                                                                                                                                   | da   | added  |
-| 16v 16v | prayer defective | ADORO_TE       | D(omi)ne ih(es)u (christe) adoro te in c(ru)ce pende(n)te(m) [...] et aromatib(us) conditu(m) de                                  | la   | added  |
-| 17r 17r | prayer           | SUSCIPE_VERBUM | [[S]]Vscipe v(ir)go Mar(i)a v(er)bu(m) [...] (con)tra hostes tuos                                                                     | la   | main   |
-| 17r 48r | cycle            | HOURS_VIRGIN   | [[D]](omi)ne labia mea aperies [...]                                                                                                  |      |        |
-| 48v 50r | cycle            | HOURS_DOLORES  | *Incipiu(n)t hor(e) de dolor(e) ma(rie)* [[H]]Ora matutina ma(r)ie [...] Ad gaudia coloru(m) p(er)ducat nos v(ir)gina ameloru(m) Amen | la   | main   |
-| 50v 51r | prayer           | SEVEN_JOYS     | *Septe(m) gaudia ma(r)ie* [[G]]Aude virgo mat(er) c(ri)sti [...]                                                                  |      |        |
-|---------+------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------+------+--------|
+|---------+------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+------+-----------------|
+| Locus   | Type             | Text                                  | Rub/Inc/Exp                                                                                                                       | Lang | Status          |
+|---------+------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+------+-----------------|
+| 1r 1r   | table            |                                       |                                                                                                                                   |      |                 |
+| 1v 13r  | calendar         |                                       |                                                                                                                                   |      |                 |
+| ??      |                  |                                       |                                                                                                                                   |      |                 |
+| 15v 16r | prayer           | Dedication to the three partsMDB 1182 | *th(e)n førstæ del* [[O]] Herre ih(es)u (christ)e jeg offer th(e)n(ne) førsthæ deel [...] oc hwswalelsæ                               | da   | added           |
+| 16v 16v | prayer defective | ADORO_TE                              | D(omi)ne ih(es)u (christe) adoro te in c(ru)ce pende(n)te(m) [...] et aromatib(us) conditu(m) de                                  | la   | added           |
+| 17r 17r | prayer           | SUSCIPE_VERBUM                        | [[S]]Vscipe v(ir)go Mar(i)a v(er)bu(m) [...] (con)tra hostes tuos                                                                     | la   | main            |
+| 17r 48r | cycle            | HOURS_VIRGIN                          | [[D]](omi)ne labia mea aperies [...]                                                                                                  |      |                 |
+| 48v 50r | cycle            | HOURS_DOLORES                         | *Incipiu(n)t hor(e) de dolor(e) ma(rie)* [[H]]Ora matutina ma(r)ie [...] Ad gaudia coloru(m) p(er)ducat nos v(ir)gina ameloru(m) Amen | la   | main            |
+| 50v 51r | prayer           | SEVEN_JOYS                            | *Septe(m) gaudia ma(r)ie* [[G]]Aude virgo mat(er) c(ri)sti [...]                                                                      | la   | main            |
+| 51v 53v | prayer           | SEVEN_JOYS                            | *De vij gaudiis spi(ri)ta b(eate) ma(rie)* [[G]]Aude v(ir)go mat(er) (christ)i [...]                                                  | la   | main            |
+| 53v 53v | psalm            | MEMENTO_DAVID                         | [M]Emento d(omin)e dauid et o(mn)is [...]                                                                                         | la   | added defective |
+| 54r 54r | note             |                                       | Ano d(omi)ni m c d l xxx viii [...]                                                                                               | da   | added           |
+| 55r     | cycle            | HOURS_TRINITY                         | *Incipiu(n)t hor(e) pulere de s(anct)i t(ri)nitate* [[T]]E inuocam(us) Te adoram(us) [...]                                            | la   | main            |
+| ...     |                  |                                       |                                                                                                                                   |      |                 |
+|---------+------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+------+-----------------|
 
 ** Section 2 (LG)
 |-----------+------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
