@@ -1,24 +1,20 @@
 #+TITLE: Ten Joys of Mary
 
 |------------+--------------------------------|
-| Manuscript | [[https://collections.library.yale.edu/catalog/2013366][Yale, Beinecke Library, MS 218]] |
-| Locus      | 127r-134v                      |
-| Language   | Low German                     |
+| Manuscript | Yale, Beinecke Library, MS 218 |
+| Locus      | 127r 134v                      |
+| Work       | KRONGEBET                      |
+| Language   | gml                            |
+| Status     | Transcribed                    |
 |------------+--------------------------------|
-
-
-** Parallels
-|------------+----------------------|
-| Danish     | MDB 105              |
-| Low German | Cod. conv. IV, C 496 |
-| Latin      |                      |
-|------------+----------------------|
+- Images :: https://collections.library.yale.edu/catalog/2013366
 
 * Transcription
 ** Rubric
 Van den frouden vnser frowen
 
-** Text 1
+** Prayer                                                           :MDB105a:
+*** Text
 MAria Ik Vor-
 
 mane dik der 
@@ -63,7 +59,8 @@ heit na myner begeringe vnd
 
 na myner nottorfft Amen.
 
-** Text 2
+** Prayer                                                           :MDB105b:
+*** Text
 Maria ik vormane der
 
 ouerflodigen froude
@@ -132,7 +129,8 @@ tigheit. na myner begeringe
 
 vnnd na myn nottorfft ame(n)
 
-** Text 3
+** Prayer                                                           :MDB105c:
+*** Text
 Maria ik vormane dy
 
 der ouerflodigenn
@@ -181,12 +179,13 @@ ria dissen groten froude wes
 
 van my armen sund(er)e erman(et)
 
-(et cetera) also vor gesc(reven) steit
+(et_cetera) also vor gesc(reven) steit
 
-** Rubric 
+*** Rubric 
 Aue m(aria)
 
-** Text 4
+** Prayer                                                           :MDB105d:
+*** Text
 Maria ik vormane dik der
 
 ouerflodigen groten
@@ -211,9 +210,10 @@ leue kynt erkanden. dat id god
 
 vnnd mynsche was. Maria
 
-desser groten froude (et cetera) alze vor(en).
+desser groten froude (et_cetera) alze vor(en).
 
-** Text 5
+** Prayer                                                           :MDB105e:
+*** Text
 Maria ik vormane dik der
 
 groten ouerflodigenn
@@ -256,10 +256,11 @@ begeringe vnd na myner not-
 
 torfft Amen. 
 
-** Rubric
+*** Rubric
 ghebet va(n) m(ari)a
 
-** Text 6 
+** Prayer                                                           :MDB105f:
+*** Text 
 Maria ik vormane dy der
 
 overflodigen grote(n) frou-
@@ -296,11 +297,12 @@ den wente to syner hemmel-
 
 uart. Maria desser groten
 
-froude des wes (et cetera) alzo vor(en)
+froude des wes (et_cetera) alzo vor(en)
 
 ---132r---
 
-** Text 7
+** Prayer                                                           :MDB105g:
+*** Text
 maria Ik vormane dy der
 
 groten froude. de dyn zele
@@ -333,9 +335,10 @@ maket was. den du besitten
 
 scholdest. Maria desser grote(n)
 
-froude der wes (et cetera) alse vor(en)
+froude der wes (et_cetera) alse vor(en)
 
-** Text 8
+** Prayer                                                           :MDB105h:
+*** Text
 Maria ik vormane dik der
 
 groten froude vnnd o-
@@ -370,9 +373,10 @@ cristen gelouen. Maria der
 
 groten froude vormane ik dy
 
-vnnd twide my (et cetera) alze vor(en)
+vnnd twide my (et_cetera) alze vor(en)
 
-** Text 9
+** Prayer                                                           :MDB105i:
+*** Text
 Maria ik vormane dy der
 
 groten froude vnnd ere
@@ -409,12 +413,13 @@ ioweliken engele grote ere ge-
 
 boden. maria desser groten 
 
-froude (et cetera) alze in dat erste
+froude (et_cetera) alze in dat erste
 
-** Rubric
+*** Rubric
 or(ati)o
 
-** Text 10
+** Prayer                                                           :MDB105j:
+*** Text
 Maria ik vormane dick
 
 der ouerflodigen froude

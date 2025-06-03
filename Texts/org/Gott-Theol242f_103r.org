@@ -1,0 +1,89 @@
+#+TITLE: Das goldene Krongebet
+
+|------------+---------------------------------|
+| Manuscript | Göttingen, Cod. Ms. Theol. 242f |
+| Locus      | 103r:19                         |
+| Work       | KRONGEBET                       |
+| Language   | gml                             |
+| Status     | begun                           |
+|------------+---------------------------------|
+- images :: https://gdz.sub.uni-goettingen.de/id/DE-611-HS-4211601?tify=%7B%22pages%22%3A%5B211%5D%2C%22view%22%3A%22info%22%7D 
+
+* Transcription
+** Rubric
+Hijr begy(n)nen de x vormany(n)-
+
+ge van(n) vnser leue(n) fruwen
+
+** Prayer                                                           :MDB105a:
+*** Text
+[[red][O]] Maria ick vormane dy
+
+---103v---
+
+der oueruloydygen groten
+
+groten vnsprekelicke(n) vrou-
+
+de ere vnde werdicheit
+
+de dy lyff vn(de) dyn zele
+
+entfenck do god de vader
+
+God de sone Gode de hillige
+
+geyst yn deme rade der hil-
+
+ligen dreuoldicheit dy ver-
+
+kos to eyner moder er he
+
+heme vn(de) erde schol O ma-
+
+ria der grote(n) vroude wes van
+
+my vormant vn(de) twyde my(n)
+
+gebet na dyne(m) gnaden vnde
+
+na myner begerynge Ame(n)
+
+** Prayer                                                           :MDB105b:
+*** Rubric
+leseet x aue maria stande
+
+vn(de) de gebede i(n) den kneen
+
+*** Text
+[[red][O]] Maria ick vormane dy
+
+der oueruloydigen groten vn-
+
+sprekelicken vroude ere vn(de)
+
+werdicheit de dy(n) lyff vnde
+
+dyne zele entfenck Do de
+
+---104r---
+
+vruch dynes lyues yn dy ge-
+
+hillighet vnde gebenedyet
+
+ward Do bekandestu des va-
+
+ders kracht Des sons wysh(ei)t
+
+des hilligen geystes leue vn(de)
+
+barmherticheit O maria der
+
+groten vroude wes va(n) my
+
+vormant vn(de) twyde myn
+
+gebet na dyne(n) gnaden vn(de)
+
+na myner begerynge Amen

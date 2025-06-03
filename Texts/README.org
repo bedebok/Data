@@ -54,6 +54,7 @@
 | [[./org/AM12-0417_063r.org]]         | AM 417 12mo   |                                  |                     |            |             |           |
 | [[./org/AM12-0417_073r.org]]         | AM 417 12mo   |                                  |                     |            |             |           |
 | [[./org/AM12-0421_030r.org]]         | AM 421 12mo   |                                  |                     |            |             |           |
+| [[./org/Beinecke-0218_127r.org]]     | Beiecke 218   | Golden Coronation Prayer         | KRONGEBET           | gml        | transcribed | converted |
 | [[./org/Beschauwing_009.org]]        |               |                                  |                     |            |             |           |
 | [[./org/GKS04-1613_161r.org]]        | GKS 1613 4to  |                                  |                     |            |             |           |
 | [[./org/GKS04-1614_001r.org]]        | GKS 1614 4to  |                                  |                     |            |             |           |
