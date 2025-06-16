@@ -1,0 +1,25 @@
+#+TITLE: Seven Penitential Psalms
+
+|------------+--------------------|
+| Manuscript | AM 76 8vo          |
+| Locus      | 113r               |
+| Work       | PENITENTIAL_PSALMS |
+| Language   | da                 |
+| Status     | begun              |
+|------------+--------------------|
+
+* Transcription
+** Rubric
+D(omi)ne ne i(n) furo(re)  tuo
+
+** Rubric
+Hæær byryæs syw salmæ
+** Text
+H(e)ræ
+
+mynnes ey myne eller myner
+
+foræld(er)s brøthæ oc tagh ey hawyn
+
+aff wore syndh ???
+

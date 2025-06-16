@@ -1,19 +1,22 @@
 #+TITLE: Credo (Apostolic Creed)
 
 * Examples in the Corpus
-|-------------+-------------------------------------+----------+-------+------|
-| Shelfmark   | Manuscript / Print                  | Language | Locus | MDB  |
-|-------------+-------------------------------------+----------+-------+------|
-| AM 73 8vo   |                                     | German   | 136v-137r |  |
-| AM 76 8vo   |                                     | Danish   | 41r-42r | 972 |
-|-------------+-------------------------------------+----------+-------+------|
+|-------------+--------------------+----------+-----------|
+| Shelfmark   | Manuscript / Print | Language | Locus     |
+|-------------+--------------------+----------+-----------|
+| AM 73 8vo   |                    | German   | 136v-137r |
+| AM 76 8vo   |                    | Danish   | 41r-42r   |
+| AM 421 12mo |                    | Danish   | 22r-23r   |
+|-------------+--------------------+----------+-----------|
+
+Note that the copy in AM 76 8vo is part of a question and answer.
 
 ** Outside of Corpus
-|-------------+-------------------------------------+----------+-------+------|
-| Shelfmark   | Manuscript / Print                  | Language | Locus | MDB  |
-|-------------+-------------------------------------+----------+-------+------|
-|             | Lucas Brandis (1483) Seven tyde     | German   | 109r-110r |  |
-|-------------+-------------------------------------+----------+-------+------|
+|-----------+---------------------------------+----------+-----------|
+| Shelfmark | Manuscript / Print              | Language | Locus     |
+|-----------+---------------------------------+----------+-----------|
+|           | Lucas Brandis (1483) Seven tyde | German   | 109r-110r |
+|-----------+---------------------------------+----------+-----------|
 
 * Structure of the text
 The text can be divided into twelve sections or sentences. In some witnesses each section is attributed to a specific apostle.

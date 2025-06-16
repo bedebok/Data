@@ -11,7 +11,7 @@ Seven psalms of David considered lamentations. These frequently are found in boo
 |              | Arndes 1499          | German   |         |       |
 | AM 417 12mo  |                      | German   | 73v     |       |
 | GKS 1615 4to |                      |          | 138v    |       |
-| AM 76 8vo    |                      | Danish   | 113r    |       |
+| AM 76 8vo    | Per Rævs             | Danish   | 113r    |       |
 | GKS 1613 4to | Else Holgersdatters  | Danish   | 19v-29r |       |
 | Holm A 42    | Johanne Nielsdatters | Latin    |         |       |
 | GKS 3423     |                      | German   | 79r-    |       |

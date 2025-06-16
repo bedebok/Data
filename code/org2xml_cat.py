@@ -395,18 +395,21 @@ with open(sys.argv[1].replace('org','xml'), 'w') as write_file:
     write_file.write("<collation>\n<list>\n")
     for line in range(starting_line, ending_line + 1):
         quireNum = line - starting_line + 1
-        locus = quireStructure['Leaves'][line].split('-')
-        print(locus)
-        write_file.write("<item n=\""+str(quireNum)+"\">\n")
-        write_file.write("<locus from=\""+locus[0]+"\" to=\""+locus[1]+"\"/>\n")
-        if line in quireStructure['Structure'].keys():
-            if line in quireStructure['Changes'].keys():
-               write_file.write("<desc>"+quireStructure['Structure'][line]+". "+quireStructure['Changes'][line]+"</desc>\n")
-            else:
-                write_file.write("<desc>"+quireStructure['Structure'][line]+"</desc>\n")
-        elif line in quireStructure['Changes'].keys():
-            write_file.write("<desc>"+quireStructure['Changes'][line]+"</desc>\n")
-        write_file.write("</item>")
+        try:
+            locus = quireStructure['Leaves'][line].split('-')
+            print(locus)
+            write_file.write("<item n=\""+str(quireNum)+"\">\n")
+            write_file.write("<locus from=\""+locus[0]+"\" to=\""+locus[1]+"\"/>\n")
+            if line in quireStructure['Structure'].keys():
+                if line in quireStructure['Changes'].keys():
+                    write_file.write("<desc>"+quireStructure['Structure'][line]+". "+quireStructure['Changes'][line]+"</desc>\n")
+                else:
+                    write_file.write("<desc>"+quireStructure['Structure'][line]+"</desc>\n")
+            elif line in quireStructure['Changes'].keys():
+                write_file.write("<desc>"+quireStructure['Changes'][line]+"</desc>\n")
+            write_file.write("</item>")
+        except Exception:
+            print("No quire structure on line", line, ". Skipping.")
     write_file.write("</list>\n</collation>")
 
     #Close Support Desc

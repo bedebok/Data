@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Kalmar-0033" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Kalmar 33: Knud Billes Tidebog</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KAL"/>
+<repository key="KSB"/>
+<idno corresp="Kalmar 33: Knud Billes Tidebog"/>
+</msIdentifier>
+<head>
+
+</head>
+<msContents>
+<msItem class="undefined" n="1" defective="true">
+<locus from="1r" to="1v"/>
+<title>CP</title>
+<rubric>collecta</rubric>
+<incipit> <hi>O</hi> Alsommectiste gud </incipit>
+<explicit>alle mine vuenner synlige och vsynlige Amen</explicit>
+</msItem>
+<msItem class="undefined" n="2">
+<locus from="1v" to="1v"/>
+<title>AVE_MARIA_ANNA? MDB134</title>
+<rubric>Alexander pawe den siette han sætte de<ex>n</ex>ne bøn</rubric>
+<incipit> <hi>H</hi>ill ma<ex>ri</ex>a fuld m<ex>et</ex> nade </incipit>
+<explicit> gudz søn ær fød aff dig Amen</explicit>
+</msItem>
+<msItem class="undefined" n="3">
+<locus from="2r" to="43r"/>
+<title>HOURS_VIRGIN MDBI15</title>
+<incipit><hi>A</hi>ve maria gra<ex>cia</ex> plena </incipit>
+<explicit> Nos cu<ex>m</ex> prole pia b<ex>e</ex>n<ex>e</ex>dicat virgo maria. Amen.</explicit>
+</msItem>
+<msItem class="undefined" n="4">
+<locus from="43v" to="45r"/>
+<title>trinity MDB162</title>
+<rubric>Denne bøn skal lesiss om morgenen hellig trefoldighed til ere loff oc heder</rubric>
+<incipit> <hi>O</hi> helligste mectiste ærefulde oc v atskillelige trefoldigh<ex>et</ex> </incipit>
+<explicit> oc bliffue der med dig euindelige Amen *Pat<ex>er</ex> Aue*</explicit>
+</msItem>
+<msItem class="undefined" n="5">
+<locus from="45r" to="46r"/>
+<title>trinity CP</title>
+<rubric>En anden gudelig bøn at læse hellig trefoldighedh til loff och ære</rubric>
+<incipit> <hi>O</hi> helligste trefoldighed som er en sander gud </incipit>
+<explicit> oc lad mig see dit guddo<ex>m</ex>melige ansict i hie<ex>m</ex>merige til euig tiid Amen *P<ex>ate</ex>r Aue*</explicit>
+</msItem>
+<msItem class="undefined" n="6">
+<locus from="46r" to="48r"/>
+<title>trinity MDB165</title>
+<rubric>Denne effter<ex>skreffne</ex> bøn hwo henne gudelige læss</rubric>
+<incipit> <hi>O</hi> alsommectiste gud fader oc søn oc helliand </incipit>
+<explicit> O hellige trefoldighed Ame<ex>n</ex></explicit>
+</msItem>
+<msItem class="undefined" n="7">
+<locus from="48r" to="48v"/>
+<title>trinity MDB78</title>
+<rubric>Afflad til denne effterscriffne bøn ær thu twsendhe aar</rubric>
+<incipit> <hi>H</hi>ellige oc w atskillige trefoldighed </incipit>
+<explicit> aff alle creature euindelige Amen *Pater n<ex>oste</ex>r Aue*</explicit>
+</msItem>
+<msItem class="undefined" n="8">
+<locus from="48v" to="50r"/>
+<title>trinity MDB166</title>
+<rubric>Her effter skriffues en god bøn</rubric>
+<incipit> <hi>T</hi>he<ex>n</ex>ne bøn læss iagh dig gud fader til din heder </incipit>
+<explicit> fra ald vode bode sielss oc legemes</explicit>
+</msItem>
+<msItem class="undefined" n="9">
+<locus from="50r" to="51r"/>
+<title>charlemagne MDB920</title>
+<rubric>Dette ær cristi breff huilket pawe leo sende ko<ex>n</ex>ning karl</rubric>
+<incipit> <hi>O</hi> kors heel være dw eniste hob </incipit>
+<explicit> Och leede mig til euindelig hiemmerigiss glede Amen</explicit>
+</msItem>
+<msItem class="undefined" n="10">
+<locus from="51v" to="54r"/>
+<title>"befalelse" MDB167</title>
+<incipit><hi>O</hi> h<ex>er</ex>re gud fader søn oc then helligand </incipit>
+<explicit> och hiem at komme Jn no<ex>m</ex>i<ex>n</ex>e patris <ex>et</ex> filii <ex>et</ex> sp<ex>irit</ex>ussancti Amen</explicit>
+</msItem>
+<msItem class="pen trials" n="11">
+<locus from="54r" to="54r"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="12">
+<locus from="55r" to="66r"/>
+<title>HOURS_HOLY_SPIRIT MDBI46</title>
+<incipit><hi>S</hi>Ancti sp<ex>irit</ex>us assit nobis </incipit>
+<explicit> Jntus et exterius confortat nos sp<ex>irit</ex>us almus Amen</explicit>
+</msItem>
+<msItem class="undefined" n="13">
+<locus from="66v" to="69v"/>
+<title>HOURS_CROSS MDBI59</title>
+<rubric>De s<ex>an</ex>c<ex>t</ex>a Cruce</rubric>
+<incipit> <hi>T</hi>Vam cruce<ex>m</ex> adoramus </incipit>
+<explicit> ad gaudia paradysi. Amen.</explicit>
+</msItem>
+<msItem class="pen trials" n="14">
+<locus from="70r" to="70r"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="15">
+<locus from="71r" to="71v"/>
+<title>?Alternative reading?</title>
+<rubric>Item</rubric>
+<incipit> <hi>B</hi><ex>e</ex>n<ex>e</ex>dica<ex>mus</ex> d<ex>omi</ex>n<ex>u</ex>m in o<ex>mn</ex>i t<ex>em</ex>p<ex>or</ex>e </incipit>
+<explicit> vt fructuosa sint suis ??? Amen</explicit>
+</msItem>
+<msItem class="undefined" n="16">
+<locus from="71r" to="undefined"/>
+<title>PENITENTIAL_PSALMS MDBI63</title>
+<rubric>psalm<ex>us</ex></rubric>
+<incipit> <hi>D</hi>Om<ex>i</ex>ne ne in fu<ex>r</ex>ore tuo arguas me </incipit>
+<explicit> et ut au<ex>er</ex>tas indignac<ex>i</ex>o<ex>nem</ex> suam a nobis</explicit>
+</msItem>
+<msItem class="undefined" n="17">
+<locus from="84v" to="93v"/>
+<title>LITANY MDBI69</title>
+<incipit><hi>K</hi>yrieleison <hi>X</hi><ex>rist</ex>eeleison </incipit>
+<explicit> Per <ex>christu</ex>m Dominu<ex>m</ex> nostrum. Amen.</explicit>
+</msItem>
+<msItem class="undefined" n="18">
+<locus from="94r" to="94v"/>
+<title>JEROME CP</title>
+<rubric>De sancto Jeronimo or<ex>ati</ex>o</rubric>
+<incipit> <hi>O</hi> s<ex>a</ex>c<ex>ri</ex>ssime confessor dei </incipit>
+<explicit> ac clarissima necnon Jocundissima diuinitate Jn eternu<ex>m</ex>. Amen.</explicit>
+</msItem>
+<msItem class="undefined" n="19">
+<locus from="94v" to="96r"/>
+<title>ERASMUS CP</title>
+<rubric>En bøn til Sancte rasm<ex>us</ex></rubric>
+<incipit> <hi>O</hi> Dw alder klariste gudz mertir </incipit>
+<explicit> och salighed i hiemmerige Amen *p<ex>ate</ex>r n<ex>oste</ex>r*</explicit>
+</msItem>
+<msItem class="undefined" n="20">
+<locus from="96r" to="96v"/>
+<title>SEBASTIAN MDB330</title>
+<rubric>EN god bøn aff sancto sebastiano</rubric>
+<incipit> <hi>A</hi>Ancte sebastiane stor ær din thro </incipit>
+<explicit> oc aff braad død for din hellige bøn Amen *P<ex>ate</ex>r nost<ex>er</ex> Aue maria gracia*</explicit>
+</msItem>
+<msItem class="undefined" n="21">
+<locus from="96v" to="96bisv"/>
+<title>Swedish</title>
+<rubric>En god bøn til sin hellige ængild</rubric>
+<incipit> <hi>H</hi>eel vare dw velsignede gudz hellige ængild </incipit>
+<explicit> oc alle gudz helgen maa loffwe gud euindelige vnden ænde Amen</explicit>
+</msItem>
+<msItem class="undefined" n="22">
+<locus from="96bisv" to="97v"/>
+<title>magi CP</title>
+<rubric>En bøn til de hellige iij kong<ex>er</ex></rubric>
+<incipit> <hi>O</hi> J hellige tre konger iaspar Melchior och balthazar </incipit>
+<explicit> oc disligest fraa braadød oc alt ande ontth Amen</explicit>
+</msItem>
+<msItem class="undefined" n="23">
+<locus from="97v" to="98r"/>
+<title>CHRISTOPHER MDB149</title>
+<rubric>Hær byriess en god bøn aff then verdige herre oc martir Sancte christoffer</rubric>
+<incipit> <hi>O</hi> hellige h<ex>er</ex>re Sancte cristoffer </incipit>
+<explicit> oc m<ex>et</ex> sallighed dø och fanghe then ewinderllig ære Ame<ex>n</ex> *Pater noster Aue maria*</explicit>
+</msItem>
+<msItem class="added" n="24">
+<locus from="98v" to="98v"/>
+<title/>
+</msItem>
+<msItem class="annal" n="25">
+<locus from="99r" to="99r"/>
+<title>1536</title>
+<incipit>Anno d<ex>omi</ex>nj M C XXX VI J mellom </incipit>
+<explicit> Kong Ffrederick<ex>is</ex> Søn <ex>et cetera</ex></explicit>
+</msItem>
+<msItem class="annal" n="26">
+<locus from="99v" to="99v"/>
+<title>1440/1?</title>
+</msItem>
+<msItem class="undefined" n="27">
+<locus from="102r" to="132v"/>
+<title>VIGIL_MORT</title>
+<rubric>Vigilie mortuor<ex>u</ex>m</rubric>
+<incipit> Placebo <hi>D</hi>Ilexi qui </incipit>
+<explicit></explicit>
+</msItem>
+<msItem class="undefined" n="28">
+<locus from="124r" to="..."/>
+<title>final three lessons</title>
+<rubric>Venth om bladeth saa faar tw then sywende leytze th<ex>e</ex>r ath See</rubric>
+<incipit> *l<ex>e</ex>ctio vij<ex>ra</ex>* <hi>S</hi>p<ex>irit</ex>us meus </incipit>
+<explicit>  Requiesca<ex>n</ex>t i<ex>n</ex> pace Ame<ex>n</ex></explicit>
+</msItem>
+<msItem class="undefined" n="29">
+<locus from="133r" to="134r"/>
+<title>[MDB16]</title>
+<rubric>Her begynnes een god bøn aff wor herris pynelsæ oc th<ex>e</ex>r er ganskæ stort afflath til giffwet se<ex>?</ex></rubric>
+<incipit> <hi>D</hi>Eus qui pro rede<ex>m</ex>pc<ex>i</ex>one </incipit>
+<explicit> p<ex>er</ex> o<ex>mn</ex>ia secula seculorum. Amen.</explicit>
+</msItem>
+<msItem class="undefined" n="30">
+<locus from="134r" to="135r"/>
+<title>[MDB81]</title>
+<rubric>Orac<ex>i</ex>o bona</rubric>
+<incipit> <hi>A</hi>VE dextera manus <ex>christi</ex> </incipit>
+<explicit> faciant amore feru<ex>er</ex>tes. Per.</explicit>
+</msItem>
+<msItem class="undefined" n="31">
+<locus from="135r" to="136v"/>
+<title>BERNHARD</title>
+<rubric>Sancti bernardi bøn.</rubric>
+<incipit> <hi>I</hi>llumina oculos meos </incipit>
+<explicit> Per <ex>chr</ex>istum Dominu<ex>m</ex> nostrum. Amen.</explicit>
+</msItem>
+<msItem class="undefined" n="32">
+<locus from="137r" to="139v"/>
+<title>VERSE_GREGORY MDB191</title>
+<rubric>SAnctus gregorius pawe dictede</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>re ih<ex>es</ex>u criste Jag til beder dig </incipit>
+<explicit> tiil liff oc siel nw oc ewindelige</explicit>
+</msItem>
+<msItem class="undefined" n="33">
+<locus from="139v" to="145v"/>
+<title>NAME_PRAYER MDB88</title>
+<rubric>Hwo som denne effter<ex>skreffne</ex> bøn læss hwer dag</rubric>
+<incipit> <hi>O</hi> Alsomectiste gud </incipit>
+<explicit> gud fader och den hellige and nw oc ewindelige Amen *Pater n<ex>oste</ex>r Aue ma<ex>ria</ex> Sanct<ex>us</ex> gregorius paw*</explicit>
+</msItem>
+<msItem class="undefined" n="34">
+<locus from="145v" to="151r"/>
+<title>gregory MDB203</title>
+<rubric>Sanctus gregorius paw i Rom gaff ...</rubric>
+<incipit> <hi>H</hi>eel ihesu cristi høgre hand </incipit>
+<explicit> om den sa<ex>m</ex>me <ex>christu</ex>m vor h<ex>er</ex>re Amen *p<ex>ate</ex>r n<ex>oste</ex>r Aue*</explicit>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<extent></extent>
+<collation>
+<list>
+<item n="1">
+<locus from="1" to="8"/>
+<desc>quaternion. (4+5) Unclear whether 1 originally belonged, but possible</desc>
+</item><item n="2">
+<locus from="9" to="16"/>
+<desc>quaternion</desc>
+</item><item n="3">
+<locus from="17" to="23"/>
+<desc>quaternion. 21bis</desc>
+</item><item n="4">
+<locus from="24" to="30"/>
+<desc>quaternion. fals bef 30; no text missing</desc>
+</item><item n="5">
+<locus from="31" to="38"/>
+<desc>quaternion</desc>
+</item><item n="6">
+<locus from="39" to="46"/>
+<desc>quaternion</desc>
+</item><item n="7">
+<locus from="47" to="54"/>
+<desc>quaternion. (50+51)</desc>
+</item><item n="9">
+<locus from="55" to="62"/>
+<desc>quaternion. new cu?</desc>
+</item><item n="10">
+<locus from="63" to="70"/>
+<desc>quaternion</desc>
+</item><item n="12">
+<locus from="71" to="78"/>
+<desc>quaternion. new cu</desc>
+</item><item n="13">
+<locus from="79" to="86"/>
+<desc>quaternion</desc>
+</item><item n="14">
+<locus from="87" to="94"/>
+<desc>quaternion</desc>
+</item><item n="15">
+<locus from="95" to="101"/>
+<desc>quaternion. 96bis</desc>
+</item><item n="17">
+<locus from="102" to="108"/>
+<desc>quaternion. new cu; leaf cut between 107-108</desc>
+</item><item n="18">
+<locus from="109" to="116"/>
+<desc>quaternion. no 115</desc>
+</item><item n="19">
+<locus from="117" to="122"/>
+<desc>ternion</desc>
+</item><item n="20">
+<locus from="123" to="132"/>
+<desc>quinternion</desc>
+</item><item n="22">
+<locus from="133" to="139"/>
+<desc>quaternion. 8th leaf cut</desc>
+</item><item n="23">
+<locus from="140" to="145"/>
+<desc>ternion</desc>
+</item><item n="24">
+<locus from="146" to="151"/>
+<desc>ternion?. unclear</desc>
+</item></list>
+</collation></supportDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>
