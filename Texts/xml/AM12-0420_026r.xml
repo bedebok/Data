@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM12-0420_026r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Das goldene Krongebet</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM12-0420">AM 420 12mo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="26r" to="|"/>
+<title key="KRONGEBET">Das goldene Krongebet</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="rubric">
+<p>
+<w xml:id="AM12-0420_26r.1.1">bø<ex>n</ex></w>
+<w xml:id="AM12-0420_26r.1.2">tha</w>
+<w xml:id="AM12-0420_26r.1.3">skalt</w>
+<w xml:id="AM12-0420_26r.1.4">thu</w>
+<w xml:id="AM12-0420_26r.1.5">stande</w>
+<w xml:id="AM12-0420_26r.1.6">for</w>
+<lb n="2"/>
+<w xml:id="AM12-0420_26r.2.1">vor</w>
+<w xml:id="AM12-0420_26r.2.2">frue</w>
+<w xml:id="AM12-0420_26r.2.3">belædhæ</w>
+<w xml:id="AM12-0420_26r.2.4">oc</w>
+<w xml:id="AM12-0420_26r.2.5">lessæ</w>
+<lb n="3"/>
+<w xml:id="AM12-0420_26r.3.1">m<ex>eth</ex></w>
+<w xml:id="AM12-0420_26r.3.2">gudeligh</w>
+<w xml:id="AM12-0420_26r.3.3">ath</w>
+<w xml:id="AM12-0420_26r.3.4">vokt</w>
+<w xml:id="AM12-0420_26r.3.5">x</w>
+<w xml:id="AM12-0420_26r.3.6">aue</w>
+<lb n="4"/>
+<w xml:id="AM12-0420_26r.4.1">maria</w>
+<w xml:id="AM12-0420_26r.4.2">oc</w>
+<w xml:id="AM12-0420_26r.4.3">fal</w>
+<w xml:id="AM12-0420_26r.4.4">pa</w>
+<w xml:id="AM12-0420_26r.4.5">kne</w>
+<w xml:id="AM12-0420_26r.4.6">oc</w>
+<w xml:id="AM12-0420_26r.4.7">les</w>
+<w xml:id="AM12-0420_26r.4.8">t<ex>henne</ex></w>
+<w xml:id="AM12-0420_26r.4.9">b<ex>øn</ex></w>
+</p></div>
+<div type="prayer">
+<p>
+</p><div type="text">
+<p>
+<lb n="5"/>
+<w xml:id="AM12-0420_26r.5.1"><hi rend="red 5">M</hi>aria</w>
+<w xml:id="AM12-0420_26r.5.2">iæc</w>
+<w xml:id="AM12-0420_26r.5.3">for<lb n="6"/>maner</w>
+<w xml:id="AM12-0420_26r.6.2">thic</w>
+<lb n="7"/>
+<w xml:id="AM12-0420_26r.7.1">for</w>
+<w xml:id="AM12-0420_26r.7.2">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_26r.7.3">store</w>
+<lb n="8"/>
+<w xml:id="AM12-0420_26r.8.1">frygd</w>
+<w xml:id="AM12-0420_26r.8.2">oc</w>
+<w xml:id="AM12-0420_26r.8.3">ou<ex>er</ex><lb n="9"/>flodige</w>
+<w xml:id="AM12-0420_26r.9.2">fryd</w>
+<lb n="10"/>
+<w xml:id="AM12-0420_26r.10.1">oc</w>
+<w xml:id="AM12-0420_26r.10.2">ære</w>
+<w xml:id="AM12-0420_26r.10.3">oc</w>
+<w xml:id="AM12-0420_26r.10.4">verdighet</w>
+<w xml:id="AM12-0420_26r.10.5">S<supplied>om</supplied></w>
+<lb n="11"/>
+<w xml:id="AM12-0420_26r.11.1">thit</w>
+<w xml:id="AM12-0420_26r.11.2">liiff</w>
+<w xml:id="AM12-0420_26r.11.3">oc</w>
+<w xml:id="AM12-0420_26r.11.4">thi<ex>n</ex></w>
+<w xml:id="AM12-0420_26r.11.5">siel</w>
+<w xml:id="AM12-0420_26r.11.6">vnt fek</w>
+<lb n="12"/>
+<w xml:id="AM12-0420_26r.12.1">Oc</w>
+<w xml:id="AM12-0420_26r.12.2">ana<ex>m</ex>mede</w>
+<w xml:id="AM12-0420_26r.12.3">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_26r.12.4">thid</w>
+<w xml:id="AM12-0420_26r.12.5">gud</w>
+<w xml:id="AM12-0420_26r.12.6">fa<lb n="13"/>th<ex>e</ex>r</w>
+<w xml:id="AM12-0420_26r.13.2">oc</w>
+<w xml:id="AM12-0420_26r.13.3">søn</w>
+<w xml:id="AM12-0420_26r.13.4">oc</w>
+<w xml:id="AM12-0420_26r.13.5">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_26r.13.6">hellighæ</w>
+<lb n="14"/>
+<w xml:id="AM12-0420_26r.14.1">and</w>
+<w xml:id="AM12-0420_26r.14.2">thic</w>
+<w xml:id="AM12-0420_26r.14.3">sigh</w>
+<w xml:id="AM12-0420_26r.14.4">sielff</w>
+<w xml:id="AM12-0420_26r.14.5">til</w>
+<w xml:id="AM12-0420_26r.14.6">ien</w>
+<lb n="15"/>
+<w xml:id="AM12-0420_26r.15.1">moder</w>
+<w xml:id="AM12-0420_26r.15.2">gaf</w>
+<w xml:id="AM12-0420_26r.15.3">æn</w>
+<w xml:id="AM12-0420_26r.15.4">doo</w>
+<w xml:id="AM12-0420_26r.15.5">at</w>
+<w xml:id="AM12-0420_26r.15.6"><supplied>gusz</supplied></w>
+<pb n="26v"/>
+<lb n="1"/>
+<w xml:id="AM12-0420_26v.1.1">søn</w>
+<w xml:id="AM12-0420_26v.1.2">alle</w>
+<w xml:id="AM12-0420_26v.1.3">iæn<ex>n</ex>æ</w>
+<w xml:id="AM12-0420_26v.1.4">mando<ex>m</ex></w>
+<w xml:id="AM12-0420_26v.1.5">aff</w>
+<w xml:id="AM12-0420_26v.1.6">thic</w>
+<lb n="2"/>
+<w xml:id="AM12-0420_26v.2.1">tog</w>
+<w xml:id="AM12-0420_26v.2.2">oc</w>
+<w xml:id="AM12-0420_26v.2.3">alle</w>
+<w xml:id="AM12-0420_26v.2.4">verde<ex>n</ex></w>
+<w xml:id="AM12-0420_26v.2.5">efter</w>
+<w xml:id="AM12-0420_26v.2.6">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_26v.2.7">hel<lb n="3"/>lige</w>
+<w xml:id="AM12-0420_26v.3.2">tre</w>
+<w xml:id="AM12-0420_26v.3.3">foldughetz</w>
+<w xml:id="AM12-0420_26v.3.4">rad</w>
+<w xml:id="AM12-0420_26v.3.5">førre</w>
+<lb n="4"/>
+<w xml:id="AM12-0420_26v.4.1">æn</w>
+<w xml:id="AM12-0420_26v.4.2">ha<ex>n</ex></w>
+<w xml:id="AM12-0420_26v.4.3">he<ex>m</ex>melen</w>
+<w xml:id="AM12-0420_26v.4.4">oc</w>
+<w xml:id="AM12-0420_26v.4.5">iorde<ex>n</ex></w>
+<w xml:id="AM12-0420_26v.4.6">skap<lb n="5"/>te</w>
+<w xml:id="AM12-0420_26v.5.2">iomfru</w>
+<w xml:id="AM12-0420_26v.5.3">maria</w>
+<w xml:id="AM12-0420_26v.5.4">gusz</w>
+<w xml:id="AM12-0420_26v.5.5">moder</w>
+<lb n="6"/>
+<w xml:id="AM12-0420_26v.6.1">Tha</w>
+<w xml:id="AM12-0420_26v.6.2">vast</w>
+<w xml:id="AM12-0420_26v.6.3">thu</w>
+<w xml:id="AM12-0420_26v.6.4">vt</w>
+<w xml:id="AM12-0420_26v.6.5">vold</w>
+<w xml:id="AM12-0420_26v.6.6">til</w>
+<w xml:id="AM12-0420_26v.6.7">at</w>
+<lb n="7"/>
+<w xml:id="AM12-0420_26v.7.1">thu</w>
+<w xml:id="AM12-0420_26v.7.2">skulde</w>
+<w xml:id="AM12-0420_26v.7.3">vorde</w>
+<w xml:id="AM12-0420_26v.7.4">gusz</w>
+<w xml:id="AM12-0420_26v.7.5">moder</w>
+<lb n="8"/>
+<w xml:id="AM12-0420_26v.8.1">for</w>
+<w xml:id="AM12-0420_26v.8.2">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_26v.8.3">store</w>
+<w xml:id="AM12-0420_26v.8.4">frygd</w>
+<w xml:id="AM12-0420_26v.8.5">for ma<ex>n</ex>ner</w>
+<lb n="9"/>
+<w xml:id="AM12-0420_26v.9.1">iæc</w>
+<w xml:id="AM12-0420_26v.9.2">thic</w>
+<w xml:id="AM12-0420_26v.9.3">mi<ex>n</ex></w>
+<w xml:id="AM12-0420_26v.9.4">bøn</w>
+<w xml:id="AM12-0420_26v.9.5">efter</w>
+<w xml:id="AM12-0420_26v.9.6">thi<ex>n</ex></w>
+<w xml:id="AM12-0420_26v.9.7">nade</w>
+<w xml:id="AM12-0420_26v.9.8">oc</w>
+<lb n="10"/>
+<w xml:id="AM12-0420_26v.10.1">æfter</w>
+<w xml:id="AM12-0420_26v.10.2">mi<ex>n</ex></w>
+<w xml:id="AM12-0420_26v.10.3">begering</w>
+<w xml:id="AM12-0420_26v.10.4">am<ex>en</ex></w>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

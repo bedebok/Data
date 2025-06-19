@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM12-0420" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>AM 420 12mo</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM 420 12mo"/>
+</msIdentifier>
+<head>
+
+</head>
+<msContents>
+<msItem class="cycle" n="1" defective="true">
+<locus from="1r" to="undefined"/>
+<title/>
+<rubric>stadh festhe thessæ thre æfth<ex>e</ex>r fyliædhæs bønær ...</rubric>
+<incipit> <hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e</incipit>
+<textLang mainLang="da"/>
+<msItem class="prayer" n="2" defective="true">
+<locus from="1r" to="1v"/>
+<title/>
+<rubric>stadh festhe thessæ thre æfth<ex>e</ex>r fyliædhæs bønær ...</rubric>
+<incipit> <hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e</incipit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="3" defective="true">
+<locus from="1v" to="2r"/>
+<title/>
+<rubric>Til th<ex>e</ex>n annæ<ex>n</ex> bøn gaaff han thwsindh ar fra dædheligh syndhær amen</rubric>
+<incipit> <hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e</incipit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="4" defective="true">
+<locus from="2r" to="2r"/>
+<title/>
+<incipit></incipit>
+<explicit> wi mone ewi<ex>n</ex>næligh m<ex>eth</ex> thic bliwe am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+</msItem>
+<msItem class="prayer" n="5" defective="true">
+<locus from="2r" to="3v"/>
+<title/>
+<rubric>Hære byriæs iæ<ex>n</ex> myghet godh bøn aff the syw ordh so<ex>m</ex> vor h<ex>er</ex>ræ taledh</rubric>
+<incipit> <hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e som syn ord saude </incipit>
+<explicit> at iær ma trygge...</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="6" defective="true">
+<locus from="4r" to="4r"/>
+<title>End of prayer</title>
+<incipit></incipit>
+<explicit> at bliwe ewi<ex>n</ex>nælig am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="7">
+<locus from="4r" to="undefined"/>
+<title/>
+<rubric>Innocencius paue gauff huer th<ex>e</ex>n me<ex>n</ex>niske som les thi<ex>n</ex>næ bøn ...</rubric>
+<incipit> <hi>S</hi>alue ih<ex>es</ex>u heel </incipit>
+<explicit> som mæg bryster ame<ex>n</ex> **p<ex>ate</ex>r n<ex>oste</ex>r aue maria**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="8">
+<locus from="6r" to="8v"/>
+<title/>
+<rubric>Hære byries iæn mygeth god bøn aff vor h<ex>er</ex>re ih<ex>es</ex>us <ex>christ</ex>us</rubric>
+<incipit> <hi>O</hi> miskundeligh oc alt so mildeste gud </incipit>
+<explicit> th<ex>et</ex> bedes iæch giærnæ aff thik **p<ex>ate</ex>r n<ex>oste</ex>r aue maria**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="9">
+<locus from="8v" to="10r"/>
+<title>FIVE_WOUNDS</title>
+<rubric>De qui<ex>n</ex>q<ex>ue</ex> wlneribus</rubric>
+<incipit> <hi>A</hi>ue corpus denuda cu<ex>m</ex> multis plagis </incipit>
+<explicit> <ex>et</ex> eterne vite gaudia consequi mereamur **p<ex>ate</ex>r n<ex>oste</ex>r a<ex>ue maria</ex>**</explicit>
+<textLang mainLang="lat"/>
+</msItem>
+<msItem class="prayer" n="10">
+<locus from="10r" to="10v"/>
+<title/>
+<rubric>Huo som thisse efter skrefnæ bøne gudeligh læsser for huer tidh the th<ex>et</ex> giøre gusz pine til loff ta haue the for huert tidh atte m° ar oc xxx dage oc æn vij daue oc xx</rubric>
+<incipit> <hi>S</hi><ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue trinitate </incipit>
+<explicit> per in finita seculoru<ex>m</ex> secula am<ex>en</ex> **p<ex>ate</ex>r n<ex>oste</ex>r aue mar<ex>ia</ex>**</explicit>
+<textLang mainLang="lat"/>
+</msItem>
+<msItem class="prayer" n="11">
+<locus from="10v" to="12r"/>
+<title/>
+<rubric>Sa this som mændh lesser the<ex>n</ex>næ bøn Och ær han wthe<ex>n</ex> dødelig synder tha for_huerw<ex>er</ex> ha<ex>n</ex> so mygheth aflad So<ex>m</ex> ær thøff thusind ar oc thøf hu<ex>n</ex>dræt aar och tre sin tyue daghæ afladh</rubric>
+<incipit> <hi>I</hi>llumina oculos meos </incipit>
+<explicit> p<ex>er</ex> <ex>christu</ex>m d<ex>omi</ex>n<ex>u</ex>m</explicit>
+<textLang mainLang="lat"/>
+</msItem>
+<msItem class="prayer" n="12">
+<locus from="12r" to="12r"/>
+<title>TRISAGION</title>
+<incipit><hi>S</hi><ex>an</ex>c<ex>tu</ex>s <hi>S</hi><ex>an</ex>c<ex>tu</ex>s <hi>S</hi><ex>an</ex>c<ex>tu</ex>s d<ex>omi</ex>n<ex>u</ex>s de<ex>us</ex> sabaoth </incipit>
+<explicit> <ex>et</ex> i<ex>n</ex>mortalis miserere nob<ex>is</ex></explicit>
+</msItem>
+<msItem class="cycle" n="13">
+<locus from="12r" to="13r"/>
+<title/>
+<rubric>So thit som man løsser thesse for skrewe<ex>n</ex> tiæ værs tha hauer han thu thusindh daghe afladh aff dødeligh synder Oc thusend aar aff ladh aff nadhæligh synder aff paue iohannes th<ex>et</ex>te ære the værs so<ex>m</ex> diæwille<ex>n</ex> sande til s<ex>anc</ex>te bernardus at ho the<ex>n</ex> les ha<ex>n</ex> skal aldrigh for thabes</rubric>
+<incipit> <hi>O</hi> ih<ex>es</ex>u <ex>christ</ex>e gusz søn [..] skulle fonge iæn god ende am<ex>en</ex></incipit>
+<textLang mainLang="da"/>
+<msItem class="prayer" n="14">
+<locus from="12r" to="12v"/>
+<title/>
+</msItem>
+<msItem class="prayer" n="15">
+<locus from="12v" to="12v"/>
+<title/>
+</msItem>
+<msItem class="prayer" n="16">
+<locus from="13r" to="13r"/>
+<title/>
+</msItem>
+</msItem>
+<msItem class="prayer" n="17">
+<locus from="13r" to="14r"/>
+<title>eucharist</title>
+<rubric>Hære byriæs noger bøne aff vor h<ex>er</ex>ræ th<ex>er</ex> ma<ex>n</ex> skal løs før ha<ex>n</ex> tager vor h<ex>e</ex>r</rubric>
+<incipit> <hi>O</hi> aldre verdugeste </incipit>
+<explicit> til ewerdeligh glede oc stadughet am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="undefined" n="18">
+<locus from="14r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="19">
+<locus from="16¹v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="20">
+<locus from="17¹r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="21">
+<locus from="17¹v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="22">
+<locus from="18v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="23">
+<locus from="19r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="24">
+<locus from="19r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="25">
+<locus from="20v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="26">
+<locus from="20v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="27">
+<locus from="21v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="28">
+<locus from="22v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="29">
+<locus from="23v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="30">
+<locus from="24v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="31">
+<locus from="26r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="32">
+<locus from="33r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="33">
+<locus from="40r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="34">
+<locus from="45v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="35">
+<locus from="49r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="36">
+<locus from="50v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="37">
+<locus from="51r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="38">
+<locus from="56r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="39">
+<locus from="63r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="40">
+<locus from="64v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="41">
+<locus from="67r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="42">
+<locus from="70v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="43">
+<locus from="73v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="44">
+<locus from="74r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="45">
+<locus from="74v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="46">
+<locus from="78v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="47">
+<locus from="78v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="48">
+<locus from="79v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="49">
+<locus from="83v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="50">
+<locus from="90²v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="51">
+<locus from="92v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="52">
+<locus from="93v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="53">
+<locus from="97r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="54">
+<locus from="98r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="55">
+<locus from="100v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="56">
+<locus from="101r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="57">
+<locus from="101v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="58">
+<locus from="104v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="59">
+<locus from="105v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="60">
+<locus from="107r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="61">
+<locus from="108r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="62">
+<locus from="109r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="63">
+<locus from="112r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="64">
+<locus from="114v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="65">
+<locus from="114v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="66">
+<locus from="115r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="67">
+<locus from="115v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="68">
+<locus from="116v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="69">
+<locus from="117r" to="undefined"/>
+<title/>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<extent></extent>
+<collation>
+<list>
+<item n="1">
+<locus from="1" to="7b"/>
+<desc>quinternion. leaf missing after 1, 3</desc>
+</item><item n="2">
+<locus from="8" to="16b"/>
+<desc>quinternion</desc>
+</item><item n="3">
+<locus from="17a" to="25"/>
+<desc>quinternion</desc>
+</item><item n="4">
+<locus from="26" to="32"/>
+<desc>quinternion. leaf missing</desc>
+</item><item n="5">
+<locus from="33" to="40"/>
+<desc>quaternion</desc>
+</item><item n="6">
+<locus from="41" to="50"/>
+<desc>quinternion</desc>
+</item><item n="7">
+<locus from="51" to="60"/>
+<desc>quinternion</desc>
+</item><item n="8">
+<locus from="61" to="70"/>
+<desc>quinternion</desc>
+</item><item n="9">
+<locus from="71" to="80"/>
+<desc>quinternion</desc>
+</item><item n="10">
+<locus from="81" to="90"/>
+<desc>quinternion</desc>
+</item><item n="11">
+<locus from="90b" to="99"/>
+<desc>quinternion</desc>
+</item><item n="12">
+<locus from="100" to="101"/>
+<desc>binion</desc>
+</item><item n="13">
+<locus from="102" to="111"/>
+<desc>quinternion</desc>
+</item><item n="14">
+<locus from="112" to="117"/>
+<desc>ternion</desc>
+</item></list>
+</collation></supportDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>

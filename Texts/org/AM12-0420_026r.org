@@ -1,0 +1,88 @@
+#+TITLE: Das goldene Krongebet
+
+|------------+-------------|
+| Manuscript | AM 420 12mo |
+| Locus      | 26r         |
+| Work       | KRONGEBET   |
+| Language   | da          |
+| Status     |             |
+|------------+-------------|
+
+* Transcription
+** Rubric
+bø(n) tha skalt thu stande for
+
+vor frue belædhæ oc lessæ
+
+m(eth) gudeligh ath vokt x aue
+
+maria oc fal pa kne oc les t(henne) b(øn)
+
+** Prayer
+*** Text
+[[red 5][M]]aria iæc for-
+
+maner thic
+
+for th(e)n store
+
+frygd oc ou(er)-
+
+flodige fryd
+
+oc ære oc verdighet S[om]
+
+thit liiff oc thi(n) siel vnt_fek
+
+Oc ana(m)mede th(e)n thid gud fa-
+
+th(e)r oc søn oc th(e)n hellighæ
+
+and thic sigh sielff til ien
+
+moder gaf æn doo at [gusz]
+
+---26v---
+
+søn alle iæn(n)æ mando(m) aff thic
+
+tog oc alle verde(n) efter th(e)n hel-
+
+lige tre foldughetz rad førre
+
+æn ha(n) he(m)melen oc iorde(n) skap-
+
+te iomfru maria gusz moder
+
+Tha vast thu vt vold til at 
+
+thu skulde vorde gusz moder
+
+for th(e)n store frygd for_ma(n)ner
+
+iæc thic mi(n) bøn efter thi(n) nade oc
+
+æfter mi(n) begering am(en)
+** Prayer
+*** Rubric
+Stand
+
+op læs x aue maria och
+
+fal pa knæ och les thi(n)næ
+
+bøn
+*** Text
+[[red 2][M]]aria iæc for_ma(n)-
+
+ner thic for th(e)n store
+
+---27r---
+
+frygd oc ære so(m) thit liiff och
+
+thin siæl vndhfæk tha gabri-
+
+el ængil kundhgiordhe thic at
+
+thu gusz moder vorde skulde
