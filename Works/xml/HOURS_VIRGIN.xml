@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAGNIFICAT" type="work">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hours of the Virgin</title>
+        <respStmt>
+          <resp when="2025">Written by</resp>
+          <persName key="SDV">Seán D. Vrieland</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+   <body>
+     <div>
+       <p>
+	 The <title key="HOURS_VIRGIN" type="alternate">Little Office of the Blessed Virgin</title>, or <title key="HOURS_VIRGIN">Hours of the Virgin</title>, is a popular cycle of prayers, hymns, and other readings to be performed at various times throughout the day in devotion to the <persName key="Mary">Virgin Mary</persName>.
+    </p>
+    <p>
+      The cycle is divided into eight canonical hours, each with their own set of psalms, hymns, prayers and other readings.
+    </p>
+   </div>
+   </body>
+  </text>
+</TEI>
