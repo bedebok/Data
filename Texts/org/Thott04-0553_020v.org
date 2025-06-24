@@ -1,0 +1,28 @@
+#+TITLE: Ave Maria lilia
+
+|------------+-----------------|
+| Manuscript | Thott 553 4to   |
+| Locus      | 20v20 21r       |
+| Work       | AVE_MARIA_LILIA |
+| Language   | da              |
+| Status     |  proofread      |
+|------------+-----------------|
+
+* Transcription
+** Rubric
+Huilken me(n)nisken th(e)n(ne) effter(skreffne) bøn læss
+
+daglige han bliffuer aldrigh fordømt
+
+** Text
+[[red 2][H]]eel ma(r)ia th(e)n sky(n)nende lilæ tw fø-
+
+dhe thin signede søn m(eth) villiæ m(eth) 
+
+the taaræ gudh selffuer dydæ fræls
+
+---21r---
+
+my(n) siæl fra hælffued(is) qwide Am(en)
+** Rubri
+Aue m(aria)

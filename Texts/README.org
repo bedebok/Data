@@ -86,6 +86,8 @@
 | [[./org/Lund-0035_064v.org]]         | Mh 35         | Golden Coronation Prayer         | KRONGEBET MDB105    | da         | proofread   | converted |
 | [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    |                                  |                     |            |             |           |
 | [[./org/Speghel_R1r.org]]            |               |                                  |                     |            |             |           |
+| [[./org/Thott04-0553_015v.org]]      | Thott 553 4to | A prayer for saints' virtues     |                     | da         | transcribed |           |
+| [[../org/Thott04-0553_020v.org]]     | Thott 553 4to | Ave Maria lilia                  | AVE_MARIA_LILIA     | da         | proofread   |           |
 | [[./org/UUB-C496_019v.org]]          | UUB C 496     |                                  |                     |            |             |           |
 | [[./org/UUB-C496_136r.org]]          | UUB C 496     |                                  |                     |            |             |           |
 |----------------------------------+---------------+----------------------------------+---------------------+------------+-------------+-----------|

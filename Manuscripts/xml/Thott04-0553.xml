@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Thott04-0553" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Thott 553 4to </title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="KBK"/>
+<idno corresp="Thott 553 4to "/>
+</msIdentifier>
+<head>
+
+</head>
+<msContents>
+<summary>Anne Brades book of hours</summary>
+<msItem class="prayer" n="1">
+<locus from="pastedown" to="undefined"/>
+<title/>
+<incipit>O thu søde helligand </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayers" n="2">
+<locus from="ar" to="br"/>
+<title/>
+<incipit>Est thu sckicket y nogin drøffnisse </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="3">
+<locus from="br" to="br"/>
+<title/>
+<incipit>O h<ex>er</ex>r<ex>e</ex> gud giff meg th<ex>e</ex>n hellig ands nade </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="annal" n="4">
+<locus from="br" to="br"/>
+<title/>
+<incipit>MDxlviij torsdagen effter wor ffr<ex>w</ex> dag visitacione </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="annal" n="5">
+<locus from="br" to="br"/>
+<title/>
+<incipit>MDlix tisdagen efft<ex>e</ex>r nyaarss dag </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="dedication" n="6">
+<locus from="cr" to="dr"/>
+<title>Dedication to Otto Thott</title>
+<incipit>HöyÆdle og Welbaarne Herre Her Ove Thott </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+<note>dated 2 Feb 1752</note>
+</msItem>
+<msItem class="table" n="7">
+<locus from="Ir" to="Ir"/>
+<title>Easter table</title>
+<incipit>Hwo so<ex>m</ex> vill vnderstandæ oc fy<ex>n</ex>næ paschæ dagh </incipit>
+<explicit></explicit>
+<textLang mainLang="da"/>
+<note>with graph</note>
+</msItem>
+<msItem class="table" n="8">
+<locus from="Iv" to="Iv"/>
+<title>Planetary table</title>
+</msItem>
+<msItem class="table" n="9">
+<locus from="IIr" to="IIr"/>
+<title>Zodiac table</title>
+</msItem>
+<msItem class="description" n="10">
+<locus from="IIv" to="IIv"/>
+<title>Description of table</title>
+<incipit>Hwo the<ex>n</ex>ne ffor<ex>skreffne</ex> tafflæ vill vndersta<ex>n</ex>de</incipit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="table" n="11">
+<locus from="IIIr" to="IIIr"/>
+<title>Zodiac table</title>
+</msItem>
+<msItem class="calendar" n="12">
+<locus from="IIIv" to="IXr"/>
+<title>Calendar</title>
+</msItem>
+<msItem class="undefined" n="13">
+<locus from="IIIbis" to="undefined"/>
+<title>(added materials)</title>
+</msItem>
+<msItem class="prognosticon" n="14">
+<locus from="IXv" to="IXv"/>
+<title>Prognosticon</title>
+<incipit>fførstæ dagh i monæn ath lade sigh giør me<ex>n</ex>nisken twngh oc swar </incipit>
+<explicit> xxx dagh ær værst, forthi tha ær monæn i bry<ex>n</ex>næ</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="miniature" n="15">
+<locus from="Xv" to="Xv"/>
+<title>Crucifixion</title>
+</msItem>
+<msItem class="prayer" n="16">
+<locus from="1r" to="1v"/>
+<title>Trinity</title>
+<incipit><hi>O</hi> æræfull oc watskillieligh hellige trefollighedh </incipit>
+<explicit> i hy<ex>m</ex>merige for vden ændæ Am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="17">
+<locus from="1v" to="2v"/>
+<title>Trinity</title>
+<incipit><hi>O</hi> hellige trefollighedh som ær een san gudh </incipit>
+<explicit> till th<ex>et</ex> ewy<ex>n</ex>nelige liiff j hy<ex>m</ex>merige Ame<ex>n</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="18">
+<locus from="2v" to="3r"/>
+<title>Trinity</title>
+<incipit><hi>O</hi> hellige trefollighed ffadh<ex>e</ex>r oc søn oc th<ex>e</ex>n helge andh </incipit>
+<explicit> m<ex>eth</ex> tak for vden ænde Am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="19">
+<locus from="3r" to="4r"/>
+<title>Trinity</title>
+<incipit><hi>O</hi> also<ex>m</ex>mæctigste gudh fader oc søn oc hellige andh </incipit>
+<explicit> for vden ændhe Amen</explicit>
+<textLang mainLang="da"/>
+<note>with collect</note>
+</msItem>
+<msItem class="prayer" n="20">
+<locus from="4r" to="5r"/>
+<title>Trinity</title>
+<incipit><hi>T</hi>he<ex>n</ex>ne bøn læss jek tek [....] frels mek fran all vodhe, bodhe siels oc legemes Ame<ex>n</ex></incipit>
+<textLang mainLang="da"/>
+<note>with oratio</note>
+</msItem>
+<msItem class="prayer" n="21">
+<locus from="5r" to="6r"/>
+<title>(pestilence?)</title>
+<rubric>It<ex>em</ex> een godh befalelse</rubric>
+<incipit> <hi>O</hi> herre ih<ex>es</ex>u <ex>christ</ex>e jek befall<ex>e</ex>r mek tesse viij dage oc viij nætter </incipit>
+<explicit> huilken so<ex>m</ex> oss skall ledhe til ewerdelicht hy<ex>m</ex>merig<ex>is</ex> riigæ A<ex>men</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="22">
+<locus from="6r" to="8r"/>
+<title>(Knight?)</title>
+<rubric>It<ex>em</ex> th<ex>ette</ex> effter<ex>skreffne</ex> antwordelse theedes een gudheligh riddh<ex>e</ex>r ...</rubric>
+<incipit> <hi>J</hi> the hellige trefollighetz naffn antvorder jek mek </incipit>
+<explicit> m<ex>eth</ex> liiff oc siæl offwer the ix ænglæ choor Am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="23">
+<locus from="8r" to="9r"/>
+<title>Prayer for the protection of the city</title>
+<rubric>It<ex>em</ex> hær efft<ex>er</ex> scriffues een godh  bøn ath læse for statzcens bewarelse oc for th<ex>e</ex>m so<ex>m</ex> j boo</rubric>
+<incipit> <hi>O</hi> herte velsigne th<ex>ette</ex> hwss och allæ boendæ j th<ex>et</ex> </incipit>
+<explicit> som m<ex>eth</ex> faderen leffuer ewerdelige Ame<ex>n</ex></explicit>
+<textLang mainLang="da"/>
+<note>with collect</note>
+</msItem>
+<msItem class="prayer" n="24">
+<locus from="9r" to="10r"/>
+<title>Leo to Charlemagne</title>
+<rubric>It<ex>em</ex> the<ex>n</ex>ne effter<ex>skreffne</ex> bøn dictæde oc sc<ex>re</ex>ff een helligh pawæ j rom so<ex>m</ex> hedh s<ex>anc</ex>t<ex>us</ex> leo ...</rubric>
+<incipit> <hi>W</hi>ors h<ex>er</ex>re j<ex>hes</ex>u <ex>christ</ex>i kors </incipit>
+<explicit> j naffn gudh faders oc søns oc th<ex>e</ex>n hellige andz Am<ex>en</ex> **p<ex>ate</ex>r Aue**</explicit>
+<textLang mainLang="da"/>
+<note>Illustration cut out</note>
+</msItem>
+<msItem class="prayer" n="25">
+<locus from="10r" to="10v"/>
+<title>Holy Spirit</title>
+<rubric>It<ex>em</ex> een godh bøn aff th<ex>e</ex>n helligandh</rubric>
+<incipit> <hi>O</hi> thus søde hellige andh kom sødelige oc helligh giør my<ex>n</ex> sælige siæl </incipit>
+<explicit> maa loffue oc ære iek ewy<ex>n</ex>nelighe Ame<ex>n</ex> **P<ex>ate</ex>r n<ex>oste</ex>r Aue m<ex>aria</ex>**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="26">
+<locus from="11r" to="11r"/>
+<title>Trinity</title>
+<rubric>Huilken me<ex>n</ex>niske the<ex>n</ex>ne effter<ex>skreffne</ex> bøn læss m<ex>eth</ex> kerlighedh ...</rubric>
+<incipit> <hi>J</hi>ek oplader myn hiærte<ex>n</ex>s røst </incipit>
+<explicit> i the<ex>n</ex>ne pu<ex>n</ex>ct oc ewy<ex>n</ex>nelige Ame<ex>n</ex> **Pater n<ex>oste</ex>r Aue maria**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="27">
+<locus from="11r" to="11v"/>
+<title>Augustine</title>
+<rubric>It<ex>em</ex> the<ex>n</ex>ne effter<ex>skreffne</ex> bøn fiorde s<ex>anc</ex>t<ex>us</ex> Augusti<ex>nus</ex> och hwo he<ex>n</ex>ne daglige læss pa synæ knæ han skal æy døø i dødelige synder om han ey synder th<ex>e</ex>r oppa llæss athvordelige</rubric>
+<incipit> <hi>O</hi> tw vbegribelige myldhed </incipit>
+<explicit> m<ex>eth</ex> myscu<ex>n</ex>dz ma<ex>n</ex>gfoldicheidh Am<ex>en</ex> **P<ex>ate</ex>r Aue**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="28">
+<locus from="11v" to="14r"/>
+<title/>
+<rubric>Hwo som the<ex>n</ex>ne effter<ex>skreffne</ex> bøn læss hwer dagh gudelige</rubric>
+<incipit> <hi>H</hi>erræ jh<ex>es</ex>u <ex>christ</ex>e gudh alsomkæristæ ffader oc søn och th<ex>e</ex>n hellige andh </incipit>
+<explicit> nw oc alle myne daghe Amen **Pater n<ex>oste</ex>r Aue maria**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="29">
+<locus from="14r" to="15v"/>
+<title>Augustine</title>
+<rubric>The<ex>n</ex>ne effter<ex>skreffne</ex> bøn dictæde oc giorde s<ex>anc</ex>t<ex>us</ex> Augustin<ex>us</ex> ...</rubric>
+<incipit> <hi>O</hi> søde gudh j<ex>hes</ex>u <ex>christ</ex>e th<ex>e</ex>r vdh var sænth aff thin hellige faderss skødh </incipit>
+<explicit> huilket være loffuet oc æret ewy<ex>n</ex>nelige Am<ex>en</ex></explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="prayer" n="30">
+<locus from="15v" to="15v"/>
+<title>A prayer for saints' virtues</title>
+<rubric>Item een a<ex>n</ex>nen godh nyttelighe bøn</rubric>
+<incipit> <hi>O</hi> hertre j<ex>hes</ex>u <ex>christ</ex>e leffuend<ex>is</ex> gutz søn </incipit>
+<explicit> oc fælsignet ær ee vfor vden ændhæ Amen **Pater n<ex>oste</ex>r Aue maria**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="cycle" n="31">
+<locus from="15v" to="17r"/>
+<title>Christ's seven bindings</title>
+<rubric>It<ex>em</ex> h<ex>er</ex> efftersc<ex>ri</ex>wess vii kostelige bøner aff the vii bondh ...</rubric>
+<incipit> <hi>O</hi> søde h<ex>er</ex>re jh<ex>es</ex>u <ex>christ</ex>e Jek bedh<ex>e</ex>r tek for th<ex>et</ex> kerlighetz bondh </incipit>
+<explicit> effter thin villiæ oc myn nøttørfft Amen **Pater n<ex>oste</ex>r Aue m<ex>aria</ex>**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="cycle" n="32">
+<locus from="17r" to="19r"/>
+<title>(Lay brother in Bernardus order)</title>
+<rubric>It<ex>em</ex> een legbroder j s<ex>anc</ex>ti bernardi orden togh sigh foræ een godh sidwanæ ...</rubric>
+<incipit> <hi>H</hi>erræ jh<ex>se</ex>u <ex>christ</ex>e leffuend<ex>is</ex> gutz søn </incipit>
+<explicit> effter thin signethe villiæ oc miscu<ex>n</ex>d **Aue maria oc bønen m<ex>eth</ex> som foræstaar**</explicit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="undefined" n="33">
+<title/>
+</msItem>
+<msItem class="undefined" n="34">
+<title/>
+</msItem>
+<msItem class="undefined" n="35">
+<title/>
+</msItem>
+<msItem class="undefined" n="36">
+<title>Ave Maria lilia</title>
+</msItem>
+<msItem class="undefined" n="37">
+<title>Christ</title>
+</msItem>
+<msItem class="undefined" n="38">
+<title>St. Mechtild</title>
+</msItem>
+<msItem class="undefined" n="39">
+<title>Five wounds</title>
+</msItem>
+<msItem class="undefined" n="40">
+<title>Birgitta?</title>
+</msItem>
+<msItem class="undefined" n="41">
+<title/>
+</msItem>
+<msItem class="undefined" n="42">
+<title/>
+</msItem>
+<msItem class="undefined" n="43">
+<title>Three prayers to Christ</title>
+</msItem>
+<msItem class="undefined" n="44">
+<title>Augustine</title>
+</msItem>
+<msItem class="undefined" n="45">
+<title>Verses of St. Gregory</title>
+</msItem>
+<msItem class="undefined" n="46">
+<title>St. Gregory</title>
+</msItem>
+<msItem class="undefined" n="47">
+<title/>
+</msItem>
+<msItem class="undefined" n="48">
+<title>Innocent XXII</title>
+</msItem>
+<msItem class="undefined" n="49">
+<title>Christ</title>
+</msItem>
+<msItem class="undefined" n="50">
+<title>Heart of Christ</title>
+</msItem>
+<msItem class="undefined" n="51">
+<title>Heart of Mary</title>
+</msItem>
+<msItem class="undefined" n="52">
+<title>Soul of Christ</title>
+</msItem>
+<msItem class="undefined" n="53">
+<title>Face of Christ</title>
+</msItem>
+<msItem class="undefined" n="54">
+<title>O_BONE_JESU</title>
+</msItem>
+<msItem class="undefined" n="55">
+<title>All Saints</title>
+</msItem>
+<msItem class="undefined" n="56">
+<title>Seven Words on the Cross</title>
+</msItem>
+<msItem class="undefined" n="57">
+<title>AVE_MANUS_DEXTRA</title>
+</msItem>
+<msItem class="undefined" n="58">
+<title/>
+</msItem>
+<msItem class="undefined" n="59">
+<title>Heart of Christ</title>
+</msItem>
+<msItem class="undefined" n="60">
+<title>Breastbone of Christ</title>
+</msItem>
+<msItem class="undefined" n="61">
+<title>Mechtild</title>
+</msItem>
+<msItem class="undefined" n="62">
+<title/>
+</msItem>
+<msItem class="undefined" n="63">
+<title/>
+</msItem>
+<msItem class="undefined" n="64">
+<title/>
+</msItem>
+<msItem class="undefined" n="65">
+<title/>
+</msItem>
+<msItem class="undefined" n="66">
+<title/>
+</msItem>
+<msItem class="undefined" n="67">
+<title/>
+</msItem>
+<msItem class="undefined" n="68">
+<title/>
+</msItem>
+<msItem class="undefined" n="69">
+<title/>
+</msItem>
+<msItem class="undefined" n="70">
+<title/>
+</msItem>
+<msItem class="undefined" n="71">
+<title/>
+</msItem>
+<msItem class="undefined" n="72">
+<title/>
+</msItem>
+<msItem class="undefined" n="73">
+<title/>
+</msItem>
+<msItem class="undefined" n="74">
+<title/>
+</msItem>
+<msItem class="undefined" n="75">
+<title/>
+</msItem>
+<msItem class="undefined" n="76">
+<title/>
+</msItem>
+<msItem class="undefined" n="77">
+<title/>
+</msItem>
+<msItem class="undefined" n="78">
+<title/>
+</msItem>
+<msItem class="undefined" n="79">
+<title/>
+</msItem>
+<msItem class="undefined" n="80">
+<title/>
+</msItem>
+<msItem class="undefined" n="81">
+<title/>
+</msItem>
+<msItem class="undefined" n="82">
+<title/>
+</msItem>
+<msItem class="undefined" n="83">
+<title/>
+</msItem>
+<msItem class="undefined" n="84">
+<title/>
+</msItem>
+<msItem class="undefined" n="85">
+<title/>
+</msItem>
+<msItem class="undefined" n="86">
+<title/>
+</msItem>
+<msItem class="undefined" n="87">
+<title/>
+</msItem>
+<msItem class="undefined" n="88">
+<title/>
+</msItem>
+<msItem class="undefined" n="89">
+<title/>
+</msItem>
+<msItem class="undefined" n="90">
+<title/>
+</msItem>
+<msItem class="undefined" n="91">
+<title/>
+</msItem>
+<msItem class="undefined" n="92">
+<title/>
+</msItem>
+<msItem class="undefined" n="93">
+<title/>
+</msItem>
+<msItem class="undefined" n="94">
+<title/>
+</msItem>
+<msItem class="undefined" n="95">
+<title/>
+</msItem>
+<msItem class="undefined" n="96">
+<title/>
+</msItem>
+<msItem class="undefined" n="97">
+<title/>
+</msItem>
+<msItem class="undefined" n="98">
+<title/>
+</msItem>
+<msItem class="undefined" n="99">
+<title/>
+</msItem>
+<msItem class="undefined" n="100">
+<title/>
+</msItem>
+<msItem class="undefined" n="101">
+<title/>
+</msItem>
+<msItem class="undefined" n="102">
+<title/>
+</msItem>
+<msItem class="undefined" n="103">
+<title/>
+</msItem>
+<msItem class="undefined" n="104">
+<title/>
+</msItem>
+<msItem class="undefined" n="105">
+<title/>
+</msItem>
+<msItem class="undefined" n="106">
+<title/>
+</msItem>
+<msItem class="undefined" n="107">
+<title/>
+</msItem>
+<msItem class="undefined" n="108">
+<title/>
+</msItem>
+<msItem class="undefined" n="109">
+<title/>
+</msItem>
+<msItem class="undefined" n="110">
+<title/>
+</msItem>
+<msItem class="undefined" n="111">
+<title/>
+</msItem>
+<msItem class="undefined" n="112">
+<title/>
+</msItem>
+<msItem class="undefined" n="113">
+<title/>
+</msItem>
+<msItem class="undefined" n="114">
+<title/>
+</msItem>
+<msItem class="undefined" n="115">
+<title/>
+</msItem>
+<msItem class="undefined" n="116">
+<title/>
+</msItem>
+<msItem class="undefined" n="117">
+<title/>
+</msItem>
+<msItem class="undefined" n="118">
+<title/>
+</msItem>
+<msItem class="undefined" n="119">
+<title/>
+</msItem>
+<msItem class="undefined" n="120">
+<title/>
+</msItem>
+<msItem class="undefined" n="121">
+<title/>
+</msItem>
+<msItem class="undefined" n="122">
+<title/>
+</msItem>
+<msItem class="undefined" n="123">
+<title/>
+</msItem>
+<msItem class="undefined" n="124">
+<title/>
+</msItem>
+<msItem class="undefined" n="125">
+<title/>
+</msItem>
+<msItem class="undefined" n="126">
+<title/>
+</msItem>
+<msItem class="undefined" n="127">
+<title/>
+</msItem>
+<msItem class="undefined" n="128">
+<title/>
+</msItem>
+<msItem class="undefined" n="129">
+<title>HOURS_ANNE</title>
+</msItem>
+<msItem class="undefined" n="130">
+<title>Prayers to St. Anne</title>
+</msItem>
+<msItem class="undefined" n="131">
+<title>Prayer to St. Anne</title>
+</msItem>
+<msItem class="undefined" n="132">
+<title>Prayer to St. Anne and Mary</title>
+</msItem>
+<msItem class="undefined" n="133">
+<title>Prayer to St. Anne and Mary</title>
+</msItem>
+<msItem class="undefined" n="134">
+<title>Prayer to St. Anne and Mary</title>
+</msItem>
+<msItem class="undefined" n="135">
+<title>Prayer to St. Anne</title>
+</msItem>
+<msItem class="undefined" n="136">
+<title/>
+</msItem>
+<msItem class="undefined" n="137">
+<title/>
+</msItem>
+<msItem class="undefined" n="138">
+<title/>
+</msItem>
+<msItem class="undefined" n="139">
+<title>Prayer to St. Anne</title>
+</msItem>
+<msItem class="undefined" n="140">
+<title>St. Joachim</title>
+</msItem>
+<msItem class="undefined" n="141">
+<title>St. Anne</title>
+</msItem>
+<msItem class="undefined" n="142">
+<title/>
+</msItem>
+<msItem class="undefined" n="143">
+<title/>
+</msItem>
+<msItem class="undefined" n="144">
+<title>St. Birgitta and St. Katherine</title>
+</msItem>
+<msItem class="undefined" n="145">
+<title>St. Birgitta</title>
+</msItem>
+<msItem class="undefined" n="146">
+<title>Mary's sisters</title>
+</msItem>
+<msItem class="undefined" n="147">
+<title>Mary Magdalene</title>
+</msItem>
+<msItem class="undefined" n="148">
+<title>St. Ursula</title>
+</msItem>
+<msItem class="undefined" n="149">
+<title>St. Katherine of Alexandria</title>
+</msItem>
+<msItem class="undefined" n="150">
+<title>St. Margaret</title>
+</msItem>
+<msItem class="undefined" n="151">
+<title>St. Dorothy</title>
+</msItem>
+<msItem class="undefined" n="152">
+<title>St. Barbara</title>
+</msItem>
+<msItem class="undefined" n="153">
+<title>St. Agnes</title>
+</msItem>
+<msItem class="undefined" n="154">
+<title>St. Gertrude</title>
+</msItem>
+<msItem class="undefined" n="155">
+<title>St. Clare</title>
+</msItem>
+<msItem class="undefined" n="156">
+<title>St. Apollonia</title>
+</msItem>
+<msItem class="undefined" n="157">
+<title>St. Helena</title>
+</msItem>
+<msItem class="undefined" n="158">
+<title>Your Angel</title>
+</msItem>
+<msItem class="undefined" n="159">
+<title>St. Joachim</title>
+</msItem>
+<msItem class="undefined" n="160">
+<title>St. Joseph</title>
+</msItem>
+<msItem class="undefined" n="161">
+<title>Three Kings</title>
+</msItem>
+<msItem class="undefined" n="162">
+<title>St. Peter</title>
+</msItem>
+<msItem class="undefined" n="163">
+<title>St. Paul</title>
+</msItem>
+<msItem class="undefined" n="164">
+<title>St. Paul (belongs to above)</title>
+</msItem>
+<msItem class="undefined" n="165">
+<title>St. John the Apostle</title>
+</msItem>
+<msItem class="undefined" n="166">
+<title>St. James</title>
+</msItem>
+<msItem class="undefined" n="167">
+<title>St. Andrew</title>
+</msItem>
+<msItem class="undefined" n="168">
+<title>Innocents</title>
+</msItem>
+<msItem class="undefined" n="169">
+<title>St. Augustine</title>
+</msItem>
+<msItem class="undefined" n="170">
+<title>St. Anthony</title>
+</msItem>
+<msItem class="undefined" n="171">
+<title>St. Francis</title>
+</msItem>
+<msItem class="undefined" n="172">
+<title>St. Laurence</title>
+</msItem>
+<msItem class="undefined" n="173">
+<title>St. Stephen</title>
+</msItem>
+<msItem class="undefined" n="174">
+<title>St. Christopher</title>
+</msItem>
+<msItem class="undefined" n="175">
+<title>St. Erasmus</title>
+</msItem>
+<msItem class="undefined" n="176">
+<title>St. John the Baptist</title>
+</msItem>
+<msItem class="undefined" n="177">
+<title>St. George</title>
+</msItem>
+<msItem class="undefined" n="178">
+<title>St. Jerome</title>
+</msItem>
+<msItem class="undefined" n="179">
+<title>St. Nicholas</title>
+</msItem>
+<msItem class="undefined" n="180">
+<title>St. Judoc</title>
+</msItem>
+<msItem class="undefined" n="181">
+<title>10.000 Knights</title>
+</msItem>
+<msItem class="undefined" n="182">
+<title>15 Helpers</title>
+</msItem>
+<msItem class="undefined" n="183">
+<title>20 Prophets</title>
+</msItem>
+<msItem class="undefined" n="184">
+<title>St. Sebastian</title>
+</msItem>
+<msItem class="undefined" n="185">
+<title>All Saints</title>
+</msItem>
+<msItem class="undefined" n="186">
+<title>Any Saint</title>
+</msItem>
+<msItem class="undefined" n="187">
+<title>?Bride</title>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<extent></extent>
+<collation>
+<list>
+<item n="1">
+<locus from="pastedown" to="d"/>
+<desc>a-b are bifolium; c-d are pasted on either side of stub from pastedown.</desc>
+</item><item n="3">
+<locus from="I" to="X"/>
+<desc>quinternion</desc>
+</item><item n="4">
+<locus from="1" to="10"/>
+<desc>quinternion. catchword</desc>
+</item><item n="5">
+<locus from="11" to="20"/>
+<desc>quinternion. catchword</desc>
+</item><item n="6">
+<locus from="21" to="30"/>
+<desc>quinternion. catchword</desc>
+</item><item n="7">
+<locus from="30bis" to="39"/>
+<desc>quinternion. catchword</desc>
+</item><item n="8">
+<locus from="40" to="43bis"/>
+<desc>quinternion. catchword. 40+43bis 41+42bis 42+41bis stub+46 43+stub 44+45</desc>
+</item><item n="9">
+<locus from="44bis" to="53"/>
+<desc>quinternion. catchword. 44bis+53 45bis+52 46bis+51 47+50 48+49</desc>
+</item><item n="10">
+<locus from="54" to="63"/>
+<desc>quinternion. catchword</desc>
+</item><item n="11">
+<locus from="64" to="71"/>
+<desc>quaternion. catchword</desc>
+</item><item n="12">
+<locus from="72" to="81"/>
+<desc>quinternion. catchword</desc>
+</item><item n="13">
+<locus from="82" to="91"/>
+<desc>quinternion. catchword</desc>
+</item><item n="14">
+<locus from="92" to="100"/>
+<desc>quinternion. 92+stub stub+100, 93+stub, 94+99, 95+98, 96+97</desc>
+</item><item n="15">
+<locus from="101" to="110"/>
+<desc>quinternion. catchword</desc>
+</item><item n="16">
+<locus from="111" to="120"/>
+<desc>quinternion. catchword</desc>
+</item><item n="17">
+<locus from="121" to="130"/>
+<desc>quinternion. catchword</desc>
+</item><item n="18">
+<locus from="131" to="140"/>
+<desc>quinternion. catchword</desc>
+</item><item n="19">
+<locus from="141" to="150"/>
+<desc>quinternion. catchword</desc>
+</item><item n="20">
+<locus from="151" to="160"/>
+<desc>quinternion. catchword</desc>
+</item><item n="21">
+<locus from="161" to="170"/>
+<desc>quinternion. catchword</desc>
+</item><item n="22">
+<locus from="171" to="178"/>
+<desc>quaternion. catchword</desc>
+</item><item n="23">
+<locus from="179" to="186"/>
+<desc>quaternion. catchword</desc>
+</item><item n="24">
+<locus from="185" to="196"/>
+<desc>quinternion. catchword</desc>
+</item><item n="25">
+<locus from="197" to="206"/>
+<desc>quinternion. catchword</desc>
+</item><item n="26">
+<locus from="207" to="214"/>
+<desc>quaternion</desc>
+</item></list>
+</collation></supportDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>
