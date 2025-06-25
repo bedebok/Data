@@ -1,0 +1,79 @@
+﻿#+TITLE: A prayer by St. Mechtild
+
+|------------+---------------|
+| Manuscript | Thott 553 4to |
+| Locus      | 21r21 21v     |
+| Work       | 184           |
+| Language   | da            |
+| Status     | proofread     |
+|------------+---------------|
+
+* Transcription 
+** Rubric
+It(em) tessæ tre effter(screffne) bøner kænde 
+
+vor herræ s(anc)te mæctild oc sagde he(n)ne
+
+ath hwo som daglige læss th(e)m m(eth)
+
+tre p(ate)r n(oste)r oc tre Aue maria tha skal 
+
+---21v---
+
+han forwares ath han skal æy frestæs
+
+j syn døtz tymæ aff vonhob ell(e)r van-
+
+troo mæn ha(n)s troo oc hob oc kerlig-
+
+hedh skal bliffue stadicht till gudh 
+
+** Prayer
+*** Text
+[[red 2][O]] herræ hellige fader oc ewerde-
+
+ligh gudh jek bedh(e)r tek ath 
+
+tw statfæste so my(n) tro oc hob j thin 
+
+guddoms dygdh ath jek skal aldri 
+
+bøyes aff rætte tro oc hob Am(en)
+*** Rubric 
+p(ate)r Aue
+
+** Prayer
+*** Text
+[[red 2][O]] h(er)re ih(es)u (christ)e leffuend(is) gutz søn
+
+jek antworder j thine wransa-
+
+gelige viisdom my(n) troo oc hob be-
+
+dhende tek øtmyuglige ath thw 
+
+lywss he(n)ne m(eth) thin guddoms voldh
+
+ath vedh(e)rgangæ lywseth ath hw(n) 
+
+skal æy swiges aff ondæ andæ Am(en) 
+
+*** Rubric
+P(ate)r n(oste)r Aue 
+** Prayer
+*** Text
+[[red 2][O]] herræ hellige andh jek
+
+antworder my(n) troo oc hob 
+
+j thin væluillighedh bedendhe tek 
+
+øtmyuglige ath my(n) troo oc hob
+
+vordh(e)r so m(eth) san rwelsæ oc ælskow 
+
+ath iek maa fy(n)næ tek i myn døtz
+
+tymæ Amen
+*** Rubric
+Pater n(oste)r Aue maria
