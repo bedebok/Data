@@ -3,10 +3,10 @@
 |----------------------------------+---------------+----------------------------------+---------------------+------------+-------------+-----------|
 | File                             | Manuscript    | Title                            | Work                | Language   | Status      | XML       |
 |----------------------------------+---------------+----------------------------------+---------------------+------------+-------------+-----------|
-| [[./org/AM04-0782_001r.org]]         | AM 782 4to    | First Sunday in Advent           | ADVENT_1            | da         | transcribed |           |
-| [[./org/AM04-0782_091r.org]]         | AM 782 4to    | Every Day in Lent                |                     | gml        | transcribed |           |
-| [[./org/AM04-0784_026v_m.org]]       | AM 784 4to    | For a traveller                  |                     | da         | transcribed |           |
-| [[./org/AM04-0784_080r.org]]         | AM 784 4to    | First Sunday of Advent           | ADVENT_1            | da         | transcribed |           |
+| [[./org/AM04-0782_001r.org]]         | AM 782 4to    | First Sunday in Advent           | ADVENT_1            | da         | transcribed | converted |
+| [[./org/AM04-0782_091r.org]]         | AM 782 4to    | Every Day in Lent                |                     | gml        | transcribed | converted |
+| [[./org/AM04-0784_026v_m.org]]       | AM 784 4to    | For a traveller                  |                     | da         | transcribed | converted |
+| [[./org/AM04-0784_080r.org]]         | AM 784 4to    | First Sunday of Advent           | ADVENT_1            | da         | transcribed | converted |
 | [[./org/AM04-0784_092r.org]]         | AM 784 4to    | Mary and Anna                    |                     | da         | transcribed |           |
 | [[./org/AM04-0789_001r.org]]         | AM 789 4to    | 15 Pater Noster (15 Os)          | 15_OS               | da         | transcribed |           |
 | [[./org/AM04-0789_002v.org]]         | AM 789 4to    | Five sorrows of the Virgin       | MARY_SORROWS        | da         | proofread   |           |

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM04-0789_002v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Five sorrows of the Virgin</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM04-0789">AM 789 4to</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="2v" to="3r"/>
+<title key="MARY_SORROWS">Five sorrows of the Virgin</title>
+<textLang mainLang="Danish"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="2v"/>
+<div type="rubric">
+<p>
+<w xml:id="AM04-0789_2v.1.1">Her</w>
+<w xml:id="AM04-0789_2v.1.2">byries</w>
+<w xml:id="AM04-0789_2v.1.3">wor</w>
+<w xml:id="AM04-0789_2v.1.4">ffrwe</w>
+<w xml:id="AM04-0789_2v.1.5">sorgher</w>
+<w xml:id="AM04-0789_2v.1.6"><ex>et cetera</ex></w>
+</p></div>
+<div type="text">
+<p>
+<lb n="2"/>
+<w xml:id="AM04-0789_2v.2.1"><hi rend="7">M</hi>Jn</w>
+<w xml:id="AM04-0789_2v.2.2">kiære</w>
+<w xml:id="AM04-0789_2v.2.3">Jomffrw</w>
+<w xml:id="AM04-0789_2v.2.4">Maria</w>
+<w xml:id="AM04-0789_2v.2.5">Jech</w>
+<lb n="3"/>
+<w xml:id="AM04-0789_2v.3.1">beder</w>
+<w xml:id="AM04-0789_2v.3.2">tich</w>
+<w xml:id="AM04-0789_2v.3.3">for</w>
+<w xml:id="AM04-0789_2v.3.4">then</w>
+<w xml:id="AM04-0789_2v.3.5">første</w>
+<lb n="4"/>
+<w xml:id="AM04-0789_2v.4.1">sorgh</w>
+<w xml:id="AM04-0789_2v.4.2">ther</w>
+<w xml:id="AM04-0789_2v.4.3">thu</w>
+<w xml:id="AM04-0789_2v.4.4">haffde</w>
+<w xml:id="AM04-0789_2v.4.5">ther</w>
+<lb n="5"/>
+<w xml:id="AM04-0789_2v.5.1">aff</w>
+<w xml:id="AM04-0789_2v.5.2">at</w>
+<w xml:id="AM04-0789_2v.5.3">symeon</w>
+<w xml:id="AM04-0789_2v.5.4">spodhe</w>
+<w xml:id="AM04-0789_2v.5.5">tegh</w>
+<lb n="6"/>
+<w xml:id="AM04-0789_2v.6.1">thet</w>
+<w xml:id="AM04-0789_2v.6.2">at</w>
+<w xml:id="AM04-0789_2v.6.3">thin</w>
+<w xml:id="AM04-0789_2v.6.4">kere</w>
+<w xml:id="AM04-0789_2v.6.5">søns</w>
+<w xml:id="AM04-0789_2v.6.6">død</w>
+<lb n="7"/>
+<w xml:id="AM04-0789_2v.7.1">schulle</w>
+<w xml:id="AM04-0789_2v.7.2">tig</w>
+<w xml:id="AM04-0789_2v.7.3">swa</w>
+<w xml:id="AM04-0789_2v.7.4">ilt</w>
+<w xml:id="AM04-0789_2v.7.5">giøre</w>
+<w xml:id="AM04-0789_2v.7.6">som</w>
+<lb n="8"/>
+<w xml:id="AM04-0789_2v.8.1">eth</w>
+<w xml:id="AM04-0789_2v.8.2">swærd</w>
+<w xml:id="AM04-0789_2v.8.3">ginge</w>
+<w xml:id="AM04-0789_2v.8.4">gømen</w>
+<w xml:id="AM04-0789_2v.8.5">tith</w>
+<lb n="9"/>
+<w xml:id="AM04-0789_2v.9.1">hiærtte</w>
+<w xml:id="AM04-0789_2v.9.2">At</w>
+<w xml:id="AM04-0789_2v.9.3">thu</w>
+<w xml:id="AM04-0789_2v.9.4">forlad</w>
+<w xml:id="AM04-0789_2v.9.5">mich</w>
+<w xml:id="AM04-0789_2v.9.6">alle</w>
+<w xml:id="AM04-0789_2v.9.7">myne</w>
+<w xml:id="AM04-0789_2v.9.8">sønder</w>
+<w xml:id="AM04-0789_2v.9.9">och</w>
+<lb n="10"/>
+<w xml:id="AM04-0789_2v.10.1">gø<ex>m</ex>me</w>
+<w xml:id="AM04-0789_2v.10.2">mich</w>
+<w xml:id="AM04-0789_2v.10.3">fran</w>
+<w xml:id="AM04-0789_2v.10.4">alt</w>
+<w xml:id="AM04-0789_2v.10.5">ilt</w>
+<w xml:id="AM04-0789_2v.10.6">bode</w>
+<w xml:id="AM04-0789_2v.10.7">till</w>
+<w xml:id="AM04-0789_2v.10.8">siel</w>
+<w xml:id="AM04-0789_2v.10.9">oc</w>
+<w xml:id="AM04-0789_2v.10.10">liff</w>
+<w xml:id="AM04-0789_2v.10.11">Am<ex>en</ex></w>
+</p></div>
+<div type="text">
+<p>
+<lb n="11"/>
+<w xml:id="AM04-0789_2v.11.1"><hi rend="3 blue">M</hi>Jn</w>
+<w xml:id="AM04-0789_2v.11.2">ker<ex>e</ex></w>
+<w xml:id="AM04-0789_2v.11.3">Jomffrw</w>
+<w xml:id="AM04-0789_2v.11.4">maria</w>
+<w xml:id="AM04-0789_2v.11.5">Jech</w>
+<w xml:id="AM04-0789_2v.11.6">beder</w>
+<lb n="12"/>
+<w xml:id="AM04-0789_2v.12.1">tich</w>
+<w xml:id="AM04-0789_2v.12.2">for</w>
+<w xml:id="AM04-0789_2v.12.3">then</w>
+<w xml:id="AM04-0789_2v.12.4">Anne<ex>n</ex></w>
+<w xml:id="AM04-0789_2v.12.5">sorgh</w>
+<w xml:id="AM04-0789_2v.12.6">och</w>
+<w xml:id="AM04-0789_2v.12.7">drouelsse</w>
+<lb n="13"/>
+<w xml:id="AM04-0789_2v.13.1">ther</w>
+<w xml:id="AM04-0789_2v.13.2">thu</w>
+<w xml:id="AM04-0789_2v.13.3">haffde</w>
+<w xml:id="AM04-0789_2v.13.4">ther</w>
+<w xml:id="AM04-0789_2v.13.5">aff</w>
+<w xml:id="AM04-0789_2v.13.6">at</w>
+<w xml:id="AM04-0789_2v.13.7">thu</w>
+<w xml:id="AM04-0789_2v.13.8">haffde</w>
+<lb n="14"/>
+<w xml:id="AM04-0789_2v.14.1">tabet</w>
+<w xml:id="AM04-0789_2v.14.2">thin</w>
+<w xml:id="AM04-0789_2v.14.3">kiære</w>
+<w xml:id="AM04-0789_2v.14.4">søn</w>
+<w xml:id="AM04-0789_2v.14.5">i</w>
+<w xml:id="AM04-0789_2v.14.6">thre</w>
+<w xml:id="AM04-0789_2v.14.7">dage</w>
+<w xml:id="AM04-0789_2v.14.8">At</w>
+<w xml:id="AM04-0789_2v.14.9">thu</w>
+<w xml:id="AM04-0789_2v.14.10">giffue</w>
+<lb n="15"/>
+<w xml:id="AM04-0789_2v.15.1">mich</w>
+<w xml:id="AM04-0789_2v.15.2">r<ex>e</ex>th</w>
+<w xml:id="AM04-0789_2v.15.3">rygelsse</w>
+<w xml:id="AM04-0789_2v.15.4">oc</w>
+<w xml:id="AM04-0789_2v.15.5">got</w>
+<w xml:id="AM04-0789_2v.15.6">skrifftemal</w>
+<w xml:id="AM04-0789_2v.15.7">for</w>
+<w xml:id="AM04-0789_2v.15.8">alle</w>
+<lb n="16"/>
+<w xml:id="AM04-0789_2v.16.1">myne</w>
+<w xml:id="AM04-0789_2v.16.2">sønder</w>
+<w xml:id="AM04-0789_2v.16.3">och</w>
+<w xml:id="AM04-0789_2v.16.4">fulkomelig</w>
+<w xml:id="AM04-0789_2v.16.5">løn</w>
+<w xml:id="AM04-0789_2v.16.6">efft<ex>er</ex></w>
+<w xml:id="AM04-0789_2v.16.7">thin</w>
+<w xml:id="AM04-0789_2v.16.8">ma<ex>n</ex>ge</w>
+<lb n="17"/>
+<w xml:id="AM04-0789_2v.17.1">falde</w>
+<w xml:id="AM04-0789_2v.17.2">mischund</w>
+<w xml:id="AM04-0789_2v.17.3">Am<ex>en</ex></w>
+</p></div>
+<div type="text">
+<p>
+<lb n="19"/>
+<w xml:id="AM04-0789_2v.19.1"><hi rend="gold 3">M</hi>in</w>
+<w xml:id="AM04-0789_2v.19.2">kiære</w>
+<w xml:id="AM04-0789_2v.19.3">Jomffrw</w>
+<w xml:id="AM04-0789_2v.19.4">s<ex>anc</ex>ta</w>
+<w xml:id="AM04-0789_2v.19.5">Maria</w>
+<w xml:id="AM04-0789_2v.19.6">iech</w>
+<w xml:id="AM04-0789_2v.19.7">beder</w>
+<lb n="20"/>
+<w xml:id="AM04-0789_2v.20.1">tig</w>
+<w xml:id="AM04-0789_2v.20.2">for</w>
+<w xml:id="AM04-0789_2v.20.3">then</w>
+<w xml:id="AM04-0789_2v.20.4">thredie</w>
+<w xml:id="AM04-0789_2v.20.5">sorgh</w>
+<w xml:id="AM04-0789_2v.20.6">ther</w>
+<w xml:id="AM04-0789_2v.20.7">thu</w>
+<lb n="21"/>
+<w xml:id="AM04-0789_2v.21.1">haffde</w>
+<w xml:id="AM04-0789_2v.21.2">ther</w>
+<w xml:id="AM04-0789_2v.21.3">aff</w>
+<w xml:id="AM04-0789_2v.21.4">at</w>
+<w xml:id="AM04-0789_2v.21.5">thin</w>
+<w xml:id="AM04-0789_2v.21.6">kere</w>
+<w xml:id="AM04-0789_2v.21.7">søn</w>
+<w xml:id="AM04-0789_2v.21.8">war</w>
+<pb n="3r"/>
+<lb n="1"/>
+<w xml:id="AM04-0789_3r.1.1">fangen</w>
+<w xml:id="AM04-0789_3r.1.2">aff</w>
+<w xml:id="AM04-0789_3r.1.3">wmilde</w>
+<w xml:id="AM04-0789_3r.1.4">me<ex>n</ex></w>
+<w xml:id="AM04-0789_3r.1.5">at</w>
+<w xml:id="AM04-0789_3r.1.6">thu</w>
+<w xml:id="AM04-0789_3r.1.7">løse</w>
+<w xml:id="AM04-0789_3r.1.8">mich</w>
+<w xml:id="AM04-0789_3r.1.9">aff</w>
+<w xml:id="AM04-0789_3r.1.10">fæn<lb n="2"/>xell</w>
+<w xml:id="AM04-0789_3r.2.2">oc</w>
+<w xml:id="AM04-0789_3r.2.3">aff</w>
+<w xml:id="AM04-0789_3r.2.4">alle</w>
+<w xml:id="AM04-0789_3r.2.5">myne</w>
+<w xml:id="AM04-0789_3r.2.6">uwenners</w>
+<w xml:id="AM04-0789_3r.2.7">wold</w>
+<w xml:id="AM04-0789_3r.2.8">bode</w>
+<w xml:id="AM04-0789_3r.2.9">till</w>
+<lb n="3"/>
+<w xml:id="AM04-0789_3r.3.1">liiff</w>
+<w xml:id="AM04-0789_3r.3.2">och</w>
+<w xml:id="AM04-0789_3r.3.3">siel</w>
+<w xml:id="AM04-0789_3r.3.4">Amen</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="4"/>
+<w xml:id="AM04-0789_3r.4.1"><hi rend="3 red">M</hi>in</w>
+<w xml:id="AM04-0789_3r.4.2">kiære</w>
+<w xml:id="AM04-0789_3r.4.3">Jomffrw</w>
+<w xml:id="AM04-0789_3r.4.4">s<ex>anc</ex>ta</w>
+<w xml:id="AM04-0789_3r.4.5">maria</w>
+<w xml:id="AM04-0789_3r.4.6">iech</w>
+<w xml:id="AM04-0789_3r.4.7">beder</w>
+<lb n="5"/>
+<w xml:id="AM04-0789_3r.5.1">tigh</w>
+<w xml:id="AM04-0789_3r.5.2">for</w>
+<w xml:id="AM04-0789_3r.5.3">then</w>
+<w xml:id="AM04-0789_3r.5.4">fiærde</w>
+<w xml:id="AM04-0789_3r.5.5">sorgh</w>
+<w xml:id="AM04-0789_3r.5.6">ther</w>
+<w xml:id="AM04-0789_3r.5.7">thu</w>
+<w xml:id="AM04-0789_3r.5.8">haf<lb n="6"/>de</w>
+<w xml:id="AM04-0789_3r.6.2">ther</w>
+<w xml:id="AM04-0789_3r.6.3">aff</w>
+<w xml:id="AM04-0789_3r.6.4">at</w>
+<w xml:id="AM04-0789_3r.6.5">thu</w>
+<w xml:id="AM04-0789_3r.6.6">saa<choice><sic>t</sic><corr></corr></choice></w>
+<w xml:id="AM04-0789_3r.6.7">thin</w>
+<w xml:id="AM04-0789_3r.6.8">ker<ex>e</ex></w>
+<w xml:id="AM04-0789_3r.6.9">søn</w>
+<w xml:id="AM04-0789_3r.6.10">hen<lb n="7"/>ghe</w>
+<w xml:id="AM04-0789_3r.7.2">aa</w>
+<w xml:id="AM04-0789_3r.7.3">thet</w>
+<w xml:id="AM04-0789_3r.7.4">helge</w>
+<w xml:id="AM04-0789_3r.7.5">kors</w>
+<w xml:id="AM04-0789_3r.7.6">m<ex>et</ex></w>
+<w xml:id="AM04-0789_3r.7.7">hans</w>
+<w xml:id="AM04-0789_3r.7.8">nat<ex>ur</ex>lige</w>
+<w xml:id="AM04-0789_3r.7.9">man<lb n="8"/>dom</w>
+<w xml:id="AM04-0789_3r.8.2">th<ex>e</ex>r</w>
+<w xml:id="AM04-0789_3r.8.3">han</w>
+<w xml:id="AM04-0789_3r.8.4">aff</w>
+<w xml:id="AM04-0789_3r.8.5">tigh</w>
+<w xml:id="AM04-0789_3r.8.6">togh</w>
+<w xml:id="AM04-0789_3r.8.7">at</w>
+<w xml:id="AM04-0789_3r.8.8">thw</w>
+<w xml:id="AM04-0789_3r.8.9">lade</w>
+<w xml:id="AM04-0789_3r.8.10">mich</w>
+<lb n="9"/>
+<w xml:id="AM04-0789_3r.9.1">aldrig</w>
+<w xml:id="AM04-0789_3r.9.2">glø<ex>m</ex>me</w>
+<w xml:id="AM04-0789_3r.9.3">hans</w>
+<w xml:id="AM04-0789_3r.9.4">helge</w>
+<w xml:id="AM04-0789_3r.9.5">pine</w>
+<w xml:id="AM04-0789_3r.9.6">oc</w>
+<w xml:id="AM04-0789_3r.9.7">thin</w>
+<w xml:id="AM04-0789_3r.9.8">sorgh</w>
+<lb n="10"/>
+<w xml:id="AM04-0789_3r.10.1">Er</w>
+<w xml:id="AM04-0789_3r.10.2">thet</w>
+<w xml:id="AM04-0789_3r.10.3">swo</w>
+<w xml:id="AM04-0789_3r.10.4">at</w>
+<w xml:id="AM04-0789_3r.10.5">iech</w>
+<w xml:id="AM04-0789_3r.10.6">gidder</w>
+<w xml:id="AM04-0789_3r.10.7">ey</w>
+<w xml:id="AM04-0789_3r.10.8">hans</w>
+<w xml:id="AM04-0789_3r.10.9">pine</w>
+<w xml:id="AM04-0789_3r.10.10">oc</w>
+<w xml:id="AM04-0789_3r.10.11">thin</w>
+<lb n="11"/>
+<w xml:id="AM04-0789_3r.11.1">sorgh</w>
+<w xml:id="AM04-0789_3r.11.2">swo</w>
+<w xml:id="AM04-0789_3r.11.3">tænckt</w>
+<w xml:id="AM04-0789_3r.11.4">oc</w>
+<w xml:id="AM04-0789_3r.11.5">hedere<choice><sic>r</sic><corr></corr></choice>t</w>
+<w xml:id="AM04-0789_3r.11.6">som</w>
+<w xml:id="AM04-0789_3r.11.7">iech</w>
+<w xml:id="AM04-0789_3r.11.8">till</w>
+<w xml:id="AM04-0789_3r.11.9">rætte</w>
+<lb n="12"/>
+<w xml:id="AM04-0789_3r.12.1">schulle</w>
+<w xml:id="AM04-0789_3r.12.2">for</w>
+<w xml:id="AM04-0789_3r.12.3">myn</w>
+<w xml:id="AM04-0789_3r.12.4">kranckheit</w>
+<w xml:id="AM04-0789_3r.12.5">Tha</w>
+<w xml:id="AM04-0789_3r.12.6">tagh</w>
+<w xml:id="AM04-0789_3r.12.7">my<ex>n</ex></w>
+<w xml:id="AM04-0789_3r.12.8">wil<lb n="13"/>lie</w>
+<w xml:id="AM04-0789_3r.13.2">for</w>
+<w xml:id="AM04-0789_3r.13.3">fulle</w>
+<w xml:id="AM04-0789_3r.13.4">for</w>
+<w xml:id="AM04-0789_3r.13.5">thin</w>
+<w xml:id="AM04-0789_3r.13.6">ma<ex>n</ex>gefald</w>
+<w xml:id="AM04-0789_3r.13.7">mischund</w>
+<w xml:id="AM04-0789_3r.13.8">Am<ex>en</ex></w>
+</p></div>
+<div type="text">
+<p>
+<lb n="14"/>
+<w xml:id="AM04-0789_3r.14.1"><hi rend="3 blue">M</hi>Jn</w>
+<w xml:id="AM04-0789_3r.14.2">kiær<ex>e</ex></w>
+<w xml:id="AM04-0789_3r.14.3">Jomffrw</w>
+<w xml:id="AM04-0789_3r.14.4">s<ex>anc</ex>ta</w>
+<w xml:id="AM04-0789_3r.14.5">Maria</w>
+<w xml:id="AM04-0789_3r.14.6">Jech</w>
+<w xml:id="AM04-0789_3r.14.7">beder</w>
+<lb n="15"/>
+<w xml:id="AM04-0789_3r.15.1">tig</w>
+<w xml:id="AM04-0789_3r.15.2">for</w>
+<w xml:id="AM04-0789_3r.15.3">then</w>
+<w xml:id="AM04-0789_3r.15.4">fæmtæ</w>
+<w xml:id="AM04-0789_3r.15.5">sorg</w>
+<w xml:id="AM04-0789_3r.15.6">ther</w>
+<w xml:id="AM04-0789_3r.15.7">thu</w>
+<w xml:id="AM04-0789_3r.15.8">hafde</w>
+<lb n="16"/>
+<w xml:id="AM04-0789_3r.16.1">th<ex>e</ex>n</w>
+<w xml:id="AM04-0789_3r.16.2">thime</w>
+<w xml:id="AM04-0789_3r.16.3">th<ex>e</ex>r</w>
+<w xml:id="AM04-0789_3r.16.4">thu</w>
+<w xml:id="AM04-0789_3r.16.5">sa<choice><sic>t</sic><corr></corr></choice></w>
+<w xml:id="AM04-0789_3r.16.6">thin</w>
+<w xml:id="AM04-0789_3r.16.7">kiær<ex>e</ex></w>
+<w xml:id="AM04-0789_3r.16.8">søn</w>
+<w xml:id="AM04-0789_3r.16.9">hen<lb n="17"/>ghe</w>
+<w xml:id="AM04-0789_3r.17.2">døt</w>
+<w xml:id="AM04-0789_3r.17.3">aa</w>
+<w xml:id="AM04-0789_3r.17.4">korsset</w>
+<w xml:id="AM04-0789_3r.17.5">oc</w>
+<w xml:id="AM04-0789_3r.17.6">thu</w>
+<w xml:id="AM04-0789_3r.17.7">togt</w>
+<w xml:id="AM04-0789_3r.17.8">hanu<ex>m</ex></w>
+<w xml:id="AM04-0789_3r.17.9">i</w>
+<w xml:id="AM04-0789_3r.17.10">thin</w>
+<lb n="18"/>
+<w xml:id="AM04-0789_3r.18.1">arm</w>
+<w xml:id="AM04-0789_3r.18.2">oc</w>
+<w xml:id="AM04-0789_3r.18.3">lagde</w>
+<w xml:id="AM04-0789_3r.18.4">hanu<ex>m</ex></w>
+<w xml:id="AM04-0789_3r.18.5">døth</w>
+<w xml:id="AM04-0789_3r.18.6">nedher</w>
+<w xml:id="AM04-0789_3r.18.7">aff</w>
+<w xml:id="AM04-0789_3r.18.8">korsset</w>
+<w xml:id="AM04-0789_3r.18.9">at</w>
+<lb n="19"/>
+<w xml:id="AM04-0789_3r.19.1">thu</w>
+<w xml:id="AM04-0789_3r.19.2">giffue</w>
+<w xml:id="AM04-0789_3r.19.3">mich</w>
+<w xml:id="AM04-0789_3r.19.4">i</w>
+<w xml:id="AM04-0789_3r.19.5">myn</w>
+<w xml:id="AM04-0789_3r.19.6">yderste</w>
+<w xml:id="AM04-0789_3r.19.7">thime</w>
+<w xml:id="AM04-0789_3r.19.8">ther</w>
+<w xml:id="AM04-0789_3r.19.9">myn</w>
+<lb n="20"/>
+<w xml:id="AM04-0789_3r.20.1">siel</w>
+<w xml:id="AM04-0789_3r.20.2">schal</w>
+<w xml:id="AM04-0789_3r.20.3">schillies</w>
+<w xml:id="AM04-0789_3r.20.4">widh</w>
+<w xml:id="AM04-0789_3r.20.5">mith</w>
+<w xml:id="AM04-0789_3r.20.6">lego<ex>m</ex>me</w>
+<w xml:id="AM04-0789_3r.20.7">at</w>
+<w xml:id="AM04-0789_3r.20.8">iech</w>
+<lb n="21"/>
+<w xml:id="AM04-0789_3r.21.1">maa</w>
+<w xml:id="AM04-0789_3r.21.2">thage</w>
+<w xml:id="AM04-0789_3r.21.3">werdeligh</w>
+<w xml:id="AM04-0789_3r.21.4">thin</w>
+<w xml:id="AM04-0789_3r.21.5">søns</w>
+<w xml:id="AM04-0789_3r.21.6">helge</w>
+<w xml:id="AM04-0789_3r.21.7">lego<ex>m</ex>me</w>
+<lb n="22"/>
+<w xml:id="AM04-0789_3r.22.1">och</w>
+<w xml:id="AM04-0789_3r.22.2">thag</w>
+<w xml:id="AM04-0789_3r.22.3">mich</w>
+<w xml:id="AM04-0789_3r.22.4">i</w>
+<w xml:id="AM04-0789_3r.22.5">thin</w>
+<w xml:id="AM04-0789_3r.22.6">signede</w>
+<w xml:id="AM04-0789_3r.22.7">gø<ex>m</ex>me</w>
+<w xml:id="AM04-0789_3r.22.8">til</w>
+<w xml:id="AM04-0789_3r.22.9">th<ex>e</ex>n</w>
+<lb n="23"/>
+<w xml:id="AM04-0789_3r.23.1">ewærdelig</w>
+<w xml:id="AM04-0789_3r.23.2">glede</w>
+<w xml:id="AM04-0789_3r.23.3">ther</w>
+<w xml:id="AM04-0789_3r.23.4">aldrig</w>
+<w xml:id="AM04-0789_3r.23.5">ko<ex>m</ex>mer</w>
+<w xml:id="AM04-0789_3r.23.6">ændhe</w>
+<lb n="24"/>
+<w xml:id="AM04-0789_3r.24.1">wppoo</w>
+<w xml:id="AM04-0789_3r.24.2">Amen</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>
