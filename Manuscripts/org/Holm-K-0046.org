@@ -1,0 +1,64 @@
+#+TITLE: K 46
+A small manuscript containing the Danish Rhymed Chronicle and the Animal Rhyme opens with a calendar and tables.
+
+* PhysDesc
+
+|--------------+---------------------|
+| SUPPORT      | perg pap            |
+| NUMBER       | i + 20 + i + 37 + i |
+| SIZE         | 180 140             |
+| WRITING AREA | 160 115             |
+| COLUMNS      | 1 2                 |
+| LINES        | 36                  |
+| FOLIATION    | p                   |
+|--------------+---------------------|
+
+** Binding
+
+|------+------------|
+| TYPE | limp perg  |
+| DATE | XVIII      |
+| SIZE | 195 140 15 |
+|------+------------|
+
+** Quire Structure
+|-------+--------+------------+---------------------------------------------|
+| Quire | Leaves | Structure  | Changes                                     |
+|-------+--------+------------+---------------------------------------------|
+| I     |    1-6 | ternion    |                                             |
+| II    |   7-10 | quaternion |                                             |
+|-------+--------+------------+---------------------------------------------|
+| III   |  11-12 | bifolium   |                                             |
+| IV    |  13-20 | quinterion | 20bis attached to flyleaf and pasted to 20  |
+|-------+--------+------------+---------------------------------------------|
+| V     |  21-22 | bifolium   | blank leaves                                |
+|-------+--------+------------+---------------------------------------------|
+| VI    |  23-34 | sexternion |                                             |
+| VII   |  34-46 | sexternion |                                             |
+| VIII  |  47-57 | sexternion | Last leaf missing? Not the same as flyleaf. |
+|-------+--------+------------+---------------------------------------------|
+* History
+|------------+-----|
+| PLACE      | #DK |
+| DATE       | XV  |
+| PROVENANCE |     |
+|------------+-----|
+
+The tables for figuring the dominical letter and golden number begin with the year 1421.
+
+* Contents
+|--------+--------------+-----+--------------------+--------------------------------------------------------------------------------------------------+------+------------+-------+--------|
+| Loc    | Type         | MDB | Text               | Rub/Inc/Exp                                                                                      | Lang | Notes      | Level | Status |
+|--------+--------------+-----+--------------------+--------------------------------------------------------------------------------------------------+------+------------+-------+--------|
+| 2 2    | Table        |     | Sunday Letter      |                                                                                                  | da   | with graph |     1 | main   |
+| 2 2    | Table        |     | Golden number      |                                                                                                  | da   | with graph |     1 | main   |
+| 3 14   | Calendar     |     | Calendar           |                                                                                                  | lat  |            |     1 | main   |
+| 15 15  | Table        |     | Bloodletting table |                                                                                                  | lat  |            |     1 | main   |
+| 16 16  | Prognosticon |     | Days of the month  | *Nota de quotacione lune* [[F]]ørste dagh i nyet gør me(n)nisken thu(n)gh [...] Tretighende ær wærst | da   |            |     1 | main   |
+| 16 17  | Prognosticon |     |                    | *J thesse timæ ær goth laden Nota* Martini. Blasii [...] oc annen daghen i decembri              | da   |            |     1 | main   |
+| 17 18  | Prognosticon |     | Bloodletting       | *Jtem hwre blodh skal skodhes tha th(et) ær ny ladhet* [[F]]ørst om blodh(et) er sku(m)meth [...]    | da   |            |     1 | main   |
+| 19 20  | Prognosticon |     | Zodiac             | *Aries* Tha monen ær i ariete skalt thu wakte thic [...] pisce th(et) tegn                       | da   |            |     1 | main   |
+|--------+--------------+-----+--------------------+--------------------------------------------------------------------------------------------------+------+------------+-------+--------|
+| 21 39  | Chronicle    |     | Danish Chronicle   | [[T]]hen føstæ koni(n)gh j danmarch wor han hedh Dan oc aff ha(n)nu(m) ta fek has rygæ danmarsx nafn | da   |            |     1 | main   |
+| 45 114 | Rhyme        |     | Dyrerim            | Mædh(e)n my(n)n glædhe eer nw borth faren                                                        | da   |            |     1 | main   |
+|--------+--------------+-----+--------------------+--------------------------------------------------------------------------------------------------+------+------------+-------+--------|

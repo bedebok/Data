@@ -1,0 +1,52 @@
+#+Title: Holm A 51
+
+* PhysDesc
+|--------------+------------|
+| SUPPORT      | pap        |
+| NUMBER       | i + 73 + i |
+| SIZE         | 215 145    |
+| WRITING AREA | 137 103    |
+| COLUMNS      | 1          |
+| LINES        | 17         |
+| FOLIATION    | f. 1-72    |
+|--------------+------------|
+
+Ruled using prickings (in paper).
+
+** Binding
+|------+------------|
+| TYPE | leather    |
+| DATE | XV-XVI     |
+| SIZE | 220 150 30 |
+|------+------------|
+Leather binding in poor condition. No indication of blind tooling.
+Single clasp has gone missing.
+
+** Quire structure
+|-------+---------------+-----------+----------------------------|
+| Quire | Leaves        | Structure | Changes                    |
+|-------+---------------+-----------+----------------------------|
+| I     | 5+6 1-10      |           | 5+6                        |
+| II    | 11-25 (17+18) |           | ij                         |
+| III   | 26-37         |           | iij. leaf cut at beginning |
+| IV    | 38-49 (43+44) |           | iiij                       |
+| VI    | 50-61 (55+56) |           | v                          |
+| VII   | 62- (67-68)   |           | vj                         |
+|-------+---------------+-----------+----------------------------|
+
+* History
+|------------+----------|
+| PLACE      | Vadstena |
+| DATE       |     1450 |
+| PROVENANCE |          |
+|------------+----------|
+
+* Contents
+|---------+--------------+-----+-------------------------------+-------------+--------+--------|
+| Loc     | Type         | MDB | Text                          | Rub/Inc/Exp | Lang   | Status |
+|---------+--------------+-----+-------------------------------+-------------+--------+--------|
+| 1r 67v  | Instructions |     | Readings for /Cantus Sororum/ |             | da lat | main   |
+| 67v 72r | Cycle        | 105 | KRONGEBET                     |             | da     | added  |
+| 72r 72v | Instructions |     | Extra readings                |             | da lat | added  |
+| 72v 72v | Instructions |     | Extra readings                |             | da lat | added  |
+|---------+--------------+-----+-------------------------------+-------------+--------+--------|
