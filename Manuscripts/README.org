@@ -35,9 +35,9 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/GKS08-3487.org][GKS 3487 8vo]]  | Danish medical text with Low German prayers | Latin, Danish, German |  1500-1550 |
 | NKS 41 8vo    | Psalter                                     | Latin, German         |  1500-1599 |
 | NKS 44 8vo    | Passionale Jesu Christi                     | German                |  1375-1400 |
-| NKS44 b 8vo   | Gudelige bønner (prayers of god?)           | Danish                |            |
+| NKS 44 b 8vo  | Gudelige bønner (prayers of god?)           | Danish                |            |
 | [[file:org/NKS08-0045.org][NKS 45 8vo]]    | Liber devotionis                            | Latin, Danish, German |  1400-1499 |
-| Thott 553 4to | Anne Brade's prayer book                    | Danish                |            |
+| [[org/Thott04-0553.org][Thott 553 4to]] | Anne Brade's prayer book                    | Danish                |            |
 | Thott 554 4to | Om at høre messe (copy of Chr. Pedersen)    | Danish                |            |
 | Thott 120 8vo | Liber devotionalis                          | Latin, German         |  1400-1499 |
 | Thott 130 8vo | Breviary (rel. GKS 3451 8vo?)               | German                |            |
@@ -52,9 +52,9 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 |-----------+---------------------------------------------------+-------------+-----------|
 | [[file:org/Holm-A-0029.org][A 29]]      | Maribo prayer book                                | Danish      |      1500 |
 | [[file:org/Holm-A-0031.org][A 31]]      | Psalter                                           | Danish      |           |
-| A 40      | Ingeborg Predbjørnsdatters prayer book            | Danish      |           |
+| [[org/Holm-A-0040.org][A 40]]      | Ingeborg Predbjørnsdatters prayer book            | Danish      |           |
 | A 42      | Johanne Nielsdatters prayer book                  | Danish      |           |
-| A 51      | A Vadstena prayer book?                           | Danish      |      1450 |
+| [[org/Holm-A-0051.org][A 51]]      | Description of /Cantus Sororum/                   | Danish      |      1450 |
 | A 85      | Psalter                                           | Danish      | 1500-1599 |
 | A 126     | Of purgatory, Ps. Birgitta from Sweden            | German      |           |
 | A 218     | Aegidius von Assissi                              | German      |           |
