@@ -1,0 +1,46 @@
+#+TITLE: Holm A 126
+
+A fragment of four leaves contains parts of two texts for reading within a monastic environment: On Purgatory and On Christ's Suffering. The latter is attributed in the mansucript to St. Birgitta.
+
+
+* PhysDesc
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 4       |
+| SIZE         | 335 230 |
+| WRITING AREA | 227 168 |
+| COLUMNS      | 1       |
+| LINES        | 32      |
+| FOLIATION    | f 1-4   |
+|--------------+---------|
+
+** Binding
+|------+-------------------------|
+| TYPE | Half with marbled paper |
+| DATE | XIX                     |
+| SIZE | 345 242 10              |
+|------+-------------------------|
+
+** Quire structure
+|-------+--------+-----------+---------|
+| Quire | Leaves | Structure | Changes |
+|-------+--------+-----------+---------|
+| I     |    1-4 | Binion    |         |
+|-------+--------+-----------+---------|
+
+* History
+|------------+-----------------|
+| PLACE      |                 |
+| DATE       | XV              |
+| PROVENANCE | Kammarkollegium |
+|------------+-----------------|
+
+Fragment was used as a cover for bookkeeping.
+
+* Contents
+|-------+----------+-----+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-----------+-------+--------|
+| Loc   | Type     | MDB | Text                                    | Rub/Inc/Exp                                                                                                                                                                                                                                                                                                                                                                                                                      | Lang | Notes     | Level | Status |
+|-------+----------+-----+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-----------+-------+--------|
+| 1r 2r | Treatise |     | On Purgatory                            | in ereme leuende mochten hebben gebetert. dar moten se nu lange vm(m)e lyden [...] vn(de) se van eren pynen des helpe vns de vader vn(de) de sone vn(de) de hilge geist ame(n)                                                                                                                                                                                                                                                   | gml  | defective |     1 | main   |
+| 2r 4v | Treatise |     | On Christ's Suffering (Pseudo-Birgitta) | *Hyr heuet syk an de openbarynge dDe vnse here ih(es)us (christ)us su(n)te birgitten openbarde van syner hilgen martere vn(de) alle syn hilge lydent van deme begy(n)ne bith an dat ende Vn(de) ok wat he wyl geuen den gennen de sik auen(?) i(n) syneme hilge(n) lydende* [[D]]E sone godes (chris)us sprak to syner brut sunte Birgitten. Du biddest vn(de) begerest to wetende myn lydent [...] dat myn he(m)melsche vader wolde | gml  | defective |     1 | main   |
+|-------+----------+-----+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-----------+-------+--------|
