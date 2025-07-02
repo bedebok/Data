@@ -1,0 +1,66 @@
+#+TITLE: Psalter (A 85)
+
+* PhysDesc
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | i + 191 |
+| SIZE         | 165 70  |
+| WRITING AREA | 125 90  |
+| COLUMNS      | 1       |
+| LINES        | 20      |
+| FOLIATION    | p 1-381 |
+|--------------+---------|
+
+(Also occasional foliation) 
+
+** Binding
+|------+-----------------|
+| TYPE | Marbled Leather |
+| DATE | XIX             |
+| SIZE | 173 135 45      |
+|------+-----------------|
+
+** Quire Structure
+|-------+--------+-----------+---------|
+| Quire | Leaves | Structure | Changes |
+|-------+--------+-----------+---------|
+|       |        |           |         |
+|-------+--------+-----------+---------|
+
+New quire from p. 335 (new production unit)
+
+* History
+|------------+---------------|
+| PLACE      |               |
+| DATE       |               |
+| PROVENANCE |               |
+|------------+---------------|
+Must be dated to after 1528, since it contains Poul Helgesen's translation of Athanasius. Language appears to mix in Swecisms, possibly pointing to a Swedish exemplar? (Though not for Helgesen). Some think Swedish scribe, though I have found a few instances of "uo" for long o, which may point to Jutland. Check to see if calendar points to Aarhus, where there was a Carmelite monastery.
+
+
+* Contents
+|---------+-----+---------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------|
+| Locus   | MDB | Type    | Text                                            | Rub/Inc/Exp                                                                                                                                                                                                       | Language | Status | Level |
+|---------+-----+---------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------|
+| 1 25    |     | Tables  | Calendar and Easter Tables                      |                                                                                                                                                                                                                   |          |        |     1 |
+| 27 325  |     | Psalter | Psalter                                         | Beatus vir Første psalm                                                                                                                                                                                           | da       | main   |     1 |
+| 27 319  |     | Psalms  | Psalms 1-150                                    |                                                                                                                                                                                                                   |          |        |       |
+| 319 320 |     |         | Song of Zachariah                               | *Zacharie p(ro)phete loff saang* [[I]]sraels gud oc h(er)re skal wara loffua(n)de [...] føther til friidzens weyg                                                                                                     | da       | main   |     2 |
+| 320 321 |     |         | MAGNIFICAT                                      | *Jomfru marie songh epter ængelsens bebudelse* [[M]]Jn siel stuorgiør h(er)ren [...] oc hans seed til ewig thiid                                                                                                      | da       | main   |     2 |
+| 321 322 |     |         | Song of Simeon                                  | *Symeons loffsaang* [[H]]Erre nw forlade thin suend i friid [...] oc thin folkis israels ære                                                                                                                          | da       | main   |     2 |
+| 322 323 |     |         | John 1                                          |                                                                                                                                                                                                                   |          |        |       |
+| 323 323 |     |         | VENI_SANCTE_SPIRITUS                            |                                                                                                                                                                                                                   |          |        |       |
+| 323 325 |     |         | VENI_CREATOR_SPIRITUS                           |                                                                                                                                                                                                                   |          |        |       |
+| 325 326 |     |         |                                                 | *Til aattesongen Collecta* [[O]] h(er)re gud som lerde dine apostele den hellige tro [...]                                                                                                                            |          |        |       |
+| 326 326 |     |         |                                                 | *Til primet Collecta*                                                                                                                                                                                             |          |        |       |
+| 326 326 |     |         |                                                 | *D(ominu)s q(ui) ap(oste)lis*                                                                                                                                                                                     |          |        |       |
+| 326 327 |     |         |                                                 | *Til terset Coll(e)c(t)a*                                                                                                                                                                                         |          |        |       |
+| 327 327 |     |         |                                                 | *Til sext coll(e)c(t)a*                                                                                                                                                                                           |          |        |       |
+| 327 328 |     |         |                                                 | *Till Non coll(e)cta*                                                                                                                                                                                             |          |        |       |
+| 328 328 |     |         |                                                 | *Til afftensongen coll(e)c(t)a*                                                                                                                                                                                   |          |        |       |
+| 328 328 |     |         |                                                 | *Till natsongen*                                                                                                                                                                                                  |          |        |       |
+| 328 330 |     |         |                                                 | [[I]]Ach fatig syndogh me(n)niskia som j synd baadhe afflat ok fød ær [...] och faa m(eth) hono(m) ewinnerligit liiff Ame(n)                                                                                          | da       | main   |       |
+| 331 334 |     |         | Christ's seven words on the cross (verse)       | [[J]]Esus oppå korsset stod. hono(m) forlop hans hellige blod [...]                                                                                                                                                   | da       | added  |       |
+| 335 353 |     |         | Om Psalterens Kraft (Athanasius, Poul Helgesen) | *Then store ærchibiscopis vti Alexandria sa(n)cti Athanasii bok om psalternis krafft vtseet aff Broder Paulo Helie Carmelita* [[T]]Jl digd oc een san troo er all guddo(m)melig scrifft [...] Men giff tith naffn ære | da       | main   |     1 |
+| 353     |     |         | VIGIL                                           | *Her begynnes Vottesang på vigilias psalm*                                                                                                                                                                        |          |        |       |
+|---------+-----+---------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------|

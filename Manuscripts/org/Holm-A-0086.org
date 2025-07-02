@@ -1,0 +1,39 @@
+#+TITLE: Monastic rules for Birgittine Order (A 86)
+
+A fragment consisting of two leaves contains rules of order for the Bridgittine order.
+
+* PhysDesc
+|--------------+------------|
+| SUPPORT      | PERG       |
+| NUMBER       | 2          |
+| SIZE         | 205 150    |
+| WRITING AREA | NA 190/140 |
+| COLUMNS      | 1          |
+| LINES        | NA         |
+| FOLIATION    | none       |
+|--------------+------------|
+Both fragments have been cut to ca. 205 x 150 but on different axes. It appears they cannot be fully from the same manuscript or production unit, even though the hand is the same. The rulings are the same (6 mm) but the width varies greatly.
+
+** Binding
+Unbound
+
+** Quire Structure
+Two loose leaves
+
+* History
+|------------+-----------|
+| PLACE      | Maribo?   |
+| DATE       | 1450-1500 |
+| PROVENANCE | C 71      |
+|------------+-----------|
+
+Used as binding materials for the manuscript C 71, containing the Law Code of Zealand.
+
+* Contents
+|-------+-------+------+------+-------------+----------+--------+-------|
+| Locus | Level | Type | Text | Rub/Inc/Exp | Language | Status | Notes |
+|-------+-------+------+------+-------------+----------+--------+-------|
+|       |       |      |      |             |          |        |       |
+
+* Bibliography
+- Fragmenter :: pp. 161-164

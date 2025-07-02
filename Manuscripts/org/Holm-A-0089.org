@@ -1,0 +1,37 @@
+#+TITLE: A 89
+
+* PhysDesc
+|--------------|
+| SUPPORT      |
+| NUMBER       |
+| SIZE         |
+| WRITING AREA |
+| COLUMNS      |
+| LINES        |
+| FOLIATION    |
+|--------------|
+
+** Binding
+|------+-----------|
+| TYPE | Leather   |
+| DATE | XV-XVI    |
+| SIZE | 115 85 55 |
+|------+-----------|
+
+** Quire Structure
+|-------+--------+-----------+--------|
+| Quire | Leaves | Structure | Change |
+|-------+--------+-----------+--------|
+|       |        |           |        |
+|-------+--------+-----------+--------|
+
+* History
+|------------|
+| PLACE      |
+| DATE       |
+| PROVENANCE |
+|------------|
+* Contents
+|-------+-----+------+------+-------------+----------+--------+-------|
+| Locus | MDB | Type | Text | Rub/Inc/Exp | Language | Status | Level |
+|-------+-----+------+------+-------------+----------+--------+-------|
