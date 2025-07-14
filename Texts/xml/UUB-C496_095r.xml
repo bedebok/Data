@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="UUB-C496_095r" type="text">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Das goldene Krongebet </title>
+        <respStmt xml:id="SDV">
+          <resp when="2024">Catalogue</resp>
+          <persName>Seán D. Vrieland</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement key="UPS"/>
+            <repository key="UUB"/>
+            <idno corresp="UUB-C496">UUB C 496</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus from="95r2" to="|"/>
+              <title key="KRONGEBET">Das goldene Krongebet </title>
+              <textLang mainLang="gml"/>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="95r2"/>
+      <div type="rubric">
+        <p>
+          <w xml:id="UUB-C496_95r2.1.1">Wanner</w>
+          <w xml:id="UUB-C496_95r2.1.2">gy</w>
+          <w xml:id="UUB-C496_95r2.1.3">dyt</w>
+          <w xml:id="UUB-C496_95r2.1.4">na<lb n="2"/>gescreuen</w>
+          <w xml:id="UUB-C496_95r2.2.2">bet</w>
+          <w xml:id="UUB-C496_95r2.2.3">lesen</w>
+          <w xml:id="UUB-C496_95r2.2.4">So</w>
+          <w xml:id="UUB-C496_95r2.2.5">schole</w>
+          <w xml:id="UUB-C496_95r2.2.6">gy</w>
+          <w xml:id="UUB-C496_95r2.2.7">stan</w>
+          <lb n="3"/>
+          <w xml:id="UUB-C496_95r2.3.1">vor</w>
+          <w xml:id="UUB-C496_95r2.3.2">vnser</w>
+          <w xml:id="UUB-C496_95r2.3.3">leuen</w>
+          <w xml:id="UUB-C496_95r2.3.4">vrouwen</w>
+          <w xml:id="UUB-C496_95r2.3.5">bilde</w>
+          <w xml:id="UUB-C496_95r2.3.6">vn<ex>de</ex></w>
+          <lb n="4"/>
+          <w xml:id="UUB-C496_95r2.4.1">spreken</w>
+          <w xml:id="UUB-C496_95r2.4.2">theyn</w>
+          <w xml:id="UUB-C496_95r2.4.3">aue</w>
+          <w xml:id="UUB-C496_95r2.4.4">maria</w>
+          <w xml:id="UUB-C496_95r2.4.5">vn<ex>de</ex></w>
+          <w xml:id="UUB-C496_95r2.4.6">val<lb n="5"/>len</w>
+          <w xml:id="UUB-C496_95r2.5.2">denne</w>
+          <w xml:id="UUB-C496_95r2.5.3">up</w>
+          <w xml:id="UUB-C496_95r2.5.4">juwe</w>
+          <w xml:id="UUB-C496_95r2.5.5">knee</w>
+          <w xml:id="UUB-C496_95r2.5.6">vn<ex>de</ex></w>
+          <w xml:id="UUB-C496_95r2.5.7">spreket</w>
+        </p>
+      </div>
+      <div type="prayer">
+        <p> </p>
+        <div type="text">
+          <p>
+            <lb n="6"/>
+            <w xml:id="UUB-C496_95r2.6.1"><hi rend="red 2">M</hi>aria</w>
+            <w xml:id="UUB-C496_95r2.6.2">ik</w>
+            <w xml:id="UUB-C496_95r2.6.3">vormane</w>
+            <w xml:id="UUB-C496_95r2.6.4">dy</w>
+            <w xml:id="UUB-C496_95r2.6.5">der</w>
+            <w xml:id="UUB-C496_95r2.6.6">ouervlodi<lb n="7"/>gen</w>
+            <w xml:id="UUB-C496_95r2.7.2">vroude</w>
+            <w xml:id="UUB-C496_95r2.7.3">ere</w>
+            <w xml:id="UUB-C496_95r2.7.4">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.7.5">werdicheit</w>
+            <w xml:id="UUB-C496_95r2.7.6">De</w>
+            <lb n="8"/>
+            <w xml:id="UUB-C496_95r2.8.1">dyne</w>
+            <w xml:id="UUB-C496_95r2.8.2">sele</w>
+            <w xml:id="UUB-C496_95r2.8.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.8.4">liff</w>
+            <w xml:id="UUB-C496_95r2.8.5">vntfenk</w>
+            <w xml:id="UUB-C496_95r2.8.6">Do</w>
+            <w xml:id="UUB-C496_95r2.8.7">de</w>
+            <w xml:id="UUB-C496_95r2.8.8">vader</w>
+            <w xml:id="UUB-C496_95r2.8.9">vn<ex>de</ex></w>
+            <lb n="9"/>
+            <w xml:id="UUB-C496_95r2.9.1">de</w>
+            <w xml:id="UUB-C496_95r2.9.2">sone</w>
+            <w xml:id="UUB-C496_95r2.9.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.9.4">de</w>
+            <w xml:id="UUB-C496_95r2.9.5">hilge</w>
+            <w xml:id="UUB-C496_95r2.9.6">geist</w>
+            <w xml:id="UUB-C496_95r2.9.7">dy</w>
+            <w xml:id="UUB-C496_95r2.9.8">sulue<ex>n</ex></w>
+            <w xml:id="UUB-C496_95r2.9.9">vth<lb n="10"/>koren</w>
+            <w xml:id="UUB-C496_95r2.10.2">to</w>
+            <w xml:id="UUB-C496_95r2.10.3">ener</w>
+            <w xml:id="UUB-C496_95r2.10.4">moder</w>
+            <w xml:id="UUB-C496_95r2.10.5">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.10.6">alle</w>
+            <w xml:id="UUB-C496_95r2.10.7">de</w>
+            <w xml:id="UUB-C496_95r2.10.8">werlt</w>
+            <w xml:id="UUB-C496_95r2.10.9">in</w>
+            <lb n="11"/>
+            <w xml:id="UUB-C496_95r2.11.1">deme</w>
+            <w xml:id="UUB-C496_95r2.11.2">rade</w>
+            <w xml:id="UUB-C496_95r2.11.3">der</w>
+            <w xml:id="UUB-C496_95r2.11.4">hilgen</w>
+            <w xml:id="UUB-C496_95r2.11.5">dreuoldicheit</w>
+            <w xml:id="UUB-C496_95r2.11.6">Ær</w>
+            <lb n="12"/>
+            <w xml:id="UUB-C496_95r2.12.1">he</w>
+            <w xml:id="UUB-C496_95r2.12.2">he<ex>m</ex>mel</w>
+            <w xml:id="UUB-C496_95r2.12.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.12.4">erde</w>
+            <w xml:id="UUB-C496_95r2.12.5">ie</w>
+            <w xml:id="UUB-C496_95r2.12.6">geschop</w>
+            <w xml:id="UUB-C496_95r2.12.7">ioncfrouwe</w>
+            <lb n="13"/>
+            <w xml:id="UUB-C496_95r2.13.1">maria</w>
+            <w xml:id="UUB-C496_95r2.13.2">godes</w>
+            <w xml:id="UUB-C496_95r2.13.3">moder</w>
+            <w xml:id="UUB-C496_95r2.13.4">der</w>
+            <w xml:id="UUB-C496_95r2.13.5">groten</w>
+            <w xml:id="UUB-C496_95r2.13.6">vroude</w>
+            <lb n="14"/>
+            <w xml:id="UUB-C496_95r2.14.1">vormane</w>
+            <w xml:id="UUB-C496_95r2.14.2">ik</w>
+            <w xml:id="UUB-C496_95r2.14.3">dy</w>
+            <w xml:id="UUB-C496_95r2.14.4">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.14.5">bidde</w>
+            <w xml:id="UUB-C496_95r2.14.6">dy</w>
+            <w xml:id="UUB-C496_95r2.14.7">dattu</w>
+            <w xml:id="UUB-C496_95r2.14.8">my</w>
+            <lb n="15"/>
+            <w xml:id="UUB-C496_95r2.15.1">twidest</w>
+            <w xml:id="UUB-C496_95r2.15.2">my</w>
+            <w xml:id="UUB-C496_95r2.15.3">gebet</w>
+            <w xml:id="UUB-C496_95r2.15.4">na</w>
+            <w xml:id="UUB-C496_95r2.15.5">dynen</w>
+            <w xml:id="UUB-C496_95r2.15.6">gnade</w>
+            <lb n="16"/>
+            <w xml:id="UUB-C496_95r2.16.1">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.16.2">na</w>
+            <w xml:id="UUB-C496_95r2.16.3">myner</w>
+            <w xml:id="UUB-C496_95r2.16.4">begerynge</w>
+            <w xml:id="UUB-C496_95r2.16.5">amen</w>
+          </p>
+        </div>
+        <div type="rubric">
+          <p>
+            <w xml:id="UUB-C496_95r2.16.6">Spreket</w>
+            <lb n="17"/>
+            <w xml:id="UUB-C496_95r2.17.1">x</w>
+            <w xml:id="UUB-C496_95r2.17.2">pater</w>
+            <w xml:id="UUB-C496_95r2.17.3">noster</w>
+            <w xml:id="UUB-C496_95r2.17.4">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.17.5">x</w>
+            <w xml:id="UUB-C496_95r2.17.6">aue</w>
+            <w xml:id="UUB-C496_95r2.17.7">maria</w>
+            <w xml:id="UUB-C496_95r2.17.8">al</w>
+            <w xml:id="UUB-C496_95r2.17.9">stan<lb n="18"/>de</w>
+            <w xml:id="UUB-C496_95r2.18.2">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.18.3">vallet</w>
+            <w xml:id="UUB-C496_95r2.18.4">denne</w>
+            <w xml:id="UUB-C496_95r2.18.5">vp</w>
+            <w xml:id="UUB-C496_95r2.18.6">juwe</w>
+            <w xml:id="UUB-C496_95r2.18.7">knee</w>
+          </p>
+        </div>
+      </div>
+      <div type="prayer">
+        <p> </p>
+        <div type="text">
+          <p>
+            <lb n="19"/>
+            <w xml:id="UUB-C496_95r2.19.1"><hi rend="2 red">M</hi>aria</w>
+            <w xml:id="UUB-C496_95r2.19.2">ik</w>
+            <w xml:id="UUB-C496_95r2.19.3">vormane</w>
+            <w xml:id="UUB-C496_95r2.19.4">dy</w>
+            <w xml:id="UUB-C496_95r2.19.5">der</w>
+            <w xml:id="UUB-C496_95r2.19.6">groten</w>
+            <lb n="20"/>
+            <w xml:id="UUB-C496_95r2.20.1">vnbegripelike</w>
+            <w xml:id="UUB-C496_95r2.20.2">vroude</w>
+            <w xml:id="UUB-C496_95r2.20.3">de</w>
+            <w xml:id="UUB-C496_95r2.20.4">dy<lb n="21"/>ne</w>
+            <w xml:id="UUB-C496_95r2.21.2">sele</w>
+            <w xml:id="UUB-C496_95r2.21.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95r2.21.4">dyn</w>
+            <w xml:id="UUB-C496_95r2.21.5">liff</w>
+            <w xml:id="UUB-C496_95r2.21.6">vntfenk</w>
+            <w xml:id="UUB-C496_95r2.21.7">Do</w>
+            <w xml:id="UUB-C496_95r2.21.8">dy</w>
+            <w xml:id="UUB-C496_95r2.21.9">de</w>
+            <lb n="22"/>
+            <w xml:id="UUB-C496_95r2.22.1">hilge</w>
+            <w xml:id="UUB-C496_95r2.22.2">here</w>
+            <w xml:id="UUB-C496_95r2.22.3">sunte</w>
+            <w xml:id="UUB-C496_95r2.22.4">gabriel</w>
+            <w xml:id="UUB-C496_95r2.22.5">vorkundigede</w>
+            <pb n="95v"/>
+            <lb n="1"/>
+            <w xml:id="UUB-C496_95v.1.1">dat</w>
+            <w xml:id="UUB-C496_95v.1.2">du</w>
+            <w xml:id="UUB-C496_95v.1.3">godes</w>
+            <w xml:id="UUB-C496_95v.1.4">moder</w>
+            <w xml:id="UUB-C496_95v.1.5">werden</w>
+            <w xml:id="UUB-C496_95v.1.6">scholdest</w>
+            <w xml:id="UUB-C496_95v.1.7">vnde</w>
+            <lb n="2"/>
+            <w xml:id="UUB-C496_95v.2.1">ewichlik</w>
+            <w xml:id="UUB-C496_95v.2.2">ene</w>
+            <w xml:id="UUB-C496_95v.2.3">ioncfrouwe</w>
+            <w xml:id="UUB-C496_95v.2.4">blyen</w>
+            <w xml:id="UUB-C496_95v.2.5">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.2.6">he</w>
+            <lb n="3"/>
+            <w xml:id="UUB-C496_95v.3.1">sprak</w>
+            <w xml:id="UUB-C496_95v.3.2">gegrotet</w>
+            <w xml:id="UUB-C496_95v.3.3">sistu</w>
+            <w xml:id="UUB-C496_95v.3.4">vul</w>
+            <w xml:id="UUB-C496_95v.3.5">gnaden</w>
+            <w xml:id="UUB-C496_95v.3.6">de</w>
+            <w xml:id="UUB-C496_95v.3.7">here</w>
+            <w xml:id="UUB-C496_95v.3.8">is</w>
+            <lb n="4"/>
+            <w xml:id="UUB-C496_95v.4.1">myt</w>
+            <w xml:id="UUB-C496_95v.4.2">dy</w>
+            <w xml:id="UUB-C496_95v.4.3">du</w>
+            <w xml:id="UUB-C496_95v.4.4">biste</w>
+            <w xml:id="UUB-C496_95v.4.5">benediet</w>
+            <w xml:id="UUB-C496_95v.4.6">bouen</w>
+            <w xml:id="UUB-C496_95v.4.7">allen</w>
+            <w xml:id="UUB-C496_95v.4.8">vrou<lb n="5"/>wen</w>
+            <w xml:id="UUB-C496_95v.5.2">gebenediet</w>
+            <w xml:id="UUB-C496_95v.5.3">is</w>
+            <w xml:id="UUB-C496_95v.5.4">de</w>
+            <w xml:id="UUB-C496_95v.5.5">vrucht</w>
+            <w xml:id="UUB-C496_95v.5.6">dynes</w>
+            <w xml:id="UUB-C496_95v.5.7">ly<supplied>ves</supplied></w>
+            <lb n="6"/>
+            <w xml:id="UUB-C496_95v.6.1">Do</w>
+            <w xml:id="UUB-C496_95v.6.2">du</w>
+            <w xml:id="UUB-C496_95v.6.3">de</w>
+            <w xml:id="UUB-C496_95v.6.4">wort</w>
+            <w xml:id="UUB-C496_95v.6.5">vornemest</w>
+            <w xml:id="UUB-C496_95v.6.6">do</w>
+            <w xml:id="UUB-C496_95v.6.7">bekandestu</w>
+            <lb n="7"/>
+            <w xml:id="UUB-C496_95v.7.1">des</w>
+            <w xml:id="UUB-C496_95v.7.2">vaders</w>
+            <w xml:id="UUB-C496_95v.7.3">gude</w>
+            <w xml:id="UUB-C496_95v.7.4">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.7.5">des</w>
+            <w xml:id="UUB-C496_95v.7.6">sones</w>
+            <w xml:id="UUB-C496_95v.7.7">barmherti<lb n="8"/>cheit</w>
+            <w xml:id="UUB-C496_95v.8.2">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.8.3">des</w>
+            <w xml:id="UUB-C496_95v.8.4">hilgen</w>
+            <w xml:id="UUB-C496_95v.8.5">geistes</w>
+            <w xml:id="UUB-C496_95v.8.6">wisheit</w>
+            <w xml:id="UUB-C496_95v.8.7">do</w>
+            <lb n="9"/>
+            <w xml:id="UUB-C496_95v.9.1">sprekestu</w>
+            <w xml:id="UUB-C496_95v.9.2">ik</w>
+            <w xml:id="UUB-C496_95v.9.3">by</w>
+            <w xml:id="UUB-C496_95v.9.4">ene</w>
+            <w xml:id="UUB-C496_95v.9.5">derne</w>
+            <w xml:id="UUB-C496_95v.9.6">godes</w>
+            <w xml:id="UUB-C496_95v.9.7">my</w>
+            <w xml:id="UUB-C496_95v.9.8"><supplied>sche</supplied></w>
+            <lb n="10"/>
+            <w xml:id="UUB-C496_95v.10.1">na</w>
+            <w xml:id="UUB-C496_95v.10.2">dynen</w>
+            <w xml:id="UUB-C496_95v.10.3">worden</w>
+            <w xml:id="UUB-C496_95v.10.4">godes</w>
+            <w xml:id="UUB-C496_95v.10.5">wille</w>
+            <w xml:id="UUB-C496_95v.10.6">de</w>
+            <w xml:id="UUB-C496_95v.10.7"><supplied>werde</supplied></w>
+            <lb n="11"/>
+            <w xml:id="UUB-C496_95v.11.1">an</w>
+            <w xml:id="UUB-C496_95v.11.2">my</w>
+            <w xml:id="UUB-C496_95v.11.3">vullenbracht</w>
+            <w xml:id="UUB-C496_95v.11.4">myt</w>
+            <w xml:id="UUB-C496_95v.11.5">den</w>
+            <w xml:id="UUB-C496_95v.11.6">wroden</w>
+            <lb n="12"/>
+            <w xml:id="UUB-C496_95v.12.1">wordestu</w>
+            <w xml:id="UUB-C496_95v.12.2">vorvullet</w>
+            <w xml:id="UUB-C496_95v.12.3">myt</w>
+            <w xml:id="UUB-C496_95v.12.4">deme</w>
+            <w xml:id="UUB-C496_95v.12.5">hilgen</w>
+            <lb n="13"/>
+            <w xml:id="UUB-C496_95v.13.1">geiste</w>
+            <w xml:id="UUB-C496_95v.13.2">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.13.3">gewo<ex>n</ex>nest</w>
+            <w xml:id="UUB-C496_95v.13.4">dynen</w>
+            <w xml:id="UUB-C496_95v.13.5">leuen</w>
+            <w xml:id="UUB-C496_95v.13.6">sone</w>
+            <lb n="14"/>
+            <w xml:id="UUB-C496_95v.14.1">sunder</w>
+            <w xml:id="UUB-C496_95v.14.2">pyne</w>
+            <w xml:id="UUB-C496_95v.14.3">dynes</w>
+            <w xml:id="UUB-C496_95v.14.4">herten</w>
+            <w xml:id="UUB-C496_95v.14.5">vrouwe</w>
+            <w xml:id="UUB-C496_95v.14.6"><supplied>dy</supplied></w>
+            <lb n="15"/>
+            <w xml:id="UUB-C496_95v.15.1">maria</w>
+            <w xml:id="UUB-C496_95v.15.2">der</w>
+            <w xml:id="UUB-C496_95v.15.3">grote</w>
+            <w xml:id="UUB-C496_95v.15.4">vroude</w>
+            <w xml:id="UUB-C496_95v.15.5">Du</w>
+            <w xml:id="UUB-C496_95v.15.6">bist</w>
+            <w xml:id="UUB-C496_95v.15.7">g<supplied>...</supplied><lb n="16"/>uet</w>
+            <w xml:id="UUB-C496_95v.16.2">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.16.3">gebenediet</w>
+            <w xml:id="UUB-C496_95v.16.4">twide</w>
+            <w xml:id="UUB-C496_95v.16.5">myn</w>
+            <w xml:id="UUB-C496_95v.16.6">gebet</w>
+            <lb n="17"/>
+            <w xml:id="UUB-C496_95v.17.1">na</w>
+            <w xml:id="UUB-C496_95v.17.2">dynen</w>
+            <w xml:id="UUB-C496_95v.17.3">gnaden</w>
+            <w xml:id="UUB-C496_95v.17.4">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.17.5">na</w>
+            <w xml:id="UUB-C496_95v.17.6">myne</w>
+            <w xml:id="UUB-C496_95v.17.7">be<lb n="18"/>geringe</w>
+            <w xml:id="UUB-C496_95v.18.2">Amen</w>
+          </p>
+        </div>
+        <div type="rubric">
+          <p>
+            <w xml:id="UUB-C496_95v.18.3">Spreket</w>
+            <w xml:id="UUB-C496_95v.18.4">x</w>
+            <w xml:id="UUB-C496_95v.18.5">pater</w>
+            <w xml:id="UUB-C496_95v.18.6">no<supplied>ster</supplied></w>
+            <lb n="19"/>
+            <w xml:id="UUB-C496_95v.19.1">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.19.2">x</w>
+            <w xml:id="UUB-C496_95v.19.3">aue</w>
+            <w xml:id="UUB-C496_95v.19.4">maria</w>
+            <w xml:id="UUB-C496_95v.19.5">alstande</w>
+            <w xml:id="UUB-C496_95v.19.6">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.19.7">vallet</w>
+            <w xml:id="UUB-C496_95v.19.8">op</w>
+            <lb n="20"/>
+            <w xml:id="UUB-C496_95v.20.1">juwe</w>
+            <w xml:id="UUB-C496_95v.20.2">knee</w>
+            <w xml:id="UUB-C496_95v.20.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.20.4">spreket</w>
+            <w xml:id="UUB-C496_95v.20.5">dit</w>
+            <w xml:id="UUB-C496_95v.20.6">gebet</w>
+          </p>
+        </div>
+      </div>
+      <div type="text">
+        <p> </p>
+        <div type="rubric">
+          <p>
+            <lb n="21"/>
+            <w xml:id="UUB-C496_95v.21.1"><hi rend="red 2">M</hi>aria</w>
+            <w xml:id="UUB-C496_95v.21.2">ik</w>
+            <w xml:id="UUB-C496_95v.21.3">vormane</w>
+            <w xml:id="UUB-C496_95v.21.4">dy</w>
+            <w xml:id="UUB-C496_95v.21.5">der</w>
+            <w xml:id="UUB-C496_95v.21.6">groten</w>
+            <lb n="22"/>
+            <w xml:id="UUB-C496_95v.22.1">vroude</w>
+            <w xml:id="UUB-C496_95v.22.2">ere</w>
+            <w xml:id="UUB-C496_95v.22.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.22.4">werdicheit</w>
+            <w xml:id="UUB-C496_95v.22.5">de</w>
+            <w xml:id="UUB-C496_95v.22.6">dy<lb n="23"/>ne</w>
+            <w xml:id="UUB-C496_95v.23.2">sele</w>
+            <w xml:id="UUB-C496_95v.23.3">vn<ex>de</ex></w>
+            <w xml:id="UUB-C496_95v.23.4">dyn</w>
+            <w xml:id="UUB-C496_95v.23.5">liff</w>
+            <w xml:id="UUB-C496_95v.23.6">vntfynck</w>
+            <w xml:id="UUB-C496_95v.23.7">Jn</w>
+            <w xml:id="UUB-C496_95v.23.8">deme</w>
+            <pb n="96r"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
