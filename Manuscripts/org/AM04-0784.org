@@ -84,9 +84,9 @@ A large part of the manuscript was written by Johannes Johannessen, an underteac
 | Locus    | Type         | Text                                                 |   MDB | Rub/Inc/Exp                                                          | Lang | Status          |
 |          |              | <40>                                                 |       |                                                                      |      |                 |
 |----------+--------------+------------------------------------------------------+-------+----------------------------------------------------------------------+------+-----------------|
-| 1r       | instruction  | On celebrating feast days                            |  1101 |                                                                      |      |                 |
+| 1r       | instruction  | On celebrating feast days                            |  1101 |                                                                      | da   | defective       |
 | 1r       | prayer       |                                                      |       | efygh loff oc efygh prys [...] for allæ synn vellgernynger           | da   | added           |
-| 1r       | instruction? |                                                      |       | bieder icki wnth for skriweren                                       | da   |                 |
+| 1r       | instruction  |                                                      |       | bieder icki wnth for skriweren                                       | da   | main            |
 | 2r       | instruction  | Instructions for mass                                |  1102 |                                                                      |      |                 |
 | 2v       | prayer       | Birgitta                                             |  1103 |                                                                      |      |                 |
 | 4r       |              | Pestilence                                           |  1104 |                                                                      |      |                 |

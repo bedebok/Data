@@ -1,0 +1,110 @@
+#+TITLE: A prayer to St. Augustine
+
+|------------+---------------|
+| Manuscript | AM 782 4to    |
+| Locus      | 216v19 217v   |
+| Work       | AUGUSTINE 801 |
+| Language   | da            |
+| Status     | proofread     |
+|------------+---------------|
+
+* Transcription
+** Rubric
+It(e)m her eft(e)r følg(e)r en bøn aff s(anc)to augusti(no) oc er
+
+ha(n)s daw s(anc)te pæders affth(e)n
+
+** Text
+[[red 2][O]] Thw ædelig byskop 
+
+Sancte augustine æ-
+
+delig estw aff byrd men 
+
+møget ædeligere i th(e)n hely 
+
+christelige thro O tw verdi-
+
+ge lærere tw ligness ved en 
+
+ørn for andre hellige docto(r)es 
+
+Thw esth ow(e)r maade høyeth flowen ow(e)r alle
+
+---217r---
+
+meth s(anc)te hanss ewangelista engen me(n)niskæ 
+
+kan fwldelig begribe tyne ord thyn verdighæ 
+
+mod(e)r haffw(e)r grædet blodige thar(e) for teck 
+
+før end tw bleff o(m)went och døpt aff th(e)n helli-
+
+ge biscop s(anc)to ambrosio aff meland gwt haffw(e)r 
+
+snarlige omwent deck Th(e)n tyd tw hørde the 
+
+hellige ord och leffde som s(anc)tus anthoni(us) hadde 
+
+tha gred tw bytt(e)rlig oc saade hwat pyne er 
+
+th(et) som the vlerde maa vynde heme(ri)ge meth
+
+men the som lerde ær(e) kwnde saa snarlige for-
+
+tabess for alle kættere haffw(e)r thw været s(anc)te 
+
+awgustine som eth swærd O tw klar(e) flod 
+
+vdaff paradiss The hiart(e)r so(m) vor(e) haar(e) som 
+
+stene th(e)m haffw(e)r tw blødnet m(eth) thÿn {/lærædom} ald v(er)s(is) 
+
+ær(e) oc forfengeligh(et) haff(e)r tw for smaat 
+
+It(e)m M oc xxx bøg(e)r haffw(e)r tw selff dicth(et) gwt 
+
+thil loff: engen me(n)niske er nw saa vyss ath 
+
+hand kand th(e)m ow(e)r læsse: ald fortal haffw(e)r 
+
+tw hadeth ald ydmygh(et) haffw(e)r tw elsketh 
+
+dyeffwelen haffw(e)r flyet fran the besatthe 
+
+me(n)niske som vor(e) besatthe m(eth) dieffwelen nar 
+
+tw tog po th(e)m med thyn hand Tw bat om 
+
+døden th(et) vethe gwd teck oc hialp teck aff all 
+
+tyn nøt oc thyn siæl kom strax y engle skar(e)
+
+Th(e)n thyd tw haffde leffwet vi oc siwty aar
+
+---217v---
+
+nw hwiless tyne ben y paanie oc gøræ 
+
+stor(e) iertegen th(e)r O hellige fad(e)r bed for oss 
+
+thil gwt at hand ville meskwnde seg ow(e)r oss: Amen
+** Versicle
+*** Rubric
+v(er)s(icul)a 
+*** Text
+See, hwilken stor p(re)st gwt 
+
+haffw(e)r vel behawet y syne dawe for hand 
+
+vor retferdig fwnden
+** Collect
+*** Rubric
+Collecta
+*** Text
+[[red][O]] aldmectiste ewige gwt hør vor bøn och 
+
+forlat oss vor(e) synd(e)r for th(e)n verdige faders 
+
+bøn skyld Sancti Augustini: Amen
