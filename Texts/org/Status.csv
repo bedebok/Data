@@ -24,11 +24,13 @@ AM08-0073_109r.org,AM 73 8vo,Hours of the Trinity,HOURS_TRINITY,Low German,Trans
 AM08-0072_128v.org,AM 72 8vo,,1077,da,Transcribed,220
 AM08-0073_082v.org,AM 73 8vo,Hours of the Virgin (Vespers),HOURS_VIRGIN.vespers,gml,transcribed,932
 Beschauwing_009.org,Boek der Beschauwing,First Sunday of Advent,ADVENT_1,gml,transcribed,380
+Thott04-0553_021r-2.org,Thott 553 4to,A prayer by St. Mechtild,184,da,proofread,184
 GKS08-3423_071v.org,GKS 3423 8vo,Magnificat,,Low German,,135
 AM12-0421_072r.org,AM 421 12mo,A Prayer to Christ's Ascension,ASCENSION,da,Proofread,78
 Holm-A-0042_054r.org,A 42,Three prayers to Christ,MDB4,da,proofread,70
 Holm-A-0042_055v.org,A 42,A prayer during Mass,MDB7,da,proofread,366
 AM12-0417_050r.org,AM 417 12mo,Litany of the Virgin,LITANY_VIRGIN,gml,transcribed,672
+AM04-0782_216v.org,AM 782 4to,A prayer to St. Augustine,AUGUSTINE 801,da,proofread,375
 AM08-0070_002v.org,AM 70 8vo,A prayer to Christ,,Danish,Proofread,44
 AM08-0070_003r.org,AM 70 8vo,Cantus Sororum (Matins),CANTUS.matins,gml,begun,626
 AM08-0073_071r.org,AM08-0073,Hours of the Virgin (Prime),HOURS_VIRGIN.PRIME,gml,Transcribed,605
@@ -39,6 +41,7 @@ Holm-A-0042_053r.org,A 42,A prayer to the Wounds of Christ (in verse),MDB3 WOUND
 AM08-0073_011v.org,AM 73 8vo,A prayer in verse,,da,proofread,57
 GKS08-3423_020r.org,GKS 3423 8vo,A prayer to Christ (indulgences),,gml,proofread,65
 GKS08-3423_109v.org,GKS08-3423,Magnificat,MAGNIFICAT,gml,Proofread,129
+Thott04-0553_022r.org,Thott 553 4to,A prayer by St. Birgitta,186,da,proofread,60
 AM08-0073_093r.org,AM 73 8vo,Anna redemptoris,ANNA_REDEMPTORIS,Low German,Transcribed,137
 AM04-0789_001r.org,AM 789 4to,15 Pater Noster,15_OS,da,Transcribed,1058
 GKS08-3487_009v.org,GKS 3487 8vo,,,Low German,Transcribed,348
@@ -52,9 +55,13 @@ Holm-A42_032r.org,Holm. A 42,Magnificat,,Latin,,145
 GKS04-1615_009r.org,GKS 1615 4to,An explanation of Christmas to Lent (written 1514),,da,transcribed,416
 GKS08-3423_113r.org,GKS 3423 8vo,,,gml,,220
 AM08-0073_230r.org,AM 73 8vo,A prayer to Jesus Christ,,gml,transcribed,51
+Thott04-0553_015v.org,Thott 553 4to,A prayer for saints' virtues,176,da,Transcribed,79
 Speghel_R1r.org,Speghel der Sammiticheyt,A Prayer for Every Day in Lent,LENT_DAILY,gml,Transcribed,437
+AM04-0784_300r.org,AM 784 4to,A Prayer to St. Augustine,AUGUSTINE 801,da,begun,77
 AM08-0070_001r.org,AM 70 8vo,Cantus Sororum (Introduction),CANTUS.intro,Low German,Transcribed,503
 GKS08-3423_202v.org,GKS 3423 8vo,Seven Words of Mary under the Cross,,Low German,,176
+Thott04-0553_021r.org,Thott 553 4to,A prayer to Christ,183,da,proofread,119
+Thott04-0553_020v.org,Thott 553 4to,Ave Maria lilia,AVE_MARIA_LILIA,da,proofread,38
 AM12-0417_073v.org,AM12-0417,Seven Penitential Psalms,PENITENTIAL_PSALMS,gml,Transcribed,1645
 Beinecke-0218_127r.org,Yale, Beinecke Library, MS 218,Ten Joys of Mary,KRONGEBET,gml,Transcribed,996
 AM08-0075_022v-4.org,AM 75 8vo,A morning prayer,,Danish,proofread,180
@@ -66,18 +73,21 @@ NKS08-0045_120v.org,NKS08-0045,,,da,,179
 AM08-0073_013r.org,AM 73 8vo,Seven Penitential Psalms,,gml,transcribed,4211
 UUB-C496_095r.org,UUB C 496,Das goldene Krongebet,KRONGEBET,gml,begun,268
 AM04-0789_002v.org,AM 789 4to,Five sorrows of the Virgin,MARY_SORROWS,Danish,Proofread,323
+Thott04-0553_125v.org,Thott 553 4to,The Golden Crown Prayer,KRONGEBET,da,begun,1643
 AM08-0073_087r.org,,Magnificat,,Low German,,164
+Thott04-0553_021v.org,Thott 553 4to,A prayer to the five wounds of Christ,WOUNDS 185,da,proofread,119
 AM08-0075_063r.org,AM 75 8vo,Magnificat,,Danish,,233
 AM08-0073_136v.org,AM 738vo,Credo,,Low German,,116
-Lund-0035_064v.org,Mh 35,Golden Coronation Prayer of Mary's Ten Joys,KRONGEBET MDB105,da,proofread,1358
-Holm-A-0042_095v.org,A 42,Das goldenes Krongebet,KRONGEBET,da,Proofread,1114
+Lund-0035_064v.org,Mh 35,Golden Coronation Prayer of Mary's Ten Joys,KRONGEBET,da,proofread,1358
+Holm-A-0042_095v.org,A 42,Golden Coronation Prayer of Mary's Ten Joys,KRONGEBET,da,Proofread,1114
 AM08-0073_080r.org,AM08-0073,Hours of the Virgin (Nones),HOURS_VIRGIN.NONES,gml,Transcribed,449
 Lund-0035_038v.org,Mh 35,A prayer to the five Wounds of Christ (in verse),MDB81 WOUNDS,da,proofread,307
 AM08-0070_247r_m.org,AM08-0070,Virgo resurgentis,VIRGO_RESURGENTIS,da,Proofread,12
 AM08-0073_055r.org,AM 73 8vo,Te Deum,TE_DEUM,gml,transcribed,417
 AM08-0073_054v.org,AM08-0073,Hours of the Virgin (Lauds),HOURS_VIRGIN.LAUDS,gml,Transcribed,1495
 AM12-0421_030r.org,AM 421 12mo,Stabat Mater,STABAT_MATER,da,proofread,387
-AM12-0420_026r.org,AM 420 12mo,Das goldene Krongebet,KRONGEBET,da,,171
+Holm-A-0029_145v.org,A 29,Three prayers against temptation,MDB4,sv,proofread,107
+AM12-0420_026r.org,AM 420 12mo,Golden Coronation Prayer of Mary's Ten Joys,KRONGEBET,da,,836
 GKS08-3423_111r2.org,GKS 3423 8vo,Veni Redemptor Gentium (with meditation),VENI_REDEMPTOR,gml,proofread,160
 AM08-0072_126r.org,AM 72 8vo,A prayer to St. Barbara,BARBARA 1075,da,Transcribed,196
 AM08-0073_074v.org,AM 73 8vo,Hours of the Virgin (Terce),HOURS_VIRGIN.terce,gml,transcribed,461

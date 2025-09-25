@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Mh35" type="text">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Das goldene Krongebet</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Supplementary material</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Lund</settlement>
+            <repository>Universitetsbiblioteket</repository>
+            <idno corresp="Mh35">Mh35</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <w xml:id="Mh35.1">Maria</w>
+          <w xml:id="Mh35.2">iech</w>
+          <w xml:id="Mh35.3">bedær</w>
+          <w xml:id="Mh35.4">thik</w>
+          <w xml:id="Mh35.5">och</w>
+          <w xml:id="Mh35.6">paa myn<ex>n</ex>er</w>
+          <w xml:id="Mh35.7">thic</w>
+          <w xml:id="Mh35.8">for</w>
+          <w xml:id="Mh35.9">the<ex>n</ex></w>
+          <w xml:id="Mh35.10">store</w>
+          <w xml:id="Mh35.11">frygdh</w>
+          <w xml:id="Mh35.12">och</w>
+          <w xml:id="Mh35.13">ouer</w>
+          <w xml:id="Mh35.14">flødughæ</w>
+          <w xml:id="Mh35.15">frygdh</w>
+          <w xml:id="Mh35.16">ære</w>
+          <w xml:id="Mh35.17">och</w>
+          <w xml:id="Mh35.18">værdugh<ex>et</ex></w>
+          <w xml:id="Mh35.19">so<ex>m</ex></w>
+          <w xml:id="Mh35.20">thin</w>
+          <w xml:id="Mh35.21">siæl</w>
+          <w xml:id="Mh35.22">och</w>
+          <w xml:id="Mh35.23">liiff</w>
+          <w xml:id="Mh35.24">vntfik</w>
+          <w xml:id="Mh35.25">och</w>
+          <w xml:id="Mh35.26">anamæde</w>
+          <w xml:id="Mh35.27">then</w>
+          <w xml:id="Mh35.28">tidh</w>
+          <w xml:id="Mh35.29">gudh</w>
+          <w xml:id="Mh35.30">fadær</w>
+          <w xml:id="Mh35.31">och</w>
+          <w xml:id="Mh35.32">søn</w>
+          <w xml:id="Mh35.33">och</w>
+          <w xml:id="Mh35.34">then</w>
+          <w xml:id="Mh35.35">helligh</w>
+          <w xml:id="Mh35.36">andh</w>
+          <w xml:id="Mh35.37">thik</w>
+          <w xml:id="Mh35.38">sik</w>
+          <w xml:id="Mh35.39">sielff</w>
+          <w xml:id="Mh35.40">til</w>
+          <w xml:id="Mh35.41">ie<ex>n</ex></w>
+          <w xml:id="Mh35.42">modær</w>
+          <w xml:id="Mh35.43">gaff</w>
+          <w xml:id="Mh35.44">Æn</w>
+          <w xml:id="Mh35.45">doo</w>
+          <w xml:id="Mh35.46">ath</w>
+          <w xml:id="Mh35.47">gusz</w>
+          <w xml:id="Mh35.48">søn</w>
+          <w xml:id="Mh35.49">all</w>
+          <w xml:id="Mh35.50">jæne</w>
+          <w xml:id="Mh35.51">mandom</w>
+          <w xml:id="Mh35.52">aff</w>
+          <w xml:id="Mh35.53">thik</w>
+          <w xml:id="Mh35.54">tog</w>
+          <w xml:id="Mh35.55">och</w>
+          <w xml:id="Mh35.56">alle</w>
+          <w xml:id="Mh35.57">værden</w>
+          <w xml:id="Mh35.58">æfftær</w>
+          <w xml:id="Mh35.59">the<ex>n</ex></w>
+          <w xml:id="Mh35.60">hellighæ</w>
+          <w xml:id="Mh35.61">tre</w>
+          <w xml:id="Mh35.62">foldugh<ex>et</ex></w>
+          <w xml:id="Mh35.63">radh</w>
+          <w xml:id="Mh35.64">førræ</w>
+          <w xml:id="Mh35.65">æn</w>
+          <w xml:id="Mh35.66">han</w>
+          <w xml:id="Mh35.67">he<ex>m</ex>mel</w>
+          <w xml:id="Mh35.68">och</w>
+          <w xml:id="Mh35.69">iord</w>
+          <w xml:id="Mh35.70">skaptæ</w>
+          <w xml:id="Mh35.71">Jomfrw</w>
+          <w xml:id="Mh35.72">maria</w>
+          <w xml:id="Mh35.73">gusz</w>
+          <w xml:id="Mh35.74">modær</w>
+          <w xml:id="Mh35.75">for</w>
+          <w xml:id="Mh35.76">the<ex>n</ex></w>
+          <w xml:id="Mh35.77">store</w>
+          <w xml:id="Mh35.78">frygdh</w>
+          <w xml:id="Mh35.79">bedær</w>
+          <w xml:id="Mh35.80">iæch</w>
+          <w xml:id="Mh35.81">thik</w>
+          <w xml:id="Mh35.82">fore</w>
+          <w xml:id="Mh35.83">at</w>
+          <w xml:id="Mh35.84">thu</w>
+          <w xml:id="Mh35.85">fulko<ex>m</ex>mer</w>
+          <w xml:id="Mh35.86">my<ex>n</ex></w>
+          <w xml:id="Mh35.87">bøn</w>
+          <w xml:id="Mh35.88">æfftær</w>
+          <w xml:id="Mh35.89">thin</w>
+          <w xml:id="Mh35.90">nadhæ</w>
+          <w xml:id="Mh35.91">och</w>
+          <w xml:id="Mh35.92">æfftær</w>
+          <w xml:id="Mh35.93">myn</w>
+          <w xml:id="Mh35.94">begieringh</w>
+          <w xml:id="Mh35.95">Ame<ex>n</ex></w>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
