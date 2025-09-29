@@ -27,8 +27,8 @@
 | [[./org/AM08-0073_011v.org]]         | AM 73 8vo     | A prayer in verse                |                     | da         | proofread   |           |
 | [[./org/AM08-0073_013r.org]]         | AM 73 8vo     | Seven Penitential Psalms         | PENITENTIAL_PSALMS  | gml        | transcribed |           |
 | [[./org/AM08-0073_044r.org]]         | AM 73 8vo     | Hours of the Virgin (matins)     | HOURS_VIRGIN.matins | gml        |             |           |
-| [[./org/AM08-0073_054v.org]]         | AM 73 8vo     |                                  |                     |            |             |           |
-| [[./org/AM08-0073_055r.org]]         | AM 73 8vo     |                                  |                     |            |             |           |
+| [[./org/AM08-0073_054v.org]]         | AM 73 8vo     | Hours of the Virgin (lauds)      | HOURS_VIRGIN.lauds  | gml        | transcribed |           |
+| [[./org/AM08-0073_055r.org]]         | AM 73 8vo     | Te Deum                          | TE_DEUM             | gml        | transcribed |           |
 | [[./org/AM08-0073_067r.org]]         | AM 73 8vo     |                                  |                     |            |             |           |
 | [[./org/AM08-0073_071r.org]]         | AM 73 8vo     |                                  |                     |            |             |           |
 | [[./org/AM08-0073_074v.org]]         | AM 73 8vo     |                                  |                     |            |             |           |
@@ -73,7 +73,7 @@
 | [[./org/GKS08-3487_001r.org]]        | GKS 3487 8vo  |                                  |                     |            |             |           |
 | [[./org/GKS08-3487_009v.org]]        | GKS 3487 8vo  |                                  |                     |            |             |           |
 | [[./org/Hamburg-CodConv-6_002r.org]] | Cod. Conv. VI | Golden Coronation Prayer         | KRONGEBET           | gml        | proofread   | converted |
-| [[./org/Holm-A-0042_032r.org]]       | A 42          |                                  |                     |            |             |           |
+| [[./org/Holm-A-0042_032r.org]]       | A 42          | Magnificat                       | MAGNIFICAT          | lat        |             |           |
 | [[./org/Holm-A-0042_051v.org]]       | A 42          | Cross                            | MDB1                | da         | proofread   |           |
 | [[./org/Holm-A-0042_052v.org]]       | A 42          | Trinity                          | MDB2                | da         | proofread   |           |
 | [[./org/Holm-A-0042_053r.org]]       | A 42          | Five Wounds of Christ            | WOUNDS MDB3         | da         | proofread   |           |
@@ -82,18 +82,21 @@
 | [[./org/Holm-A-0042_055r.org]]       | A 42          | A prayer by St. Augustine        | MDB6                | da         | proofread   |           |
 | [[./org/Holm-A-0042_055v.org]]       | A 42          | A prayer during Mass             | MDB7                | da         | proofread   |           |
 | [[./org/Holm-A-0042_095v.org]]       | A 42          | Golden Coronation Prayer         | KRONGEBET MDB105    | da         | proofread   | converted |
-| [[./org/Kalmar-0033_139v.org]]       | Kalmar 33     |                                  |                     |            |             |           |
+| [[./org/Kalmar-0033_139v.org]]       | Kalmar 33     | Owner's prayer                   |                     | da         | begin       |           |
+| [[./org/Koln-W52_139v.org]]          | Köln W 52     | Das goldene Krongebet            | KRONGEBET           | gml        | begun       |           |
 | [[./org/Lund-0035_023v.org]]         | Mh 35         | Magnificat                       | MAGNIFICAT          | da         | proofread   |           |
 | [[./org/Lund-0035_038v.org]]         | Mh 35         | Five Wounds of Christ            | WOUNDS MDB81        | da         | proofread   |           |
 | [[./org/Lund-0035_064v.org]]         | Mh 35         | Golden Coronation Prayer         | KRONGEBET MDB105    | da         | proofread   | converted |
-| [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    |                                  |                     |            |             |           |
-| [[./org/Speghel_R1r.org]]            |               |                                  |                     |            |             |           |
+| [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    |                                  |                     | da         |             |           |
+| [[./org/Speghel_R1r.org]]            | Speghel       | A Prayer for Every Day in Lent   | LENT_DAILY          | gml        | transcribed |           |
 | [[./org/Thott04-0553_015v.org]]      | Thott 553 4to | A prayer for saints' virtues     |                     | da         | transcribed |           |
 | [[../org/Thott04-0553_020v.org]]     | Thott 553 4to | Ave Maria lilia                  | AVE_MARIA_LILIA     | da         | proofread   |           |
 | [[../org/Thott04-0553_021r.org]]     | Thott 553 4to | A prayer to Christ               | 183                 | da         | proofread   |           |
 | [[../org/Thott04-0553_021r-2.org]]   | Thott 553 4to | A prayer by St. Mechtild         | 184                 | da         | proofread   |           |
 | [[../org/Thott04-0553_021v.org]]     | Thott 553 4to | Five Wounds of Christ            | 185                 | da         | proofread   |           |
 | [[../org/Thott04-0553_022r.org]]     | Thott 553 4to | A prayer by St. Birgitta         | 186                 | da         | proofread   |           |
-| [[./org/UUB-C496_019v.org]]          | UUB C 496     |                                  |                     |            |             |           |
-| [[./org/UUB-C496_136r.org]]          | UUB C 496     |                                  |                     |            |             |           |
+| [[../org/Thott04-0553_125v.org]]     | Thott 553 4to | Das goldene Krongebet            | KRONGEBET           | da         | begun       |           |
+| [[./org/UUB-C496_019v.org]]          | UUB C 496     | Prayers for the entire day       |                     | gml        | begun       |           |
+| [[./org/UUB-C496_095r.org]]          | UUB C 496     | Das goldene Krongebet            | KRONGEBET           | gml        | begun       |           |
+| [[./org/UUB-C496_136r.org]]          | UUB C 496     | Prayer for a traveller           | TRAVELLER           | da         | transcribed |           |
 |----------------------------------+---------------+----------------------------------+---------------------+------------+-------------+-----------|

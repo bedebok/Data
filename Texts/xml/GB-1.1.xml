@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GB1.1.1" type="text">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Prayer for Palm Saturday</title>
+        <respStmt xml:id="AMH">
+          <resp when="2025">Transcription</resp>
+          <persName>Anne Mette Hansen</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>When Danes Prayed in German</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement key="KBH"/>
+            <repository key="KBK"/>
+            <idno corresp="GB">Gudelige bønner</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus from="a2r" to="a2r"/>
+              <title key="PALM_SATURDAY">Palm Saturday</title>
+              <textLang mainLang="da"/>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div type="text">
+    <p><lb n="1"/><hi rend="2">F</hi>ørst ponne palme
+      løffwer<lb n="2"/>dag at affthen læs fæm pa<lb n="3"
+      />ter noster och fæm Aue maria <lb n="4"/>Och følgh wor herre fran
+      then <lb n="5"/>stadh effron och tijll bethaniam <lb n="6"/>oc tenck po
+      thet ther giordes. th<ex>et</ex>; <lb n="7"/>tha smwrde magdalena
+      herre<ex>n</ex>s <lb n="8"/>hoffuet oc fødder oc
+      sagde herre<ex>n</ex>
+      <lb n="9"/>openbare sijne pijne oc død Oc <lb n="10"/>hwor
+      store drøwelse iomfru ma<lb n="11"/>ria oc
+      apostelne the tha finge oc <lb n="12"/>m<ex>et</ex>
+      beskær grod bade the hannu<ex>m</ex>
+      <lb n="13"/>at ha<ex>n</ex> sculle icke gaa til
+      iherusale<ex>m</ex>
+      <lb n="14"/>til sine vwenner. oc al then nath <lb n="15"/>mødedhe herren
+      seg i gudelighe <lb n="16"/>bøner. oc i daffning soff<sic>u</sic><corr>n</corr>edæ ha<ex>n</ex>
+      <lb n="17"/>ganske lidæt</p>
+  </div>
+  </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+#+TITLE: Nogre gudelige Bøner (Gotfred af Ghemen)
+A print from 1509
+
+* History
+|--------+-------------------+------------+------------|
+| TYPE   | NAME              | PLACE      |       DATE |
+|--------+-------------------+------------+------------|
+| ORIGIN | Gotfred af Ghemen | Copenhagen | 1509-02-13 |
+|--------+-------------------+------------+------------|
+
+* PhysDesc
+|--------------+------------|
+| SUPPORT      | pap        |
+| NUMBER       | 28         |
+| SIZE         |            |
+| WRITING AREA | 90-95 62   |
+| COLUMNS      | 1          |
+| LINES        | 18 19      |
+| FOLIATION    | signatures |
+|--------------+------------|
+
+** Quire Structure
+|-------+--------+------------+---------|
+| Quire | Leaves | Structure  | Changes |
+|-------+--------+------------+---------|
+| A     | a1-a8  | quaternion |         |
+| B     | b1-b4  | binion     |         |
+| C     | c1-c4  | binion     |         |
+| D     | d1-d4  | binion     |         |
+| E     | e1-e4  | binion     |         |
+| F     | f1-f4  | binion     |         |
+|-------+--------+------------+---------|
+
+* Contents
+|---------+-------+--------+-----------------------------------------+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+--------|
+| Loc     | Level | Type   | Text                                    | MDB  | Rub/Inc/Exp                                                                                                                                                         | Lang   | Status |
+|---------+-------+--------+-----------------------------------------+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+--------|
+| a1r a1r |     1 | title  | Titlepage                               |      | Doctores lære oss och siæ [...] fran palme søndag oc intil paskedag                                                                                                 | da     | meta   |
+| a2r f3r |     1 | cycle  | Prayers for the Passion                 | 857  |                                                                                                                                                                     | da     | main   |
+| a2r a2r |     2 | prayer | Palm Saturday (evening)                 | 857a | Først ponne palme løffwerdag at affthen [...] oc i daffning ha(n) ganske lidæt                                                                                      | da     | main   |
+| a2r a2v |     2 | prayer | Palm Sunday (morning)                   | 857b | Palmesøndagh ath morghen [...] oc udkørde them som soldæ oc kiæffthe i templet                                                                                      | da     | main   |
+| a2v a3r |     2 | prayer | Palm Sunday (evening)                   | 857c | OM affthenen følg wor herre atther igen til bethaniam [...] fran the vndhe iøder oc aff hans vweners hender                                                         | da     | main   |
+| a3r a3v |     2 | prayer | Monday                                  | 857d | OM mondagen følgh atther wor herre oc ha(n)s kære modher til iherusalem [...] oc then dag kalledis han then rætwissæ dommere                                        | da     | main   |
+| a3v a3v |     2 | prayer | Monday (evening)                        | 857e | OM afftene(n) følg atther wor herre igen til bethaniam [...] oc soo gick han fastendhes aff byen                                                                    | da     | main   |
+| a3v a4v |     2 | prayer | Tuesday                                 | 857f | OM tisdaghen følgh atther wor herre orlighe om morgenen [...] tha scal me(n)iskens søn bære alle me(n)niskens synder paa sijn blodige ryg igæmmen thenne port       | da     | main   |
+| a4v a5v |     2 | prayer | Tuesday                                 | 857g | OM afftene(n) følg herre(n) atther til bethaniam [...] vdhi stor drøwelse oc gudelighe bøner                                                                        | da     | main   |
+| a5v a6v |     2 | prayer | Wednesday                               | 857h | OM klocker onsdag læs femten pater noster oc fæmten aue [...] alsomstørste drøuelse som han haffde i sith hiærte                                                    | da     | main   |
+| a6v a8r |     2 | prayer | Wednesday                               | 857i | Om afftene(n) læs fæm pater n(oste)r oc fæm aue maria [...] then stoore bijtter dødh och pijne stoodh hannum fore ath tolæ                                          | da     | main   |
+| a8r c1v |     2 | prayer | Thursday                                | 857j | OM torsdaghen læs fæmten pater noster oc fæmten aue maria [...] oc bleff hoes hannum som een troo wen Amen                                                          | da     | main   |
+| c2r d2v |     2 | prayer | Thursday                                | 857k | OM affthenen følgh herren m(et) fæm pater noster oc fem aue maria [...] weyde then vſkyldige ihm̅ ſom eth andhet dywr                                                | da     | main   |
+| d2v d3v |     2 | prayer | Good Friday                             | 857l | OM laanghefredagh læes fæmten pater noster oc fæmthen aue maria [...] thet ledh iomfrw maria i sin werdige siæl                                                     | da     | main   |
+| d3v e4r |     2 | prayer | Good Friday                             | 857m | OM affthene(n) læss fem pater noster oc fæm Aue maria [...] then gantze nat i stor sorgh oc wee                                                                     | da     | main   |
+| d4r f1r |     2 | prayer | Saturday                                | 857n | Om løuerdagen læes fæmth(e)n pater n(oste)r oc fæmthe(n) aue maria [...] och racthe al then gantze dag                                                              | da     | main   |
+| f1r f1v |     2 | prayer | Saturday                                | 857o | Om afftenen læes fæm pater noster oc fem aue maria [...] vthi femtwsynd aar oc i femhundrede aar oc en mere                                                         | da     | main   |
+| f1v f3r |     2 | prayer | Easter Sunday                           | 857p | OM søndaghen ath morghen før en korsset taghes op eller nar thet tages op Læss fæmthen pater noster oc fæmten aue maria [...] oc mo glædes met teg ewindelighe Amen | da     | main   |
+| f3r f3r |     2 | prayer | Easter Sunday                           |      | TEnck oc then storæ glædhe [...] oc ewindelige vdhen ænde Amen ¶ Deo gratias                                                                                        | da     | main   |
+| f3v f4r |     1 | prayer | Exaltation of the Cross (Pope Innocent) | 5 73 | O Korssens høyelſſæ [...] hielp mig til th(e)n ewindelig salighedh amen                                                                                             | da     | main   |
+| f4r f4r |     1 | prayer | Prayer of confession                    | 71   | O Herre ihesu criste Jegh kennes meg [...] Aamen ¶ Pater noster Aue maria                                                                                           | da     | main   |
+| f4r f4r |     1 | prayer | Prayer to Christ                        | 72   | O Herre ihesu criste [...] amen ¶ Pater noster Aue maria                                                                                                            | da     | main   |
+| f4v f4v |     1 | meta   | Colophon                                |      | Tryckt i kømenhaffn hwss Gotfrid aff gheme(n) Anno d(omi)ni m.ccccc. oc ny in p(ro)festo sancti valentini martiris                                                  | da lat | meta   |
+|---------+-------+--------+-----------------------------------------+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+--------|
