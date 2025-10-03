@@ -1,11 +1,11 @@
-#+TITLE: 
+#+TITLE: Confessional formula
 
 |------------+------------|
-| Manuscript | NKS08-0045 |
+| Manuscript | NKS 45 8vo |
 | Locus      | 120v 124v  |
-| Work       |            |
+| Work       | CONFESSION |
 | Language   | da         |
-| Status     |            |
+| Status     | begun      |
 |------------+------------|
 
 
@@ -185,4 +185,5 @@ syndh(e)r modh th(e)n hællyand
 som ær i awend til brodh(e)r
 
 ---122v---
+
 

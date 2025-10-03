@@ -87,7 +87,8 @@
 | [[./org/Lund-0035_023v.org]]         | Mh 35         | Magnificat                       | MAGNIFICAT          | da         | proofread   |           |
 | [[./org/Lund-0035_038v.org]]         | Mh 35         | Five Wounds of Christ            | WOUNDS MDB81        | da         | proofread   |           |
 | [[./org/Lund-0035_064v.org]]         | Mh 35         | Golden Coronation Prayer         | KRONGEBET MDB105    | da         | proofread   | converted |
-| [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    |                                  |                     | da         |             |           |
+| [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    | Confessional formula             |                     | da         | begun       |           |
+| [[./org/NKS08-0045_166r.org]]        | NKS 45 8vo    | St. Erasmus                      |                     | gml        | begun       |           |
 | [[./org/Speghel_R1r.org]]            | Speghel       | A Prayer for Every Day in Lent   | LENT_DAILY          | gml        | transcribed |           |
 | [[./org/Thott04-0553_015v.org]]      | Thott 553 4to | A prayer for saints' virtues     |                     | da         | transcribed |           |
 | [[../org/Thott04-0553_020v.org]]     | Thott 553 4to | Ave Maria lilia                  | AVE_MARIA_LILIA     | da         | proofread   |           |

@@ -64,8 +64,25 @@ A book of hours in three parts, the second of which is primarily in Low German.
 | 51v 53v | prayer           | SEVEN_JOYS                            | *De vij gaudiis spi(ri)ta b(eate) ma(rie)* [[G]]Aude v(ir)go mat(er) (christ)i [...]                                                  | la   | main            |
 | 53v 53v | psalm            | MEMENTO_DAVID                         | [M]Emento d(omin)e dauid et o(mn)is [...]                                                                                         | la   | added defective |
 | 54r 54r | note             |                                       | Ano d(omi)ni m c d l xxx viii [...]                                                                                               | da   | added           |
-| 55r     | cycle            | HOURS_TRINITY                         | *Incipiu(n)t hor(e) pulere de s(anct)i t(ri)nitate* [[T]]E inuocam(us) Te adoram(us) [...]                                            | la   | main            |
+| 55r 64v | cycle            | HOURS_TRINITY                         | *Incipiu(n)t hor(e) pulere de s(anct)i t(ri)nitate* [[T]]E inuocam(us) Te adoram(us) [...]                                            | la   | main            |
+| 65r     | prayer           | St Magnus Erlendsson                  |                                                                                                                                   |      |                 |
+| 65v     |                  | St Christopher                        |                                                                                                                                   |      |                 |
+| 67      |                  | St Gregory?                           |                                                                                                                                   |      |                 |
 | ...     |                  |                                       |                                                                                                                                   |      |                 |
+| 113v    |                  | St Thomas                             |                                                                                                                                   |      |                 |
+| 114r    |                  | St Canute (Duke)                      |                                                                                                                                   |      |                 |
+| 114v    |                  | St Canute (King)                      |                                                                                                                                   |      |                 |
+| 115v    |                  | St Margaret                           |                                                                                                                                   |      |                 |
+| 116r    |                  | St Thomas of Canterbury               |                                                                                                                                   |      |                 |
+| 117r    |                  | Salve stella martis                   |                                                                                                                                   |      |                 |
+| 117v    |                  | Gospel of John (ch. 1)                |                                                                                                                                   |      |                 |
+| 119r    |                  | Ave gloriosa semper virgo             |                                                                                                                                   |      |                 |
+| 120v    |                  | Confessional formula                  |                                                                                                                                   | da   |                 |
+| 124v    |                  | Prayers to Trinity, Virgin, saints    |                                                                                                                                   |      |                 |
+| 126v    |                  | (Isidore?)                            | Pie [et] exaudibilis domine                                                                                                       |      |                 |
+| 127r    | cycle            | Office of the Dead                    |                                                                                                                                   |      |                 |
+| 155v    | prayer           | St Francis                            |                                                                                                                                   |      |                 |
+| 156r    | prayer           | St Clare                              |                                                                                                                                   |      |                 |
 |---------+------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+------+-----------------|
 
 ** Section 2 (LG)
@@ -94,13 +111,15 @@ A book of hours in three parts, the second of which is primarily in Low German.
 | 195r      | recipe | Pestilence  | For pestilencie [...]                                                                                                                                                                                                | da   | added  |
 |-----------+--------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------|
 ** Section 3 (Latin)
-|-------+------+-------------------+----------------------------------------------------------------------------------------------+------+--------|
-| Locus | Type | Text              | Rub/Inc/Exp                                                                                  | Lang | Status |
-|-------+------+-------------------+----------------------------------------------------------------------------------------------+------+--------|
-| 196r  |      |                   | [[S]]alue s(anc)ta facies nostri [...]                                                           | la   | main   |
-| 197v  |      | PENITENTIAL_PSALM | [[D]](omi)ne ne in furore tuo [...]                                                              | la   | main   |
-| 219r  |      | HOURS_SPIRIT      | *Sequitur hor(ae) de sa(n)cto spiritu que sic incipiunt (et) cetera* [[S]]a(n)cti spiritus [...] | la   | main   |
-| 236v  |      | HOURS_CROSS       | *De sancta cruce hor(ae)* [[T]]va(m) s(an)c(t)am cruce(m) [...]                                  | la   | main   |
-| 239v  |      | HOURS_DOLORES     | *Sequit(ur) hore de dolor?? beate virginis* [[S]](anc)ta dei genitrix [...]                      | la   | main   |
-|       |      |                   |                                                                                              |      |        |
-|-------+------+-------------------+----------------------------------------------------------------------------------------------+------+--------|
+|-----------+------+-------------------+----------------------------------------------------------------------------------------------+------+--------|
+| Locus     | Type | Text              | Rub/Inc/Exp                                                                                  | Lang | Status |
+|-----------+------+-------------------+----------------------------------------------------------------------------------------------+------+--------|
+| 196r      |      |                   | [[S]]alue s(anc)ta facies nostri [...]                                                           | la   | main   |
+| 197v      |      | PENITENTIAL_PSALM | [[D]](omi)ne ne in furore tuo [...]                                                              | la   | main   |
+| 219r      |      | HOURS_SPIRIT      | *Sequitur hor(ae) de sa(n)cto spiritu que sic incipiunt (et) cetera* [[S]]a(n)cti spiritus [...] | la   | main   |
+| 236v      |      | HOURS_CROSS       | *De sancta cruce hor(ae)* [[T]]va(m) s(an)c(t)am cruce(m) [...]                                  | la   | main   |
+| 239v      |      | HOURS_DOLORES     | *Sequit(ur) hore de dolor?? beate virginis* [[S]](anc)ta dei genitrix [...]                      | la   | main   |
+| 243r      |      | O_BONE_JESU       | [[O]] bone ih(es)u o piissime ih(es)u                                                            | la   | main   |
+| 245r      |      |                   | [[D]](omi)ne ih(es)u (christi) fili dei vivi creator et resuscitator [...]                       | la   | main   |
+| 249v 259r |      | ROSARY_MARY       | *Rosariu(m) b(ea)te marie v(ir)g(inis)* [[A]]ue salue gaude vale [...]                           | la   | main   |
+|-----------+------+-------------------+----------------------------------------------------------------------------------------------+------+--------|

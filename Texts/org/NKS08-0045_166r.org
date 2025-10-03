@@ -1,0 +1,81 @@
+#+TITLE: A Prayer to St Erasmus
+
+|------------+--------------|
+| Manuscript | NKS 45 8vo   |
+| Locus      | 116r:12 169r |
+| Work       | ERASMUS      |
+| Language   | gml          |
+| Status     | begun        |
+|------------+--------------|
+
+* Transcription
+** Rubric
+Van sunte ersamus
+
+** Text
+
+[[red 3][O]] hilghe here su(n)te erasmus
+
+hilge bisscop vnde mar-
+
+telare cristi Also du dy gode
+
+offerdest an deme sondaghe
+
+Also nym myn offer to der sele
+
+myner salicheit vnde mynes
+
+lyues Bidde vn(de) man ghot
+
+---166v---
+
+#TODO#
+
+---168v---
+
+regneret ewichlike(n) vnde Jum-
+
+mermere amen
+
+** Rubric
+
+[[2][W]]E dit bet alle spreket mit
+
+jnnicheit sines herten ey(n)
+
+jar vmme alle dage vnde sunde-
+
+liken des sondages jn de cre...
+
+te crasin(us) vnde gijff en(n) biit
+
+... luden vnde offert en(n)
+
+... De licht enes vingers ...
+
+De schal hebben vijff gaue
+
+van gode vn(de) van sunte erasmus
+
+De erste gaue is dat em
+
+scal ..der .... ghudes
+
+... in 
+
+---169r---
+
+bede ...der wert De
+
+vofte gaue is dat he an sine
+
+lesten ende schal he also gro-
+
+te ruwe hebben dat he nicht
+
+vorsteruen mach ane ghodes
+
+licham vnde ane dat hilge
+
+... 
