@@ -1,7 +1,7 @@
 #+TITLE: Ten Joys of Mary
 
 |------------+--------------------------------|
-| Manuscript | Yale, Beinecke Library, MS 218 |
+| Manuscript | Yale Beinecke Library MS 218   |
 | Locus      | 127r 134v                      |
 | Work       | KRONGEBET                      |
 | Language   | gml                            |

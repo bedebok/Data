@@ -1,7 +1,7 @@
 #+TITLE: 
 
 |------------+------------|
-| Manuscript | Köln, W 52 |
+| Manuscript | Köln W 52  |
 | Locus      | 167r:8     |
 | Work       | KRONGEBET  |
 | Language   | gml        |

@@ -1,7 +1,7 @@
 #+TITLE: Golden Coronation Prayer of Mary's Ten Joys 
 
 |------------+-----------------------|
-| Manuscript | Hamburg, Cod. conv. 6 |
+| Manuscript | Hamburg Cod. conv. 6  |
 | Locus      | 2r:1                  |
 | Work       | KRONGEBET             |
 | Language   | gml                   |
