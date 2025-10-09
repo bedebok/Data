@@ -1,12 +1,18 @@
 #+TITLE: Prayers for a traveller
-| Manuscript | UUB C 496 |
-| Locus      | 136r-v    |
-| Language   | Danish    |
+|------------+----------------|
+| Manuscript | UUB C 496      |
+| Locus      | 136r-v         |
+| Work       | TRAVELLER 1121 |
+| Language   | Danish         |
+| Status     | transcribed    |
+|------------+----------------|
 
 ** Parallels
+|------------+--------------------------------|
 | Danish     | [[file:AM04-0784_026v_m.org][AM 784 4to (26v bottom margin)]] |
 | Low German |                                |
 | Latin      | MDB 1121 Collecta              |
+|------------+--------------------------------|
 
 * Transcription
 ** Text
@@ -44,7 +50,11 @@ til helvid(is) foor th(e)n thredie th(e)n vey th(e)r han til
 he(m)merig(is) foor
 
 ** Text
-De(us) qvi tobie famvlo tvo beatvm raphaelem socivm (con)cra viorv(m) p(er)icvla depvtasti tribve q(ui)s eodem angelo tvo
+De(us) qvi tobie famvlo tvo beatvm
+
+raphaelem socivm (con)cra viorv(m) p(er)icvla 
+
+depvtasti tribve q(ui)s eodem angelo tvo
 
 --136v--
 
