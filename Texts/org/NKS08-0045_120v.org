@@ -1,12 +1,12 @@
 #+TITLE: Confessional formula
 
-|------------+------------|
-| Manuscript | NKS 45 8vo |
-| Locus      | 120v 124v  |
-| Work       | CONFESSION |
-| Language   | da         |
-| Status     | begun      |
-|------------+------------|
+|------------+-------------|
+| Manuscript | NKS 45 8vo  |
+| Locus      | 120v 124v   |
+| Work       | CONFESSION  |
+| Language   | da          |
+| Status     | transcribed |
+|------------+-------------|
 
 
 * Transcription
@@ -182,8 +182,208 @@ tackæd gud for th(e)m § i sex
 
 syndh(e)r modh th(e)n hællyand
 
-som ær i awend til brodh(e)r
+som ær i awend til brodh(e)r-
 
 ---122v---
 
+lig kærligh(et) i gænst(ri)dælssæ
 
+imodh wid(e)rlig sandh(et) ell(e)r 
+
+i modh thæn helly troo i wan-
+
+hoff tiil gudz nadæ oc misk-
+
+wndæ æy willæ haffuæ an-
+
+ghær oc iwælssæ[fn::?] for mynæ
+
+syndhær. Om iek haffuær tal(et)
+
+nogræ skendz ordh modh g(d)dz
+
+gerni(n)gær hellær hællyæn
+
+ath iek haffuær wæræd for
+
+hordh i syndæn § i the viii
+
+hellighed Jek ey villæ wæræ
+
+fatig for gudz skildh æy væ(re)
+
+sagtmodig æy reen aff hia[fn::æ?]r-
+
+tæ æry bægærædæ rethwiiss-
+
+hed æy ælstæ myskwndælig-
+
+hed æy fredsomælig æy ly-
+
+dæ forsmædælssæ for ret-
+
+wiisshed § J the ix fremæ-
+
+dæ syndær Jek haffuær be-
+
+dh(et) andræ gøræ illdæ oc 
+
+---123r---
+
+giffu(et) rad oc synd tiil syndh(e)n
+
+ellær samtøckæ ell(e)r prisædh
+
+nog(e)r for syndælig gerni(n)gær
+
+Jek haffuær offtæ ieth bædri(n)g 
+
+oc falled i sa(m)mæ synd(e)r i gen
+
+oc waræd dælactig aff annen
+
+mandz ondskaff æy straff(et) the
+
+som illæ giordæ oc ey stond(et)
+
+i mod th(e)m oc kongiorth
+
+th(e)m nar iek haffuær bedr(e)
+
+wiist § Jek haffuær synd(et)
+
+i the x gudz boodorch æy
+
+ælst gudh offuær allting æy 
+
+myn ieffnc(ri)stæn w(et) mik selffu(e)r
+
+tag(et) gudz naffn forfænge-
+
+lig i myn mwnd brod(et) fastæ-
+
+dagæ oc hellydagæ m(et) ar-
+
+beydæ oc m(et) forsømælssæ
+
+tiil gwdz_tienæstæ æy hær(et)
+
+mynæ forældærnæ giorth
+
+---123v---
+
+hoor oc mord oc skorleffn(et) m(et)
+
+wkisch(et) i ord oc i gerni(n)gær
+
+wæræt tyff i gudz asyn oc æy
+
+giffu(et) reth tyendæ oc offær
+
+tiil th(e)n helligæ kyrkæ stol(et)
+
+myn ieffnc(ri)stenss godz fran
+
+ha(m)m oc hans ryctæ m(et) bag-
+
+taall oc sagt falsk witnæ-
+
+byrd poo ha(m)m tal(et) ann(et) po
+
+hans bag en iek kwnnæ 
+
+wæræ bekænth i hans øgh(e)n
+
+begæræd at haffuæ hanss
+
+hosfrwæ hans fææ hanss
+
+hion th(et) forladæ mik gudh
+
+i hymerigæ Jek haffuær 
+
+syndh(et) i the xii styckæ th(e)n
+
+helly troo poo_rører Om
+
+jek haffuær mæræ ellær
+
+myndæ troth en th(e)n hel-
+
+ligæ cristnæ troo wdvisær
+
+---124r---
+
+ell(e)r poo troldom hansegnæl-
+
+sæ spodom ell(e)r skebnæmol
+
+kættæri ell(e)r and(et) thiissli-
+
+giist th(et) kænnæs iek aff
+
+al myt hiærtæ poo gudz
+
+barmhiærtighed oc haffuer
+
+jek engæn at sly tiil wdh(e)n
+
+aal ænæstæ tiil th(e)n h(er)ræ
+
+th(e)r mik oc allæ the th(e)r
+
+willæ haffuæ delachteligh(et)
+
+aff hans pynæs werd
+
+skiildh fryt oc frælst haffu(e)r
+
+th(e)n ewiigæ død aff ha(n)nu(m)
+
+bædæs iek nodæ oc miskw(n)d
+
+bed(e)r iek iomffru mariam
+
+oc allæ wors h(er)ræ hellgæn
+
+i hymerigæ æræ bædæ for
+
+mik allæ r(e)thuisæ me(n)niskes
+
+bøn i iørdærig æræ ko(m)mæ
+
+for mik ath iek mottæ
+
+---124v---
+
+fongæ soo long liff(et) fræst
+
+i th(en)ne wærdæn ath iek
+
+mottæ fongæ reth angær
+
+oc rwælssæ for mynæ syn-
+
+dh(e)r oc th(e)m fwlko(m)mælig
+
+bodæ oc bedræ oc iek mot-
+
+tæ fongæ worss h(er)ræ be-
+
+nedidæ lego(m)mæ oc thæn
+
+helly olly tiil en wærn
+
+mellom my(n) siæl oc diefflin
+
+oc sydh(e)n at woræ delactig
+
+aff th(e)n glædæ oc fridh
+
+th(e)r i hymærigæ ær th(et)
+
+wndæ mik g(u)d fadh(e)r søn
+
+oc th(e)n hellyand som ær
+
+benædidæ ewindælig am(en)
