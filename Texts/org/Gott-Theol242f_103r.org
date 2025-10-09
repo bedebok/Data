@@ -1,7 +1,7 @@
 #+TITLE: Das goldene Krongebet
 
 |------------+---------------------------------|
-| Manuscript | Göttingen, Cod. Ms. Theol. 242f |
+| Manuscript | Göttingen Cod. Ms. Theol. 242f  |
 | Locus      | 103r:19                         |
 | Work       | KRONGEBET                       |
 | Language   | gml                             |
