@@ -2,8 +2,10 @@
 
 |------------+--------------|
 | Manuscript | GKS 1613 8vo |
-| Locus      | 161r-162r    |
-| Language   | Danish       |
+| Locus      | 161r 162r    |
+| Work       | MAGNIFICAT   |
+| Language   | da           |
+| Status     | from MDB     |
 |------------+--------------|
 
 ** Parallels

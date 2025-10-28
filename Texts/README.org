@@ -16,6 +16,7 @@
 | [[./org/AM08-0070_001r.org]]         | AM 70 8vo     | Cantus Sororum (introduction)    | CANTUS.intro        | gml        | transcribed |           |
 | [[./org/AM08-0070_002v.org]]         | AM 70 8vo     | Christ                           |                     | da         | proofread   |           |
 | [[./org/AM08-0070_003r.org]]         | AM 70 8vo     | Cantus Sororum (matins)          | CANTUS.matins       | gml        | begun       |           |
+| [[./org/AM08-0070_064r.org]]         | AM 70 8vo     | Psalm 17 (Vulgate 16)            | PSALM_17            | gml        | transcribed |           |
 | [[./org/AM08-0070_247r.org]]         | AM 70 8vo     | Regina Cœli                      | REGINA_COELI        | da         | transcribed |           |
 | [[./org/AM08-0070_247r_m.org]]       | AM 70 8vo     | Virgo resurgentis                | VIRGO_RESURGENTIS   | da         | proofread   |           |
 | [[./org/AM08-0070_253v.org]]         | AM 70 8vo     |                                  |                     | da         | transcribed |           |

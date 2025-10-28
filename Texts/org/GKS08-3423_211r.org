@@ -1,16 +1,27 @@
 #+TITLE: XV Pater Noster
-| Manuscript | GKS 3423 8vo |
-| Locus      | 211r-[[http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:449][224r]] |
-| Language   | Low German   |
+
+|------------+-----------------|
+| Manuscript | GKS 3423 8vo    |
+| Locus      | 211r:1 224r     |
+| Work       | 15_PATER_NOSTER |
+| Language   | Low German      |
+| Status     |  transcribed    |
+|------------+-----------------|
 
 ** Parallels
+|------------+----------------|
 | Danish     | MDB 21         |
 | Low German | UUB C 496 (3r) |
 | Latin      |                |
+|------------+----------------|
+
+** Images
+http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:423
 
 * Transcription
 ** Rubric
 hyr na volgen de xv p(ate)r n(oste)r
+
 ** Text 1
 [H]ere *[[y]]h(es)u (christ)y* du byst eyne ewy-
 

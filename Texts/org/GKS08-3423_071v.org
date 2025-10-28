@@ -2,8 +2,10 @@
 
 |------------+--------------|
 | Manuscript | GKS 3423 8vo |
-| Locus      | 71v-73r      |
-| Language   | Low German   |
+| Locus      | 71v:9 73r    |
+| Work       | MAGNIFICAT   |
+| Language   | gml          |
+| Status     | transcribed  |
 |------------+--------------|
 
 * Transcription

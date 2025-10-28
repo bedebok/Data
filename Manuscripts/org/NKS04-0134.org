@@ -1,0 +1,34 @@
+#+TITLE: NKS 134 4to
+
+* PhysDesc
+|--------------+---------|
+| SUPPORT      | pap     |
+| NUMBER       | 10      |
+| SIZE         | 209 154 |
+| WRITING AREA | 156 114 |
+| COLUMNS      | 1 2     |
+| LINES        | 37      |
+| FOLIATION    | f 1-10  |
+|--------------+---------|
+
+** Binding
+|------+------------------------------|
+| TYPE | Cardboard with marbled paper |
+| DATE | 19th cent                    |
+| SIZE | 209 156 5                    |
+|------+------------------------------|
+
+** Quire structure
+Single quire
+
+* Contents
+|--------+----------+--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------+----------------|
+| Locus  | Type     | Text                     | Rub/Inc/Exp                                                                                                                                    | Lang    | Status         |
+|--------+----------+--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------+----------------|
+| 1r 1r  | medicine | Liber Herbarium          | *Pipinella* Pipinella bedæ yrth comesta valet [...] et n(ur)am[?] edutit                                                                       | lat da  | main defective |
+| 1r 1r  | medicine | Remedy                   | *Contra podogram* Du scholt neme(n) de swarte sniggen dede liggen vör dem(e) holte [...] zo wertt dy better                                    | gml lat | main           |
+| 1v 1v  | medicine | Remedy                   | *Contra fluxum Paginus a p(re)teposteriorj* Tagk krægebeneth aff een giedde [...] p(er) dei gra(cia)m hoc amte(n)na                            | da lat  | main           |
+| 1v 6r  | poem     |                          | *Compatio philomene ad passio(ne)m d(omi)ni n(ost)ri ih(es)u (christ)i* [[P]]hilomen a p(er)uia temp(er)is am [...] Vt now cantus maitir(is) doc?? | lat     | main           |
+| 6v 8v  | poem     |                          | *Salutatio ad sacra (christ)i me(m)bra p(ri)ncipalia* [[S]]alue meu(m) saluta [...]                                                                | lat     | main           |
+| 8v 10v | treatise | Admonition of St Francis | *Verba sancte admonitoion(is) vene(ri)bilis patris Sancti Ffrancisci ...* [[D]]Jxit Jh(es)us [...] cum leticia jbi nec                             | lat     | main defective |
+|--------+----------+--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------+----------------|

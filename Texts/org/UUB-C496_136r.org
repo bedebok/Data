@@ -3,7 +3,7 @@
 | Manuscript | UUB C 496      |
 | Locus      | 136r-v         |
 | Work       | TRAVELLER 1121 |
-| Language   | Danish         |
+| Language   | da             |
 | Status     | transcribed    |
 |------------+----------------|
 
