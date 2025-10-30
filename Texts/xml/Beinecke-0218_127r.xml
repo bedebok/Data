@@ -4,7 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ten Joys of Mary</title>
+<title>Golden Coronation Prayer</title>
 <respStmt xml:id="SDV">
 <resp when="2024">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
@@ -18,12 +18,12 @@
 <msIdentifier>
 <settlement key="N/A"/>
 <repository key="N/A"/>
-<idno corresp="Beinecke-0218">Yale, Beinecke Library, MS 218</idno>
+<idno corresp="Beinecke-0218">Beinecke Library MS 218</idno>
 </msIdentifier>
 <msContents>
 <msItem>
-<locus from="127r" to="134v"/>
-<title key="KRONGEBET">Ten Joys of Mary</title>
+<locus from="126v" to="134v"/>
+<title key="KRONGEBET">Golden Coronation Prayer</title>
 <textLang mainLang="gml"/>
 </msItem>
 </msContents>
@@ -33,89 +33,91 @@
 </teiHeader>
 <text>
 <body>
-<pb n="127r"/>
+<pb n="126v"/>
 <div type="rubric">
 <p>
-<w xml:id="Beinecke-0218_127r.1.1">Van</w>
-<w xml:id="Beinecke-0218_127r.1.2">den</w>
-<w xml:id="Beinecke-0218_127r.1.3">frouden</w>
-<w xml:id="Beinecke-0218_127r.1.4">vnser</w>
-<w xml:id="Beinecke-0218_127r.1.5">frowen</w>
+<w xml:id="Beinecke-0218_126v.14.1">Van</w>
+<w xml:id="Beinecke-0218_126v.14.2">den</w>
+<w xml:id="Beinecke-0218_126v.14.3">frouden</w>
+<w xml:id="Beinecke-0218_126v.14.4">vnser</w>
+<w xml:id="Beinecke-0218_126v.14.5">frowen</w>
+<pb n="127r"/>
 </p></div>
 <div type="prayer">
 <head>Mdb105a</head><p>
 </p><div type="text">
 <p>
-<lb n="2"/>
-<w xml:id="Beinecke-0218_127r.2.1">MAria</w>
-<w xml:id="Beinecke-0218_127r.2.2">Ik</w>
-<w xml:id="Beinecke-0218_127r.2.3">Vor<lb n="3"/>mane</w>
-<w xml:id="Beinecke-0218_127r.3.2">dik</w>
-<w xml:id="Beinecke-0218_127r.3.3">der</w>
+<lb n="1"/>
+<w xml:id="Beinecke-0218_127r.1.1"><hi rend="5 blue">M</hi>Aria</w>
+<w xml:id="Beinecke-0218_127r.1.2">Ik</w>
+<w xml:id="Beinecke-0218_127r.1.3">Vor<lb n="2"/>mane</w>
+<w xml:id="Beinecke-0218_127r.2.2">dik</w>
+<w xml:id="Beinecke-0218_127r.2.3">der</w>
+<lb n="3"/>
+<w xml:id="Beinecke-0218_127r.3.1">ouerflodigen</w>
 <lb n="4"/>
-<w xml:id="Beinecke-0218_127r.4.1">ouerflodigen</w>
+<w xml:id="Beinecke-0218_127r.4.1">froude</w>
+<w xml:id="Beinecke-0218_127r.4.2">ere</w>
+<w xml:id="Beinecke-0218_127r.4.3">vn<ex>n</ex>d</w>
 <lb n="5"/>
-<w xml:id="Beinecke-0218_127r.5.1">froude</w>
-<w xml:id="Beinecke-0218_127r.5.2">ere</w>
-<w xml:id="Beinecke-0218_127r.5.3">vn<ex>n</ex>d</w>
+<w xml:id="Beinecke-0218_127r.5.1">werdicheit</w>
+<w xml:id="Beinecke-0218_127r.5.2">de</w>
 <lb n="6"/>
-<w xml:id="Beinecke-0218_127r.6.1">werdicheit</w>
-<w xml:id="Beinecke-0218_127r.6.2">de</w>
+<w xml:id="Beinecke-0218_127r.6.1">dyn</w>
+<w xml:id="Beinecke-0218_127r.6.2">zele.</w>
+<w xml:id="Beinecke-0218_127r.6.3">vnnd</w>
+<w xml:id="Beinecke-0218_127r.6.4">dyn</w>
+<w xml:id="Beinecke-0218_127r.6.5">lyff</w>
+<w xml:id="Beinecke-0218_127r.6.6">dar</w>
 <lb n="7"/>
-<w xml:id="Beinecke-0218_127r.7.1">dyn</w>
-<w xml:id="Beinecke-0218_127r.7.2">zele.</w>
-<w xml:id="Beinecke-0218_127r.7.3">vnnd</w>
-<w xml:id="Beinecke-0218_127r.7.4">dyn</w>
-<w xml:id="Beinecke-0218_127r.7.5">lyff</w>
-<w xml:id="Beinecke-0218_127r.7.6">dar</w>
+<w xml:id="Beinecke-0218_127r.7.1">van</w>
+<w xml:id="Beinecke-0218_127r.7.2">hefft</w>
+<w xml:id="Beinecke-0218_127r.7.3">entfangen.</w>
+<w xml:id="Beinecke-0218_127r.7.4">dat</w>
+<w xml:id="Beinecke-0218_127r.7.5">god</w>
 <lb n="8"/>
-<w xml:id="Beinecke-0218_127r.8.1">van</w>
-<w xml:id="Beinecke-0218_127r.8.2">hefft</w>
-<w xml:id="Beinecke-0218_127r.8.3">entfangen.</w>
-<w xml:id="Beinecke-0218_127r.8.4">dat</w>
-<w xml:id="Beinecke-0218_127r.8.5">god</w>
+<w xml:id="Beinecke-0218_127r.8.1">dy</w>
+<w xml:id="Beinecke-0218_127r.8.2">vader</w>
+<w xml:id="Beinecke-0218_127r.8.3">vnnd</w>
+<w xml:id="Beinecke-0218_127r.8.4">dy</w>
+<w xml:id="Beinecke-0218_127r.8.5">sone</w>
+<w xml:id="Beinecke-0218_127r.8.6">vnnd</w>
 <lb n="9"/>
 <w xml:id="Beinecke-0218_127r.9.1">dy</w>
-<w xml:id="Beinecke-0218_127r.9.2">vader</w>
-<w xml:id="Beinecke-0218_127r.9.3">vnnd</w>
-<w xml:id="Beinecke-0218_127r.9.4">dy</w>
-<w xml:id="Beinecke-0218_127r.9.5">sone</w>
-<w xml:id="Beinecke-0218_127r.9.6">vnnd</w>
+<w xml:id="Beinecke-0218_127r.9.2">hillige</w>
+<w xml:id="Beinecke-0218_127r.9.3">geist</w>
+<w xml:id="Beinecke-0218_127r.9.4">dik</w>
+<w xml:id="Beinecke-0218_127r.9.5">em<ex>e</ex></w>
+<w xml:id="Beinecke-0218_127r.9.6">suluen</w>
 <lb n="10"/>
-<w xml:id="Beinecke-0218_127r.10.1">dy</w>
-<w xml:id="Beinecke-0218_127r.10.2">hillige</w>
-<w xml:id="Beinecke-0218_127r.10.3">geist</w>
-<w xml:id="Beinecke-0218_127r.10.4">dik</w>
-<w xml:id="Beinecke-0218_127r.10.5">em<ex>e</ex></w>
-<w xml:id="Beinecke-0218_127r.10.6">suluen</w>
+<w xml:id="Beinecke-0218_127r.10.1">to</w>
+<w xml:id="Beinecke-0218_127r.10.2">eyner</w>
+<w xml:id="Beinecke-0218_127r.10.3">muder</w>
+<w xml:id="Beinecke-0218_127r.10.4">gaff.</w>
+<w xml:id="Beinecke-0218_127r.10.5">vnnd</w>
 <lb n="11"/>
-<w xml:id="Beinecke-0218_127r.11.1">toeyner</w>
-<w xml:id="Beinecke-0218_127r.11.2">muder</w>
-<w xml:id="Beinecke-0218_127r.11.3">gaff.</w>
-<w xml:id="Beinecke-0218_127r.11.4">vnnd</w>
+<w xml:id="Beinecke-0218_127r.11.1">alle</w>
+<w xml:id="Beinecke-0218_127r.11.2">der</w>
+<w xml:id="Beinecke-0218_127r.11.3">werlde.</w>
+<w xml:id="Beinecke-0218_127r.11.4">Jn</w>
+<w xml:id="Beinecke-0218_127r.11.5">deme</w>
+<w xml:id="Beinecke-0218_127r.11.6">rade</w>
 <lb n="12"/>
-<w xml:id="Beinecke-0218_127r.12.1">alle</w>
-<w xml:id="Beinecke-0218_127r.12.2">der</w>
-<w xml:id="Beinecke-0218_127r.12.3">werlde.</w>
-<w xml:id="Beinecke-0218_127r.12.4">Jn</w>
-<w xml:id="Beinecke-0218_127r.12.5">deme</w>
-<w xml:id="Beinecke-0218_127r.12.6">rade</w>
+<w xml:id="Beinecke-0218_127r.12.1">der</w>
+<w xml:id="Beinecke-0218_127r.12.2">hilligen</w>
+<w xml:id="Beinecke-0218_127r.12.3">driualdicheit.</w>
+<w xml:id="Beinecke-0218_127r.12.4">eer</w>
 <lb n="13"/>
-<w xml:id="Beinecke-0218_127r.13.1">der</w>
-<w xml:id="Beinecke-0218_127r.13.2">hilligen</w>
-<w xml:id="Beinecke-0218_127r.13.3">driualdicheit.</w>
-<w xml:id="Beinecke-0218_127r.13.4">eer</w>
+<w xml:id="Beinecke-0218_127r.13.1">he</w>
+<w xml:id="Beinecke-0218_127r.13.2">ye</w>
+<w xml:id="Beinecke-0218_127r.13.3">denn</w>
+<w xml:id="Beinecke-0218_127r.13.4">hemmel</w>
+<w xml:id="Beinecke-0218_127r.13.5">vnnd</w>
 <lb n="14"/>
-<w xml:id="Beinecke-0218_127r.14.1">he</w>
-<w xml:id="Beinecke-0218_127r.14.2">ye</w>
-<w xml:id="Beinecke-0218_127r.14.3">denn</w>
-<w xml:id="Beinecke-0218_127r.14.4">hemmel</w>
-<w xml:id="Beinecke-0218_127r.14.5">vnnd</w>
-<lb n="15"/>
-<w xml:id="Beinecke-0218_127r.15.1">erde</w>
-<w xml:id="Beinecke-0218_127r.15.2">schopp.</w>
-<w xml:id="Beinecke-0218_127r.15.3">Juncfrow</w>
-<w xml:id="Beinecke-0218_127r.15.4">ma<ex>r</ex>ia</w>
+<w xml:id="Beinecke-0218_127r.14.1">erde</w>
+<w xml:id="Beinecke-0218_127r.14.2">schopp.</w>
+<w xml:id="Beinecke-0218_127r.14.3">Juncfrow</w>
+<w xml:id="Beinecke-0218_127r.14.4">ma<ex>r</ex>ia</w>
 <pb n="128r"/>
 <lb n="1"/>
 <w xml:id="Beinecke-0218_128r.1.1">desser</w>
@@ -160,7 +162,7 @@
 </p><div type="text">
 <p>
 <lb n="8"/>
-<w xml:id="Beinecke-0218_128r.8.1">Maria</w>
+<w xml:id="Beinecke-0218_128r.8.1"><hi rend="2 gold">M</hi>aria</w>
 <w xml:id="Beinecke-0218_128r.8.2">ik</w>
 <w xml:id="Beinecke-0218_128r.8.3">vormane</w>
 <w xml:id="Beinecke-0218_128r.8.4">der</w>
@@ -336,7 +338,7 @@
 </p><div type="text">
 <p>
 <lb n="12"/>
-<w xml:id="Beinecke-0218_129r.12.1">Maria</w>
+<w xml:id="Beinecke-0218_129r.12.1"><hi rend="2 gold">M</hi>aria</w>
 <w xml:id="Beinecke-0218_129r.12.2">ik</w>
 <w xml:id="Beinecke-0218_129r.12.3">vormane</w>
 <w xml:id="Beinecke-0218_129r.12.4">dy</w>
@@ -471,58 +473,57 @@
 </p></div>
 <div type="rubric">
 <p>
-<lb n="7"/>
-<w xml:id="Beinecke-0218_130r.7.1">Aue</w>
-<w xml:id="Beinecke-0218_130r.7.2">m<ex>aria</ex></w>
+<w xml:id="Beinecke-0218_130r.6.6">Aue</w>
+<w xml:id="Beinecke-0218_130r.6.7">m<ex>aria</ex></w>
 </p></div>
 </div>
 <div type="prayer">
 <head>Mdb105d</head><p>
 </p><div type="text">
 <p>
+<lb n="7"/>
+<w xml:id="Beinecke-0218_130r.7.1"><hi rend="2 gold">M</hi>aria</w>
+<w xml:id="Beinecke-0218_130r.7.2">ik</w>
+<w xml:id="Beinecke-0218_130r.7.3">vormane</w>
+<w xml:id="Beinecke-0218_130r.7.4">dik</w>
+<w xml:id="Beinecke-0218_130r.7.5">der</w>
 <lb n="8"/>
-<w xml:id="Beinecke-0218_130r.8.1">Maria</w>
-<w xml:id="Beinecke-0218_130r.8.2">ik</w>
-<w xml:id="Beinecke-0218_130r.8.3">vormane</w>
-<w xml:id="Beinecke-0218_130r.8.4">dik</w>
-<w xml:id="Beinecke-0218_130r.8.5">der</w>
+<w xml:id="Beinecke-0218_130r.8.1">ouerflodigen</w>
+<w xml:id="Beinecke-0218_130r.8.2">groten</w>
 <lb n="9"/>
-<w xml:id="Beinecke-0218_130r.9.1">ouerflodigen</w>
-<w xml:id="Beinecke-0218_130r.9.2">groten</w>
+<w xml:id="Beinecke-0218_130r.9.1">froude</w>
+<w xml:id="Beinecke-0218_130r.9.2">vnnd</w>
+<w xml:id="Beinecke-0218_130r.9.3">werdicheit</w>
+<w xml:id="Beinecke-0218_130r.9.4">de</w>
+<w xml:id="Beinecke-0218_130r.9.5">dyn</w>
 <lb n="10"/>
-<w xml:id="Beinecke-0218_130r.10.1">froude</w>
+<w xml:id="Beinecke-0218_130r.10.1">zele</w>
 <w xml:id="Beinecke-0218_130r.10.2">vnnd</w>
-<w xml:id="Beinecke-0218_130r.10.3">werdicheit</w>
-<w xml:id="Beinecke-0218_130r.10.4">de</w>
-<w xml:id="Beinecke-0218_130r.10.5">dyn</w>
+<w xml:id="Beinecke-0218_130r.10.3">lyff</w>
+<w xml:id="Beinecke-0218_130r.10.4">entfyngk</w>
+<w xml:id="Beinecke-0218_130r.10.5">in</w>
+<w xml:id="Beinecke-0218_130r.10.6">de<ex>n</ex></w>
 <lb n="11"/>
-<w xml:id="Beinecke-0218_130r.11.1">zele</w>
-<w xml:id="Beinecke-0218_130r.11.2">vnnd</w>
-<w xml:id="Beinecke-0218_130r.11.3">lyff</w>
-<w xml:id="Beinecke-0218_130r.11.4">entfyngk</w>
-<w xml:id="Beinecke-0218_130r.11.5">in</w>
-<w xml:id="Beinecke-0218_130r.11.6">de<ex>n</ex></w>
+<w xml:id="Beinecke-0218_130r.11.1">dritteynden</w>
+<w xml:id="Beinecke-0218_130r.11.2">dage</w>
+<w xml:id="Beinecke-0218_130r.11.3">na</w>
+<w xml:id="Beinecke-0218_130r.11.4">dynes</w>
 <lb n="12"/>
-<w xml:id="Beinecke-0218_130r.12.1">dritteynden</w>
-<w xml:id="Beinecke-0218_130r.12.2">dage</w>
-<w xml:id="Beinecke-0218_130r.12.3">na</w>
-<w xml:id="Beinecke-0218_130r.12.4">dynes</w>
+<w xml:id="Beinecke-0218_130r.12.1">kyndes</w>
+<w xml:id="Beinecke-0218_130r.12.2">geborth</w>
+<w xml:id="Beinecke-0218_130r.12.3">do</w>
+<w xml:id="Beinecke-0218_130r.12.4">de</w>
+<w xml:id="Beinecke-0218_130r.12.5">hilligen</w>
 <lb n="13"/>
-<w xml:id="Beinecke-0218_130r.13.1">kyndes</w>
-<w xml:id="Beinecke-0218_130r.13.2">geborth</w>
-<w xml:id="Beinecke-0218_130r.13.3">do</w>
-<w xml:id="Beinecke-0218_130r.13.4">de</w>
-<w xml:id="Beinecke-0218_130r.13.5">hilligen</w>
-<lb n="14"/>
-<w xml:id="Beinecke-0218_130r.14.1">dre</w>
-<w xml:id="Beinecke-0218_130r.14.2">koninge</w>
-<w xml:id="Beinecke-0218_130r.14.3">da</w>
-<w xml:id="Beinecke-0218_130r.14.4">opper</w>
-<w xml:id="Beinecke-0218_130r.14.5">brach<lb n="15"/>ten.</w>
-<w xml:id="Beinecke-0218_130r.15.2">Wyrock</w>
-<w xml:id="Beinecke-0218_130r.15.3">mirren</w>
-<w xml:id="Beinecke-0218_130r.15.4">vnd</w>
-<w xml:id="Beinecke-0218_130r.15.5">golt</w>
+<w xml:id="Beinecke-0218_130r.13.1">dre</w>
+<w xml:id="Beinecke-0218_130r.13.2">koninge</w>
+<w xml:id="Beinecke-0218_130r.13.3">da</w>
+<w xml:id="Beinecke-0218_130r.13.4">opper</w>
+<w xml:id="Beinecke-0218_130r.13.5">brach<lb n="14"/>ten.</w>
+<w xml:id="Beinecke-0218_130r.14.2">Wyrock</w>
+<w xml:id="Beinecke-0218_130r.14.3">mirren</w>
+<w xml:id="Beinecke-0218_130r.14.4">vnd</w>
+<w xml:id="Beinecke-0218_130r.14.5">golt</w>
 <pb n="130v"/>
 <lb n="1"/>
 <w xml:id="Beinecke-0218_130v.1.1">wente</w>
@@ -550,7 +551,7 @@
 <w xml:id="Beinecke-0218_130v.4.3">froude</w>
 <w xml:id="Beinecke-0218_130v.4.4"><ex>et cetera</ex></w>
 <w xml:id="Beinecke-0218_130v.4.5">alze</w>
-<w xml:id="Beinecke-0218_130v.4.6">vor<ex>en</ex>.</w>
+<w xml:id="Beinecke-0218_130v.4.6">vor<ex>e</ex>.</w>
 </p></div>
 </div>
 <div type="prayer">
@@ -558,7 +559,7 @@
 </p><div type="text">
 <p>
 <lb n="5"/>
-<w xml:id="Beinecke-0218_130v.5.1">Maria</w>
+<w xml:id="Beinecke-0218_130v.5.1"><hi rend="2 gold">M</hi>aria</w>
 <w xml:id="Beinecke-0218_130v.5.2">ik</w>
 <w xml:id="Beinecke-0218_130v.5.3">vormane</w>
 <w xml:id="Beinecke-0218_130v.5.4">dik</w>
@@ -641,7 +642,7 @@
 <w xml:id="Beinecke-0218_131r.5.1">ermanet</w>
 <w xml:id="Beinecke-0218_131r.5.2">vnnd</w>
 <w xml:id="Beinecke-0218_131r.5.3">gebeden</w>
-<w xml:id="Beinecke-0218_131r.5.4">vn<ex>n</ex>d</w>
+<w xml:id="Beinecke-0218_131r.5.4">vnd</w>
 <lb n="6"/>
 <w xml:id="Beinecke-0218_131r.6.1">getwide</w>
 <w xml:id="Beinecke-0218_131r.6.2">my</w>
@@ -667,38 +668,37 @@
 </p></div>
 <div type="rubric">
 <p>
-<lb n="11"/>
-<w xml:id="Beinecke-0218_131r.11.1">ghebet</w>
-<w xml:id="Beinecke-0218_131r.11.2">va<ex>n</ex></w>
-<w xml:id="Beinecke-0218_131r.11.3">m<ex>ari</ex>a</w>
+<w xml:id="Beinecke-0218_131r.10.3">ghebet</w>
+<w xml:id="Beinecke-0218_131r.10.4">va<ex>n</ex></w>
+<w xml:id="Beinecke-0218_131r.10.5">m<ex>ari</ex>a</w>
 </p></div>
 </div>
 <div type="prayer">
 <head>Mdb105f</head><p>
 </p><div type="text">
 <p>
+<lb n="11"/>
+<w xml:id="Beinecke-0218_131r.11.1"><hi rend="2 gold">M</hi>aria</w>
+<w xml:id="Beinecke-0218_131r.11.2">ik</w>
+<w xml:id="Beinecke-0218_131r.11.3">vormane</w>
+<w xml:id="Beinecke-0218_131r.11.4">dy</w>
+<w xml:id="Beinecke-0218_131r.11.5">der</w>
 <lb n="12"/>
-<w xml:id="Beinecke-0218_131r.12.1">Maria</w>
-<w xml:id="Beinecke-0218_131r.12.2">ik</w>
-<w xml:id="Beinecke-0218_131r.12.3">vormane</w>
-<w xml:id="Beinecke-0218_131r.12.4">dy</w>
-<w xml:id="Beinecke-0218_131r.12.5">der</w>
-<lb n="13"/>
-<w xml:id="Beinecke-0218_131r.13.1">overflodigen</w>
-<w xml:id="Beinecke-0218_131r.13.2">grote<ex>n</ex></w>
-<w xml:id="Beinecke-0218_131r.13.3">frou<lb n="14"/>de</w>
-<w xml:id="Beinecke-0218_131r.14.2">vnd</w>
-<w xml:id="Beinecke-0218_131r.14.3">werdicheit</w>
-<w xml:id="Beinecke-0218_131r.14.4">de</w>
-<w xml:id="Beinecke-0218_131r.14.5">dyn</w>
-<w xml:id="Beinecke-0218_131r.14.6">zele</w>
-<lb n="15"/>
-<w xml:id="Beinecke-0218_131r.15.1">vnd</w>
-<w xml:id="Beinecke-0218_131r.15.2">lyff</w>
-<w xml:id="Beinecke-0218_131r.15.3">entfyngk</w>
-<w xml:id="Beinecke-0218_131r.15.4">in</w>
-<w xml:id="Beinecke-0218_131r.15.5">der</w>
-<w xml:id="Beinecke-0218_131r.15.6">hilge<ex>n</ex></w>
+<w xml:id="Beinecke-0218_131r.12.1">overflodigen</w>
+<w xml:id="Beinecke-0218_131r.12.2">grote<ex>n</ex></w>
+<w xml:id="Beinecke-0218_131r.12.3">frou<lb n="13"/>de</w>
+<w xml:id="Beinecke-0218_131r.13.2">vnd</w>
+<w xml:id="Beinecke-0218_131r.13.3">werdicheit</w>
+<w xml:id="Beinecke-0218_131r.13.4">de</w>
+<w xml:id="Beinecke-0218_131r.13.5">dyn</w>
+<w xml:id="Beinecke-0218_131r.13.6">zele</w>
+<lb n="14"/>
+<w xml:id="Beinecke-0218_131r.14.1">vnd</w>
+<w xml:id="Beinecke-0218_131r.14.2">lyff</w>
+<w xml:id="Beinecke-0218_131r.14.3">entfyngk</w>
+<w xml:id="Beinecke-0218_131r.14.4">in</w>
+<w xml:id="Beinecke-0218_131r.14.5">der</w>
+<w xml:id="Beinecke-0218_131r.14.6">hilge<ex>n</ex></w>
 <pb n="131v"/>
 <lb n="1"/>
 <w xml:id="Beinecke-0218_131v.1.1">passche</w>
@@ -730,7 +730,7 @@
 <lb n="6"/>
 <w xml:id="Beinecke-0218_131v.6.1">synen</w>
 <w xml:id="Beinecke-0218_131v.6.2">leuen</w>
-<w xml:id="Beinecke-0218_131v.6.3">Junghern.</w>
+<w xml:id="Beinecke-0218_131v.6.3">Jungher<ex>e</ex>n.</w>
 <w xml:id="Beinecke-0218_131v.6.4">vnd</w>
 <lb n="7"/>
 <w xml:id="Beinecke-0218_131v.7.1">vor<ex>e</ex></w>
@@ -775,7 +775,7 @@
 <w xml:id="Beinecke-0218_131v.14.3">wes</w>
 <w xml:id="Beinecke-0218_131v.14.4"><ex>et cetera</ex></w>
 <w xml:id="Beinecke-0218_131v.14.5">alzo</w>
-<w xml:id="Beinecke-0218_131v.14.6">vor<ex>en</ex></w>
+<w xml:id="Beinecke-0218_131v.14.6">vor<ex>e</ex></w>
 <pb n="132r"/>
 </p></div>
 </div>
@@ -784,7 +784,7 @@
 </p><div type="text">
 <p>
 <lb n="1"/>
-<w xml:id="Beinecke-0218_132r.1.1">maria</w>
+<w xml:id="Beinecke-0218_132r.1.1"><hi rend="2 gold">M</hi>aria</w>
 <w xml:id="Beinecke-0218_132r.1.2">Ik</w>
 <w xml:id="Beinecke-0218_132r.1.3">vormane</w>
 <w xml:id="Beinecke-0218_132r.1.4">dy</w>
@@ -883,7 +883,7 @@
 <w xml:id="Beinecke-0218_132v.2.3">wes</w>
 <w xml:id="Beinecke-0218_132v.2.4"><ex>et cetera</ex></w>
 <w xml:id="Beinecke-0218_132v.2.5">alse</w>
-<w xml:id="Beinecke-0218_132v.2.6">vor<ex>en</ex></w>
+<w xml:id="Beinecke-0218_132v.2.6">vor<ex>e</ex></w>
 </p></div>
 </div>
 <div type="prayer">
@@ -891,7 +891,7 @@
 </p><div type="text">
 <p>
 <lb n="3"/>
-<w xml:id="Beinecke-0218_132v.3.1">Maria</w>
+<w xml:id="Beinecke-0218_132v.3.1"><hi rend="2 gold">M</hi>aria</w>
 <w xml:id="Beinecke-0218_132v.3.2">ik</w>
 <w xml:id="Beinecke-0218_132v.3.3">vormane</w>
 <w xml:id="Beinecke-0218_132v.3.4">dik</w>
@@ -945,7 +945,7 @@
 <w xml:id="Beinecke-0218_132v.12.1">vrede</w>
 <w xml:id="Beinecke-0218_132v.12.2">sy</w>
 <w xml:id="Beinecke-0218_132v.12.3">mit</w>
-<w xml:id="Beinecke-0218_132v.12.4">juk.</w>
+<w xml:id="Beinecke-0218_132v.12.4">Juk.</w>
 <w xml:id="Beinecke-0218_132v.12.5">dar</w>
 <w xml:id="Beinecke-0218_132v.12.6">worde</w>
 <lb n="13"/>
@@ -991,7 +991,7 @@
 <w xml:id="Beinecke-0218_133r.5.3">my</w>
 <w xml:id="Beinecke-0218_133r.5.4"><ex>et cetera</ex></w>
 <w xml:id="Beinecke-0218_133r.5.5">alze</w>
-<w xml:id="Beinecke-0218_133r.5.6">vor<ex>en</ex></w>
+<w xml:id="Beinecke-0218_133r.5.6">vor<ex>e</ex></w>
 </p></div>
 </div>
 <div type="prayer">
@@ -999,7 +999,7 @@
 </p><div type="text">
 <p>
 <lb n="6"/>
-<w xml:id="Beinecke-0218_133r.6.1">Maria</w>
+<w xml:id="Beinecke-0218_133r.6.1"><hi rend="2 gold">M</hi>aria</w>
 <w xml:id="Beinecke-0218_133r.6.2">ik</w>
 <w xml:id="Beinecke-0218_133r.6.3">vormane</w>
 <w xml:id="Beinecke-0218_133r.6.4">dy</w>
@@ -1107,41 +1107,40 @@
 </p></div>
 <div type="rubric">
 <p>
-<lb n="10"/>
-<w xml:id="Beinecke-0218_133v.10.1">or<ex>ati</ex>o</w>
+<w xml:id="Beinecke-0218_133v.9.7">or<ex>ati</ex>o</w>
 </p></div>
 </div>
 <div type="prayer">
 <head>Mdb105j</head><p>
 </p><div type="text">
 <p>
+<lb n="10"/>
+<w xml:id="Beinecke-0218_133v.10.1"><hi rend="gold 2">M</hi>aria</w>
+<w xml:id="Beinecke-0218_133v.10.2">ik</w>
+<w xml:id="Beinecke-0218_133v.10.3">vormane</w>
+<w xml:id="Beinecke-0218_133v.10.4">dick</w>
 <lb n="11"/>
-<w xml:id="Beinecke-0218_133v.11.1">Maria</w>
-<w xml:id="Beinecke-0218_133v.11.2">ik</w>
-<w xml:id="Beinecke-0218_133v.11.3">vormane</w>
-<w xml:id="Beinecke-0218_133v.11.4">dick</w>
+<w xml:id="Beinecke-0218_133v.11.1">der</w>
+<w xml:id="Beinecke-0218_133v.11.2">ouerflodigen</w>
+<w xml:id="Beinecke-0218_133v.11.3">froude</w>
 <lb n="12"/>
-<w xml:id="Beinecke-0218_133v.12.1">der</w>
-<w xml:id="Beinecke-0218_133v.12.2">ouerflodigen</w>
-<w xml:id="Beinecke-0218_133v.12.3">froude</w>
+<w xml:id="Beinecke-0218_133v.12.1">ere</w>
+<w xml:id="Beinecke-0218_133v.12.2">vnnd</w>
+<w xml:id="Beinecke-0218_133v.12.3">werdicheit.</w>
+<w xml:id="Beinecke-0218_133v.12.4">de</w>
+<w xml:id="Beinecke-0218_133v.12.5">dyn</w>
 <lb n="13"/>
-<w xml:id="Beinecke-0218_133v.13.1">ere</w>
+<w xml:id="Beinecke-0218_133v.13.1">zele</w>
 <w xml:id="Beinecke-0218_133v.13.2">vnnd</w>
-<w xml:id="Beinecke-0218_133v.13.3">werdicheit.</w>
-<w xml:id="Beinecke-0218_133v.13.4">de</w>
-<w xml:id="Beinecke-0218_133v.13.5">dyn</w>
+<w xml:id="Beinecke-0218_133v.13.3">lyff</w>
+<w xml:id="Beinecke-0218_133v.13.4">entfingk.</w>
+<w xml:id="Beinecke-0218_133v.13.5">do</w>
 <lb n="14"/>
-<w xml:id="Beinecke-0218_133v.14.1">zele</w>
-<w xml:id="Beinecke-0218_133v.14.2">vnnd</w>
-<w xml:id="Beinecke-0218_133v.14.3">lyff</w>
-<w xml:id="Beinecke-0218_133v.14.4">entfingk.</w>
-<w xml:id="Beinecke-0218_133v.14.5">do</w>
-<lb n="15"/>
-<w xml:id="Beinecke-0218_133v.15.1">dyn</w>
-<w xml:id="Beinecke-0218_133v.15.2">leue</w>
-<w xml:id="Beinecke-0218_133v.15.3">kint</w>
-<w xml:id="Beinecke-0218_133v.15.4">dik</w>
-<w xml:id="Beinecke-0218_133v.15.5">weldigliken</w>
+<w xml:id="Beinecke-0218_133v.14.1">dyn</w>
+<w xml:id="Beinecke-0218_133v.14.2">leue</w>
+<w xml:id="Beinecke-0218_133v.14.3">kint</w>
+<w xml:id="Beinecke-0218_133v.14.4">dik</w>
+<w xml:id="Beinecke-0218_133v.14.5">weldigliken</w>
 <pb n="134r"/>
 <lb n="1"/>
 <w xml:id="Beinecke-0218_134r.1.1">vpnam.</w>
@@ -1227,7 +1226,7 @@
 <w xml:id="Beinecke-0218_134v.1.3">desser</w>
 <w xml:id="Beinecke-0218_134v.1.4">bede.</w>
 <w xml:id="Beinecke-0218_134v.1.5">na</w>
-<w xml:id="Beinecke-0218_134v.1.6">dyne</w>
+<w xml:id="Beinecke-0218_134v.1.6">dyne<ex>n</ex></w>
 <lb n="2"/>
 <w xml:id="Beinecke-0218_134v.2.1">gnaden.</w>
 <w xml:id="Beinecke-0218_134v.2.2">vnnd</w>

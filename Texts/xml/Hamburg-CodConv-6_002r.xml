@@ -4,7 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Golden Coronation Prayer of Mary's Ten Joys </title>
+<title>Golden Coronation Prayer of Mary's Ten Joys</title>
 <respStmt xml:id="SDV">
 <resp when="2024">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
@@ -16,14 +16,14 @@
 <sourceDesc>
 <msDesc>
 <msIdentifier>
-<settlement key="N/A"/>
+<settlement key="HAM">Hamburg</settlement>
 <repository key="N/A"/>
-<idno corresp="Hamburg-CodConv-6">Hamburg, Cod. conv. 6</idno>
+<idno corresp="Hamburg-CodConv-6">Cod. conv. 6</idno>
 </msIdentifier>
 <msContents>
 <msItem>
-<locus from="2r" to="|"/>
-<title key="KRONGEBET">Golden Coronation Prayer of Mary's Ten Joys </title>
+<locus from="2r" to="9r"/>
+<title key="KRONGEBET">Golden Coronation Prayer of Mary's Ten Joys</title>
 <textLang mainLang="gml"/>
 </msItem>
 </msContents>
@@ -464,7 +464,7 @@
 <w xml:id="Hamburg-CodConv-6_3v.10.1">ku<ex>n</ex>dighede</w>
 <w xml:id="Hamburg-CodConv-6_3v.10.2">dat</w>
 <w xml:id="Hamburg-CodConv-6_3v.10.3">du</w>
-<w xml:id="Hamburg-CodConv-6_3v.10.4">gode</w>
+<w xml:id="Hamburg-CodConv-6_3v.10.4">godes</w>
 <w xml:id="Hamburg-CodConv-6_3v.10.5">moder</w>
 <lb n="11"/>
 <w xml:id="Hamburg-CodConv-6_3v.11.1">werden</w>
@@ -514,7 +514,7 @@
 <w xml:id="Hamburg-CodConv-6_3v.18.3">wysheit</w>
 <w xml:id="Hamburg-CodConv-6_3v.18.4">Do</w>
 <w xml:id="Hamburg-CodConv-6_3v.18.5">spre<pb n="4r"/><lb n="1"/>kestu</w>
-<w xml:id="Hamburg-CodConv-6_4r.1.2"><hi>I</hi>k</w>
+<w xml:id="Hamburg-CodConv-6_4r.1.2">Ik</w>
 <w xml:id="Hamburg-CodConv-6_4r.1.3">bin</w>
 <w xml:id="Hamburg-CodConv-6_4r.1.4">ene</w>
 <w xml:id="Hamburg-CodConv-6_4r.1.5">derne</w>
@@ -525,7 +525,7 @@
 <w xml:id="Hamburg-CodConv-6_4r.2.2">na</w>
 <w xml:id="Hamburg-CodConv-6_4r.2.3">dine<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_4r.2.4">worden</w>
-<w xml:id="Hamburg-CodConv-6_4r.2.5"><hi>G</hi>odes</w>
+<w xml:id="Hamburg-CodConv-6_4r.2.5">Godes</w>
 <lb n="3"/>
 <w xml:id="Hamburg-CodConv-6_4r.3.1">wille</w>
 <w xml:id="Hamburg-CodConv-6_4r.3.2">werde</w>
@@ -533,7 +533,7 @@
 <w xml:id="Hamburg-CodConv-6_4r.3.4">my</w>
 <w xml:id="Hamburg-CodConv-6_4r.3.5">vulle<ex>n</ex>brocht</w>
 <lb n="4"/>
-<w xml:id="Hamburg-CodConv-6_4r.4.1"><hi>m</hi>it</w>
+<w xml:id="Hamburg-CodConv-6_4r.4.1">mit</w>
 <w xml:id="Hamburg-CodConv-6_4r.4.2">den</w>
 <w xml:id="Hamburg-CodConv-6_4r.4.3">worden</w>
 <w xml:id="Hamburg-CodConv-6_4r.4.4">wordestu</w>
@@ -551,7 +551,7 @@
 <w xml:id="Hamburg-CodConv-6_4r.6.6">py<lb n="7"/>ne</w>
 <w xml:id="Hamburg-CodConv-6_4r.7.2">dines</w>
 <w xml:id="Hamburg-CodConv-6_4r.7.3">herte<ex>n</ex></w>
-<w xml:id="Hamburg-CodConv-6_4r.7.4"><hi>V</hi>rouwe</w>
+<w xml:id="Hamburg-CodConv-6_4r.7.4">Vrouwe</w>
 <w xml:id="Hamburg-CodConv-6_4r.7.5">dy</w>
 <w xml:id="Hamburg-CodConv-6_4r.7.6">ma<lb n="8"/>ria</w>
 <w xml:id="Hamburg-CodConv-6_4r.8.2">der</w>
@@ -562,7 +562,7 @@
 <lb n="9"/>
 <w xml:id="Hamburg-CodConv-6_4r.9.1">ghelouet</w>
 <w xml:id="Hamburg-CodConv-6_4r.9.2">vn<ex>de</ex></w>
-<w xml:id="Hamburg-CodConv-6_4r.9.3">benediet</w>
+<w xml:id="Hamburg-CodConv-6_4r.9.3">benediet.</w>
 <w xml:id="Hamburg-CodConv-6_4r.9.4">vnde</w>
 <lb n="10"/>
 <w xml:id="Hamburg-CodConv-6_4r.10.1">twide</w>
@@ -642,7 +642,7 @@
 <w xml:id="Hamburg-CodConv-6_4v.3.3">vrolike<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_4v.3.4">sunder</w>
 <lb n="4"/>
-<w xml:id="Hamburg-CodConv-6_4v.4.1">smerte</w>
+<w xml:id="Hamburg-CodConv-6_4v.4.1">smerte.</w>
 <w xml:id="Hamburg-CodConv-6_4v.4.2">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_4v.4.3">bleuest</w>
 <w xml:id="Hamburg-CodConv-6_4v.4.4">maghet</w>
@@ -651,7 +651,7 @@
 <w xml:id="Hamburg-CodConv-6_4v.5.1">der</w>
 <w xml:id="Hamburg-CodConv-6_4v.5.2">bort</w>
 <w xml:id="Hamburg-CodConv-6_4v.5.3">ewylike<ex>n</ex></w>
-<w xml:id="Hamburg-CodConv-6_4v.5.4"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_4v.5.4">Maria</w>
 <w xml:id="Hamburg-CodConv-6_4v.5.5">din</w>
 <w xml:id="Hamburg-CodConv-6_4v.5.6">vrou<lb n="6"/>de</w>
 <w xml:id="Hamburg-CodConv-6_4v.6.2">was</w>
@@ -676,13 +676,13 @@
 <w xml:id="Hamburg-CodConv-6_4v.9.1">vor</w>
 <w xml:id="Hamburg-CodConv-6_4v.9.2">sine</w>
 <w xml:id="Hamburg-CodConv-6_4v.9.3">mu<ex>n</ex>t</w>
-<w xml:id="Hamburg-CodConv-6_4v.9.4"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_4v.9.4">Dar</w>
 <w xml:id="Hamburg-CodConv-6_4v.9.5">mede</w>
-<w xml:id="Hamburg-CodConv-6_4v.9.6">sprekes<lb n="10"/>tu</w>
+<w xml:id="Hamburg-CodConv-6_4v.9.6">sprekes<lb n="10"/>tu.</w>
 <w xml:id="Hamburg-CodConv-6_4v.10.2">vrede</w>
 <w xml:id="Hamburg-CodConv-6_4v.10.3">den</w>
 <w xml:id="Hamburg-CodConv-6_4v.10.4">arme<ex>n</ex></w>
-<w xml:id="Hamburg-CodConv-6_4v.10.5"><hi>D</hi>es</w>
+<w xml:id="Hamburg-CodConv-6_4v.10.5">Des</w>
 <w xml:id="Hamburg-CodConv-6_4v.10.6">vrou<lb n="11"/>wet</w>
 <w xml:id="Hamburg-CodConv-6_4v.11.2">sik</w>
 <w xml:id="Hamburg-CodConv-6_4v.11.3">allent</w>
@@ -694,7 +694,7 @@
 <w xml:id="Hamburg-CodConv-6_4v.12.2">in</w>
 <w xml:id="Hamburg-CodConv-6_4v.12.3">erden</w>
 <w xml:id="Hamburg-CodConv-6_4v.12.4">is</w>
-<w xml:id="Hamburg-CodConv-6_4v.12.5"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_4v.12.5">Maria</w>
 <w xml:id="Hamburg-CodConv-6_4v.12.6">der</w>
 <w xml:id="Hamburg-CodConv-6_4v.12.7">gro<lb n="13"/>te<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_4v.13.2">vroude</w>
@@ -705,7 +705,7 @@
 <lb n="14"/>
 <w xml:id="Hamburg-CodConv-6_4v.14.1">wes</w>
 <w xml:id="Hamburg-CodConv-6_4v.14.2">benediet</w>
-<w xml:id="Hamburg-CodConv-6_4v.14.3"><hi>v</hi>n<ex>de</ex></w>
+<w xml:id="Hamburg-CodConv-6_4v.14.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_4v.14.4">twide</w>
 <w xml:id="Hamburg-CodConv-6_4v.14.5">myne</w>
 <lb n="15"/>
@@ -717,16 +717,16 @@
 <w xml:id="Hamburg-CodConv-6_4v.15.6">na</w>
 <w xml:id="Hamburg-CodConv-6_4v.15.7">my<lb n="16"/>ner</w>
 <w xml:id="Hamburg-CodConv-6_4v.16.2">begheringhe</w>
-<w xml:id="Hamburg-CodConv-6_4v.16.3"><hi>A</hi>men</w>
+<w xml:id="Hamburg-CodConv-6_4v.16.3">Amen</w>
 </p></div>
 </div>
 <div type="prayer">
 <p>
 </p><div type="rubric">
 <p>
-<w xml:id="Hamburg-CodConv-6_4v.16.4"><hi>S</hi>prek</w>
+<w xml:id="Hamburg-CodConv-6_4v.16.4">Sprek</w>
 <lb n="17"/>
-<w xml:id="Hamburg-CodConv-6_4v.17.1">tey</w>
+<w xml:id="Hamburg-CodConv-6_4v.17.1">teyn</w>
 <w xml:id="Hamburg-CodConv-6_4v.17.2">Aue</w>
 <w xml:id="Hamburg-CodConv-6_4v.17.3">maria</w>
 <w xml:id="Hamburg-CodConv-6_4v.17.4">stande</w>
@@ -766,7 +766,7 @@
 <w xml:id="Hamburg-CodConv-6_5r.5.5">hilghen</w>
 <lb n="6"/>
 <w xml:id="Hamburg-CodConv-6_5r.6.1">twelften</w>
-<w xml:id="Hamburg-CodConv-6_5r.6.2">daghe</w>
+<w xml:id="Hamburg-CodConv-6_5r.6.2">daghe.</w>
 <w xml:id="Hamburg-CodConv-6_5r.6.3">do</w>
 <w xml:id="Hamburg-CodConv-6_5r.6.4">de</w>
 <w xml:id="Hamburg-CodConv-6_5r.6.5">hilghe<ex>n</ex></w>
@@ -781,7 +781,7 @@
 <w xml:id="Hamburg-CodConv-6_5r.8.3">mirren</w>
 <w xml:id="Hamburg-CodConv-6_5r.8.4">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_5r.8.5">golt</w>
-<w xml:id="Hamburg-CodConv-6_5r.8.6"><hi>w</hi>e<ex>n</ex><lb n="9"/>te</w>
+<w xml:id="Hamburg-CodConv-6_5r.8.6">we<ex>n</ex><lb n="9"/>te</w>
 <w xml:id="Hamburg-CodConv-6_5r.9.2">se</w>
 <w xml:id="Hamburg-CodConv-6_5r.9.3">de</w>
 <w xml:id="Hamburg-CodConv-6_5r.9.4">ersten</w>
@@ -798,7 +798,7 @@
 <w xml:id="Hamburg-CodConv-6_5r.11.1">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_5r.11.2">my<ex>n</ex>sche</w>
 <w xml:id="Hamburg-CodConv-6_5r.11.3">was</w>
-<w xml:id="Hamburg-CodConv-6_5r.11.4"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_5r.11.4">Maria</w>
 <w xml:id="Hamburg-CodConv-6_5r.11.5">der</w>
 <lb n="12"/>
 <w xml:id="Hamburg-CodConv-6_5r.12.1">grote<ex>n</ex></w>
@@ -807,8 +807,8 @@
 <w xml:id="Hamburg-CodConv-6_5r.12.4">vormanet</w>
 <lb n="13"/>
 <w xml:id="Hamburg-CodConv-6_5r.13.1">vn<ex>de</ex></w>
-<w xml:id="Hamburg-CodConv-6_5r.13.2">we</w>
-<w xml:id="Hamburg-CodConv-6_5r.13.3">benediet</w>
+<w xml:id="Hamburg-CodConv-6_5r.13.2">wes</w>
+<w xml:id="Hamburg-CodConv-6_5r.13.3">benediet.</w>
 <w xml:id="Hamburg-CodConv-6_5r.13.4">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_5r.13.5">twide</w>
 <lb n="14"/>
@@ -822,7 +822,7 @@
 <w xml:id="Hamburg-CodConv-6_5r.15.1">na</w>
 <w xml:id="Hamburg-CodConv-6_5r.15.2">myner</w>
 <w xml:id="Hamburg-CodConv-6_5r.15.3">begheringhe</w>
-<w xml:id="Hamburg-CodConv-6_5r.15.4"><hi>A</hi>me<ex>n</ex></w>
+<w xml:id="Hamburg-CodConv-6_5r.15.4">Ame<ex>n</ex></w>
 </p></div>
 </div>
 <div type="prayer">
@@ -885,20 +885,20 @@
 <w xml:id="Hamburg-CodConv-6_5v.6.7">dach</w>
 <lb n="7"/>
 <w xml:id="Hamburg-CodConv-6_5v.7.1">haddest</w>
-<w xml:id="Hamburg-CodConv-6_5v.7.2">vorloren</w>
+<w xml:id="Hamburg-CodConv-6_5v.7.2">vorloren.</w>
 <w xml:id="Hamburg-CodConv-6_5v.7.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_5v.7.4">wol</w>
 <w xml:id="Hamburg-CodConv-6_5v.7.5">wis<lb n="8"/>test</w>
 <w xml:id="Hamburg-CodConv-6_5v.8.2">dat</w>
 <w xml:id="Hamburg-CodConv-6_5v.8.3">id</w>
 <w xml:id="Hamburg-CodConv-6_5v.8.4">den</w>
-<w xml:id="Hamburg-CodConv-6_5v.8.5">dot</w>
+<w xml:id="Hamburg-CodConv-6_5v.8.5">döt</w>
 <w xml:id="Hamburg-CodConv-6_5v.8.6">van</w>
 <w xml:id="Hamburg-CodConv-6_5v.8.7">den</w>
 <w xml:id="Hamburg-CodConv-6_5v.8.8">io<lb n="9"/>den</w>
 <w xml:id="Hamburg-CodConv-6_5v.9.2">wolde</w>
 <w xml:id="Hamburg-CodConv-6_5v.9.3">liden</w>
-<w xml:id="Hamburg-CodConv-6_5v.9.4"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_5v.9.4">Dar</w>
 <w xml:id="Hamburg-CodConv-6_5v.9.5">v<ex>m</ex>me</w>
 <w xml:id="Hamburg-CodConv-6_5v.9.6">was</w>
 <lb n="10"/>
@@ -912,7 +912,7 @@
 <w xml:id="Hamburg-CodConv-6_5v.11.1">dat</w>
 <w xml:id="Hamburg-CodConv-6_5v.11.2">wedder</w>
 <w xml:id="Hamburg-CodConv-6_5v.11.3">vundest</w>
-<w xml:id="Hamburg-CodConv-6_5v.11.4"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_5v.11.4">Maria</w>
 <w xml:id="Hamburg-CodConv-6_5v.11.5">des<lb n="12"/>ser</w>
 <w xml:id="Hamburg-CodConv-6_5v.12.2">groten</w>
 <w xml:id="Hamburg-CodConv-6_5v.12.3">vroude</w>
@@ -942,7 +942,7 @@
 <w xml:id="Hamburg-CodConv-6_5v.16.1">na</w>
 <w xml:id="Hamburg-CodConv-6_5v.16.2">myner</w>
 <w xml:id="Hamburg-CodConv-6_5v.16.3">notroft</w>
-<w xml:id="Hamburg-CodConv-6_5v.16.4"><hi>A</hi>men</w>
+<w xml:id="Hamburg-CodConv-6_5v.16.4">Amen</w>
 </p></div>
 </div>
 <div type="prayer">
@@ -990,7 +990,7 @@
 <w xml:id="Hamburg-CodConv-6_6r.5.4">hilghe<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_6r.5.5">passche</w>
 <lb n="6"/>
-<w xml:id="Hamburg-CodConv-6_6r.6.1">nacht</w>
+<w xml:id="Hamburg-CodConv-6_6r.6.1">nacht.</w>
 <w xml:id="Hamburg-CodConv-6_6r.6.2">do</w>
 <w xml:id="Hamburg-CodConv-6_6r.6.3">du</w>
 <w xml:id="Hamburg-CodConv-6_6r.6.4">din</w>
@@ -1004,7 +1004,7 @@
 <w xml:id="Hamburg-CodConv-6_6r.7.4">al<lb n="8"/>ler</w>
 <w xml:id="Hamburg-CodConv-6_6r.8.2">ersten</w>
 <w xml:id="Hamburg-CodConv-6_6r.8.3">seghest</w>
-<w xml:id="Hamburg-CodConv-6_6r.8.4"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_6r.8.4">Dar</w>
 <w xml:id="Hamburg-CodConv-6_6r.8.5">na</w>
 <w xml:id="Hamburg-CodConv-6_6r.8.6">ope<ex>n</ex><lb n="9"/>berede</w>
 <w xml:id="Hamburg-CodConv-6_6r.9.2">he</w>
@@ -1015,7 +1015,7 @@
 <w xml:id="Hamburg-CodConv-6_6r.10.1">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_6r.10.2">sine<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_6r.10.3">leue<ex>n</ex></w>
-<w xml:id="Hamburg-CodConv-6_6r.10.4">ju<ex>n</ex>gheren</w>
+<w xml:id="Hamburg-CodConv-6_6r.10.4">ju<ex>n</ex>gheren.</w>
 <w xml:id="Hamburg-CodConv-6_6r.10.5">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_6r.10.6">voer</w>
 <lb n="11"/>
@@ -1033,7 +1033,7 @@
 <w xml:id="Hamburg-CodConv-6_6r.12.6">willen</w>
 <lb n="13"/>
 <w xml:id="Hamburg-CodConv-6_6r.13.1">hadden</w>
-<w xml:id="Hamburg-CodConv-6_6r.13.2">ghedan</w>
+<w xml:id="Hamburg-CodConv-6_6r.13.2">ghedän.</w>
 <w xml:id="Hamburg-CodConv-6_6r.13.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_6r.13.4">vorede</w>
 <w xml:id="Hamburg-CodConv-6_6r.13.5">se</w>
@@ -1041,7 +1041,7 @@
 <w xml:id="Hamburg-CodConv-6_6r.14.1">an</w>
 <w xml:id="Hamburg-CodConv-6_6r.14.2">dat</w>
 <w xml:id="Hamburg-CodConv-6_6r.14.3">paradys</w>
-<w xml:id="Hamburg-CodConv-6_6r.14.4"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_6r.14.4">Dar</w>
 <w xml:id="Hamburg-CodConv-6_6r.14.5">se</w>
 <w xml:id="Hamburg-CodConv-6_6r.14.6">an</w>
 <w xml:id="Hamburg-CodConv-6_6r.14.7">wo<lb n="15"/>neden</w>
@@ -1049,7 +1049,7 @@
 <w xml:id="Hamburg-CodConv-6_6r.15.3">to</w>
 <w xml:id="Hamburg-CodConv-6_6r.15.4">siner</w>
 <w xml:id="Hamburg-CodConv-6_6r.15.5">he<ex>m</ex>mel<lb n="16"/>vart</w>
-<w xml:id="Hamburg-CodConv-6_6r.16.2"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_6r.16.2">Maria</w>
 <w xml:id="Hamburg-CodConv-6_6r.16.3">godes</w>
 <w xml:id="Hamburg-CodConv-6_6r.16.4">moder</w>
 <w xml:id="Hamburg-CodConv-6_6r.16.5">der</w>
@@ -1077,21 +1077,21 @@
 <lb n="3"/>
 <w xml:id="Hamburg-CodConv-6_6v.3.1">myner</w>
 <w xml:id="Hamburg-CodConv-6_6v.3.2">notroft</w>
-<w xml:id="Hamburg-CodConv-6_6v.3.3"><hi>A</hi>men</w>
+<w xml:id="Hamburg-CodConv-6_6v.3.3">Amen</w>
 </p></div>
 </div>
 <div type="prayer">
 <p>
 </p><div type="rubric">
 <p>
+<w xml:id="Hamburg-CodConv-6_6v.3.4">Sprek</w>
 <lb n="4"/>
-<w xml:id="Hamburg-CodConv-6_6v.4.1">Sprek</w>
-<w xml:id="Hamburg-CodConv-6_6v.4.2">teyn</w>
-<w xml:id="Hamburg-CodConv-6_6v.4.3">Aue</w>
-<w xml:id="Hamburg-CodConv-6_6v.4.4">maria</w>
-<w xml:id="Hamburg-CodConv-6_6v.4.5">vn<ex>de</ex></w>
-<w xml:id="Hamburg-CodConv-6_6v.4.6">valle</w>
-<w xml:id="Hamburg-CodConv-6_6v.4.7">vp</w>
+<w xml:id="Hamburg-CodConv-6_6v.4.1">teyn</w>
+<w xml:id="Hamburg-CodConv-6_6v.4.2">Aue</w>
+<w xml:id="Hamburg-CodConv-6_6v.4.3">maria</w>
+<w xml:id="Hamburg-CodConv-6_6v.4.4">vn<ex>de</ex></w>
+<w xml:id="Hamburg-CodConv-6_6v.4.5">valle</w>
+<w xml:id="Hamburg-CodConv-6_6v.4.6">vp</w>
 <lb n="5"/>
 <w xml:id="Hamburg-CodConv-6_6v.5.1">dine</w>
 <w xml:id="Hamburg-CodConv-6_6v.5.2">knee</w>
@@ -1144,7 +1144,7 @@
 <w xml:id="Hamburg-CodConv-6_6v.11.5">helle</w>
 <lb n="12"/>
 <w xml:id="Hamburg-CodConv-6_6v.12.1">losede</w>
-<w xml:id="Hamburg-CodConv-6_6v.12.2"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_6v.12.2">Maria</w>
 <w xml:id="Hamburg-CodConv-6_6v.12.3">din</w>
 <w xml:id="Hamburg-CodConv-6_6v.12.4">vroude</w>
 <w xml:id="Hamburg-CodConv-6_6v.12.5">was</w>
@@ -1159,11 +1159,11 @@
 <w xml:id="Hamburg-CodConv-6_6v.14.1">ene</w>
 <w xml:id="Hamburg-CodConv-6_6v.14.2">de</w>
 <w xml:id="Hamburg-CodConv-6_6v.14.3">neghen</w>
-<w xml:id="Hamburg-CodConv-6_6v.14.4">kore</w>
+<w xml:id="Hamburg-CodConv-6_6v.14.4">köre</w>
 <w xml:id="Hamburg-CodConv-6_6v.14.5">der</w>
 <w xml:id="Hamburg-CodConv-6_6v.14.6">hil<lb n="15"/>ghe<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_6v.15.2">engele</w>
-<w xml:id="Hamburg-CodConv-6_6v.15.3">vntfinghen</w>
+<w xml:id="Hamburg-CodConv-6_6v.15.3">vntfinghen.</w>
 <w xml:id="Hamburg-CodConv-6_6v.15.4">vn<ex>de</ex></w>
 <lb n="16"/>
 <w xml:id="Hamburg-CodConv-6_6v.16.1">seghest</w>
@@ -1180,14 +1180,14 @@
 <w xml:id="Hamburg-CodConv-6_7r.1.4">warheyt</w>
 <lb n="2"/>
 <w xml:id="Hamburg-CodConv-6_7r.2.1">ghemaket</w>
-<w xml:id="Hamburg-CodConv-6_7r.2.2">is</w>
+<w xml:id="Hamburg-CodConv-6_7r.2.2">is.</w>
 <w xml:id="Hamburg-CodConv-6_7r.2.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_7r.2.4">du</w>
 <w xml:id="Hamburg-CodConv-6_7r.2.5">den</w>
 <w xml:id="Hamburg-CodConv-6_7r.2.6">besit<lb n="3"/>ten</w>
 <w xml:id="Hamburg-CodConv-6_7r.3.2">scholdest</w>
 <w xml:id="Hamburg-CodConv-6_7r.3.3">ewichlike<ex>n</ex></w>
-<w xml:id="Hamburg-CodConv-6_7r.3.4"><hi>D</hi>er</w>
+<w xml:id="Hamburg-CodConv-6_7r.3.4">Der</w>
 <lb n="4"/>
 <w xml:id="Hamburg-CodConv-6_7r.4.1">grote<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_7r.4.2">vroude</w>
@@ -1197,7 +1197,7 @@
 <lb n="5"/>
 <w xml:id="Hamburg-CodConv-6_7r.5.1">maria</w>
 <w xml:id="Hamburg-CodConv-6_7r.5.2">godes</w>
-<w xml:id="Hamburg-CodConv-6_7r.5.3">moder</w>
+<w xml:id="Hamburg-CodConv-6_7r.5.3">moder.</w>
 <w xml:id="Hamburg-CodConv-6_7r.5.4">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_7r.5.5">bidde</w>
 <lb n="6"/>
@@ -1215,23 +1215,23 @@
 <w xml:id="Hamburg-CodConv-6_7r.7.6">myner</w>
 <lb n="8"/>
 <w xml:id="Hamburg-CodConv-6_7r.8.1">notroft</w>
-<w xml:id="Hamburg-CodConv-6_7r.8.2"><hi>A</hi>men</w>
+<w xml:id="Hamburg-CodConv-6_7r.8.2">Amen</w>
 </p></div>
 </div>
 <div type="prayer">
 <p>
 </p><div type="rubric">
 <p>
+<w xml:id="Hamburg-CodConv-6_7r.8.3">Sprek</w>
+<w xml:id="Hamburg-CodConv-6_7r.8.4">teyn</w>
+<w xml:id="Hamburg-CodConv-6_7r.8.5">Aue</w>
 <lb n="9"/>
-<w xml:id="Hamburg-CodConv-6_7r.9.1">Sprek</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.2">teyn</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.3">Aue</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.4">maria</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.5">stande</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.6">vn<ex>de</ex></w>
-<w xml:id="Hamburg-CodConv-6_7r.9.7">valle</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.8">an</w>
-<w xml:id="Hamburg-CodConv-6_7r.9.9">dy<lb n="10"/>ne</w>
+<w xml:id="Hamburg-CodConv-6_7r.9.1">maria</w>
+<w xml:id="Hamburg-CodConv-6_7r.9.2">stande</w>
+<w xml:id="Hamburg-CodConv-6_7r.9.3">vn<ex>de</ex></w>
+<w xml:id="Hamburg-CodConv-6_7r.9.4">valle</w>
+<w xml:id="Hamburg-CodConv-6_7r.9.5">an</w>
+<w xml:id="Hamburg-CodConv-6_7r.9.6">dy<lb n="10"/>ne</w>
 <w xml:id="Hamburg-CodConv-6_7r.10.2">knee</w>
 <w xml:id="Hamburg-CodConv-6_7r.10.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_7r.10.4">sprek</w>
@@ -1252,7 +1252,7 @@
 <w xml:id="Hamburg-CodConv-6_7r.12.3">de</w>
 <lb n="13"/>
 <w xml:id="Hamburg-CodConv-6_7r.13.1">dyn</w>
-<w xml:id="Hamburg-CodConv-6_7r.13.2">sels</w>
+<w xml:id="Hamburg-CodConv-6_7r.13.2">sele</w>
 <w xml:id="Hamburg-CodConv-6_7r.13.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_7r.13.4">din</w>
 <w xml:id="Hamburg-CodConv-6_7r.13.5">licham</w>
@@ -1262,7 +1262,7 @@
 <w xml:id="Hamburg-CodConv-6_7r.14.2">deme</w>
 <w xml:id="Hamburg-CodConv-6_7r.14.3">hilghen</w>
 <w xml:id="Hamburg-CodConv-6_7r.14.4">pinxste</w>
-<w xml:id="Hamburg-CodConv-6_7r.14.5">daghe</w>
+<w xml:id="Hamburg-CodConv-6_7r.14.5">daghe.</w>
 <lb n="15"/>
 <w xml:id="Hamburg-CodConv-6_7r.15.1">do</w>
 <w xml:id="Hamburg-CodConv-6_7r.15.2">du</w>
@@ -1287,7 +1287,7 @@
 <w xml:id="Hamburg-CodConv-6_7v.2.2">deme</w>
 <w xml:id="Hamburg-CodConv-6_7v.2.3">hilghen</w>
 <w xml:id="Hamburg-CodConv-6_7v.2.4">gheyste</w>
-<w xml:id="Hamburg-CodConv-6_7v.2.5"><hi>D</hi>o</w>
+<w xml:id="Hamburg-CodConv-6_7v.2.5">Do</w>
 <lb n="3"/>
 <w xml:id="Hamburg-CodConv-6_7v.3.1">sande</w>
 <w xml:id="Hamburg-CodConv-6_7v.3.2">din</w>
@@ -1299,7 +1299,7 @@
 <w xml:id="Hamburg-CodConv-6_7v.4.1">apostelen</w>
 <w xml:id="Hamburg-CodConv-6_7v.4.2">in</w>
 <w xml:id="Hamburg-CodConv-6_7v.4.3">de</w>
-<w xml:id="Hamburg-CodConv-6_7v.4.4">werlt</w>
+<w xml:id="Hamburg-CodConv-6_7v.4.4">werlt.</w>
 <w xml:id="Hamburg-CodConv-6_7v.4.5">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_7v.4.6">sprak</w>
 <lb n="5"/>
@@ -1311,7 +1311,7 @@
 <lb n="6"/>
 <w xml:id="Hamburg-CodConv-6_7v.6.1">cristene<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_7v.6.2">louen</w>
-<w xml:id="Hamburg-CodConv-6_7v.6.3"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_7v.6.3">Maria</w>
 <w xml:id="Hamburg-CodConv-6_7v.6.4">godes</w>
 <w xml:id="Hamburg-CodConv-6_7v.6.5">mo<lb n="7"/>der</w>
 <w xml:id="Hamburg-CodConv-6_7v.7.2">der</w>
@@ -1319,18 +1319,18 @@
 <w xml:id="Hamburg-CodConv-6_7v.7.4">vroude</w>
 <w xml:id="Hamburg-CodConv-6_7v.7.5">vorma<lb n="8"/>ne</w>
 <w xml:id="Hamburg-CodConv-6_7v.8.2">ik</w>
-<w xml:id="Hamburg-CodConv-6_7v.8.3">dy</w>
+<w xml:id="Hamburg-CodConv-6_7v.8.3">dy.</w>
 <w xml:id="Hamburg-CodConv-6_7v.8.4">twide</w>
 <w xml:id="Hamburg-CodConv-6_7v.8.5">my<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_7v.8.6">beth</w>
 <w xml:id="Hamburg-CodConv-6_7v.8.7">na</w>
 <w xml:id="Hamburg-CodConv-6_7v.8.8">dy<lb n="9"/>ner</w>
-<w xml:id="Hamburg-CodConv-6_7v.9.2">barmherticheit</w>
+<w xml:id="Hamburg-CodConv-6_7v.9.2">barmherticheit.</w>
 <w xml:id="Hamburg-CodConv-6_7v.9.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_7v.9.4">na</w>
 <w xml:id="Hamburg-CodConv-6_7v.9.5">my<lb n="10"/>ner</w>
 <w xml:id="Hamburg-CodConv-6_7v.10.2">begheringhe</w>
-<w xml:id="Hamburg-CodConv-6_7v.10.3"><hi>A</hi>men</w>
+<w xml:id="Hamburg-CodConv-6_7v.10.3">Amen</w>
 </p></div>
 </div>
 <div type="prayer">
@@ -1338,7 +1338,7 @@
 </p><div type="rubric">
 <p>
 <lb n="11"/>
-<w xml:id="Hamburg-CodConv-6_7v.11.1"><hi>S</hi>prek</w>
+<w xml:id="Hamburg-CodConv-6_7v.11.1">Sprek</w>
 <w xml:id="Hamburg-CodConv-6_7v.11.2">teyn</w>
 <w xml:id="Hamburg-CodConv-6_7v.11.3">Aue</w>
 <w xml:id="Hamburg-CodConv-6_7v.11.4">maria</w>
@@ -1360,7 +1360,7 @@
 <p>
 <lb n="14"/>
 <w xml:id="Hamburg-CodConv-6_7v.14.1"><hi>M</hi>aria</w>
-<w xml:id="Hamburg-CodConv-6_7v.14.2">ika</w>
+<w xml:id="Hamburg-CodConv-6_7v.14.2">ik</w>
 <w xml:id="Hamburg-CodConv-6_7v.14.3">vormane</w>
 <w xml:id="Hamburg-CodConv-6_7v.14.4">dy</w>
 <w xml:id="Hamburg-CodConv-6_7v.14.5">der</w>
@@ -1372,7 +1372,7 @@
 <w xml:id="Hamburg-CodConv-6_7v.15.5">de</w>
 <lb n="16"/>
 <w xml:id="Hamburg-CodConv-6_7v.16.1">du</w>
-<w xml:id="Hamburg-CodConv-6_7v.16.2">entfenghest</w>
+<w xml:id="Hamburg-CodConv-6_7v.16.2">entfenghest.</w>
 <w xml:id="Hamburg-CodConv-6_7v.16.3">do</w>
 <w xml:id="Hamburg-CodConv-6_7v.16.4">din</w>
 <w xml:id="Hamburg-CodConv-6_7v.16.5">leue</w>
@@ -1392,7 +1392,7 @@
 <lb n="2"/>
 <w xml:id="Hamburg-CodConv-6_8r.2.1">ertrike</w>
 <w xml:id="Hamburg-CodConv-6_8r.2.2">scholdest</w>
-<w xml:id="Hamburg-CodConv-6_8r.2.3">scheden</w>
+<w xml:id="Hamburg-CodConv-6_8r.2.3">scheden.</w>
 <w xml:id="Hamburg-CodConv-6_8r.2.4">vn<ex>de</ex></w>
 <lb n="3"/>
 <w xml:id="Hamburg-CodConv-6_8r.3.1">kome<ex>n</ex></w>
@@ -1401,14 +1401,14 @@
 <w xml:id="Hamburg-CodConv-6_8r.3.4">ewighen</w>
 <w xml:id="Hamburg-CodConv-6_8r.3.5">vroude</w>
 <lb n="4"/>
-<w xml:id="Hamburg-CodConv-6_8r.4.1"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_8r.4.1">Maria</w>
 <w xml:id="Hamburg-CodConv-6_8r.4.2">desser</w>
 <w xml:id="Hamburg-CodConv-6_8r.4.3">grote<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_8r.4.4">vroude</w>
 <w xml:id="Hamburg-CodConv-6_8r.4.5">vor<lb n="5"/>mane</w>
 <w xml:id="Hamburg-CodConv-6_8r.5.2">ik</w>
 <w xml:id="Hamburg-CodConv-6_8r.5.3">dy</w>
-<w xml:id="Hamburg-CodConv-6_8r.5.4"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_8r.5.4">Dar</w>
 <w xml:id="Hamburg-CodConv-6_8r.5.5">queme<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_8r.5.6">de</w>
 <lb n="6"/>
@@ -1418,7 +1418,7 @@
 <w xml:id="Hamburg-CodConv-6_8r.6.4">diner</w>
 <w xml:id="Hamburg-CodConv-6_8r.6.5">graft</w>
 <lb n="7"/>
-<w xml:id="Hamburg-CodConv-6_8r.7.1"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_8r.7.1">Dar</w>
 <w xml:id="Hamburg-CodConv-6_8r.7.2">quam</w>
 <w xml:id="Hamburg-CodConv-6_8r.7.3">din</w>
 <w xml:id="Hamburg-CodConv-6_8r.7.4">leue</w>
@@ -1430,7 +1430,7 @@
 <w xml:id="Hamburg-CodConv-6_8r.8.2">here</w>
 <w xml:id="Hamburg-CodConv-6_8r.8.3">to</w>
 <w xml:id="Hamburg-CodConv-6_8r.8.4">diner</w>
-<w xml:id="Hamburg-CodConv-6_8r.8.5">vor<lb n="9"/>schedinghe</w>
+<w xml:id="Hamburg-CodConv-6_8r.8.5">vor<lb n="9"/>schedinghe.</w>
 <w xml:id="Hamburg-CodConv-6_8r.9.2">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8r.9.3">vorede</w>
 <w xml:id="Hamburg-CodConv-6_8r.9.4">dy</w>
@@ -1447,12 +1447,12 @@
 <w xml:id="Hamburg-CodConv-6_8r.11.1">vroude</w>
 <w xml:id="Hamburg-CodConv-6_8r.11.2">der</w>
 <w xml:id="Hamburg-CodConv-6_8r.11.3">neghen</w>
-<w xml:id="Hamburg-CodConv-6_8r.11.4">kore</w>
+<w xml:id="Hamburg-CodConv-6_8r.11.4">köre</w>
 <w xml:id="Hamburg-CodConv-6_8r.11.5">der</w>
 <lb n="12"/>
 <w xml:id="Hamburg-CodConv-6_8r.12.1">hilghen</w>
 <w xml:id="Hamburg-CodConv-6_8r.12.2">engele</w>
-<w xml:id="Hamburg-CodConv-6_8r.12.3"><hi>D</hi>ar</w>
+<w xml:id="Hamburg-CodConv-6_8r.12.3">Dar</w>
 <w xml:id="Hamburg-CodConv-6_8r.12.4">ward</w>
 <w xml:id="Hamburg-CodConv-6_8r.12.5">dy</w>
 <lb n="13"/>
@@ -1466,7 +1466,7 @@
 <w xml:id="Hamburg-CodConv-6_8r.14.1">alle</w>
 <w xml:id="Hamburg-CodConv-6_8r.14.2">godes</w>
 <w xml:id="Hamburg-CodConv-6_8r.14.3">hilghen</w>
-<w xml:id="Hamburg-CodConv-6_8r.14.4"><hi>M</hi>aria</w>
+<w xml:id="Hamburg-CodConv-6_8r.14.4">Maria</w>
 <w xml:id="Hamburg-CodConv-6_8r.14.5">godes</w>
 <lb n="15"/>
 <w xml:id="Hamburg-CodConv-6_8r.15.1">moder</w>
@@ -1475,7 +1475,7 @@
 <w xml:id="Hamburg-CodConv-6_8r.15.4">vroude</w>
 <w xml:id="Hamburg-CodConv-6_8r.15.5">vor<lb n="16"/>mane</w>
 <w xml:id="Hamburg-CodConv-6_8r.16.2">ik</w>
-<w xml:id="Hamburg-CodConv-6_8r.16.3">dy</w>
+<w xml:id="Hamburg-CodConv-6_8r.16.3">dy.</w>
 <w xml:id="Hamburg-CodConv-6_8r.16.4">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8r.16.5">bidde</w>
 <w xml:id="Hamburg-CodConv-6_8r.16.6">dy</w>
@@ -1493,7 +1493,7 @@
 <w xml:id="Hamburg-CodConv-6_8v.1.2">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.1.3">myner</w>
 <w xml:id="Hamburg-CodConv-6_8v.1.4">begheringhe</w>
-<w xml:id="Hamburg-CodConv-6_8v.1.5"><hi>A</hi>m<ex>en</ex></w>
+<w xml:id="Hamburg-CodConv-6_8v.1.5">Am<ex>en</ex></w>
 </p></div>
 </div>
 <div type="prayer">
@@ -1501,7 +1501,7 @@
 </p><div type="rubric">
 <p>
 <lb n="2"/>
-<w xml:id="Hamburg-CodConv-6_8v.2.1"><hi>S</hi>prek</w>
+<w xml:id="Hamburg-CodConv-6_8v.2.1">Sprek</w>
 <w xml:id="Hamburg-CodConv-6_8v.2.2">teyn</w>
 <w xml:id="Hamburg-CodConv-6_8v.2.3">Aue</w>
 <w xml:id="Hamburg-CodConv-6_8v.2.4">maria</w>
@@ -1548,7 +1548,7 @@
 <w xml:id="Hamburg-CodConv-6_8v.8.2">nam</w>
 <w xml:id="Hamburg-CodConv-6_8v.8.3">in</w>
 <w xml:id="Hamburg-CodConv-6_8v.8.4">den</w>
-<w xml:id="Hamburg-CodConv-6_8v.8.5">he<ex>m</ex>mel</w>
+<w xml:id="Hamburg-CodConv-6_8v.8.5">he<ex>m</ex>mel.</w>
 <w xml:id="Hamburg-CodConv-6_8v.8.6">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.8.7">settede</w>
 <lb n="9"/>
@@ -1562,7 +1562,7 @@
 <lb n="10"/>
 <w xml:id="Hamburg-CodConv-6_8v.10.1">ouersten</w>
 <w xml:id="Hamburg-CodConv-6_8v.10.2">trone</w>
-<w xml:id="Hamburg-CodConv-6_8v.10.3"><hi>v</hi>n<ex>de</ex></w>
+<w xml:id="Hamburg-CodConv-6_8v.10.3">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.10.4">gaff</w>
 <w xml:id="Hamburg-CodConv-6_8v.10.5">dy</w>
 <w xml:id="Hamburg-CodConv-6_8v.10.6">ghe<lb n="11"/>walt</w>
@@ -1570,7 +1570,7 @@
 <w xml:id="Hamburg-CodConv-6_8v.11.3">he<ex>m</ex>mel</w>
 <w xml:id="Hamburg-CodConv-6_8v.11.4">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.11.5">ouer</w>
-<w xml:id="Hamburg-CodConv-6_8v.11.6">er<lb n="12"/>den</w>
+<w xml:id="Hamburg-CodConv-6_8v.11.6">er<lb n="12"/>den.</w>
 <w xml:id="Hamburg-CodConv-6_8v.12.2">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.12.3">cronede</w>
 <w xml:id="Hamburg-CodConv-6_8v.12.4">dy</w>
@@ -1578,7 +1578,7 @@
 <w xml:id="Hamburg-CodConv-6_8v.12.6">der</w>
 <w xml:id="Hamburg-CodConv-6_8v.12.7">cro<lb n="13"/>ne<ex>n</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.13.2">des</w>
-<w xml:id="Hamburg-CodConv-6_8v.13.3">rikes</w>
+<w xml:id="Hamburg-CodConv-6_8v.13.3">rikes.</w>
 <w xml:id="Hamburg-CodConv-6_8v.13.4">vn<ex>de</ex></w>
 <w xml:id="Hamburg-CodConv-6_8v.13.5">mit</w>
 <w xml:id="Hamburg-CodConv-6_8v.13.6">den</w>
@@ -1593,7 +1593,7 @@
 <w xml:id="Hamburg-CodConv-6_8v.15.2">moder</w>
 <w xml:id="Hamburg-CodConv-6_8v.15.3">der</w>
 <w xml:id="Hamburg-CodConv-6_8v.15.4">barmeherti<lb n="16"/>cheit</w>
-<w xml:id="Hamburg-CodConv-6_8v.16.2"><hi>E</hi>ddele</w>
+<w xml:id="Hamburg-CodConv-6_8v.16.2">Eddele</w>
 <w xml:id="Hamburg-CodConv-6_8v.16.3">ju<ex>n</ex>cvrowe</w>
 <w xml:id="Hamburg-CodConv-6_8v.16.4">maria</w>
 <lb n="17"/>
@@ -1624,7 +1624,7 @@
 <div type="rubric">
 <p>
 <lb n="4"/>
-<w xml:id="Hamburg-CodConv-6_9r.4.1"><hi>S</hi>prek</w>
+<w xml:id="Hamburg-CodConv-6_9r.4.1">Sprek</w>
 <w xml:id="Hamburg-CodConv-6_9r.4.2">teyn</w>
 <w xml:id="Hamburg-CodConv-6_9r.4.3">Aue</w>
 <w xml:id="Hamburg-CodConv-6_9r.4.4">maria</w>

@@ -1,12 +1,12 @@
 #+TITLE: Golden Coronation Prayer of Mary's Ten Joys 
 
-|------------+-----------------------|
-| Manuscript | Hamburg Cod. conv. 6  |
-| Locus      | 2r:1                  |
-| Work       | KRONGEBET             |
-| Language   | gml                   |
-| Status     | transcribed           |
-|------------+-----------------------|
+|------------+----------------------|
+| Manuscript | Hamburg Cod. conv. 6 |
+| Locus      | 2r:1 9r              |
+| Work       | KRONGEBET            |
+| Language   | gml                  |
+| Status     | proofread            |
+|------------+----------------------|
 - images :: https://resolver.sub.uni-hamburg.de/kitodo/PPN1043485368/page/5
 
 
@@ -150,7 +150,7 @@ zele vn(de) din licham vntfink do
 
 dy de hilghe engel gabriel dat
 
-ku(n)dighede dat du gode moder
+ku(n)dighede dat du godes moder
 
 werden scholdest. vn(de) ewichlike(n)
 
@@ -170,23 +170,23 @@ ghen gheystes wysheit Do spre-
 
 ---4r---
 
-kestu [[I]]k bin ene derne godes my
+kestu Ik bin ene derne godes my
 
-schee na dine(n) worden [[G]]odes
+schee na dine(n) worden Godes
 
 wille werde an my vulle(n)brocht
 
-[[m]]it den worden wordestu vor-
+mit den worden wordestu vor-
 
 vullet mit deme hilghen gheste
 
 vn(de) wu(n)nes dine(n) sone su(n)der py-
 
-ne dines herte(n) [[V]]rouwe dy ma-
+ne dines herte(n) Vrouwe dy ma-
 
 ria der grote(n) vroude vn(de) wes
 
-ghelouet vn(de) benediet vnde
+ghelouet vn(de) benediet. vnde
 
 twide my(n) beth na diner gna-
 
@@ -216,9 +216,9 @@ din leue kint aller erst in de we-
 
 ghen leghedest vrolike(n) sunder
 
-smerte vn(de) bleuest maghet da
+smerte. vn(de) bleuest maghet da
 
-der bort ewylike(n) [[M]]aria din vrou-
+der bort ewylike(n) Maria din vrou-
 
 de was also grot do du din leue
 
@@ -226,26 +226,26 @@ kint anseghest vn(de) dat vp to-
 
 ghest vn(de) kussedest dat dicke
 
-vor sine mu(n)t [[D]]ar mede sprekes-
+vor sine mu(n)t Dar mede sprekes-
 
-tu vrede den arme(n) [[D]]es vrou-
+tu. vrede den arme(n) Des vrou-
 
 wet sik allent dat in he(m)mele
 
-vn(de) in erden is [[M]]aria der gro-
+vn(de) in erden is Maria der gro-
 
 te(n) vroude vormane ik dy vn(de)
 
-wes benediet [[v]]n(de) twide myne 
+wes benediet vn(de) twide myne 
 
 bede na diner gnade vn(de) na my-
 
-ner begheringhe [[A]]men
+ner begheringhe Amen
 ** Prayer
 *** Rubric
-[[S]]prek
+Sprek
 
-tey Aue maria stande vnde
+teyn Aue maria stande vnde
 
 ---5r---
 
@@ -260,25 +260,25 @@ werdicheit de din zele vn(de) din
 
 lijf vntfingh in deme hilghen
 
-twelften daghe do de hilghe(n)
+twelften daghe. do de hilghe(n)
 
 dre koni(n)ghe dy dat offer broch-
 
-ten wyrok mirren vn(de) golt [[w]]e(n)-
+ten wyrok mirren vn(de) golt we(n)-
 
 te se de ersten weren de din le-
 
 ue kint bekanden dat it got
 
-vn(de) my(n)sche was [[M]]aria der
+vn(de) my(n)sche was Maria der
 
 grote(n) vroude wes vormanet
 
-vn(de) we benediet vn(de) twide 
+vn(de) wes benediet. vn(de) twide 
 
 myne bede na diner gnade vn(de)
 
-na myner begheringhe [[A]]me(n)
+na myner begheringhe Ame(n)
 
 ** Prayer
 *** Rubric
@@ -301,15 +301,15 @@ do du din leue kint wedder vu(n)-
 
 dest dat du in den drudde(n) dach
 
-haddest vorloren vn(de) wol wis-
+haddest vorloren. vn(de) wol wis-
 
-test dat id den dot van den io-
+test dat id den döt van den io-
 
-den wolde liden [[D]]ar v(m)me was 
+den wolde liden Dar v(m)me was 
 
 din vroude deste groter do du
 
-dat wedder vundest [[M]]aria des-
+dat wedder vundest Maria des-
 
 ser groten vroude vormane
 
@@ -319,7 +319,7 @@ ik bidde dy dat du myne bede
 
 twidest na diner gnade vnde
 
-na myner notroft [[A]]men
+na myner notroft Amen
 
 ** Prayer
 *** Rubric
@@ -338,27 +338,27 @@ vlodighen vroude de du ent-
 
 finghest an der hilghe(n) passche
 
-nacht do du din leue kint na
+nacht. do du din leue kint na
 
 siner hilghen vpstandighe al-
 
-ler ersten seghest [[D]]ar na ope(n)-
+ler ersten seghest Dar na ope(n)-
 
 berede he sik marien magdalene(n)
 
-vn(de) sine(n) leue(n) ju(n)gheren vn(de) voer
+vn(de) sine(n) leue(n) ju(n)gheren. vn(de) voer
 
 weldichlike(n) to der hellen vn(de)
 
 losede dar vt de sinen willen 
 
-hadden ghedan vn(de) vorede se
+hadden ghedän. vn(de) vorede se
 
-an dat paradys [[D]]ar se an wo-
+an dat paradys Dar se an wo-
 
 neden wente to siner he(m)mel-
 
-vart [[M]]aria godes moder der
+vart Maria godes moder der
 
 grote(n) vroude vormane ik dy
 
@@ -368,11 +368,12 @@ vn(de) wes benediet vn(de) twide my(n)
 
 beth na dinen gnaden vnde na 
 
-myner notroft [[A]]men
-
+myner notroft Amen
 ** Prayer
 *** Rubric
-Sprek teyn Aue maria vn(de) valle vp
+Sprek 
+
+teyn Aue maria vn(de) valle vp
 
 dine knee vn(de) les dyt beth
 
@@ -389,13 +390,13 @@ mit alle den de he in deme
 
 passche daghe vte der helle
 
-losede [[M]]aria din vroude was 
+losede Maria din vroude was 
 
 also grot do du seghest dat
 
-ene de neghen kore der hil-
+ene de neghen köre der hil-
 
-ghe(n) engele vntfinghen vn(de)
+ghe(n) engele vntfinghen. vn(de)
 
 seghest den stoel de van der
 
@@ -403,23 +404,24 @@ seghest den stoel de van der
 
 craft der ewighe(n) warheyt 
 
-ghemaket is vn(de) du den besit-
+ghemaket is. vn(de) du den besit-
 
-ten scholdest ewichlike(n) [[D]]er
+ten scholdest ewichlike(n) Der
 
 grote(n) vroude vormane ik dy
 
-maria godes moder vn(de) bidde 
+maria godes moder. vn(de) bidde 
 
 dy dattu twidest myne bede
 
 na diner gnade vn(de) na myner
 
-notroft [[A]]men 
-
+notroft Amen 
 ** Prayer
 *** Rubric
-Sprek teyn Aue maria stande vn(de) valle an dy-
+Sprek teyn Aue 
+
+maria stande vn(de) valle an dy-
 
 ne knee vn(de) sprek dyt beth
 
@@ -428,9 +430,9 @@ ne knee vn(de) sprek dyt beth
 
 ouervlodighe(n) vroude de
 
-dyn sels vn(de) din licham entfink
+dyn sele vn(de) din licham entfink
 
-in deme hilghen pinxste daghe
+in deme hilghen pinxste daghe.
 
 do du vn(de) de apostelen to sa-
 
@@ -440,38 +442,38 @@ me(n)de weren an beslotener
 
 dore dar worde gy alle vorvullet
 
-mit deme hilghen gheyste [[D]]o
+mit deme hilghen gheyste Do
 
 sande din leue kint de twelf
 
-apostelen in de werlt vn(de) sprak
+apostelen in de werlt. vn(de) sprak
 
 dat se scholden predeken den
 
-cristene(n) louen [[M]]aria godes mo-
+cristene(n) louen Maria godes mo-
 
 der der groten vroude vorma-
 
-ne ik dy twide my(n) beth na dy-
+ne ik dy. twide my(n) beth na dy-
 
-ner barmherticheit vn(de) na my-
+ner barmherticheit. vn(de) na my-
 
-ner begheringhe [[A]]men
+ner begheringhe Amen
 
 ** Prayer
 *** Rubric
-[[S]]prek teyn Aue maria stande
+Sprek teyn Aue maria stande
 
 vn(de) valle in dyne knee vnde
 
 les dyt nascreuen beth
 
 *** Text
-[[M]]aria ika vormane dy der
+[[M]]aria ik vormane dy der
 
 groten vroude vn(de) ere de
 
-du entfenghest do din leue 
+du entfenghest. do din leue 
 
 kint den hilghen engel gabri-
 
@@ -479,45 +481,45 @@ kint den hilghen engel gabri-
 
 el to dy sande dat du van dessem
 
-ertrike scholdest scheden vn(de)
+ertrike scholdest scheden. vn(de)
 
 kome(n) to der ewighen vroude
 
-[[M]]aria desser grote(n) vroude vor-
+Maria desser grote(n) vroude vor-
 
-mane ik dy [[D]]ar queme(n) de 
+mane ik dy Dar queme(n) de 
 
 hilghen apostele to diner graft
 
-[[D]]ar quam din leue kint mit allem 
+Dar quam din leue kint mit allem 
 
 he(m)melschen here to diner vor-
 
-schedinghe vn(de) vorede dy mit
+schedinghe. vn(de) vorede dy mit
 
 sele vn(de) mit liue to der ewige(n)
 
-vroude der neghen kore der
+vroude der neghen köre der
 
-hilghen engele [[D]]ar ward dy
+hilghen engele Dar ward dy
 
 grot lof vn(de) ere gheboden van
 
-alle godes hilghen [[M]]aria godes
+alle godes hilghen Maria godes
 
 moder der groten vroude vor-
 
-mane ik dy vn(de) bidde dy dat
+mane ik dy. vn(de) bidde dy dat
 
 du twidest myne bede na din(er)
 
 ---8v---
 
-gnade vn(de) myner begheringhe [[A]]m(en)
+gnade vn(de) myner begheringhe Am(en)
 
 ** Prayer
 *** Rubric
-[[S]]prek teyn Aue maria stande 
+Sprek teyn Aue maria stande 
 
 vn(de) valle vp dine knee vn(de) sprek
 
@@ -530,23 +532,23 @@ groten vroude de du haddest
 
 do dy din leue kint weldichlike(n)
 
-vp nam in den he(m)mel vn(de) settede
+vp nam in den he(m)mel. vn(de) settede
 
 dy to der vordere(n) hant in deme
 
-ouersten trone [[v]]n(de) gaff dy ghe-
+ouersten trone vn(de) gaff dy ghe-
 
 walt ouer he(m)mel vn(de) ouer er-
 
-den vn(de) cronede dy mit der cro-
+den. vn(de) cronede dy mit der cro-
 
-ne(n) des rikes vn(de) mit den twelf
+ne(n) des rikes. vn(de) mit den twelf
 
 sterne(n) dar wrodestu ghehete(n)
 
 eyne moder der barmeherti-
 
-cheit [[E]]ddele ju(n)cvrowe maria
+cheit Eddele ju(n)cvrowe maria
 
 lat dyne barmeherticheit yn
 
@@ -559,7 +561,7 @@ na diner gnade vn(de) na myner
 begheringhe Amen
 
 ** Rubric
-[[S]]prek teyn Aue maria stande
+Sprek teyn Aue maria stande
 
 also du vor ghedan hefst vn(de)
 

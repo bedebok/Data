@@ -1,21 +1,23 @@
-#+TITLE: Ten Joys of Mary
+#+TITLE: Golden Coronation Prayer
 
-|------------+--------------------------------|
-| Manuscript | Yale Beinecke Library MS 218   |
-| Locus      | 127r 134v                      |
-| Work       | KRONGEBET                      |
-| Language   | gml                            |
-| Status     | Transcribed                    |
-|------------+--------------------------------|
+|------------+-------------------------|
+| Manuscript | Beinecke Library MS 218 |
+| Locus      | 126v:14 134v            |
+| Work       | KRONGEBET               |
+| Language   | gml                     |
+| Status     | Transcribed             |
+|------------+-------------------------|
 - Images :: https://collections.library.yale.edu/catalog/2013366
 
 * Transcription
 ** Rubric
 Van den frouden vnser frowen
 
+---127r---
+
 ** Prayer                                                           :MDB105a:
 *** Text
-MAria Ik Vor-
+[[5 blue][M]]Aria Ik Vor-
 
 mane dik der 
 
@@ -33,7 +35,7 @@ dy vader vnnd dy sone vnnd
 
 dy hillige geist dik em(e) suluen
 
-toeyner muder gaff. vnnd
+to eyner muder gaff. vnnd
 
 alle der werlde. Jn deme rade
 
@@ -61,7 +63,7 @@ na myner nottorfft Amen.
 
 ** Prayer                                                           :MDB105b:
 *** Text
-Maria ik vormane der
+[[2 gold][M]]aria ik vormane der
 
 ouerflodigen froude
 
@@ -131,7 +133,7 @@ vnnd na myn nottorfft ame(n)
 
 ** Prayer                                                           :MDB105c:
 *** Text
-Maria ik vormane dy
+[[2 gold][M]]aria ik vormane dy
 
 der ouerflodigenn
 
@@ -180,13 +182,12 @@ ria dissen groten froude wes
 van my armen sund(er)e erman(et)
 
 (et_cetera) also vor gesc(reven) steit
-
 *** Rubric 
 Aue m(aria)
 
 ** Prayer                                                           :MDB105d:
 *** Text
-Maria ik vormane dik der
+[[2 gold][M]]aria ik vormane dik der
 
 ouerflodigen groten
 
@@ -210,11 +211,11 @@ leue kynt erkanden. dat id god
 
 vnnd mynsche was. Maria
 
-desser groten froude (et_cetera) alze vor(en).
+desser groten froude (et_cetera) alze vor(e).
 
 ** Prayer                                                           :MDB105e:
 *** Text
-Maria ik vormane dik der
+[[2 gold][M]]aria ik vormane dik der
 
 groten ouerflodigenn
 
@@ -244,7 +245,7 @@ ria desser groten froude der
 
 wes van my armen sundere
 
-ermanet vnnd gebeden vn(n)d
+ermanet vnnd gebeden vnd
 
 getwide my dusser bede na dy-
 
@@ -255,13 +256,12 @@ barmhertigheit na myner
 begeringe vnd na myner not-
 
 torfft Amen. 
-
 *** Rubric
 ghebet va(n) m(ari)a
 
 ** Prayer                                                           :MDB105f:
 *** Text 
-Maria ik vormane dy der
+[[2 gold][M]]aria ik vormane dy der
 
 overflodigen grote(n) frou-
 
@@ -281,7 +281,7 @@ Darna opembarde he sick sunte
 
 marien magdalenen. vnnd
 
-synen leuen Junghern. vnd
+synen leuen Jungher(e)n. vnd
 
 vor(e) weldichliken to der hellen
 
@@ -297,13 +297,13 @@ den wente to syner hemmel-
 
 uart. Maria desser groten
 
-froude des wes (et_cetera) alzo vor(en)
+froude des wes (et_cetera) alzo vor(e)
 
 ---132r---
 
 ** Prayer                                                           :MDB105g:
 *** Text
-maria Ik vormane dy der
+[[2 gold][M]]aria Ik vormane dy der
 
 groten froude. de dyn zele
 
@@ -335,11 +335,11 @@ maket was. den du besitten
 
 scholdest. Maria desser grote(n)
 
-froude der wes (et_cetera) alse vor(en)
+froude der wes (et_cetera) alse vor(e)
 
 ** Prayer                                                           :MDB105h:
 *** Text
-Maria ik vormane dik der
+[[2 gold][M]]aria ik vormane dik der
 
 groten froude vnnd o-
 
@@ -357,7 +357,7 @@ dyn leue kynt midde(n) manck
 
 vnnd sprak. Pax vobis. myn
 
-vrede sy mit juk. dar worde
+vrede sy mit Juk. dar worde
 
 gy alle vorfullet mit deme
 
@@ -373,11 +373,11 @@ cristen gelouen. Maria der
 
 groten froude vormane ik dy
 
-vnnd twide my (et_cetera) alze vor(en)
+vnnd twide my (et_cetera) alze vor(e)
 
 ** Prayer                                                           :MDB105i:
 *** Text
-Maria ik vormane dy der
+[[2 gold][M]]aria ik vormane dy der
 
 groten froude vnnd ere
 
@@ -414,13 +414,12 @@ ioweliken engele grote ere ge-
 boden. maria desser groten 
 
 froude (et_cetera) alze in dat erste
-
 *** Rubric
 or(ati)o
 
 ** Prayer                                                           :MDB105j:
 *** Text
-Maria ik vormane dick
+[[gold 2][M]]aria ik vormane dick
 
 der ouerflodigen froude
 
@@ -462,7 +461,7 @@ tigheit to mik schynen. vnnd
 
 ---134v---
 
-twide mik desser bede. na dyne 
+twide mik desser bede. na dyne(n) 
 
 gnaden. vnnd na dyner barm-
 
