@@ -1,7 +1,7 @@
 #+TITLE: AM 73 8vo
 A fifteenth-century prayer book in Low German with many full-page miniatures. It contains added prayers in Danish.
 
-[[../../imgs/AM08-0073.jpg]]
+[[../../imgs/mss/AM08-0073.jpg]]
 
 * History
 |--------+---------------+-------+-----------|
