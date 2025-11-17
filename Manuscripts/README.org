@@ -47,21 +47,18 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 |---------------+---------------------------------------------+-----------------------+------------|
 
 ** Stockholm, National Library of Sweden
-|----------+---------------------------------------------------+-------------+-----------|
-| Shelmark | Description                                       | Language(s) |      Date |
-|----------+---------------------------------------------------+-------------+-----------|
-| [[file:org/Holm-A-0029.org][A 29]]     | Maribo prayer book                                | Danish      |      1500 |
-| [[file:org/Holm-A-0031.org][A 31]]     | Psalter                                           | Danish      |           |
-| [[org/Holm-A-0040.org][A 40]]     | Ingeborg Predbjørnsdatters prayer book            | Danish      |           |
-| [[org/Holm-A-0042.org][A 42]]     | Johanne Nielsdatters prayer book                  | Danish      |           |
-| [[org/Holm-A-0051.org][A 51]]     | Description of /Cantus Sororum/                   | Danish      |      1450 |
-| A 85     | Psalter                                           | Danish      | 1500-1599 |
-| [[org/Holm-A-0086.org][A 86]]     | Fragment of Birgittine rule                       | Danish      |   ca 1500 |
-| A 89     |                                                   |             |           |
-| [[org/Holm-A-0126.org][A 126]]    | Of purgatory, Ps. Birgitta from Sweden            | German      |           |
-| A 218    | Aegidius von Assissi                              | German      |           |
-| A 234    | Latin composite manuscripts with Low German texts | German      |           |
-|----------+---------------------------------------------------+-------------+-----------|
+|----------+----------------------------------------+-------------+-----------|
+| Shelmark | Description                            | Language(s) |      Date |
+|----------+----------------------------------------+-------------+-----------|
+| [[file:org/Holm-A-0029.org][A 29]]     | Maribo prayer book                     | Danish      |      1500 |
+| [[file:org/Holm-A-0031.org][A 31]]     | Psalter                                | Danish      |           |
+| [[org/Holm-A-0040.org][A 40]]     | Ingeborg Predbjørnsdatters prayer book | Danish      |           |
+| [[org/Holm-A-0042.org][A 42]]     | Johanne Nielsdatters prayer book       | Danish      |           |
+| [[org/Holm-A-0051.org][A 51]]     | Description of /Cantus Sororum/        | Danish      |      1450 |
+| [[org/Holm-A-0085.org][A 85]]     | Psalter                                | Danish      | 1500-1599 |
+| [[org/Holm-A-0086.org][A 86]]     | Fragment of Birgittine rule            | Danish      |   ca 1500 |
+| [[org/Holm-A-0126.org][A 126]]    | Of purgatory, Ps. Birgitta from Sweden | German      |           |
+|----------+----------------------------------------+-------------+-----------|
 ** Kalmar, Stadsbiblioteket
 |-----------+----------------------------+-------------+---------|
 | Shelmark  | Description                | Language(s) | Date    |
@@ -89,6 +86,16 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 |----------+-------------------------+---------------------------------+--------------|
 | Shelmark | Description             | Language(s)                     | Date         |
 |----------+-------------------------+---------------------------------+--------------|
-| [[file:org/UUB-C-0495.org][C 495]]    | Psalterium, Low German  | German, Latin                   | 1400-1499    |
 | [[file:org/UUB-C-0496.org][C 496]]    | Prayer book, Low German | German, Danish, Swedish (Latin) | approx. 1471 |
 |----------+-------------------------+---------------------------------+--------------|
+
+
+* Manuscripts outside of the corpus proper
+|--------------+----------+---------------------------------------------------+---------------+-----------|
+| Repository   | Shelmark | Description                                       | Language(s)   |      Date |
+|--------------+----------+---------------------------------------------------+---------------+-----------|
+| KB Stockholm | A 89     | Gebeth-buch                                       | High German   |           |
+| KB Stockholm | A 218    | Aegidius von Assissi                              | German        |           |
+| KB Stockholm | A 234    | Latin composite manuscripts with Low German texts | German        |           |
+| Uppsala UB   | [[file:org/UUB-C-0495.org][C 495]]    | Psalterium, Low German                            | German, Latin | 1400-1499 |
+|--------------+----------+---------------------------------------------------+---------------+-----------|

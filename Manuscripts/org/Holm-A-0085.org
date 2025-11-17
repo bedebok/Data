@@ -1,4 +1,4 @@
-#+TITLE: Psalter (A 85)
+#+TITLE: A 85. Psalter
 
 * PhysDesc
 |--------------+---------|
@@ -21,13 +21,105 @@
 |------+-----------------|
 
 ** Quire Structure
-|-------+--------+-----------+---------|
-| Quire | Leaves | Structure | Changes |
-|-------+--------+-----------+---------|
-|       |        |           |         |
-|-------+--------+-----------+---------|
+|-------+---------+--------+------------+------------------------|
+| Quire |  Folios | Leaves | Structure  | Changes                |
+|-------+---------+--------+------------+------------------------|
+|       |     1-7 |        | quaternion | first leaf stub        |
+|       |    8-13 |        | terinon    |                        |
+|       |   14-17 |        | binion     |                        |
+|       |   18-22 |        | ternion    | first leaf stub        |
+|       |   23-26 |        | binion     |                        |
+|       |   27-30 |        | binion     |                        |
+|       |   32-34 |        | binion     | first leaf stub        |
+|       |   35-40 |        | ternion    |                        |
+|       |   41-44 |        | binion     |                        |
+|       |   45-47 |        | binion     | final leaf stub        |
+|       |   48-52 |        | ternion    | first leaf stub        |
+|       |   53-57 |        | ternion    | second leaf stub       |
+|       |   58-61 |        | binion     |                        |
+|       |   62-67 |        | ternion    |                        |
+|       |   68-71 |        | binion     |                        |
+|       |   72-77 |        | ternion    |                        |
+|       |   78-81 |        | binion     |                        |
+|       |   82-86 |        | ternion    | fifth leaf stub        |
+|       |   87-90 |        | binion     |                        |
+|       |   91-94 |        | binion     |                        |
+|       |   95-98 |        | binion     |                        |
+|       |  99-103 |        | ternion    | fifth leaf stub        |
+|       | 104-109 |        | ternion    |                        |
+|       | 110-113 |        | binion     |                        |
+|       | 114-117 |        | binion     |                        |
+|       | 118-123 |        | ternion    |                        |
+|       | 124-128 |        | binion     |                        |
+|       | 129-132 |        | binion     |                        |
+|       | 133-138 |        | ternion    |                        |
+|       | 139-142 |        | binion     |                        |
+|       | 143-146 |        | binion     |                        |
+|       | 147-153 |        | ternion    |                        |
+|       | 154-157 |        | binion     |                        |
+|       | 158-161 |        | binion     |                        |
+|       | 162-165 |        | binion     |                        |
+|-------+---------+--------+------------+------------------------|
+|       | 166-167 |        | $binion    | second and third stubs |
+|-------+---------+--------+------------+------------------------|
+|       | 168-173 |        | ternion    |                        |
+|       | 174-181 |        | quaternion |                        |
+|       | 182-187 |        | ternion    |                        |
+|       | 188-189 |        | bifolium   |                        |
+|       | 190-191 |        | bifolium   |                        |
+|-------+---------+--------+------------+------------------------|
 
-New quire from p. 335 (new production unit)
+stub bw 
+34, 35 (17, 18)
+62, 63 (31, 32) 
+94, 95 (47, 48)
+106, 107 (53, 54)
+170, 171 (85, 86)
+196, 197 (98, 99)
+334, 335 (167, 168)
+
+6+7 (3+4) 2+5, 1+6, stub+7
+20+21 (10+11) 9+12, 8+13
+30+31 (15+16) 14+17
+? 38+39 (19+29) 18+21, stub+22
+? (24+25) 23+26
+56+57 (28+29) 27+30 
+64+65 (32+33) stub+34
+74+75 (37+38) 36+39, 35+40
+? (42+43) 41+44
+92+93 (46+47) 45+stub
+? (49+50) 48+51 stub+52
+108+109 (54+55) stub+56, 53+57
+118+119 (59+60) 58+61
+128+129 (64+65) 63+66, 62+67
+138+139 (69+70) 68+71
+148-149 (74+75) 73+76, 72+77
+158+159 (79+80) 78+81
+168+169 (84+85) 83+stub, 82+86
+176+177 (88+89) 87+90
+184+185 (92+93) 91+94
+192+193 (96+97) 95+98
+200+201 (100+101) 99+102, stub+103
+212+213 (106+107) 105+108, 104+109
+222+223 (111+112) 110+113
+230+231 (115+116) 114+117
+240+241 (120+121) 119+122 118+123
+? (125+126) 124+128
+260+261 (130+131) 129+132
+270+271 (135+136) 134+137, 133+138
+280+281 (140+141) 139+142
+? (144+145) 143+146
+300+301 (150+151) 149+152, 147+153 
+310+311 (155+156) 154+157
+318+319 (159+160) 158+161
+326+327 (163+164) 162+165
+---
+166-167: Added!
+---
+340+341 (170+171) 169+172, 168+173
+354+355 (177+178) 176+179, 175+180, 174+181 
+368+369 (184+185) 183+186, 182+187
+376+377 (188+189)
 
 * History
 |------------+---------------|
@@ -39,28 +131,134 @@ Must be dated to after 1528, since it contains Poul Helgesen's translation of At
 
 
 * Contents
-|---------+-----+---------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------|
-| Locus   | MDB | Type    | Text                                            | Rub/Inc/Exp                                                                                                                                                                                                       | Language | Status | Level |
-|---------+-----+---------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------|
-| 1 25    |     | Tables  | Calendar and Easter Tables                      |                                                                                                                                                                                                                   |          |        |     1 |
-| 27 325  |     | Psalter | Psalter                                         | Beatus vir Første psalm                                                                                                                                                                                           | da       | main   |     1 |
-| 27 319  |     | Psalms  | Psalms 1-150                                    |                                                                                                                                                                                                                   |          |        |       |
-| 319 320 |     |         | Song of Zachariah                               | *Zacharie p(ro)phete loff saang* [[I]]sraels gud oc h(er)re skal wara loffua(n)de [...] føther til friidzens weyg                                                                                                     | da       | main   |     2 |
-| 320 321 |     |         | MAGNIFICAT                                      | *Jomfru marie songh epter ængelsens bebudelse* [[M]]Jn siel stuorgiør h(er)ren [...] oc hans seed til ewig thiid                                                                                                      | da       | main   |     2 |
-| 321 322 |     |         | Song of Simeon                                  | *Symeons loffsaang* [[H]]Erre nw forlade thin suend i friid [...] oc thin folkis israels ære                                                                                                                          | da       | main   |     2 |
-| 322 323 |     |         | John 1                                          |                                                                                                                                                                                                                   |          |        |       |
-| 323 323 |     |         | VENI_SANCTE_SPIRITUS                            |                                                                                                                                                                                                                   |          |        |       |
-| 323 325 |     |         | VENI_CREATOR_SPIRITUS                           |                                                                                                                                                                                                                   |          |        |       |
-| 325 326 |     |         |                                                 | *Til aattesongen Collecta* [[O]] h(er)re gud som lerde dine apostele den hellige tro [...]                                                                                                                            |          |        |       |
-| 326 326 |     |         |                                                 | *Til primet Collecta*                                                                                                                                                                                             |          |        |       |
-| 326 326 |     |         |                                                 | *D(ominu)s q(ui) ap(oste)lis*                                                                                                                                                                                     |          |        |       |
-| 326 327 |     |         |                                                 | *Til terset Coll(e)c(t)a*                                                                                                                                                                                         |          |        |       |
-| 327 327 |     |         |                                                 | *Til sext coll(e)c(t)a*                                                                                                                                                                                           |          |        |       |
-| 327 328 |     |         |                                                 | *Till Non coll(e)cta*                                                                                                                                                                                             |          |        |       |
-| 328 328 |     |         |                                                 | *Til afftensongen coll(e)c(t)a*                                                                                                                                                                                   |          |        |       |
-| 328 328 |     |         |                                                 | *Till natsongen*                                                                                                                                                                                                  |          |        |       |
-| 328 330 |     |         |                                                 | [[I]]Ach fatig syndogh me(n)niskia som j synd baadhe afflat ok fød ær [...] och faa m(eth) hono(m) ewinnerligit liiff Ame(n)                                                                                          | da       | main   |       |
-| 331 334 |     |         | Christ's seven words on the cross (verse)       | [[J]]Esus oppå korsset stod. hono(m) forlop hans hellige blod [...]                                                                                                                                                   | da       | added  |       |
-| 335 353 |     |         | Om Psalterens Kraft (Athanasius, Poul Helgesen) | *Then store ærchibiscopis vti Alexandria sa(n)cti Athanasii bok om psalternis krafft vtseet aff Broder Paulo Helie Carmelita* [[T]]Jl digd oc een san troo er all guddo(m)melig scrifft [...] Men giff tith naffn ære | da       | main   |     1 |
-| 353     |     |         | VIGIL                                           | *Her begynnes Vottesang på vigilias psalm*                                                                                                                                                                        |          |        |       |
-|---------+-----+---------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------|
+|---------+-----+-------------+---------------------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------+---------------------------|
+| Locus   | MDB | Type        | KEY                       | Text                                            | Rub/Inc/Exp                                                                                                                                                                                                       | Language | Status | Level | Author                    |
+|         |     |             |                           |                                                 | <15>                                                                                                                                                                                                              |          |        |       |                           |
+|---------+-----+-------------+---------------------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------+---------------------------|
+| 1 25    |     | Tables      |                           | Calendar and Easter Tables                      | *Januarius Natten haffw(er) xvi tyma oc dage(n) viii Solen opgår vid viii. verbas vid iii*                                                                                                                        | da       | main   |     1 |                           |
+| 27 325  |     | Psalter     |                           | Psalter                                         | Beatus vir Første psalm                                                                                                                                                                                           | da       | main   |     1 |                           |
+| 27 319  |     | Psalms      |                           | Psalms 1-150                                    |                                                                                                                                                                                                                   |          | main   |       |                           |
+| 319 320 |     | Canticle    |                           | Song of Zachariah                               | *Zacharie p(ro)phete loff saang* [[I]]sraels gud oc h(er)re skal wara loffua(n)de [...] føther til friidzens weyg                                                                                                     | da       | main   |     2 |                           |
+| 320 321 |     | Canticle    | MAGNIFICAT                | Magnificat                                      | *Jomfru marie songh epter ængelsens bebudelse* [[M]]Jn siel stuorgiør h(er)ren [...] oc hans seed til ewig thiid                                                                                                      | da       | main   |     2 |                           |
+| 321 322 |     | Canticle    |                           | Song of Simeon                                  | *Symeons loffsaang* [[H]]Erre nw forlade thin suend i friid [...] oc thin folkis israels ære                                                                                                                          | da       | main   |     2 |                           |
+| 322 323 |     | Bible       |                           | John 1                                          | *Sa(n)cti Joh(ann)is læst* [[J]] bigynnelsen war ordet \oc/ oordet var nær gudhi [...] såsom eenda sonsens hærligheed aff fadhernom full m(et) nådh oc sa(n)ning                                                      | da       | main   |     2 |                           |
+| 323 323 |     | Hymn        | VENI_SANCTE_SPIRITUS      | Veni sancte spiritus                            | *Vni sa(n)cte spiritus* [[O]] dw gud den helliand kom oc opfwldh [...] til den cristelige tro                                                                                                                         | da       | main   |     2 |                           |
+| 323 325 |     | Hymn        | VENI_CREATOR_SPIRITUS     | Veni creator spiritus                           | *Veni creator spiritus* [[O]] dw verdigste gud den helliand som atting skapte [...] Mwe nw optendis m(et) dit ewige lywss                                                                                             | da       | main   |     2 |                           |
+| 325 328 |     | Cycle       |                           | Collects for each hour                          |                                                                                                                                                                                                                   | da       | main   |     2 |                           |
+| 325 326 |     | Prayer      |                           | Collect for Matins                              | *Til aattesongen Collecta* [[O]] h(er)re gud som lerde dine apostele den hellige tro [...]                                                                                                                            | da       | main   |     3 |                           |
+| 326 326 |     | Prayer      |                           | Collect for Prime                               | *Til primet Collecta*                                                                                                                                                                                             | da       | main   |     3 |                           |
+| 326 326 |     | Prayer      |                           | Dominus qui apostelis                           | *D(ominu)s q(ui) ap(oste)lis*                                                                                                                                                                                     | da       | main   |     4 |                           |
+| 326 327 |     | Prayer      |                           | Collect for Terce                               | *Til terset Coll(e)c(t)a*                                                                                                                                                                                         | da       | main   |     3 |                           |
+| 327 327 |     | Prayer      |                           | Collect for Sext                                | *Til sext coll(e)c(t)a*                                                                                                                                                                                           | da       | main   |     3 |                           |
+| 327 328 |     | Prayer      |                           | Collect for Nones                               | *Till Non coll(e)cta*                                                                                                                                                                                             | da       | main   |     3 |                           |
+| 328 328 |     | Prayer      |                           | Collect for Vespers                             | *Til afftensongen coll(e)c(t)a*                                                                                                                                                                                   | da       | main   |     3 |                           |
+| 328 328 |     | Prayer      |                           | Collect for Compline                            | *Till natsongen*                                                                                                                                                                                                  | da       | main   |     3 |                           |
+| 328 330 |     | Prayer      |                           | Prayer                                          | [[I]]Ach fatig syndogh me(n)niskia som j synd baadhe afflat ok fød ær [...] och faa m(eth) hono(m) ewinnerligit liiff Ame(n)                                                                                          | da       | main   |       |                           |
+| 331 334 |     | Prayer      |                           | Christ's seven words on the cross (verse)       | [[J]]Esus oppå korsset stod. hono(m) forlop hans hellige blod [...]                                                                                                                                                   | da       | added  |       |                           |
+| 335 353 |     | Instruction |                           | Om Psalterens Kraft (Athanasius, Poul Helgesen) | *Then store ærchibiscopis vti Alexandria sa(n)cti Athanasii bok om psalternis krafft vtseet aff Broder Paulo Helie Carmelita* [[T]]Jl digd oc een san troo er all guddo(m)melig scrifft [...] Men giff tith naffn ære | da       | main   |     1 | Athanasius, Poul Helgesen |
+| 353     |     | Cycle       | VIGIL                     | Vigil                                           | *Her begynnes Vottesang på vigilias psalm* Verba mea [[v]] Domine ne i(n) fu [[vi]] Domine [...]                                                                                                                          |          |        |       |                           |
+| 376 377 |     |             | TE_DEUM                   | Te deum                                         | *Te deum* [[O]] Gud vij loffue dig oc kendis ath du æsth vor h(er)re [...] at iach ey skal bliffue fortappet till ewig tiid                                                                                           | da       | main   |       |                           |
+| 378 379 |     |             |                           |                                                 | [[O]] alle creatur och all den ting som til ero loffuer hedrer och ärer och tacker eder gud oc skabere ewindelige [...] [[D]]en euige gud beskerme och velsigne oss alle ewindelige Ame(n)                                | da       | main   |       |                           |
+| 379 381 |     |             |                           |                                                 | *Gloria in exelsi(us) deo* [[A]]lleneste gud i himmerig wäre loff och priss for all syn nådhe [...] Jhesum christ. nw och ewindelig. Amen                                                                             | da       | main   |       |                           |
+| 381 381 |     |             | REX_CHRISTE_CLEMENTISSIME | Rex Christe clementissime                       | *Rex (chr)iste* [[O]] Jhesu criste ald(er)mildeste konge beware wore hierter fra alla dodelige synd(e)r [...] wij loffue digh m(et) gud fadh(e)r och gudh th(e)n helliand til ewigh tid amen                          | da       | main   |       |                           |
+|---------+-----+-------------+---------------------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------+---------------------------|
+
+** Extra
+|--------+-----------------------+------+--------------------|
+|  Psalm | Initial               | Page |                    |
+|--------+-----------------------+------+--------------------|
+|      1 | gold                  |   27 | beatus vir         |
+|      2 | b                     |   28 |                    |
+|      3 | r                     |   29 |                    |
+|      4 | b                     |   30 |                    |
+|      5 | r                     |   32 |                    |
+|      6 | b                     |   33 |                    |
+|      7 | r                     |   35 |                    |
+|      8 | b                     |   37 |                    |
+|      9 | r                     |   38 |                    |
+|     10 | b                     |   41 |                    |
+|     11 | b                     |   43 |                    |
+|     12 | r                     |   44 |                    |
+|     13 | b                     |   45 |                    |
+|     14 | r                     |   46 |                    |
+|     15 | b                     |   47 |                    |
+|     16 | r                     |   48 |                    |
+|     17 | b                     |   49 |                    |
+|     18 | r                     |   51 |                    |
+|     19 | b                     |   56 |                    |
+|     20 | r                     |   58 |                    |
+|     21 | b                     |   59 |                    |
+|     22 | gold                  |   61 | deus deus meus     |
+|     23 | b                     |   65 |                    |
+|     24 | r                     |   66 |                    |
+|     25 | b                     |   67 |                    |
+|     26 | r                     |   70 |                    |
+|     27 | gold                  |   71 | dmns illuminatio   |
+|     28 | r                     |   73 |                    |
+|     29 | b                     |   74 |                    |
+|     30 | r                     |   75 |                    |
+|     31 | b                     |   77 |                    |
+|     32 | decorated             |   80 | beati quorum       |
+|     33 | r                     |   82 |                    |
+|     34 | r!                    |   84 |                    |
+|     35 | b                     |   87 |                    |
+|     36 | r                     |   90 |                    |
+|     37 | b                     |   92 |                    |
+|     38 | r                     |   96 |                    |
+|     39 | b                     |   99 |                    |
+|     40 | r                     |  101 |                    |
+|     41 | b                     |  104 |                    |
+|     42 | r                     |  105 |                    |
+|     43 | r!                    |  107 |                    |
+|     44 | b                     |  108 |                    |
+|     45 | gold                  |  111 |                    |
+|     46 | b                     |  114 |                    |
+|     47 | r                     |  115 |                    |
+|     48 | b                     |  116 |                    |
+|     49 | r                     |  118 |                    |
+|     50 | b                     |  121 |                    |
+|     51 | r                     |  123 |                    |
+|     52 | b                     |  126 | quid gloriaris     |
+| 52 bis | decorated             |  128 | dixit incipitens   |
+|     53 | r                     |  129 | deus in nomino tuo |
+|     54 | b                     |  130 |                    |
+|     55 | decorated (pasted in) |  133 | miserere mei       |
+|     56 | b                     |  134 |                    |
+|     57 | r                     |  136 |                    |
+|     58 | b                     |  137 |                    |
+|     59 | r                     |  140 |                    |
+|     60 | b                     |  141 |                    |
+|     61 | r                     |  142 |                    |
+|     62 | b                     |  143 |                    |
+|     63 | r                     |  145 |                    |
+|     64 | b                     |  146 |                    |
+|     65 | r                     |  148 |                    |
+|     66 | b                     |  150 |                    |
+|     67 | r                     |  151 |                    |
+|     68 | gold                  |  156 |                    |
+|     69 | r                     |  160 |                    |
+|     70 | b                     |  161 |                    |
+|     71 | r                     |  164 |                    |
+|     72 | b                     |  166 |                    |
+|     73 | r                     |  169 |                    |
+|     74 | b                     |  171 |                    |
+|     75 | r                     |  173 |                    |
+|     76 | gold (pasted)         |  174 | voce mea           |
+|     77 | r                     |  176 |                    |
+|     78 | b                     |  184 |                    |
+|     79 | b!                    |  186 |                    |
+|     80 | gold                  |  188 | exultate           |
+|     81 |                       |      |                    |
+|     82 |                       |      |                    |
+|     83 |                       |      |                    |
+|     84 |                       |      |                    |
+|     85 |                       |      |                    |
+|     86 |                       |      |                    |
+|     87 |                       |      |                    |
+|     88 |                       |      |                    |
+|     89 |                       |      |                    |
+|     90 |                       |      |                    |
+|     91 |                       |      |                    |
+|     92 |                       |      |                    |
+|     93 |                       |      |                    |
+|     94 |                       |      |                    |

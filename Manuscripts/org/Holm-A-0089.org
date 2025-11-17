@@ -1,15 +1,15 @@
 #+TITLE: A 89
 
 * PhysDesc
-|--------------|
-| SUPPORT      |
-| NUMBER       |
-| SIZE         |
-| WRITING AREA |
-| COLUMNS      |
-| LINES        |
-| FOLIATION    |
-|--------------|
+|--------------+---|
+| SUPPORT      |   |
+| NUMBER       |   |
+| SIZE         |   |
+| WRITING AREA |   |
+| COLUMNS      |   |
+| LINES        |   |
+| FOLIATION    |   |
+|--------------+---|
 
 ** Binding
 |------+-----------|

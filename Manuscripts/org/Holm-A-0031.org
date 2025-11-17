@@ -1,5 +1,5 @@
-#+TITLE: Holm A 31
-Heinrich von St. Gallen's /Extendit Manum/ passional.
+#+TITLE: A 31. Extendit Manum
+[[HEINRICH-StGALLEN][Heinrich von St. Gallen]]'s /Extendit Manum/ passional.
 
 * Physical
 |--------------+----------------|
@@ -20,22 +20,22 @@ Heinrich von St. Gallen's /Extendit Manum/ passional.
 |------+------------|
 
 ** Quire structure
-|-------+---------+-----------+-----------------+---------|
-| Quire |  Leaves | Structure | Notes           | Changes |
-|-------+---------+-----------+-----------------+---------|
-|       |    1-11 |           | fals bw 13, 14. |         |
-|       |   20-29 |           |                 |         |
-|       |   30-39 |           |                 |         |
-|       |   40-49 |           |                 |         |
-|       |   50-59 |           |                 |         |
-|       |   60-69 |           |                 |         |
-|       |   70-81 |           |                 |         |
-|       |   82-89 |           |                 |         |
-|       |   90-99 |           |                 |         |
-|       | 100-103 |           | 102+103         |         |
-|-------+---------+-----------+-----------------+---------|
+|-------+---------+-------------+-----------------+---------|
+| Quire |  Leaves | Structure   | Notes           | Changes |
+|-------+---------+-------------+-----------------+---------|
+| I     |    1-11 | Quinternion | fals bw 13, 14. |         |
+| II    |   20-29 | Quinternion |                 |         |
+| III   |   30-39 | Quinternion |                 |         |
+| IV    |   40-49 | Quinternion |                 |         |
+| V     |   50-59 | Quinternion |                 |         |
+| VI    |   60-69 | Quinternion |                 |         |
+| VII   |   70-81 |             |                 |         |
+| VIII  |   82-89 |             |                 |         |
+| IX    |   90-99 |             |                 |         |
+| X     | 100-103 |             | 102+103         |         |
+|-------+---------+-------------+-----------------+---------|
 
-bookmarks f. 24r, 58, 62r, 78v, 82r
+Bookmarks are found on ff. 24r, 58, 62r, 78v, 82r.
 
 ** Hands
 |---------+------+---------|
@@ -51,7 +51,7 @@ bookmarks f. 24r, 58, 62r, 78v, 82r
 | PROVENANCE | Johanne von Gock |
 |------------+------------------|
 
-The manuscript was originally produced for Christine of Saxony (1461-1521), queen of John of Denmark. It was later sent by Christian II to the wife of Albrecht von Gock, Johanne.
+The manuscript was originally produced for [[CHRISTINE-SAXONY][Christine of Saxony]] (1461-1521), queen of John of Denmark. It was later sent by Christian II to the wife of Albrecht von Gock, Johanne.
 
 * Contents
 |---------+-------+-----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+--------+-------------------------+------------------|

@@ -4,9 +4,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Holm A 31</title>
+<title>A 31</title>
 <respStmt xml:id="SDV">
-<resp when="2024">Catalogue</resp>
+<resp when="2025">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
 </respStmt>
 </titleStmt>
@@ -18,12 +18,13 @@
 <msIdentifier>
 <settlement key="STH"/>
 <repository key="KBS"/>
-<idno corresp="Holm A 31"/>
+<idno corresp="Holm-A-0031"/>
 </msIdentifier>
 <head>
-Heinrich von St. Gallen's <title>Extendit Manum</title> passional.
+<name key="HEINRICH-StGALLEN"> Heinrich von St. Gallen</name>'s <title>Extendit Manum</title> passional.
 </head>
 <msContents>
+<summary> Extendit Manum</summary>
 <msItem class="passional" n="1">
 <locus from="1r" to="103v"/>
 <title>Extendit Manum-Passional</title>
@@ -46,18 +47,22 @@ Heinrich von St. Gallen's <title>Extendit Manum</title> passional.
 <list>
 <item n="1">
 <locus from="1" to="11"/>
-<desc>fals bw 13, 14.</desc>
+<desc>Quinternion</desc>
 </item><item n="2">
 <locus from="20" to="29"/>
-<desc>something</desc>
+<desc>Quinternion</desc>
 </item><item n="3">
 <locus from="30" to="39"/>
+<desc>Quinternion</desc>
 </item><item n="4">
 <locus from="40" to="49"/>
+<desc>Quinternion</desc>
 </item><item n="5">
 <locus from="50" to="59"/>
+<desc>Quinternion</desc>
 </item><item n="6">
 <locus from="60" to="69"/>
+<desc>Quinternion</desc>
 </item><item n="7">
 <locus from="70" to="81"/>
 </item><item n="8">
@@ -66,7 +71,6 @@ Heinrich von St. Gallen's <title>Extendit Manum</title> passional.
 <locus from="90" to="99"/>
 </item><item n="10">
 <locus from="100" to="103"/>
-<desc>also. 102+103</desc>
 </item></list>
 </collation></supportDesc>
 </objectDesc>

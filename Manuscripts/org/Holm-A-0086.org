@@ -1,6 +1,6 @@
-#+TITLE: Monastic rules for Birgittine Order (A 86)
+#+TITLE: A 86. Monastic rules for Birgittine Order
 
-A fragment consisting of two leaves contains rules of order for the Bridgittine order.
+A fragment consisting of two leaves contains rules of order for the Birgittine order.
 
 * PhysDesc
 |--------------+------------|
@@ -12,7 +12,34 @@ A fragment consisting of two leaves contains rules of order for the Bridgittine 
 | LINES        | NA         |
 | FOLIATION    | none       |
 |--------------+------------|
-Both fragments have been cut to ca. 205 x 150 but on different axes. It appears they cannot be fully from the same manuscript or production unit, even though the hand is the same. The rulings are the same (6 mm) but the width varies greatly.
+Both fragments have been cut to ca. 205 x 150 but on different axes. The rulings are the same (6 mm) and both fragments are written in the same hand. If they belonged to the same original book, this would have been a folio manuscript measuring ca. 280 x 210 or so.
+
+Curiously, both fragments are only written on one side and there is no indication of the verso having been palimpsested. Still, they do not appear to be from the same leaf. Fragment 2 has pricking on the left margin 10 mm away from the start of the line; there are no indications of prickings on Fragment 1, despite more than 10 mm (ca 11 mm) being preserved.
+
+** Fragment 1
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 1       |
+| SIZE         | 145 205 |
+| WRITING AREA | 145 190 |
+| COLUMNS      | 1       |
+| LINES        | 24      |
+| FOLIATION    | f. II   |
+|--------------+---------|
+
+190 / 3 x 4 = 253 (writing area)
+24 / 145 x 253 = 42 (number of lines)
+
+** Fragment 2
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 1       |
+| SIZE         | 205 150 |
+| WRITING AREA | 200 140 |
+| COLUMNS      | 1       |
+| LINES        | 32      |
+| FOLIATION    | none    |
+|--------------+---------|
 
 ** Binding
 Unbound
@@ -46,4 +73,4 @@ Used as binding materials for the manuscript C 71, containing the Law Code of Ze
 |-------+-------+------+------+-------------------------------------------------------------------------------------------------------+----------+--------+--------|
 
 * Bibliography
-- Fragmenter :: pp. 161-164
+- Diderichsen 1931 :: /Fragmenter af gammeldanske Haandskrifter/ pp. 161-164
