@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Holm-A-0086" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Monastic rules for Birgittine Order (A 86)</title>
+<respStmt xml:id="SDV">
+<resp when="2025">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="STH"/>
+<repository key="KBS"/>
+<idno corresp="Holm-A-0086"/>
+</msIdentifier>
+<head>
+A fragment consisting of two leaves contains rules of order for the Bridgittine order.
+</head>
+<msContents>

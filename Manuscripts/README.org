@@ -56,7 +56,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[org/Holm-A-0042.org][A 42]]     | Johanne Nielsdatters prayer book                  | Danish      |           |
 | [[org/Holm-A-0051.org][A 51]]     | Description of /Cantus Sororum/                   | Danish      |      1450 |
 | A 85     | Psalter                                           | Danish      | 1500-1599 |
-| A 86     | klosterregler                                     | Danish      |           |
+| [[org/Holm-A-0086.org][A 86]]     | Fragment of Birgittine rule                       | Danish      |   ca 1500 |
 | A 89     |                                                   |             |           |
 | [[org/Holm-A-0126.org][A 126]]    | Of purgatory, Ps. Birgitta from Sweden            | German      |           |
 | A 218    | Aegidius von Assissi                              | German      |           |
