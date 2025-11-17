@@ -1,0 +1,15 @@
+#+TITLE: Cataloguing manuscripts in Org-Mode
+
+The following guidelines are intended as an aide to cataloguing the manuscript corpus using Org-Mode for easy conversion to XML.
+
+* Title and Header
+The file opens with a title following Org-Mode's ~#+TITLE:~ macro. This is displayed at the top of the Org file when visualized in GitHub and is otherwise not converted to XML. Thus any descriptive title can be applied. Best practice is to begin with the shelfmark followed by an optional short descriptor.
+
+#+BEGIN_code 
+#+TITLE: AM 70 8vo. Cantus Sororum
+#+END_code
+
+Following the title, a description is given in prose introducing the manuscript. This will eventually be converted to XML and should therefore follow the best practice for [[Prose][prose]]
+
+* General best practice
+** Prose
