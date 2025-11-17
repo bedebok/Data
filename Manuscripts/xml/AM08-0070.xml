@@ -4,9 +4,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>AM 70 8vo </title>
+<title>AM 70 8vo</title>
 <respStmt xml:id="SDV">
-<resp when="2024">Catalogue</resp>
+<resp when="2025">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
 </respStmt>
 </titleStmt>
@@ -18,18 +18,18 @@
 <msIdentifier>
 <settlement key="KBH"/>
 <repository key="AMS"/>
-<idno corresp="AM 70 8vo "/>
+<idno corresp="AM08-0070"/>
 </msIdentifier>
 <head>
 A copy of <name key="BIRGITTA"> St. Bridget</name> of Sweden's <title>Cantus Sororum</title> in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
 </head>
 <msContents>
-<summary>Cantus Sororum</summary>
+<summary> (Cantus Sororum</summary>
 <msItem class="cycle" n="1">
 <locus from="1r" to="253v"/>
 <title key="CANTUS">Cantus Sororum</title>
-<textLang mainLang="gml" otherLangs="lat"/>
 <author key="BIRGITTA">Psuedo-Birgitta</author>
+<textLang mainLang="gml" otherLangs="lat"/>
 <msItem class="hour" n="2">
 <locus from="1r" to="2v"/>
 <title>Introduction</title>
@@ -357,6 +357,10 @@ A copy of <name key="BIRGITTA"> St. Bridget</name> of Sweden's <title>Cantus Sor
 <locus from="255v" to="undefined"/>
 <title/>
 </msItem>
+<msItem class="undefined" n="79">
+<locus from="256r" to="undefined"/>
+<title>Benedicamus tropes</title>
+</msItem>
 </msItem>
 </msContents>
 <physDesc>
@@ -367,7 +371,93 @@ A copy of <name key="BIRGITTA"> St. Bridget</name> of Sweden's <title>Cantus Sor
 <height>160</height>
 <width>112</width>
 </dimensions></extent>
-</supportDesc>
+<collation>
+<list>
+<item n="1">
+<locus from="1" to="2"/>
+</item><item n="2">
+<item n="4">
+<locus from="3" to="8"/>
+<desc>(catchword matches)</desc>
+</item><item n="5">
+<locus from="9" to="18"/>
+<desc>quinternion. (catchword matches)</desc>
+</item><item n="6">
+<locus from="19" to="28"/>
+<desc>quinternion. (catchword matches)</desc>
+</item><item n="7">
+<locus from="29" to="38"/>
+<desc>quinternion. (catchword matches)</desc>
+</item><item n="8">
+<locus from="39" to="48"/>
+<desc>quinternion. Top missing from f. 44 (catchword matches)</desc>
+</item><item n="9">
+<locus from="49" to="58"/>
+<desc>quinternion. (catchword matches)</desc>
+</item><item n="10">
+<locus from="59" to="70"/>
+<desc>quinternion. 64-65 added</desc>
+</item><item n="11">
+<locus from="71" to="80"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="12">
+<locus from="81" to="86"/>
+<desc>quinternion. Missing leaves between 83-84 (catchword)</desc>
+</item><item n="13">
+<locus from="87" to="96"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="14">
+<locus from="97" to="106"/>
+<desc>quinternion</desc>
+</item><item n="15">
+<locus from="107" to="113"/>
+<desc>quinternion. On missing before 107; two missing between 109-110</desc>
+</item><item n="16">
+<locus from="114" to="123"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="17">
+<locus from="124" to="133"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="18">
+<locus from="134" to="143"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="19">
+<locus from="144" to="153"/>
+<desc>quinternion</desc>
+</item><item n="20">
+<locus from="154" to="163"/>
+<desc>quinternion</desc>
+</item><item n="21">
+<locus from="164" to="172"/>
+<desc>quinternion. pages missing after 172</desc>
+</item><item n="22">
+<locus from="173" to="181"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="23">
+<locus from="182" to="191"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="24">
+<locus from="192" to="201"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="25">
+<locus from="202" to="211"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="26">
+<locus from="212" to="220"/>
+<desc>quinternion. page missing after 219 (catchword)</desc>
+</item><item n="27">
+<locus from="221" to="230"/>
+<desc>quinternion. (catchword)</desc>
+</item><item n="28">
+<locus from="231" to="240"/>
+<desc>quinternion</desc>
+</item><item n="29">
+<locus from="241" to="253?"/>
+</item><item n="30">
+<locus from="254" to="257"/>
+<desc>Added later</desc>
+</item></list>
+</collation></supportDesc>
 </objectDesc>
 </physDesc>
 </msDesc>

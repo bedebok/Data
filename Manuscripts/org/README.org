@@ -5,11 +5,51 @@ The following guidelines are intended as an aide to cataloguing the manuscript c
 * Title and Header
 The file opens with a title following Org-Mode's ~#+TITLE:~ macro. This is displayed at the top of the Org file when visualized in GitHub and is otherwise not converted to XML. Thus any descriptive title can be applied. Best practice is to begin with the shelfmark followed by an optional short descriptor.
 
-#+BEGIN_code 
+#+BEGIN_src org 
 #+TITLE: AM 70 8vo. Cantus Sororum
-#+END_code
+#+END_src
 
-Following the title, a description is given in prose introducing the manuscript. This will eventually be converted to XML and should therefore follow the best practice for [[Prose][prose]]
+These will be converted into the header in XML.
+
+Following the title, a short description of one to two sentences is given in prose introducing the manuscript. This will eventually be converted to XML and should therefore follow the best practice for [[#Prose][prose]]. It must all be on a single line (no hard returns).
+
+#+BEGIN_src org
+A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
+#+END_src
+
+This converts to an element ~<head>~ with the proper XML tags for names and other elements.
+
+#+BEGIN_src xml
+<head>
+A copy of <name key="BIRGITTA"> St. Bridget</name> of Sweden's <title>Cantus Sororum</title> in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
+</head>
+#+END_src
+
+Following this short description, a link to an internal image is added on a new line. These images are in the folder imgs/mss, two folders up the directory from the local Org file for the manuscript description.
+
+#+BEGIN_src org
+[[../../imgs/mss/AM08-0070.jpg]]
+#+END_src
+
+Once saved in Org mode, this header provides a brief overview within GitHub for the manuscript.
+
+* PhysDesc
+A top-level header ~* PhysDesc~ encloses the physical description of the manuscript and contains two subheaders: ~** Binding~ and ~** Quire Structure~
+
+* History
+
+* Contents
+The following items are available in the table:
+
+- Loc :: locus
+- Type :: text type
+- Level :: item level
+- Text :: Name of text
+- Key :: Text key
+- Rub/Inc/Exp :: Rubric, incipit, explicit
+- Lang :: language(s)
+- Status :: status
+- Author :: author
 
 * General best practice
 ** Prose

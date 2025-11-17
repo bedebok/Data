@@ -1,6 +1,6 @@
-#+TITLE: AM 70 8vo (Cantus Sororum)
+#+TITLE: AM 70 8vo. Cantus Sororum
 A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. Contains many added prayers and marginal notes in both Danish and Low German.
-[[../imgs/AM08-0070.jpg]]
+[[../../imgs/mss/AM08-0070.jpg]]
 * Physical Description
 |--------------+----------|
 | SUPPORT      | perg     |
@@ -19,16 +19,9 @@ A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. 
 | SIZE |      |
 |------+------|
 
-* History
-** Origin
-Written in [[#DK][Denmark]] or [[#DE][Germany]] in the [[#1450 1525][Late fifteenth century]].
-
-** Provenance
-Purchased at the auction of [[ROSTGAARD][Frederik Rostgård]] as number 356.
-
-* Quire Structure
+** Quire Structure
 |--------+----------+-------------+----------------------------------------------------|
-| Quires |   Leaves | Structure   | Changes                                            |
+| Quire  |   Leaves | Structure   | Changes                                            |
 |--------+----------+-------------+----------------------------------------------------|
 | I      |      1-2 |             |                                                    |
 |        | [lacuna] |             |                                                    |
@@ -61,6 +54,15 @@ Purchased at the auction of [[ROSTGAARD][Frederik Rostgård]] as number 356.
 |        | 241-253? |             |                                                    |
 |        |  254-257 |             | Added later                                        |
 |--------+----------+-------------+----------------------------------------------------|
+
+
+* History
+** Origin
+Written in [[#DK][Denmark]] or [[#DE][Germany]] in the [[#1450 1525][Late fifteenth century]].
+
+** Provenance
+Purchased at the auction of [[ROSTGAARD][Frederik Rostgård]] as number 356.
+
 
 * Contents
 |-----------+--------+-------+------+---------------------------+---------------------------------------------------------------------------------+---------+--------------+-------------------------+--------------------------|
