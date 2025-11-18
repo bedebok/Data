@@ -1,0 +1,103 @@
+#+TITLE: Breviarium
+
+Steffen Arndes' 1512 print of the Birgittine breviary
+
+* PhysDesc
+
+|--------------+-----------------|
+| SUPPORT      | pap             |
+| NUMBER       | iii + 234 + iii |
+| SIZE         | 183 125         |
+| WRITING AREA | 155 100         |
+| COLUMNS      | 1               |
+| LINES        | 23              |
+| FOLIATION    | f 2-234         |
+|--------------+-----------------|
+
+Modern foliation before binding; cut off in first quire and begins with 2
+
+** Binding
+|------+--------------|
+| TYPE | Full leather |
+| DATE | XIX          |
+| SIZE | 190 140 45   |
+|------+--------------|
+
+** Quire Structure
+|-------+---------+------------+-----------------------------------------|
+| Quire |  Leaves | Structure  | Change                                  |
+|-------+---------+------------+-----------------------------------------|
+| A     |     2-8 | quaternion | First leaf missing                      |
+| B     |         | quaternion |                                         |
+| C     |      17 |            |                                         |
+| D     |      25 |            |                                         |
+| E     |      33 |            |                                         |
+| F     |      41 |            |                                         |
+| G     |      49 |            |                                         |
+| H     |      57 |            |                                         |
+| I     |      65 |            |                                         |
+| K     |   73-78 |            | last two missing. one had been foliated |
+|-------+---------+------------+-----------------------------------------|
+| a     |      79 |            |                                         |
+|       |      87 |            |                                         |
+|       |      95 |            |                                         |
+|       |     103 |            |                                         |
+|       |     111 |            |                                         |
+|       |     119 |            |                                         |
+|       |     127 |            |                                         |
+|       |     135 |            |                                         |
+|       |     143 |            |                                         |
+| k     |     151 |            |                                         |
+| l     |     159 |            |                                         |
+| m     |     167 |            |                                         |
+| n     |     175 |            |                                         |
+| o     |     183 |            |                                         |
+| p     |     191 |            |                                         |
+| q     |     199 |            |                                         |
+| r     |     207 |            | f 214 added leaf                        |
+| s     |     215 |            |                                         |
+| t     |     223 |            |                                         |
+| v     | 231 234 |            |                                         |
+|       |         |            |                                         |
+|-------+---------+------------+-----------------------------------------|
+some missing between 213-215 (r9-10)
+
+
+* History
+
+|------------+------------|
+| PLACE      |     Lübeck |
+| DATE       | 1512-01-28 |
+| PROVENANCE |            |
+|------------+------------|
+
+* Contents
+|-----------+-------+------+-----+-------------------------------+-------------+----------+--------|
+| Locus     | Level | Type | Key | Text                          | Rub/Inc/Exp | Language | Status |
+|-----------+-------+------+-----+-------------------------------+-------------+----------+--------|
+|           |       |      |     |                               |             |          |        |
+| 2r        |       |      |     | sunday                        |             |          |        |
+| 12v       |       |      |     | monday                        |             |          |        |
+| 21v       |       |      |     | tues                          |             |          |        |
+| 31v       |       |      |     | wed                           |             |          |        |
+| 40v       |       |      |     | thu                           |             |          |        |
+| 51r       |       |      |     | fri                           |             |          |        |
+| 62v       |       |      |     | sat                           |             |          |        |
+| 73v       |       |      |     | variants                      |             |          |        |
+|-----------+-------+------+-----+-------------------------------+-------------+----------+--------|
+|           |       |      |     | psalms 1-148                  |             |          |        |
+| 184v      |       |      |     | Confitebor tibi dominum       |             |          |        |
+| 184v      |       |      |     | Ego dixi in domidio           |             |          |        |
+| 185v      |       |      |     | Exultant cor meum in domino   |             |          |        |
+| 186r      |       |      |     | Cantemus domino gloriose      |             |          |        |
+| 187r      |       |      |     | Domine audivi auditionem tuam |             |          |        |
+| 188r      |       |      |     | Audite celi que loquar        |             |          |        |
+| 190v      |       |      |     | benedicte omni opera          |             |          |        |
+| 191v      |       |      |     | benedictus                    |             |          |        |
+| 192r      |       |      |     | te deum                       |             |          |        |
+| 192v 193r |       |      |     | magnificat                    |             |          |        |
+| 193r 193r |       |      |     | nunc dimittis                 |             |          |        |
+| 193r 196r |       |      |     | kyrie with litany             |             |          |        |
+| 196v      |       |      |     | mass of the virgin            |             |          |        |
+| 217r      |       |      |     | vigil                         |             |          |        |
+|-----------+-------+------+-----+-------------------------------+-------------+----------+--------|
