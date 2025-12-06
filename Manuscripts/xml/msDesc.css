@@ -120,12 +120,18 @@ msItem > title {
 msItem > title:after {
     content: ". "
 }
+
 rubric {
     display: inline;
     font-weight: 600;
     color: darkred;
 }
 
+finalRubric {
+    display: inline;
+    font-weight: 600;
+    color: darkred;
+}
 
 incipit {
     display: inline

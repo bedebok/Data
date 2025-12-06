@@ -34,7 +34,46 @@ Following this short description, a link to an internal image is added on a new 
 Once saved in Org mode, this header provides a brief overview within GitHub for the manuscript.
 
 * PhysDesc
-A top-level header ~* PhysDesc~ encloses the physical description of the manuscript and contains two subheaders: ~** Binding~ and ~** Quire Structure~
+A top-level header ~* PhysDesc~ encloses the physical description of the manuscript and contains two subheaders: ~** Binding~ and ~** Quire Structure~.
+
+The table at the top level PhysDesc contains the following rows:
+
+- SUPPORT :: specify ~pap~ (paper), ~perg~ (parchment) or ~mixed~ (both paper and parchment)
+- NUMBER :: number of leaves following the formula ~i + 100 + i~ using small roman numerals to indicate flyleaves
+- SIZE :: leaf size following the formula ~180 125~ indicating height and width in millimeters
+- WRITING AREA :: following the same formula as leaf size to indicate the height and width of the writing area in millimeters
+- COLUMNS :: number of columns; if mixed, write e.g. ~1 2~ (one or two columns)
+- LINES :: number of lines per page. If a range, write e.g. ~25 30~ for the lower and upper number.
+- FOLIATION :: indicate whether the manuscript is foliated (f) or paginated (p) followed by the number, e.g. ~f 1-100~ for "foliated 1-100".
+
+An example is given below:
+
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 208     |
+| SIZE         | 178 125 |
+| WRITING AREA | 125 85  |
+| COLUMNS      | 1       |
+| LINES        | 25      |
+| FOLIATION    | f 1-208 |
+|--------------+---------|
+
+This gets converted to XML as follows:
+
+#+BEGIN_src xml
+<supportDesc material="perg">
+<support>parchment</support>
+<extent>208.<dimensions>
+<height>178</height>
+<width>125</width>
+</dimensions></extent>
+...
+#+END_src
+
+#+TODO: Code for writing area, columns etc
+
+** Binding
+A description of the binding is given as a table with an optional prose paragraph afterwards, which will be encoded in a ~<note>~ tag.
 
 * History
 

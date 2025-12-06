@@ -4,9 +4,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ingeborg Predbjørnsdatter's Book of Hours </title>
+<title>Ingeborg Predbjørnsdatter's Book of Hours (Holm A 40)</title>
 <respStmt xml:id="SDV">
-<resp when="2024">Catalogue</resp>
+<resp when="2025">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
 </respStmt>
 </titleStmt>
@@ -18,666 +18,893 @@
 <msIdentifier>
 <settlement key="STH"/>
 <repository key="KBS"/>
-<idno corresp="Ingeborg Predbjørnsdatter's Book of Hours "/>
+<idno corresp="Holm-A-0040"/>
 </msIdentifier>
 <head>
 
 </head>
 <msContents>
-<summary>Holm A 40</summary>
-<msItem class="Calendar" n="1">
+<msItem class="undefined" n="1">
+<title/>
+<incipit><15></incipit>
+</msItem>
+<msItem class="Calendar" n="2">
 <locus from="4r" to="9v"/>
 <title/>
 </msItem>
-<msItem class="Drawing" n="2">
+<msItem class="Drawing" n="3">
 <locus from="10v" to="10v"/>
 <title>Drawing of family crest</title>
 </msItem>
-<msItem class="undefined" n="3">
+<msItem class="undefined" n="4">
 <locus from="11r" to="47v"/>
-<title>HOURS_VIRGIN</title>
+<title/>
 <incipit><hi>A</hi>ue maria <hi>O</hi> iomfru maria thin fødzel bebodhet all værde<ex>n</ex> stor gledhæ </incipit>
 <explicit> <hi>I</hi>omf<ex>rv</ex> maria m<ex>eth</ex> sin mildæ søn vælsigne os alle tidh</explicit>
-<msItem class="undefined" n="4">
-<locus from="11r" to="18r"/>
-<title>HOURS_VIRGIN.matins</title>
-</msItem>
 <msItem class="undefined" n="5">
-<locus from="18r" to="27r"/>
-<title>HOURS_VIRGIN.lauds</title>
+<locus from="11r" to="18r"/>
+<title/>
 </msItem>
 <msItem class="undefined" n="6">
-<locus from="27r" to="30v"/>
-<title>HOURS_VIRGIN.prime</title>
+<locus from="18r" to="27r"/>
+<title/>
 </msItem>
 <msItem class="undefined" n="7">
-<locus from="30v" to="32v"/>
-<title>HOURS_VIRGIN.terce</title>
+<locus from="27r" to="30v"/>
+<title/>
 </msItem>
 <msItem class="undefined" n="8">
+<locus from="30v" to="32v"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="9">
 <locus from="32v" to="35r"/>
 <title>HOURS_VIRGIN.sext</title>
 </msItem>
-<msItem class="undefined" n="9">
+<msItem class="undefined" n="10">
 <locus from="35r" to="37r"/>
 <title>HOURS_VIRGIN.nones</title>
 </msItem>
-<msItem class="undefined" n="10">
+<msItem class="undefined" n="11">
 <locus from="37r" to="43v"/>
 <title>HOURS_VIRGIN.vesper</title>
 </msItem>
-<msItem class="undefined" n="11">
+<msItem class="undefined" n="12">
 <locus from="43v" to="47r"/>
 <title>HOURS_VIRGIN.compline</title>
 </msItem>
-<msItem class="undefined" n="12">
+<msItem class="undefined" n="13">
 <locus from="47v" to="57r"/>
 <title>HOURS_SPIRIT</title>
 <rubric>Hære æfft<ex>e</ex>r skriw<ex>er</ex> th<ex>e</ex>n helligandz tider pa danske</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="13">
+<msItem class="undefined" n="14">
 <locus from="47v" to="50r"/>
 <title>HOURS_SPIRIT.matins</title>
 </msItem>
-<msItem class="undefined" n="14">
+<msItem class="undefined" n="15">
 <locus from="50r" to="51v"/>
 <title>HOURS_SPIRIT.prime</title>
 </msItem>
-<msItem class="undefined" n="15">
+<msItem class="undefined" n="16">
 <locus from="51v" to="53r"/>
 <title>HOURS_SPIRIT.terce</title>
 </msItem>
-<msItem class="undefined" n="16">
+<msItem class="undefined" n="17">
 <locus from="53r" to="54r"/>
 <title>HOURS_SPIRIT.sext</title>
 </msItem>
-<msItem class="undefined" n="17">
+<msItem class="undefined" n="18">
 <locus from="54r" to="55r"/>
 <title>HOURS_SPIRIT.none</title>
 </msItem>
-<msItem class="undefined" n="18">
+<msItem class="undefined" n="19">
 <locus from="55r" to="56r"/>
 <title>HOURS_SPIRIT.vesper</title>
 </msItem>
-<msItem class="undefined" n="19">
+<msItem class="undefined" n="20">
 <locus from="56r" to="57r"/>
 <title>HOURS_SPIRIT.vesper</title>
 </msItem>
 </msItem>
-<msItem class="undefined" n="20">
+<msItem class="undefined" n="21">
 <locus from="57r" to="59v"/>
 <title>De sancte cruce</title>
 <incipit><hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e <hi>T</hi>ua<ex>m</ex> s<ex>an</ex>c<ex>t</ex>am c<ex>ru</ex>ce<ex>m</ex> adora </incipit>
 <explicit></explicit>
 </msItem>
-<msItem class="undefined" n="21">
+<msItem class="undefined" n="22">
 <locus from="59v" to="78r"/>
 <title>SEVEN_PSALMS</title>
 <incipit><hi>H</hi>ære æfftær fylgær the hellige syw psalmer </incipit>
 <explicit> alle som j skiærseeldhz pinæ æræ Amen</explicit>
 </msItem>
-<msItem class="undefined" n="22">
+<msItem class="undefined" n="23">
 <locus from="78r" to="98v"/>
 <title>HOURS_SOULS</title>
 <incipit><hi>H</hi><ex>er</ex>re gudh tagh th<ex>e</ex>n men<ex>n</ex>ige cristenh{z/}etz bøn </incipit>
 <explicit> <hi>H</hi><ex>er</ex>re ney thinæ ørne til myne bøner </explicit>
 </msItem>
-<msItem class="prayer" n="23">
+<msItem class="undefined" n="24">
+<locus from="97r" to="97v"/>
+<title>Collects</title>
+</msItem>
+<msItem class="prayer" n="25">
 <locus from="99r" to="99v"/>
 <title>Prayer for all souls</title>
 <rubric><hi>H</hi>uo som thi<ex>n</ex>ne æffter skreffne bø<ex>n</ex> læsær for alle kristæne siæle j nogær kirka heller paa nogær kirkigardh tha for tienær han hu<ex>n</ex>drædæ daue til afflat for huer krop ther begraue<ex>n</ex> ær th<ex>et</ex> afflat stadfeste paue<ex>n</ex> i<ex>n</ex><ex>con</ex>sta<ex>n</ex>tz</rubric>
 <incipit> <hi>O</hi> j alle cristæne siæle </incipit>
 <explicit> aff thin suaræ skiærseldhz pinæ Amen</explicit>
 </msItem>
-<msItem class="prayer" n="24">
+<msItem class="prayer" n="26">
 <locus from="99v" to="99v"/>
 <title/>
 <incipit>Jn no<ex>m</ex>i<ex>n</ex>e d<ex>omi</ex>ni ih<ex>es</ex>u Signe mik </incipit>
 <explicit> S<ex>an</ex>c<ex>t</ex>us S<ex>an</ex>c<ex>t</ex>us S<ex>an</ex>c<ex>t</ex>us Gl<ex>ori</ex>a p<ex>at</ex>ri</explicit>
 </msItem>
-<msItem class="prayer" n="25">
+<msItem class="prayer" n="27">
 <locus from="99v" to="99v"/>
 <title/>
 <incipit><hi>J</hi>æch signer mik m<ex>eth</ex> gudh hans b<ex>e</ex>n<ex>e</ex>dide makt </incipit>
 <explicit> oc liiff nw oc ewi<ex>n</ex>nelig</explicit>
 </msItem>
-<msItem class="prayer" n="26">
+<msItem class="prayer" n="28">
 <locus from="100r" to="101r"/>
 <title>Cross (Charlemagne)</title>
 <rubric></rubric>
-<incipit>p<ex>ate</ex>r n<ex>oste</ex>r Aue ma<ex>ria</ex> <hi>T</hi>hi<ex>n</ex>ne for skreffne bøn dictæ och skreff leo paue ...**</incipit>
+<incipit>p<ex>ate</ex>r n<ex>oste</ex>r Aue ma<ex>ria</ex> <hi>T</hi>hi<ex>n</ex>ne for skreffne bøn dictæ och skreff leo paue ...</incipit>
+<finalRubric></finalRubric>
 </msItem>
-<msItem class="prayer" n="27">
+<msItem class="prayer" n="29">
 <locus from="101v" to="102r"/>
 <title>Trinity</title>
 <incipit><hi>O</hi> helligæstæ mektugestæ ærefuch och v atskillelige trefoldugh<ex>et</ex> </incipit>
 <explicit> til thit clareste hi<ex>m</ex>merigis rigi och liue th<ex>e</ex>r m<ex>eth</ex> thik ewi<ex>n</ex>neligh Am<ex>en</ex></explicit>
 </msItem>
-<msItem class="prayer" n="28">
+<msItem class="prayer" n="30">
 <locus from="102r" to="102v"/>
 <title>Trinity</title>
 <rubric>je<ex>n</ex> god bøn aff the<ex>n</ex> hellig trefoldugh<ex>et</ex></rubric>
 <incipit> <hi>O</hi> helligeste trefoldugh<ex>et</ex> som ær ie<ex>n</ex> sandher gudh </incipit>
-<explicit> j hi<ex>m</ex>mærige til ewig tidh Amen **p<ex>ate</ex>r n<ex>oste</ex>r**</explicit>
+<explicit> j hi<ex>m</ex>mærige til ewig tidh Amen </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
-<msItem class="undefined" n="29">
+<msItem class="undefined" n="31">
 <locus from="102v" to="103r"/>
 <title/>
 <rubric>Hære æffter skriffues tre bøner af the hellige trefoldughet mygh<ex>et</ex> gode</rubric>
 <incipit> <hi>O</hi> Aldær mectugæste ewigh gudh </incipit>
 <explicit> til hi<ex>m</ex>mærigis rigi æfftær myn døth Am<ex>en</ex></explicit>
 </msItem>
-<msItem class="undefined" n="30">
+<msItem class="undefined" n="32">
 <locus from="103r" to="103v"/>
 <title/>
 <rubric>jen god bøn mod v nyttelig ordh tancker oc gierni<ex>n</ex>g<ex>e</ex>r</rubric>
 <incipit> <hi>O</hi> ih<ex>es</ex>u <ex>christ</ex>e leffwindis gudz søn </incipit>
 <explicit> til loff och ære Ame<ex>n</ex></explicit>
 </msItem>
-<msItem class="undefined" n="31">
+<msItem class="undefined" n="33">
 <locus from="103v" to="104r"/>
 <title/>
 <rubric>Hære æfftær fylgær ien vælsignelsæ so<ex>m</ex> leo paue gaff kongæn aff cypren mod alle fare andæligh heller legomligh</rubric>
 <incipit> <hi>W</hi>ors h<ex>er</ex>ræs ih<ex>es</ex>u <ex>christ</ex>i fredh </incipit>
-<explicit> mildhet och barmhiærtugh<ex>et</ex> Ame<ex>n</ex> **p<ex>ate</ex>r n<ex>oste</ex>r Aue**</explicit>
+<explicit> mildhet och barmhiærtugh<ex>et</ex> Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r Aue</finalRubric>
 </msItem>
-<msItem class="undefined" n="32">
+<msItem class="undefined" n="34">
 <locus from="104r" to="105r"/>
 <title/>
 <rubric>Thi<ex>n</ex>ne æffter skreffne bøn dictæ s<ex>an</ex>c<ex>t</ex>us augustin<ex>us</ex> aff th<ex>e</ex>n helligandz indh gydilsæ huo hi<ex>n</ex>ne les horer hell<ex>er</ex> bæær pa sik ha<ex>n</ex> skal icki for fares paa iorde<ex>n</ex> j ved<ex>e</ex>r va<ex>n</ex>d hell<ex>er</ex> ildh ha<ex>n</ex> skal ey dø aff brad døt</rubric>
 <incipit> <hi>O</hi> thu altzo<ex>m</ex>mektugeste gudh </incipit>
 <explicit> gudh fadærs søns och then helligh and</explicit>
 </msItem>
-<msItem class="undefined" n="33">
+<msItem class="undefined" n="35">
 <locus from="105r" to="105r"/>
 <title/>
 <rubric>It<ex>em</ex> giør jet kors for j thit anlet fyrst om morgen thu opp standær och seyæ sa som hære æfftær standær tha skal thic icke skade dieffuele<ex>n</ex> hell<ex>er</ex> nogæt vnt</rubric>
 <incipit> <hi>J</hi>h<ex>esus</ex> nazaren<ex>us</ex> rex iudeoru<ex>m</ex> beskiørme os </incipit>
-<explicit> bode til liiff och siæl Ame<ex>n</ex> **p<ex>ate</ex>r n<ex>oste</ex>r**</explicit>
+<explicit> bode til liiff och siæl Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
-<msItem class="undefined" n="34">
+<msItem class="undefined" n="36">
 <locus from="105v" to="106r"/>
 <title/>
 <rubric>Hæræ æffter skriffues ie<ex>n</ex> mygh<ex>et</ex> godh befahlsæ som j skal læsæ huer otte daue</rubric>
 <incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e jæch befalær mik thissæ otte daue och ottæ nattær </incipit>
 <explicit> j naffn fadær och søn och then helligh and</explicit>
 </msItem>
-<msItem class="undefined" n="35">
+<msItem class="undefined" n="37">
 <locus from="106r" to="107r"/>
 <title/>
 <rubric>Hære æffter skriffues jen mygh<ex>et</ex> godh bøn aff th<ex>e</ex>n helligæ trefoldugh<ex>et</ex></rubric>
 <incipit> <hi>O</hi> thak och loff och hed<ex>e</ex>r och ære </incipit>
 <explicit> j hi<ex>m</ex>mærigis ære ewi<ex>n</ex>neligh Ame<ex>n</ex></explicit>
 </msItem>
-<msItem class="undefined" n="36">
-<locus from="107r" to="undefined"/>
-<title/>
-</msItem>
-<msItem class="undefined" n="37">
-<locus from="107r" to="undefined"/>
-<title/>
-</msItem>
 <msItem class="undefined" n="38">
-<locus from="107v" to="undefined"/>
+<locus from="107r" to="107r"/>
 <title/>
+<rubric>Ite<ex>m</ex> huo som gudæligh huer dagh læs thissæ æfftær skreffne ord j the hellighæ trefoldugh<ex>et</ex> ære th<ex>e</ex>n dagh skal han vær trygh aff brad døth aff torde<ex>n</ex> aff pestilencie och aff alle drøuelsæ och vode huilket <name key="JOHN_DAMASCUS">damascen<ex>us</ex></name> skriffuer j sin bog</rubric>
+<incipit> <hi>S</hi><ex>an</ex>c<ex>t</ex>us s<ex>an</ex>c<ex>t</ex>us s<ex>an</ex>c<ex>t</ex>us d<ex>omi</ex>n<ex>u</ex>s deus </incipit>
+<explicit> et i<ex>n</ex> mortalis inferere nobis</explicit>
 </msItem>
 <msItem class="undefined" n="39">
-<locus from="108v" to="undefined"/>
+<locus from="107r" to="107r"/>
 <title/>
+<rubric>It<ex>em</ex> ie<ex>n</ex> anne<ex>n</ex> loff sangh aff the hellige trefolugh<ex>et</ex></rubric>
+<incipit> <hi>H</hi>ellig helligh helligh æst thu h<ex>er</ex>re gud </incipit>
+<explicit> o hellighæ trefoldugh<ex>et</ex></explicit>
 </msItem>
 <msItem class="undefined" n="40">
-<locus from="108v" to="undefined"/>
+<locus from="107r" to="108r"/>
 <title/>
+<rubric>It<ex>em</ex> siges thi<ex>n</ex>ne for skreffne loff sang ath haue sadan dygh och makt ... aff helligeste trefoldugh<ex>et</ex></rubric>
+<incipit> <hi>O</hi> iarne alzo<ex>m</ex> mektugæstæ gudh fadær och søn och then hellig andh </incipit>
+<explicit> tak ewi<ex>n</ex>neligh o hellige trefoldugh<ex>et</ex></explicit>
 </msItem>
 <msItem class="undefined" n="41">
-<locus from="109r" to="undefined"/>
+<locus from="108r" to="108v"/>
 <title/>
+<rubric>It<ex>em</ex> thi<ex>n</ex>ne for skreffne tre talen troligh och gudeligh læs ær krafftigh mod alle vode ... och til hi<ex>n</ex>ne ær giue<ex>n</ex> too thusindh ar och too c och sextyue dage</rubric>
+<incipit> <hi>O</hi> hellige och vt skieleligh trefoldugh<ex>et</ex> </incipit>
+<explicit> aff alle kreatur ewerdeligh efor vthen ændæ Amen</explicit>
 </msItem>
 <msItem class="undefined" n="42">
-<locus from="110r" to="undefined"/>
+<locus from="108v" to="109r"/>
 <title/>
+<rubric>It<ex>em</ex> thi<ex>n</ex>ne æffter skreffne bøn hauer s<ex>an</ex>c<ex>t</ex>us <name key="AUGUSTINE">augustin<ex>us</ex></name> giord ... jt<ex>em</ex> b<ex>e</ex>n<ex>e</ex>dict<ex>us</ex> the<ex>n</ex> xij paue som msa hedh stadfæste th<ex>et</ex>te afflat</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e thu som for værildens løsen skylh </incipit>
+<explicit> thu som leffuær m<ex>eth</ex> gudh fadær och søn och then hellig andh Amen </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
 <msItem class="undefined" n="43">
-<locus from="116v" to="undefined"/>
+<locus from="109r" to="110r"/>
 <title/>
+<rubric>S<ex>an</ex>c<ex>t</ex>us <name key="GREGORY">gregori<ex>us</ex></name> gaff alle som læser thi<ex>n</ex>ne æffter skreffne bøn ... aff alle hans for glømdhæ synær til giuen</rubric>
+<incipit> <hi>O</hi> kiæræ h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e thu som æst alzo nadæ fullæstæ </incipit>
+<explicit> for alle mynæ syndær Amen</explicit>
 </msItem>
 <msItem class="undefined" n="44">
-<locus from="117v" to="undefined"/>
-<title/>
+<locus from="110r" to="116v"/>
+<title>15_OS</title>
+<rubric><hi>I</hi>een helligh qwi<ex>n</ex>ne{r/} astu<ex>n</ex>dhet ath vidæ taal aff ih<ex>es</ex>u <ex>christ</ex>i pine och saar ... som ha<ex>n</ex> giømde s<ex>an</ex>c<ex>t</ex>e pouel fra haffue<ex>n</ex>s bandh Ame<ex>n</ex></rubric>
+<incipit> <hi>O</hi> Sødhæ h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e ewærdeligh thiere sødme </incipit>
+<explicit> och sa gudæligh<ex>et</ex> akt Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="45">
-<locus from="118v" to="undefined"/>
-<title/>
+<locus from="116v" to="117v"/>
+<title>O_BONE_JESU</title>
+<rubric>E huo thi<ex>n</ex>ne æffter skreffne bøn læsær vors h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>i naffn til ære ... och giuer ha<ex>num</ex> liiffs fræst til at bedræ sik</rubric>
+<incipit> <hi>O</hi> godhæ ih<ex>es</ex>u O sødistæ i<ex>esv</ex> </incipit>
+<explicit> och regnerer til ewigh tidh Am<ex>en</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r</finalRubric>
 </msItem>
 <msItem class="undefined" n="46">
-<locus from="119r" to="undefined"/>
-<title/>
+<locus from="117v" to="118v"/>
+<title>[ave dextra]</title>
+<rubric>Huo thi<ex>n</ex>ne æffter skreffne bø<ex>n</ex> læser uor h<ex>er</ex>ræs helligæ fæm vnder til ære han for thiener fæm c daue afflat so<ex>m</ex> s<ex>an</ex>c<ex>t</ex>us <name key="GREGORY">gregori<ex>us</ex></name> paue gaff th<ex>e</ex>r til</rubric>
+<incipit> <hi>H</hi>eel være thu vor h<ex>er</ex>ræs i<ex>esv</ex> <ex>christ</ex>i høgre handh </incipit>
+<explicit> j thin tienestæ och hyllestæ Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="47">
-<locus from="120v" to="undefined"/>
+<locus from="118v" to="119r"/>
 <title/>
+<rubric>Ien godh bøn ath tacke och loffwe then alzo<ex>m</ex> mektugeste gud m<ex>eth</ex></rubric>
+<incipit> <hi>W</hi>elsignelsæ clarh<ex>et</ex> visdom tak loff hedær och æræ </incipit>
+<explicit> och regnerer til ewigh tidh Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r Aue maria</finalRubric>
 </msItem>
 <msItem class="undefined" n="48">
-<locus from="120v" to="undefined"/>
-<title/>
+<locus from="119r" to="120v"/>
+<title>(verses of st gregory)</title>
+<rubric><hi>S</hi><ex>an</ex>c<ex>t</ex>us <name key="GREGORY">gregori<ex>us</ex></name> paue diktæde fæm aff thisse bøner hær æffter fylgær ... th<ex>e</ex>n tidh ko<ex>n</ex>ingh <name key="CHRISTIAN_I">cresten</name> aff da<ex>n</ex>mark var j rom ...</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e jæch til bedær thik </incipit>
+<explicit> ewi<ex>n</ex>neligh Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r Aue</finalRubric>
 </msItem>
 <msItem class="undefined" n="49">
-<locus from="122r" to="undefined"/>
+<locus from="120v" to="120v"/>
 <title/>
+<rubric><hi>H</hi>uo som thi<ex>n</ex>ne bøn læsær han fortiener manghæ thusindh aar afflat</rubric>
+<incipit> <hi>O</hi> korssæns høgælsæ </incipit>
+<explicit> til den ewige salligh<ex>et</ex> Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="50">
-<locus from="122v" to="undefined"/>
+<locus from="120v" to="122r"/>
 <title/>
+<rubric><hi>H</hi>uo som thi<ex>n</ex>ne æffter skreffne bø<ex>n</ex> læsær vors h<ex>er</ex>ræ le<ex>m</ex>mer døth oc pine til ære och amy<ex>n</ex>nelsæ han for tiener tolff thusindh aar afflat och fong<ex>e</ex>r housualelsæ j all hans sorigh och modh gangh och bliffuer bewaret fra hans fiendær och v væ<ex>n</ex>ner</rubric>
+<incipit> <hi>H</hi>eel være vors h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>i houet </incipit>
+<explicit> som regnerer nu och ewi<ex>n</ex>neligh Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="51">
-<locus from="123v" to="undefined"/>
+<locus from="122r" to="122v"/>
 <title/>
+<rubric><hi>H</hi>uo som thi<ex>n</ex>ne æffter skreffne bø<ex>n</ex> læsæ for vors h<ex>er</ex>ræ vabe<ex>n</ex> han for tiene tree aar afflat som <name key="LEO">leo</name> pauæ gaff ... och gaff th<ex>e</ex>r hu<ex>n</ex>dret daue til</rubric>
+<incipit> <hi>L</hi>off hedær och ære være ih<ex>es</ex>u <ex>christ</ex>i kors </incipit>
+<explicit> fra the<ex>n</ex> ewige pine Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
 <msItem class="undefined" n="52">
-<locus from="124r" to="undefined"/>
+<locus from="122v" to="123v"/>
 <title/>
+<rubric><hi>M</hi>ærk ath s<ex>an</ex>c<ex>t</ex>us <name key="BERNARD">bernard<ex>us</ex></name> spordhæ vor h<ex>er</ex>ræ ath huat hans størstæ pine var ... och ær thi<ex>n</ex>ne same bøn beskreffue<ex>n</ex> j paue<ex>n</ex>s register j rom</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e thus om æst toolmodugh<ex>et</ex> och jeth vskyldughæ lamb </incipit>
+<explicit> j th<ex>e</ex>n ewighe salligh<ex>et</ex> Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="53">
-<locus from="125v" to="undefined"/>
-<title/>
+<locus from="123v" to="124r"/>
+<title>A prayer to Christ's wounds</title>
+<rubric>Jen godh bøn ath louæ och tackæ gudh m<ex>eth</ex> for alle hans v<ex>er</ex>duge saar som ha<ex>n</ex> tolde for vor salligh<ex>et</ex></rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e jech tacker tich ødmygæligh for the fæm thusind firæ hundret halff fiærde sinæ xx och fæm saar </incipit>
+<explicit> lewer styrer och regnerer til ewigh tidh Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r Aue maria</finalRubric>
 </msItem>
 <msItem class="undefined" n="54">
-<locus from="126v" to="undefined"/>
+<locus from="124r" to="125v"/>
 <title/>
+<rubric><hi>J</hi>en læge brodær j s<ex>an</ex>c<ex>t</ex>i <name key="BERNARD">bernardi</name> orde<ex>n</ex> tog sik fore ie<ex>n</ex> godh sedhwone och læstæ huerdagh j xx ar førræ han døde tre p<ex>ate</ex>r n<ex>oste</ex>r och aue maria til gudh ...</rubric>
+<incipit> <hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e leffwindis gusz søn och iomfrw maria søn </incipit>
+<explicit> thin sign<ex>et</ex> viliæ och th<ex>e</ex>n store miskundh Ame<ex>n</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r Aue ma<ex>ria</ex></finalRubric>
 </msItem>
 <msItem class="undefined" n="55">
-<locus from="126v" to="undefined"/>
+<locus from="125v" to="126v"/>
 <title/>
+<rubric><hi>T</hi>hisse tre stackæde æffter skreffne bøner skal læses m<ex>eth</ex> tre p<ex>ate</ex>r n<ex>oste</ex>r oc aue maria och ther ær giue<ex>n</ex> xij fogræ gaw<ex>er</ex> til ...</rubric>
+<incipit> <hi>O</hi> Mildhæ h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e myn gud myn h<ex>er</ex>ræ myn skabær myn salligh giører </incipit>
+<explicit> och giiff alle kristæne siæle ewi<ex>n</ex>nelig glede</explicit>
 </msItem>
 <msItem class="undefined" n="56">
-<locus from="126v" to="undefined"/>
+<locus from="126v" to="126v"/>
 <title/>
+<rubric><hi>U</hi>or h<ex>er</ex>ræ ha<ex>n</ex> seyær saa j s<ex>an</ex>c<ex>t</ex>e <name key="BIRGITTA">birgitte</name> bogh at jngen ær saa stoor syndær at læsær ha<ex>n</ex> thisse æffter skrene ordh at ha<ex>num</ex> for lades e alle sine synd<ex>e</ex>r</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ gudh jæch ki<ex>n</ex>nes mik suarlig ath haue syndh<ex>et</ex> </incipit>
+<explicit> for thin bieske pine och døt</explicit>
 </msItem>
 <msItem class="undefined" n="57">
-<locus from="127r" to="undefined"/>
+<locus from="126v" to="126v"/>
 <title/>
+<rubric><hi>H</hi>uo som helst thi<ex>n</ex>ne bø<ex>n</ex> les daueligh han skal jndgange glede<ex>n</ex> for vthen alle pine</rubric>
+<incipit> <hi>O</hi> h<ex>eer</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e leffwindis gudz sø<ex>n</ex> [..] aff thi<ex>n</ex>ne græde fuldh daal Ame<ex>n</ex></incipit>
 </msItem>
 <msItem class="undefined" n="58">
-<locus from="127v" to="undefined"/>
+<locus from="126v" to="127r"/>
 <title/>
+<rubric><hi>T</hi>hi<ex>n</ex>ne æffter skrene bøn giordhe s<ex>an</ex>c<ex>t</ex>us <name key="AUGUSTINE">augustin<ex>us</ex></name> och huo som hi<ex>n</ex>ne les dauelig pa sine knæ han skal ey døø j dødæligh syndær om han ey syndær ther appa</rubric>
+<incipit> <hi>O</hi> thu wbegribeligh mildh<ex>et</ex> skodh meg vsle syndære </incipit>
+<explicit> m<ex>eth</ex> thin miskwndh ma<ex>n</ex>ge foldh<ex>et</ex> Amen </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r Aue</finalRubric>
 </msItem>
 <msItem class="undefined" n="59">
-<locus from="129r" to="undefined"/>
+<locus from="127r" to="127r"/>
 <title/>
+<rubric><hi>N</hi>ar man gangær j kirke<ex>n</ex> tha skal ma<ex>n</ex> ga til th<ex>et</ex> hellige kors och læse p<ex>ate</ex>r n<ex>oste</ex>r fem aue maria m<ex>eth</ex> the fem bøner som hære æfftær staar skreffue<ex>n</ex></rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ gudh hære staar jech for tik </incipit>
+<explicit> pa myn sistæ tidh Am<ex>en</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
 <msItem class="undefined" n="60">
-<locus from="132v" to="undefined"/>
+<locus from="127v" to="129r"/>
 <title/>
+<rubric><hi>H</hi>uo som thi<ex>n</ex>ne æfftær skreffne bøn læsær j nogær mæssæ tha vord<ex>e</ex>r han lottagen aff alle the messær och gudæligh bøner th<ex>e</ex>r bedes och seyæs sa vide som krestenhet ær ...</rubric>
+<incipit> <hi>H</hi>edær och loff och offær giører jæch thik ewi<ex>n</ex>neligh fadær </incipit>
+<explicit> til vor ydærste time th<ex>e</ex>r vi j værden leffuer Am<ex>en</ex></explicit>
 </msItem>
 <msItem class="undefined" n="61">
-<locus from="134r" to="undefined"/>
+<locus from="129r" to="132r"/>
 <title/>
+<rubric><hi>H</hi>ære æfftær skriffues the fir<ex>e</ex> och xx pu<ex>n</ex>cte aff vor h<ex>er</ex>ræ i<ex>esv</ex> <ex>christi</ex> pine oc ær mærkinde at han tolde sin pine xxiiij stwndær och for the firæ och xx stwnd<ex>e</ex>r ær thiss firæ och xx pu<ex>n</ex>cte sattæ til same<ex>n</ex> ...</rubric>
+<incipit> <hi>T</hi>h<ex>e</ex>n fyrstæ pu<ex>n</ex>ct ær hure vor h<ex>er</ex>ræ ih<ex>esus</ex> <ex>christus</ex> saadh appa skiærstorsdagh </incipit>
+<explicit> th<ex>et</ex> vndhe os alle samen gudh fadær och søn och the<ex>n</ex> helligandh Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="62">
-<locus from="135r" to="undefined"/>
-<title/>
+<locus from="132v" to="134r"/>
+<title>Name prayer</title>
+<rubric><hi>H</hi>uo som thi<ex>n</ex>ne æffter skreffne bøn huerdagh læsær ha<ex>n</ex> fo<ex>n</ex>g<ex>e</ex>r for ladilsæ aff sine syndær ...</rubric>
+<incipit> <hi>H</hi><ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e alzom kiæriste fadær och søn och the<ex>n</ex> helligh andh </incipit>
+<explicit> nw och alle myne daue Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="63">
-<locus from="137r" to="undefined"/>
+<locus from="134r" to="135r"/>
 <title/>
+<rubric>les tre p<ex>ate</ex>r n<ex>oste</ex>r och aue maria och seyæ saa</rubric>
+<incipit> <hi>T</hi>hisse tre p<ex>ate</ex>r n<ex>oste</ex>r och aue maria offer thik </incipit>
+<explicit> fraa th<ex>e</ex>n ewærdeligh døth bode til siel och liiff Amen</explicit>
 </msItem>
 <msItem class="undefined" n="64">
-<locus from="137r" to="undefined"/>
-<title/>
+<locus from="135r" to="137r"/>
+<title>How to read Psalter</title>
+<rubric><hi>H</hi>ære æffter skriffues hure j skulle læsæ vors h<ex>er</ex>æ psalter och skulle hu<ex>n</ex> læses om syndagen betide<ex>n</ex> før sool gang<ex>e</ex>r opp ...</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e jech offær thik thisse xx p<ex>ate</ex>r n<ex>oste</ex>r och xx aue ma<ex>ria</ex> til loff hedær och ære </incipit>
+<explicit> och for thu sænde appostel th<ex>e</ex>n helligh andh paa pinsz dagh Am<ex>en</ex></explicit>
 </msItem>
 <msItem class="undefined" n="65">
-<locus from="138r" to="undefined"/>
-<title/>
+<locus from="137r" to="137r"/>
+<title>For parents' souls</title>
+<rubric>jen mygh<ex>et</ex> godh bøn at læsæ for sin fader och moders siæl</rubric>
+<incipit> <hi>J</hi>Æch beder thic h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e ath thu frælsær mik och myn fader oc moders siæl </incipit>
+<explicit> fra alle thiere v væ<ex>n</ex>ner siønlig och v siønligh nw och ewi<ex>n</ex>nelig</explicit>
 </msItem>
 <msItem class="undefined" n="66">
-<locus from="139r" to="undefined"/>
-<title/>
+<locus from="137r" to="138r"/>
+<title>For all living and dead</title>
+<rubric>Jen anne<ex>n</ex> mygh<ex>et</ex> god bøn aff vor h<ex>er</ex>ræ for alle lewinde oc døde</rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e leffwindis fusz sø<ex>n</ex> jæch beder tik ødmygelig for all the<ex>n</ex> bieskh<ex>et</ex> thu ledde pa mik </incipit>
+<explicit> som ær velsignet ewi<ex>n</ex>neligh Ame<ex>en</ex></explicit>
 </msItem>
 <msItem class="undefined" n="67">
-<locus from="139v" to="undefined"/>
+<locus from="138r" to="139r"/>
 <title/>
+<rubric>om syndauen bri<ex>n</ex>ne try lyus och les tre p<ex>ate</ex>r n<ex>oste</ex>r och aue ma<ex>ria</ex> the<ex>n</ex> hellige trefoldugh<ex>et</ex> til loff</rubric>
+<incipit> <hi>T</hi>h<ex>et</ex>te lyus offær jech thik the hellighe trefolugh<ex>et</ex> </incipit>
+<explicit> til myn døsz time Am<ex>en</ex> </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
 <msItem class="undefined" n="68">
-<locus from="144v" to="undefined"/>
+<locus from="139r" to="139v"/>
 <title/>
+<rubric></rubric>
+<incipit>p<ex>ate</ex>r n<ex>oste</ex>r</incipit>
+<finalRubric></finalRubric>
 </msItem>
 <msItem class="undefined" n="69">
-<locus from="145v" to="undefined"/>
-<title/>
+<locus from="139v" to="144v"/>
+<title>Eucharist</title>
+<rubric><hi>H</hi>uo som aktær gudæligh ath tage til sik th<ex>et</ex> værdugæ sacrame<ex>n</ex>te ...</rubric>
+<incipit> <hi>O</hi> thu altzo<ex>m</ex>barmhiærtugæste fadær jæch arme synduge me<ex>n</ex>niske ko<ex>m</ex>mer nw til tik </incipit>
+<explicit> oc ladh mik jcki skilies vet thik e for vthen ændhæ Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="70">
-<locus from="146v" to="undefined"/>
-<title/>
+<locus from="144v" to="145v"/>
+<title>Eucharist</title>
+<rubric>Thi<ex>n</ex>sse bøner skal læses førrø øn j tager gudz lego<ex>m</ex>me ...</rubric>
+<incipit> <hi>O</hi> aldær værdugæstæ gud h<ex>er</ex>ræ och skabær </incipit>
+<explicit> til ewærdeligh ære och loff efor vthen ænde Am<ex>en</ex></explicit>
 </msItem>
 <msItem class="undefined" n="71">
-<locus from="147r" to="undefined"/>
-<title/>
+<locus from="145v" to="146v"/>
+<title>Eucharist</title>
+<rubric>thi<ex>n</ex>ne bøn skal lese forre æn j tag<ex>e</ex>r gusz lego<ex>m</ex></rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e m<ex>eth</ex> skielffwindæ samwit gaar jech fram </incipit>
+<explicit> och hielso<ex>m</ex>ligh ændelight Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="72">
-<locus from="147v" to="undefined"/>
-<title/>
+<locus from="146v" to="147r"/>
+<title>Eucharist</title>
+<rubric>thi<ex>n</ex>ne bøn skal læses førre øn j tager gusz lego<ex>m</ex></rubric>
+<incipit> <hi>O</hi> h<ex>er</ex>ræ ih<ex>es</ex>u <ex>christ</ex>e huo heller huilke<ex>n</ex> ær jæc </incipit>
+<explicit> tik gladeligh skode j thi<ex>n</ex> ew<ex>er</ex>deligh ære Am<ex>en</ex></explicit>
 </msItem>
 <msItem class="undefined" n="73">
-<locus from="148r" to="undefined"/>
-<title/>
+<locus from="147r" to="147v"/>
+<title>Eucharist</title>
 </msItem>
 <msItem class="undefined" n="74">
-<locus from="148v" to="undefined"/>
-<title/>
+<locus from="147v" to="148r"/>
+<title>Eucharist</title>
 </msItem>
 <msItem class="undefined" n="75">
-<locus from="149r" to="undefined"/>
-<title/>
+<locus from="148r" to="148v"/>
+<title>Eucharist</title>
 </msItem>
-<msItem class="undefined" n="76">
-<locus from="153v" to="undefined"/>
+<msItem class="Directions" n="76">
+<locus from="148v" to="148v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="77">
-<locus from="155v" to="undefined"/>
-<title/>
+<locus from="149r" to="153v"/>
+<title>KRONGEBET</title>
 </msItem>
 <msItem class="undefined" n="78">
-<locus from="156r" to="undefined"/>
+<locus from="153v" to="155v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="79">
-<locus from="156v" to="undefined"/>
+<locus from="155v" to="156r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="80">
-<locus from="160r" to="undefined"/>
-<title/>
+<locus from="156r" to="156v"/>
+<title>(day of our lady)</title>
 </msItem>
 <msItem class="undefined" n="81">
-<locus from="161r" to="undefined"/>
+<locus from="156v" to="160r"/>
 <title/>
+<rubric><hi>T</hi><ex>et</ex> seyæs ath s<ex>an</ex>c<ex>t</ex>us <name key="JOHN_EVANGELIST">ioha<ex>n</ex>nes</name> ewa<ex>n</ex>geliste han astu<ex>n</ex>dh<ex>et</ex> at se iomf<ex>rv</ex> maria æffter ath hu<ex>n</ex> var op tagh<ex>et</ex> til hi<ex>m</ex>merigis ...</rubric>
+<incipit> <hi>O</hi> Maria sødiste ih<ex>es</ex>u <ex>christ</ex>i moder syndughæ me<ex>n</ex>niskes hielpære </incipit>
+<explicit> ath loffue ewi<ex>n</ex>neligh e for vth<ex>e</ex>n ænde Am<ex>en</ex></explicit>
 </msItem>
 <msItem class="undefined" n="82">
-<locus from="161v" to="undefined"/>
-<title/>
+<locus from="160r" to="161r"/>
+<title>Seven sorrows</title>
+<rubric>hære æffter skriffues iomfru maria syw drøuelse so<ex>m</ex> hu<ex>n</ex> haude j v<ex>er</ex>de<ex>n</ex></rubric>
+<incipit> <hi>O</hi> aldær helligæste iomfrw maria </incipit>
+<explicit> til ewigh tidh Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="83">
-<locus from="162r" to="undefined"/>
+<locus from="161r" to="161v"/>
 <title/>
+<rubric>je<ex>n</ex> godh bøn til io<ex>m</ex>fru maria som stand<ex>e</ex>r j s<ex>an</ex>c<ex>t</ex>e <name key="BIRGITTA">birgite bog</name></rubric>
+<incipit> <hi>O</hi> misku<ex>n</ex>dhetz modær maria jech befalær mik j dagh </incipit>
+<explicit> och myn arme siel nyttælighe Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="84">
-<locus from="162v" to="undefined"/>
-<title/>
+<locus from="161v" to="162r"/>
+<title>(Bernard)</title>
 </msItem>
 <msItem class="undefined" n="85">
-<locus from="163r" to="undefined"/>
+<locus from="162r" to="162v"/>
 <title/>
+<rubric><hi>H</hi>uilke<ex>n</ex> me<ex>n</ex>niske so<ex>m</ex> giærne læsær thi<ex>n</ex>ne æfftær skreffne bøn for iomf<ex>rv</ex> maria tha for hueruer hu<ex>n</ex> ha<ex>num</ex> affløsingh aff alle sine syndær</rubric>
+<incipit> <hi>O</hi> Maria alle ængele och ouer ængel </incipit>
+<explicit> j hi<ex>m</ex>mærigis rigi e for vde<ex>n</ex> ænde</explicit>
 </msItem>
 <msItem class="undefined" n="86">
-<locus from="163r" to="undefined"/>
+<locus from="162v" to="163r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="87">
-<locus from="164r" to="undefined"/>
+<locus from="163r" to="163r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="88">
-<locus from="164v" to="undefined"/>
+<locus from="163r" to="164r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="89">
-<locus from="165r" to="undefined"/>
-<title/>
+<locus from="164r" to="164v"/>
+<title>Mary's words under the cross</title>
 </msItem>
 <msItem class="undefined" n="90">
-<locus from="165r" to="undefined"/>
+<locus from="164v" to="165r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="91">
-<locus from="165r" to="undefined"/>
+<locus from="165r" to="165r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="92">
-<locus from="165v" to="undefined"/>
+<locus from="165r" to="165r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="93">
-<locus from="170r" to="undefined"/>
+<locus from="165r" to="165v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="94">
-<locus from="171v" to="undefined"/>
-<title/>
+<locus from="165v" to="170r"/>
+<title>(Mary's joys?)</title>
 </msItem>
 <msItem class="undefined" n="95">
-<locus from="172v" to="undefined"/>
-<title/>
+<locus from="170r" to="171v"/>
+<title>Mary's seven joys</title>
+<rubric>Hære æffter skriffues syw nøner aff iomfru maria syw gledær</rubric>
+<incipit> <hi>O</hi> aldær mildæstæ iomfru ma<ex>ria</ex> jæch bedær thik ødmygælig ath thu formedælstæ the<ex>n</ex> gledæ thu fækst </incipit>
+<explicit> och frælses fra alle mynæ v ve<ex>n</ex>ner siønligh och v siønligh Amen </explicit>
+<finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
 <msItem class="undefined" n="96">
-<locus from="173v" to="undefined"/>
+<locus from="171v" to="172v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="97">
-<locus from="175v" to="undefined"/>
+<locus from="172v" to="173v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="98">
-<locus from="175v" to="undefined"/>
-<title/>
+<locus from="173v" to="175r"/>
+<title>Fifteen joys</title>
 </msItem>
 <msItem class="undefined" n="99">
-<locus from="176r" to="undefined"/>
+<locus from="175v" to="175v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="100">
-<locus from="176v" to="undefined"/>
+<locus from="175v" to="176r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="101">
-<locus from="178r" to="undefined"/>
-<title/>
+<locus from="176r" to="176v"/>
+<title>St. Anne</title>
 </msItem>
 <msItem class="undefined" n="102">
-<locus from="179r" to="undefined"/>
-<title/>
+<locus from="176v" to="178r"/>
+<title>St. Anne</title>
 </msItem>
 <msItem class="undefined" n="103">
-<locus from="179v" to="undefined"/>
-<title/>
+<locus from="178r" to="179r"/>
+<title>St. Anne</title>
 </msItem>
 <msItem class="undefined" n="104">
-<locus from="180r" to="undefined"/>
-<title/>
+<locus from="179r" to="179v"/>
+<title>One's angel</title>
 </msItem>
 <msItem class="undefined" n="105">
-<locus from="180v" to="undefined"/>
-<title/>
+<locus from="179v" to="180r"/>
+<title>St. Peter</title>
 </msItem>
 <msItem class="undefined" n="106">
-<locus from="181r" to="undefined"/>
-<title/>
+<locus from="180r" to="180v"/>
+<title>St. John Evangelist</title>
 </msItem>
 <msItem class="undefined" n="107">
-<locus from="181v" to="undefined"/>
-<title/>
+<locus from="180v" to="181r"/>
+<title>St. Paul</title>
 </msItem>
 <msItem class="undefined" n="108">
-<locus from="182v" to="undefined"/>
-<title/>
+<locus from="181r" to="181v"/>
+<title>Three Kings</title>
 </msItem>
 <msItem class="undefined" n="109">
-<locus from="183r" to="undefined"/>
-<title/>
+<locus from="181v" to="182v"/>
+<title>St. Erasmus</title>
 </msItem>
 <msItem class="undefined" n="110">
-<locus from="183r" to="undefined"/>
-<title/>
+<locus from="182v" to="183r"/>
+<title>St. Christopher</title>
 </msItem>
 <msItem class="undefined" n="111">
-<locus from="183v" to="undefined"/>
-<title/>
+<locus from="183r" to="183r"/>
+<title>10.000 Knights</title>
 </msItem>
 <msItem class="undefined" n="112">
-<locus from="184r" to="undefined"/>
-<title/>
+<locus from="183r" to="183v"/>
+<title>St. Sebastian (pestilence)</title>
 </msItem>
 <msItem class="undefined" n="113">
-<locus from="184r" to="undefined"/>
-<title/>
+<locus from="183v" to="184r"/>
+<title>St. Rochus(?)</title>
 </msItem>
 <msItem class="undefined" n="114">
-<locus from="184v" to="undefined"/>
+<locus from="184r" to="184r"/>
 <title/>
+<incipit><hi>T</hi> Jsraels børn the vortæ frælset </incipit>
+<explicit> vor gudh jn s<ex>e</ex>c<ex>u</ex>la s<ex>e</ex>c<ex>u</ex>loru<ex>m</ex> Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="115">
-<locus from="185r" to="undefined"/>
-<title/>
+<locus from="184r" to="184v"/>
+<title>St. Adrian</title>
 </msItem>
 <msItem class="undefined" n="116">
-<locus from="185v" to="undefined"/>
-<title/>
+<locus from="184v" to="185r"/>
+<title>St. Job</title>
 </msItem>
 <msItem class="undefined" n="117">
-<locus from="185v" to="undefined"/>
-<title/>
+<locus from="185r" to="185v"/>
+<title>15 Helpers</title>
 </msItem>
 <msItem class="undefined" n="118">
-<locus from="186v" to="undefined"/>
-<title/>
+<locus from="185v" to="185v"/>
+<title>St. George</title>
 </msItem>
 <msItem class="undefined" n="119">
-<locus from="187r" to="undefined"/>
-<title/>
+<locus from="185v" to="186v"/>
+<title>St. Francis</title>
 </msItem>
 <msItem class="undefined" n="120">
-<locus from="187v" to="undefined"/>
-<title/>
+<locus from="186v" to="187r"/>
+<title>St. Anthony</title>
 </msItem>
 <msItem class="undefined" n="121">
-<locus from="188r" to="undefined"/>
-<title/>
+<locus from="187r" to="187v"/>
+<title>St. Mary Magdalene</title>
 </msItem>
 <msItem class="undefined" n="122">
-<locus from="188r" to="undefined"/>
-<title/>
+<locus from="187v" to="187v"/>
+<title>Virgin saints</title>
 </msItem>
 <msItem class="undefined" n="123">
-<locus from="188v" to="undefined"/>
-<title/>
+<locus from="188r" to="188r"/>
+<title>Trinity</title>
 </msItem>
 <msItem class="undefined" n="124">
-<locus from="188v" to="undefined"/>
-<title/>
+<locus from="188r" to="188v"/>
+<title>Mary</title>
 </msItem>
 <msItem class="undefined" n="125">
-<locus from="189r" to="undefined"/>
+<locus from="188v" to="188v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="126">
-<locus from="189v" to="undefined"/>
-<title/>
+<locus from="188v" to="189r"/>
+<title>Holy Spirit</title>
 </msItem>
 <msItem class="undefined" n="127">
-<locus from="190v" to="undefined"/>
-<title/>
+<locus from="189r" to="189v"/>
+<title>Simeon</title>
 </msItem>
 <msItem class="undefined" n="128">
-<locus from="191r" to="undefined"/>
-<title/>
+<locus from="189v" to="189v"/>
+<title>NUNC_DIMITTIS</title>
 </msItem>
 <msItem class="undefined" n="129">
-<locus from="192v" to="undefined"/>
+<locus from="189v" to="190v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="130">
-<locus from="192v" to="undefined"/>
-<title/>
+<locus from="190v" to="191r"/>
+<title>Pope John II (three prayers)</title>
 </msItem>
 <msItem class="undefined" n="131">
-<locus from="193r" to="undefined"/>
-<title/>
+<locus from="191r" to="192v"/>
+<title>Augustine</title>
 </msItem>
 <msItem class="undefined" n="132">
-<locus from="193v" to="undefined"/>
+<locus from="192v" to="192v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="133">
-<locus from="193v" to="undefined"/>
+<locus from="192v" to="193r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="134">
-<locus from="193v" to="undefined"/>
-<title/>
+<locus from="193r" to="193r"/>
+<title>(continuation of 906)</title>
 </msItem>
 <msItem class="undefined" n="135">
-<locus from="193v" to="undefined"/>
+<locus from="193r" to="193v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="136">
-<locus from="194r" to="undefined"/>
+<locus from="193v" to="193v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="137">
-<locus from="194r" to="undefined"/>
+<locus from="193v" to="193v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="138">
-<locus from="194v" to="undefined"/>
+<locus from="193v" to="193v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="139">
-<locus from="195r" to="undefined"/>
+<locus from="193v" to="194r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="140">
-<locus from="195v" to="undefined"/>
+<locus from="194r" to="194r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="141">
-<locus from="195v" to="undefined"/>
+<locus from="194r" to="194v"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="142">
-<locus from="196r" to="undefined"/>
-<title/>
+<locus from="194v" to="195r"/>
+<title>St. Nicholas confessor</title>
 </msItem>
 <msItem class="undefined" n="143">
-<locus from="196r" to="undefined"/>
-<title/>
+<locus from="195r" to="195v"/>
+<title>St. Dorothy</title>
 </msItem>
 <msItem class="undefined" n="144">
-<locus from="196v" to="undefined"/>
-<title/>
+<locus from="195v" to="195v"/>
+<title>St. Gertrude</title>
 </msItem>
 <msItem class="undefined" n="145">
-<locus from="196v" to="undefined"/>
-<title/>
+<locus from="195v" to="196r"/>
+<title>St. Barbara</title>
 </msItem>
 <msItem class="undefined" n="146">
-<locus from="197r" to="undefined"/>
-<title/>
+<locus from="196r" to="196r"/>
+<title>St. Margaret</title>
 </msItem>
 <msItem class="undefined" n="147">
-<locus from="198r" to="undefined"/>
-<title/>
+<locus from="196r" to="196v"/>
+<title>St. Catherine</title>
 </msItem>
 <msItem class="undefined" n="148">
-<locus from="200r" to="undefined"/>
-<title/>
+<locus from="196v" to="196v"/>
+<title>St. Laurence</title>
 </msItem>
 <msItem class="undefined" n="149">
-<locus from="200v" to="undefined"/>
+<locus from="196v" to="197r"/>
 <title/>
 </msItem>
 <msItem class="undefined" n="150">
-<locus from="204r" to="undefined"/>
+<locus from="197r" to="198r"/>
+<title>All saints</title>
+</msItem>
+<msItem class="cycle" n="151">
+<locus from="198r" to="200r"/>
 <title/>
+</msItem>
+<msItem class="undefined" n="152">
+<locus from="200r" to="200r"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="153">
+<locus from="200v" to="204r"/>
+<title>St. Anne</title>
+</msItem>
+<msItem class="undefined" n="154">
+<locus from="204r" to="204v"/>
+<title>14 Pater Noster</title>
+</msItem>
+<msItem class="undefined" n="155">
+<locus from="208r" to="208r"/>
+<title>Distance from Candlemas to Shrovetide</title>
+</msItem>
+<msItem class="undefined" n="156">
+<locus from="208v" to="pastedown"/>
+<title>Annals</title>
 </msItem>
 </msContents>
 <physDesc>
 <objectDesc>
-<supportDesc>
-<extent></extent>
+<supportDesc material="perg">
+<support>parchment</support>
+<extent>208.<dimensions>
+<height>178</height>
+<width>125</width>
+</dimensions></extent>
 <collation>
 <list>
-</list>
+<item n="1">
+<locus from="1" to="10"/>
+</item><item n="2">
+<locus from="11" to="18"/>
+<desc>a</desc>
+</item><item n="3">
+<locus from="19" to="26?"/>
+</item><item n="4">
+<locus from="27" to="34?"/>
+</item><item n="5">
+<locus from="35" to="42?"/>
+<desc>d</desc>
+</item><item n="6">
+<locus from="43" to="50?"/>
+</item><item n="7">
+<locus from="51" to="58"/>
+<desc>f</desc>
+</item><item n="8">
+<locus from="59" to="66"/>
+<desc>g</desc>
+</item><item n="9">
+<locus from="67" to="74"/>
+<desc>h</desc>
+</item><item n="10">
+<locus from="75" to="82?"/>
+</item><item n="11">
+<locus from="83" to="90"/>
+<desc>quaternion</desc>
+</item><item n="12">
+<locus from="91" to="99"/>
+<desc>quire siganture at end</desc>
+</item><item n="14">
+<locus from="100" to="107"/>
+</item><item n="15">
+<locus from="108" to="115"/>
+</item><item n="16">
+<locus from="116" to="123"/>
+</item><item n="17">
+<locus from="124" to="131"/>
+</item><item n="18">
+<locus from="132" to="139"/>
+</item><item n="19">
+<locus from="140" to="147"/>
+</item><item n="20">
+<locus from="148" to="155"/>
+</item><item n="21">
+<locus from="156" to="163"/>
+</item><item n="22">
+<locus from="164" to="171"/>
+</item><item n="23">
+<locus from="172" to="180"/>
+<desc>uncleaer which leaf not conjoined</desc>
+</item><item n="24">
+<locus from="181" to="187"/>
+<desc>stub after 187</desc>
+</item><item n="26">
+<locus from="188" to="193"/>
+<desc>ternion. Hand shift</desc>
+</item><item n="27">
+<locus from="194" to="199"/>
+<desc>ternion</desc>
+</item><item n="28">
+<locus from="200" to="208"/>
+<desc>unclear which leaf not conjoined</desc>
+</item></list>
 </collation></supportDesc>
 </objectDesc>
 </physDesc>
