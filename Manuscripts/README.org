@@ -72,7 +72,6 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:./org/Link-Teol-0009.org][Cod. Theol. 9]]   | Psalter       | German, Latin |      |
 | [[file:org/Link-Teol-0010.org][Cod. Theol. 10]]  | Psalter       | German        |      |
 | [[file:org/Link-Teol-0215.org][Cod. Theol. 215]] | Psalter       | German        |      |
-| [[file:org/Link-Teol-0216.org][Cod. Theol. 216]] | Book of Hours | Dutch?        |      |
 | [[file:org/Link-Teol-0217.org][Cod. Theol. 217]] |               | Danish        |      |
 |-----------------+---------------+---------------+------|
 ** Lund, University Library
@@ -91,11 +90,12 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 
 
 * Manuscripts outside of the corpus proper
-|--------------+----------+---------------------------------------------------+---------------+-----------|
-| Repository   | Shelmark | Description                                       | Language(s)   |      Date |
-|--------------+----------+---------------------------------------------------+---------------+-----------|
-| KB Stockholm | A 89     | Gebeth-buch                                       | High German   |           |
-| KB Stockholm | A 218    | Aegidius von Assissi                              | German        |           |
-| KB Stockholm | A 234    | Latin composite manuscripts with Low German texts | German        |           |
-| Uppsala UB   | [[file:org/UUB-C-0495.org][C 495]]    | Psalterium, Low German                            | German, Latin | 1400-1499 |
-|--------------+----------+---------------------------------------------------+---------------+-----------|
+|--------------+-----------------+---------------------------------------------------+---------------+-----------|
+| Repository   | Shelmark        | Description                                       | Language(s)   |      Date |
+|--------------+-----------------+---------------------------------------------------+---------------+-----------|
+| KB Stockholm | A 89            | Gebeth-buch                                       | High German   |           |
+| KB Stockholm | A 218           | Aegidius von Assissi                              | German        |           |
+| KB Stockholm | A 234           | Latin composite manuscripts with Low German texts | German        |           |
+| Uppsala UB   | [[file:org/UUB-C-0495.org][C 495]]           | Psalterium, Low German                            | German, Latin | 1400-1499 |
+| Linköping    | [[file:org/Link-Teol-0216.org][Cod. Theol. 216]] | Book of Hours                                     | Dutch?        |           |
+|--------------+-----------------+---------------------------------------------------+---------------+-----------|
