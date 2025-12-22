@@ -41,7 +41,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | Thott 554 4to | Om at høre messe (copy of Chr. Pedersen)    | Danish                |            |
 | Thott 120 8vo | Liber devotionalis                          | Latin, German         |  1400-1499 |
 | Thott 130 8vo | Breviary (rel. GKS 3451 8vo?)               | German                |            |
-| Thott 152 8vo | Marian psalter                              | Danish                | 1400-1499? |
+| [[./org/Thott08-0152.org][Thott 152 8vo]] | Marian psalter                              | Danish                | 1400-1499? |
 | Thott 159 8vo | En lille bønnebog                           | Danish                |            |
 | Pedersen 1514 | (Bound with Chr. Pedersen)                  | Danish                |            |
 |---------------+---------------------------------------------+-----------------------+------------|
