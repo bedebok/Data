@@ -23,6 +23,7 @@
 | [[./org/AM08-0070_254r.org]]         | AM 70 8vo     | Variants to Cantus Sororum          |                       | gml da lat | transcribed |           |
 | [[./org/AM08-0072_126r.org]]         | AM 72 8vo     | St. Barbara                         | BARBARA               | da         | transcribed |           |
 | [[./org/AM08-0072_127r.org]]         | AM 72 8vo     | Mary                                |                       | da         | transcribed |           |
+| [[./org/AM08-0072_128r.org]]         |               |                                     |                       |            |             |           |
 | [[./org/AM08-0072_128v.org]]         | AM 72 8vo     | Mary                                |                       | da         | transcribed |           |
 | [[./org/AM08-0072_129v.org]]         | AM 72 8vo     | Mary                                |                       | da         | transcribed |           |
 | [[./org/AM08-0073_011v.org]]         | AM 73 8vo     | A prayer in verse                   |                       | da         | proofread   |           |
@@ -51,13 +52,16 @@
 | [[./org/AM08-0075_009r.org]]         | AM 75 8vo     | A morning prayer                    | MDB393                | da         | proofread   |           |
 | [[./org/AM08-0075_022v-4.org]]       | AM 75 8vo     | A morning prayer                    | MDB414                | da         | proofread   |           |
 | [[./org/AM08-0075_063r.org]]         | AM 75 8vo     | Magnificat                          | MAGNIFICAT            | da         | transcribed |           |
+| [[./org/AM08-0076_113r.org]]         |               |                                     |                       |            |             |           |
 | [[./org/AM08-0079Ieta_001r.org]]     | AM 79 I η 8vo | A prayer for Christ's passion       |                       | da         | transcribed |           |
 | [[./org/AM12-0417_001r.org]]         | AM 417 12mo   | Hours of the Holy Spirit            | HOURS_HOLY_SPIRIT     | gml        | begun       |           |
 | [[./org/AM12-0417_050r.org]]         | AM 417 12mo   | Litany of the Virgin                | LITANY_VIRGIN         | gml        | transcribed |           |
 | [[./org/AM12-0417_063r.org]]         | AM 417 12mo   | Hours of St Anne                    | HOURS_ANNE            | gml        | transcribed |           |
 | [[./org/AM12-0417_073v.org]]         | AM 417 12mo   | Seven Penitential Psalms            | PENITENTIAL_PSALMS    | gml        | transcribed |           |
+| [[./org/AM12-0420_026r.org]]         |               |                                     |                       |            |             |           |
 | [[./org/AM12-0421_022r.org]]         | AM 421 12mo   | Apostolic Creed                     | CREDO                 | da         | proofread   | converted |
 | [[./org/AM12-0421_030r.org]]         | AM 421 12mo   | Stabat Mater                        | STABAT_MATER          | da         | proofread   |           |
+| [[./org/AM12-0421_072r.org]]         |               |                                     |                       |            |             |           |
 | [[./org/Beinecke-0218_127r.org]]     | Beiecke 218   | Golden Coronation Prayer            | KRONGEBET             | gml        | transcribed | converted |
 | [[./org/Beschauwing_009.org]]        | Beschauwing   | First Sunday of Advent              | ADVENT_1              | gml        | transcribed |           |
 | [[./org/GKS04-1613_161r.org]]        | GKS 1613 4to  | Magnificat                          | MAGNIFICAT            | da         | from MDB    |           |
@@ -68,12 +72,18 @@
 | [[./org/GKS08-3423_020r.org]]        | GKS 3423 8vo  | A prayer to Christ (indulgences)    |                       | gml        | proofread   |           |
 | [[./org/GKS08-3423_071v.org]]        | GKS 3423 8vo  | Magnificat                          | MAGNIFICAT            | gml        | transcribed |           |
 | [[./org/GKS08-3423_103r.org]]        | GKS 3423 8vo  | A prayer to Christ                  |                       | gml        | proofread   |           |
+| [[./org/GKS08-3423_103v.org]]        |               |                                     |                       |            |             |           |
 | [[./org/GKS08-3423_109v.org]]        | GKS 3423 8vo  | Magnificat                          | MAGNIFICAT            | gml        | proofread   |           |
+| [[./org/GKS08-3423_111r2.org]]       |               |                                     |                       |            |             |           |
+| [[./org/GKS08-3423_113r.org]]        |               |                                     |                       |            |             |           |
 | [[./org/GKS08-3423_202v.org]]        | GKS 3423 8vo  | Seven words of Mary under the cross |                       | gml        | transcribed |           |
 | [[./org/GKS08-3423_211r.org]]        | GKS 3423 8vo  | 15 Pater Noster (15 Os)             | 15_PATER_NOSTER       | gml        | transcribed |           |
 | [[./org/GKS08-3487_001r.org]]        | GKS 3487 8vo  | Confession and Creed                | CREDO CONFESSIO       | gml        | transcribed |           |
 | [[./org/GKS08-3487_009v.org]]        | GKS 3487 8vo  | Fragments of a sermon               |                       | gml        | transcribed |           |
+| [[./org/GKS08-3487_104v.org]]        |               |                                     |                       |            |             |           |
+| [[./org/Gott-Theol242f_103r.org]]    | Göttingen     |                                     |                       |            |             |           |
 | [[./org/Hamburg-CodConv-6_002r.org]] | Cod. Conv. VI | Golden Coronation Prayer            | KRONGEBET             | gml        | proofread   | converted |
+| [[./org/Holm-A-0029_145v.org]]       | A 29          |                                     |                       |            |             |           |
 | [[./org/Holm-A-0042_032r.org]]       | A 42          | Magnificat                          | MAGNIFICAT            | lat        | from MDB    |           |
 | [[./org/Holm-A-0042_051v.org]]       | A 42          | Cross                               | MDB1                  | da         | proofread   |           |
 | [[./org/Holm-A-0042_052v.org]]       | A 42          | Trinity                             | MDB2                  | da         | proofread   |           |
@@ -90,6 +100,10 @@
 | [[./org/Lund-0035_064v.org]]         | Mh 35         | Golden Coronation Prayer            | KRONGEBET MDB105      | da         | proofread   | converted |
 | [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    | Confessional formula                |                       | da         | transcribed |           |
 | [[./org/NKS08-0045_166r.org]]        | NKS 45 8vo    | St. Erasmus                         |                       | gml        | begun       |           |
+| [[./org/NKS08-0045_174r.org]]        | NKS 45 8vo    |                                     |                       |            |             |           |
+| [[./org/NKS08-0045_176r.org]]        | NKS 45 8vo    |                                     |                       |            |             |           |
+| [[./org/NKS08-0045_187r.org]]        | NKS 45 8vo    |                                     |                       |            |             |           |
+| [[./org/NKS08-0045_194r.org]]        | NKS 45 8vo    |                                     |                       |            |             |           |
 | [[./org/Speghel_R1r.org]]            | Speghel       | A Prayer for Every Day in Lent      | LENT_DAILY            | gml        | transcribed |           |
 | [[./org/Thott04-0553_015v.org]]      | Thott 553 4to | A prayer for saints' virtues        |                       | da         | transcribed |           |
 | [[../org/Thott04-0553_020v.org]]     | Thott 553 4to | Ave Maria lilia                     | AVE_MARIA_LILIA       | da         | proofread   |           |
@@ -102,3 +116,4 @@
 | [[./org/UUB-C496_095r.org]]          | UUB C 496     | Das goldene Krongebet               | KRONGEBET             | gml        | begun       |           |
 | [[./org/UUB-C496_136r.org]]          | UUB C 496     | Prayer for a traveller              | TRAVELLER             | da         | transcribed |           |
 |----------------------------------+---------------+-------------------------------------+-----------------------+------------+-------------+-----------|
+
