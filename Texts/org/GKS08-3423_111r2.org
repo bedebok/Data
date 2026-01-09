@@ -2,12 +2,12 @@
 
 |------------+----------------|
 | Manuscript | GKS 3423 8vo   |
-| Locus      | 111r:12 112v   |
+| Locus      | 111r:12 118r   |
 | Work       | VENI_REDEMPTOR |
 | Language   | gml            |
-| Status     | proofread      |
+| Status     | transcribed    |
 |------------+----------------|
-- images :: http://www5.kb.dk/manus/vmanus/2011/dec/ha/object376382/da#kbOSD-0=page:223
+- images :: https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object376382/da/#kbOSD-0=page:223
 
 * Transcription
 ** Rubric
@@ -113,3 +113,365 @@ ene leflyke dechtenysse la-
 uet dy de hylghe kerke al-
 
 sus ynnychlyke(n) synge(n)de
+
+*** Rubric
+Non ex virili semine
+
+---113r---
+
+non ex vyrili semine
+
+*** Text
+
+[[2 red][D]]at worth gades ys flesk ghe-
+
+worde(n) vn(de) de frucht des
+
+vlesskes hefft ghebloyet nycht
+
+dorch kraft my(n)schelyke(n) sades
+
+men dorch des hylge(n) gestes
+
+werk
+
+*** Text
+
+[[2 red][D]]ar negest myn alder le-
+
+ueste here danke yk dy
+
+der sote(n) rowe de du negen man-
+
+te haddest yn deme kuske(n) lych-
+
+a(m)me dyner benedyeden moder
+
+marye(n) dar du ynne rowedest
+
+alse yn ene(n) te(m)pel vn(de) nycht to
+
+myn me(n) dar stretlyke(n) yne
+
+vussest na dyneme lycha(m)me
+
+---113v---
+
+gyf my dat myne sele moge
+
+stedes dyne leflyke wanynghe
+
+syn vn(de) du mogest dorch dyne
+
+gnade stedes yn my wasse(n) vp-
+
+pe dat yk de yn dy vulle(n)ka-
+
+me(n) werde des yn eyne dechte-
+
+nysse lauet dy de hylghe kerke
+
+alsus myt ynnycheyt
+
+*** Rubric
+Almis
+
+tumescrit virginis
+
+*** Text
+[[2 red][D]]er yu(n)cfrowen lycham de
+
+warth grof der slote der
+
+kuscheyt de synt nycht ghe-
+
+syget de tekene der dogede
+
+schyne(n) dar god wart yn sy-
+
+nem te(m)pel ghehandelt
+
+---114r---
+
+*** Text
+[[red 2][O]]k so danke yk dy alder le-
+
+ueste here vor dyne hylge(n)
+
+vn(de) vunderlyke(n) borth alse du
+
+vt der kusken rowedest ghe-
+
+lyk alse dauyd secht eneme bru-
+
+dege(m)me vul groter leue to vns
+
+arme(n) sunders vn(de) alse eyn sterk
+
+rese va(n) dubbelder nature to
+
+lope(n)de den wech der salycheyt
+
+gyf dat myne arme sele dyne
+
+leue(n) bruth wesen moghe welk
+
+ere du alse eyn mechtych rese
+
+van deme bose(n) vyende vorlo-
+
+set hest yn eyne dancknamych
+
+synget alsus de hylge kerke
+
+---114v---
+
+*** Rubric
+Procedens de talamo suo
+
+*** Text
+
+[[red 2][H]]e ys van syner slapka-
+
+mere(n) ghegan van deme
+
+konyncklyke(n) sale der kuscheyt
+
+to lopende den grote(n) wech alse
+
+eyn rese van tweuolyger na-
+
+ture [[red][O]]k danke yk dy alder
+
+leueste here alles arbeydes dat
+
+du v(m)me vnsen wyllen hest ge-
+
+dan stygende van deme he(m)mel 
+
+ynde erden van der erden ynde
+
+helle vn(de) wedder v(m)me van der
+
+erden yn den he(m)mel gyf my dat
+
+yk moge dynes arbeydes del-
+
+aftych werden vn(de) so lope(n) yn
+
+---115r---
+
+deme sote(n) roke dyne dogede
+
+dat myne sele van desseme ya-
+
+merlyke(n) dale moge vrolyken
+
+yn dyn ewyge ryke treden des
+
+yn eyn lof synget vort an de
+
+hylge kerke
+
+*** Rubric
+Egressus ei(us) a p(at)re
+
+*** Text
+
+[[red][S]]yn vtgank ys van deme
+
+vadere vn(de) syn wedder ga(n)k
+
+ys to deme vadere syn lop ys
+
+beth to deme stole gades
+
+[[red][D]]ar negest dancke yk dy
+
+myn leue here dattu ny-
+
+cht allene byst mynsche wor-
+
+den men ok dattu vnsen sterf-
+
+lyke(n) lycham woldest vorla-
+
+---115v---
+
+ren vn(de) vnsterflyk maken gyf
+
+my dorch dyne mylden barmher-
+
+tycheyt dat yn der meyne(n) vp-
+
+standynge myn lycham vor_kla-
+
+ret werde vn(de) so lyf vn(de) sele
+
+ewych moghe salych werde(n) dat
+
+ys ok dat de hylge kerke van
+
+dy begert wen se vor an synget
+
+*** Rubric
+
+Equalys eterno patrys
+
+*** Text
+
+[[red 2][O]] du ghelyke deme ewygen
+
+vader myt der gloryen
+
+des vleskes klede dy vn(de) de kra(n)-
+
+cheyde(n) vnses lycha(m)mes myt
+
+ewyger stercheyt bestedyghe
+
+*** Rubric
+
+Dyt na gheschreue(n) beth vn(de)
+
+versk schalme{/n} lesen yn des hyl-
+
+---116r---
+
+gen crystus auende Sunder yn
+
+den anderen dagen schal vort ghe-
+
+lesen werde(n) dat beslut des ynmy
+
+*** Text
+
+[[red 2][N]]u danke yk dy sundegen myn
+
+alder leueste here vor dyne
+
+vnbegryplyken gude de du yn
+
+desser hylge(n) nacht vns arme(n)
+
+beuyset heft wente na langer
+
+dusternysse bystu ewyge lycht
+
+vpghegan vn(de) dyne klarheyt
+
+heft v(m)me gheschene(n) de sympe-
+
+len herde(n) vn(de) sunderge(n) vorcla-
+
+ret dyne krubbe(n) gyf my dat 
+
+yk myt det herde(n) yn sympeler
+
+---116v---
+
+otmodycheyt dy yn der krub-
+
+be(n) mynes herte(n) moge vn(de) ynne
+
+dat lycht dyne gnade moge
+
+ewych berne(n) vn(de) nene nacht
+
+der sunde dat vth dempe(n) moge
+
+des yn sunderynk synget ynny-
+
+chlyken de hylge kerke
+
+*** Rubric
+pre-
+
+sepe yam fulget
+
+*** Text
+
+[[red 2][O]] yh(es)u dyne krubbe de schy-
+
+net nu vn(de) desse nacht
+
+entfenget eyn nygge lycht
+
+dat eyne nacht schal auer wy(n)-
+
+ne(n) men dat schal dorch den
+
+loue(n) ewych luchte(n)
+
+---117r---
+
+[[2 red][O]] du alder hogeste vader o du
+
+ewyge sone gades o werde
+
+hylghe gest wo wol yk arme
+
+sundyghe mynsche vor desse vnde
+
+alle woldat dy nycht vulle(n) ka-
+
+menn danken mach so do yk doch
+
+wat yk kan vn(de) danke dy he(m)mel-
+
+sche vader dat du v(m)me vnsen 
+
+wylle(n) nycht gheschonet dynes
+
+egen sones Jk danke dy benedye-
+
+de gades sone dat du vns yn dy-
+
+ner hylge(n) mynscheyt vorlo-
+
+set heft Jk danke dy werde hyl-
+
+ge geyst dat du den lycham
+
+---117v---
+
+vnses alderleuesten here(n) yh(es)u 
+
+(christ)e van deme reynen blode ma-
+
+rya ghewracht heft vn(de) syne
+
+eddele sele myt dyner gnade so
+
+auer vlodyge(n) vor vullet heft dat
+
+wy alle entfange(n) van syner vul-
+
+heyt Sunder O benedyede hylge
+
+dreuoldygheyt wes yk myn do
+
+wen yk schal bydde yk dat
+
+vullenbrynge vor my dyne hyl-
+
+ghe karke de alsus den lauesa(n)k
+
+besluth
+
+*** Rubric
+Deo p(at)ri sit gloria
+
+*** Text
+
+[[red][G]]ade dem vader sy lof vn(de)
+
+ere vn(de) syneme eynghebare(n)
+
+---118r---
+
+sone des ghelyk vnsem troster 
+
+dem hylghe(n) geste nu vn(de) to ga(n)-
+
+ser ewycheyt AMEN
