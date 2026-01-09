@@ -5,7 +5,7 @@
 | Work       | HOURS_VIRGIN.MATINS |
 | Locus      | 44r 54v             |
 | Language   | gml                 |
-| Status     |                     |
+| Status     | Transcribed         |
 |------------+---------------------|
 
 * Transcription
@@ -615,3 +615,132 @@ wy vorducket werden myit der
 sunden borden aller hilgheste wy
 
 bidden dy. Gif helpe den
+
+*** Canticle
+**** Rubric
+Cantic(ulum)
+
+**** Text
+[[red 2][T]]e deum laudam(us). [[blue][W]]y lo-
+
+uen dy got wy bekennen 
+
+des dat du eyn here bist [[red][E]]wy-
+
+ge vader alle de werld eret dy
+
+[[blue][A]]lle he(m)mele vnde potestate(n)
+
+louet dy [[red][C]]herubin vnde sera-
+
+phin de singet dy mit vnswi-
+
+gelicher stempne [[blue][H]]ilge hil-
+
+ge hilge here got der schare.
+
+[[red][H]]emmel vnde erde sint vul
+
+dyner weldighen ere [[blue][D]]e er-
+
+liche koer der apostele. de loue-
+
+liche tal der p(ro)pheten. de schone 
+
+---53v---
+
+schar der wertelere louet dy.
+
+[[red][D]]e hilghe cristenheyt louet
+
+dy ouer den kring der werlt
+
+[[blue][D]]u bist eyn vader der vmme-
+
+tigen we{/r}lde [[red][D]]yn ware vnde
+
+dyn enighe sone is eren wer-
+
+dich vnde de hilghe trostende
+
+ghest [[blue][C]]riste du bist eyn ko-
+
+ning der ere [[red][D]]u bist des va-
+
+ders ewige sone [[blue][D]]o du den 
+
+menschen vntfaen vn(de) losen
+
+woldest do en vormadestu nicht
+
+der iuncurowen lijf [[red][D]]o du
+
+voru(n)nen haddest de pyne
+
+des dodes de opendestu den loue-
+
+---54r---
+
+gende rike der hemmele [[blue][D]]u
+
+settest to der voredern godes in
+
+des vaders ere [[red][M]]en louet dat
+
+du wedderkomende sist eyn rich-
+
+tere [[blue][D]]ar vmme bidde wy dy
+
+kum vns to helpe dyne(n) denst
+
+luden de du gheloset hefst myt
+
+dyme dure blote [[red][M]]ake dat
+
+vns gelouet werden myt dyne(n)
+
+hilghen in der ewighen ere.
+
+[[blue][H]]ere make salich dyn volk
+
+vnde benedye dyn erue [[red][U]]nde
+
+richte se vnde hoge se ewichli-
+
+ken [[blue][W]]y benedyen dy ouer
+
+alle dage [[red][U]]nde wy louet
+
+---54v---
+
+dynen name(n) ewichlike(n) in der
+
+werlde(n) der werlde [[red][H]]ere roke
+
+vns to bewarende in desseme 
+
+dage vor sunde [[blue][H]]ere vorbar-
+
+me dy ouer vns vnde wes
+
+vns gnedich [[red][D]]yn barmh(er)-
+
+ticheit werde boue(n) also wy
+
+in dy hopeden [[blue][H]]ere ik hope-
+
+de in dy gif my dat ik ewich-
+
+liken nicht ne werde vorsto-
+
+ret.
+**** Versicle
+***** Rubric
+v(ersus)
+
+***** Text
+Na der bort bleuest du
+
+eyne vnbeuleckede iuncrowe
+
+Godes moder bidde vor vns.

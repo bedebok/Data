@@ -1,10 +1,12 @@
 #+TITLE: Magnificat
 
-|------------+-----------|
-| Manuscript | AM 75 8vo |
-| Locus      | 63r-64r   |
-| Language   | Danish    |
-|------------+-----------|
+|------------+-------------|
+| Manuscript | AM 75 8vo   |
+| Locus      | 63r-64r     |
+| Work       | MAGNIFICAT  |
+| Language   | da          |
+| Status     | transcribed |
+|------------+-------------|
 
 ** Parallels
 

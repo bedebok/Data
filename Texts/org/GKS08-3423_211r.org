@@ -1,12 +1,12 @@
 #+TITLE: XV Pater Noster
 
-|------------+-----------------|
-| Manuscript | GKS 3423 8vo    |
-| Locus      | 211r:1 224r     |
-| Work       | 15_PATER_NOSTER |
-| Language   | Low German      |
-| Status     |  transcribed    |
-|------------+-----------------|
+|------------+--------------|
+| Manuscript | GKS 3423 8vo |
+| Locus      | 211r:1 224r  |
+| Work       | 15_OS        |
+| Language   | gml          |
+| Status     | transcribed  |
+|------------+--------------|
 
 ** Parallels
 |------------+----------------|

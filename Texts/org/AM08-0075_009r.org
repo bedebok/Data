@@ -1,23 +1,25 @@
 #+TITLE: A morning prayer
+
+|------------+-----------|
 | Manuscript | AM 75 8vo |
-| Locus      | 9r-9v     |
-| Language   | Danish    |
-| MDB        | 393       |
-| Keywords   | morning   |
-| status     | proofread |
+| Locus      | 9r 9v     |
+| Language   | da        |
+| Work       | MDB393    |
+| Status     | proofread |
+|------------+-----------|
 
 ** Parallels
 | Danish     | MDB 414 |
 | Low German |         |
 | Latin      |         |
 
-** Transcription
-*** Rubric
+* Transcription
+** Rubric
 The(n)ne efft(e)rsc(re)ffne bøn scal ma(n) læse
 
 om morghe(n) første ma(n) op stoor
 
-*** Text
+** Text
 [[A]]llwel⸠g⸡⸌d⸍ugh gudh i hy(m)me(ri)gi iech syn-
 
 dughe me(n)niske takker thigh kier-

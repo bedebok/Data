@@ -1,4 +1,4 @@
-#+TITLE:
+#+TITLE: Parts of a sermon
 
 |------------+--------------|
 | Manuscript | GKS 3487 8vo |

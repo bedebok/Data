@@ -1,10 +1,12 @@
 #+TITLE: Credo
 
-|------------+------------|
-| Manuscript | AM 738vo   |
-| Locus      | [[https://handrit.is/manuscript/view/da/AM08-0073/273?iabr=on#page/136v/mode/2up][136v-137r]]  |
-| Language   | Low German |
-|------------+------------|
+|------------+-------------|
+| Manuscript | AM 738vo    |
+| Locus      | 136v 137r   |
+| Work       | Credo       |
+| Language   | Low German  |
+| Status     | transcribed |
+|------------+-------------|
 
 ** Parallels
 

@@ -4,8 +4,7 @@
 | Manuscript | AM 75 8vo |
 | Locus      | 22v 23v   |
 | Language   | Danish    |
-| MDB        | 414       |
-| Keywords   | morning   |
+| MDB        | MDB414    |
 | Status     | proofread |
 |------------+-----------|
 
