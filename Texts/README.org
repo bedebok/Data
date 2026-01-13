@@ -112,6 +112,7 @@
 | [[../org/Thott04-0553_022r.org]]     | Thott 553 4to | A prayer by St. Birgitta                 | 186                   | da         | proofread   |           |
 | [[../org/Thott04-0553_125v.org]]     | Thott 553 4to | Das goldene Krongebet                    | KRONGEBET             | da         | begun       |           |
 | [[./org/UUB-C496_019v.org]]          | UUB C 496     | Prayers for the entire day               |                       | gml        | begun       |           |
+| [[./org/UUB-C496_093r.org]]          | UUB C 496     | A rhymed prayer to the Virgin Mary       |                       | gml        | proofread   |           |
 | [[./org/UUB-C496_095r.org]]          | UUB C 496     | Das goldene Krongebet                    | KRONGEBET             | gml        | begun       |           |
 | [[./org/UUB-C496_136r.org]]          | UUB C 496     | Prayer for a traveller                   | TRAVELLER             | da         | transcribed |           |
 |----------------------------------+---------------+------------------------------------------+-----------------------+------------+-------------+-----------|
