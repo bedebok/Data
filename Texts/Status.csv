@@ -1,6 +1,7 @@
 filename,manuscript,prayer,work,language,status,wordcount
 Holm-A-0042_055r.org,A 42,A prayer by St. Augustine,MDB6,da,proofread,100
 Holm-A-0042_054v.org,A 42,Prayer to the Exaltation of the Cross,MDB5,da,proofread,85
+UUB-C496_091v.org,C 496,A rhymed prayer to the Virgin Mary,,gml,proofread,337
 AM04-0784_026v_m.org,AM 784 4to,Prayer for a traveller,,Danish,transcribed,42
 AM08-0073_094r.org,AM 73 8vo,Ave regina coelorum,AVE_REGINA_COELORUM,Low German,Transcribed,88
 AM08-0072_129v.org,AM 72 8vo,A prayer to Mary,1078,da,Transcribed,21
@@ -15,7 +16,7 @@ GKS08-3423_103v.org,GKS 3423 8vo,A prayer to the Face of Christ,,gml,proofread,1
 AM08-0070_253v.org,AM 70 8vo,AM08_0070-253v,,da,transcribed,33
 GKS04-1615_019r.org,GKS 1615 4to,Magnificat,MAGNIFICAT,da,transcribed,171
 GKS08-3423_103r.org,GKS 3423 8vo,A prayer to Christ,,gml,proofread,65
-Gott-Theol242f_103r.org,Göttingen Cod. Ms. Theol. 242f,Das goldene Krongebet,KRONGEBET,gml,begun,152
+Gott-Theol242f_103r.org,Göttingen Cod. Ms. Theol. 242f,Das goldene Krongebet,KRONGEBET,gml,begun,310
 AM08-0073_099r.org,AM 73 8vo,Hours of St. Anne,HOURS_ANNE,gml,transcribed,1332
 AM08-0073_165v.org,AM 73 8vo,A prayer for Christ's passion,,gml,Transcribed,86
 GKS04-1613_161r.org,GKS 1613 8vo,Magnificat,MAGNIFICAT,da,from MDB,256
@@ -43,9 +44,11 @@ Holm-A-0042_052v.org,A 42,A prayer to the Trinity,MDB2,da,proofread,157
 Holm-A-0042_053r.org,A 42,A prayer to the Wounds of Christ (in verse),MDB3 WOUNDS,da,proofread,285
 AM08-0073_011v.org,AM 73 8vo,A prayer in verse,,da,proofread,57
 GKS08-3423_020r.org,GKS 3423 8vo,A prayer to Christ (indulgences),,gml,proofread,65
+UUB-C496_002r.org,C 496,A prayer to God, Christ, Mary and the Saints,,gml,transcribed,190
 GKS08-3423_109v.org,GKS08-3423,Magnificat,MAGNIFICAT,gml,Proofread,129
 Thott04-0553_022r.org,Thott 553 4to,A prayer by St. Birgitta,186,da,proofread,60
 AM08-0073_093r.org,AM 73 8vo,Anna redemptoris,ANNA_REDEMPTORIS,Low German,Transcribed,137
+UUB-C496_003r.org,C 496,A prayer for after eating,,gml,proofread,38
 AM04-0789_001r.org,AM 789 4to,15 Pater Noster,15_OS,da,Transcribed,1058
 GKS08-3487_009v.org,GKS 3487 8vo,Parts of a sermon,,Low German,Transcribed,348
 Hamburg-CodConv-6_002r.org,Hamburg Cod. conv. 6,Golden Coronation Prayer of Mary's Ten Joys,KRONGEBET,gml,proofread,1279
@@ -66,6 +69,7 @@ NKS08-0045_194r.org,NKS 45 8vo,A Prayer to St. Antonius,ANTONIUS,gml,transcribed
 Thott04-0553_021r.org,Thott 553 4to,A prayer to Christ,183,da,proofread,119
 Thott04-0553_020v.org,Thott 553 4to,Ave Maria lilia,AVE_MARIA_LILIA,da,proofread,38
 AM12-0417_073v.org,AM12-0417,Seven Penitential Psalms,PENITENTIAL_PSALMS,gml,Transcribed,1645
+UUB-C496_001v.org,C 496,A prayer to Christ's body,,gml,transcribed,53
 Beinecke-0218_127r.org,Beinecke Library MS 218,Golden Coronation Prayer,KRONGEBET,gml,Transcribed,1004
 AM08-0075_022v-4.org,AM 75 8vo,A morning prayer,,Danish,proofread,180
 AM08-0079Ieta_001r.org,AM 79 I η 8vo,A prayer for Christ's passion,,Danish,Transcribed,158
@@ -78,6 +82,7 @@ AM08-0073_013r.org,AM 73 8vo,Seven Penitential Psalms,,gml,transcribed,4211
 UUB-C496_095r.org,UUB C 496,Das goldene Krongebet,KRONGEBET,gml,begun,268
 AM04-0789_002v.org,AM 789 4to,Five sorrows of the Virgin,MARY_SORROWS,Danish,Proofread,323
 Thott04-0553_125v.org,Thott 553 4to,The Golden Crown Prayer,KRONGEBET,da,begun,1643
+UUB-C496_001r.org,C 496,A prayer of confession,,gml,transcribed,186
 AM08-0073_087r.org,,Magnificat,MAGNIFICAT,gml,transcribed,164
 Thott04-0553_021v.org,Thott 553 4to,A prayer to the five wounds of Christ,WOUNDS 185,da,proofread,119
 AM08-0075_063r.org,AM 75 8vo,Magnificat,MAGNIFICAT,da,transcribed,233
