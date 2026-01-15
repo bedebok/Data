@@ -92,6 +92,7 @@
 | [[./org/Holm-A-0042_055r.org]]       | A 42          | A prayer by St. Augustine                    | MDB6                  | da         | proofread   |           |
 | [[./org/Holm-A-0042_055v.org]]       | A 42          | A prayer during Mass                         | MDB7                  | da         | proofread   |           |
 | [[./org/Holm-A-0042_095v.org]]       | A 42          | Golden Coronation Prayer                     | KRONGEBET MDB105      | da         | proofread   | converted |
+| [[./org/Kalmar-0033_037v.org]]       | Kalmar 33     | Magnificat                                   | MAGNIFICAT            | la         | proofread   |           |
 | [[./org/Kalmar-0033_139v.org]]       | Kalmar 33     | Owner's prayer                               |                       | da         | begin       |           |
 | [[./org/Koln-W52_139v.org]]          | Köln W 52     | Das goldene Krongebet                        | KRONGEBET             | gml        | begun       |           |
 | [[./org/Lund-0035_023v.org]]         | Mh 35         | Magnificat                                   | MAGNIFICAT            | da         | proofread   |           |

@@ -1,0 +1,90 @@
+#+TITLE: Magnificat
+
+|------------+------------|
+| Manuscript | Kalmar 33  |
+| Locus      | 37v:7 38v  |
+| Work       | MAGNIFICAT |
+| Language   | la         |
+| Status     | proofread  |
+|------------+------------|
+
+* Transcription
+** Text
+[[blue 2][M]]Agnificat a(n)i(m)a mea
+
+d(omi)n(u)m [[red][E]]t exultauit
+
+sp(irit)us meus in deo salutari
+
+meo [[blue][Q]]uia respexit h(u)m(i)lita-
+
+te(m) ancille sue ecce eni(m) ex hoc
+
+b(ea)ta(m) me dicent om(n)es g(e)n(er)a-
+
+c(i)ones [[red][Q]]uia fecit m(ihi) mag(na)
+
+qui potens est et s(an)c(tu)m nom(en)
+
+eius [[blue][E]]t m(isericord)ia eius a p(ro)ge-
+
+nie in p(ro)genies time(n)tib(us) eu(m).
+
+---38r---
+
+[[red][F]]ecit pote(n)cia(m) in brachio
+
+suo disp(er)sit sup(er)bos mente
+
+cordis sui. [[blue][D]]eposuit pote(n)-
+
+tes de sede et exaltauit hu-
+
+miles. [[red][E]]surientes imple(uit) 
+
+bonis (et) diuites dimisit in-
+
+anes. [[blue][S]]uscepit isr(ae)l pue(rum)
+
+suu(m) recordatus m(isericord)ie sue [[red][S]]-
+
+icut locutus est ad patres
+
+n(ost)ros abraha(m) et semini ei(us)
+
+in secula [[blue][G]]l(ori)a p(at)ri (et_cetera)
+
+** Antiphone
+*** Rubric
+An(tiphona)
+
+*** Text
+
+Sancta maria succurre mi-
+
+seris. juua pusillanimes.
+
+refoue flebiles. Ora p(ro) p(o)p(u)lo
+
+int(er)ueni p(ro) clero int(er)cede p(ro)
+
+---38v---
+
+deuoto femineo sexu senci-
+
+ant om(n)es iuuame(n) quicu(m)-
+
+q(ue) celebrant tua(m) co(m)memo(ra)-
+
+c(i)o(nem). D(omi)ne exaudi. Et clam(or).
+
+** Collect
+*** Text
+
+[[red][C]]oncede nos famulos
+
+tuos (et_cetera). D(omi)ne exaudi. Et
+
+clamor. B(e)n(e)dicam(us) d(omi)no.
+
+De gr(aci)as.
