@@ -1,7 +1,7 @@
 #+TITLE: Hours of the Holy Spirit
 
 |------------+-------------------|
-| Manuscript | AM12-0417         |
+| Manuscript | AM 417 12mo       |
 | Locus      | 1r 34r            |
 | Work       | HOURS_HOLY_SPIRIT |
 | Language   | gml               |
@@ -231,6 +231,220 @@ got bestedighe dat du in
 
 vns begracht heuest van
 
-dyn(er)[fn::?] hilligen tempele dat
+dyn(en) hilligen tempele dat
 
 in iherusalem is
+
+*** Psalm
+**** Rubric
+psalmus
+
+benedictus to dude sacha(r)ias
+
+---4v---
+
+**** Text
+[[red 2][D]]E here aller gelouige(n)
+
+herte wente he is barm-
+
+hertichliken to vns gekome(n)
+
+vnde heft gebracht vorlosin-
+
+ge sinen volke [[blue][H]]e heft vor
+
+vnsen oghen gerichtet eyn
+
+horn den heren Jhesum cris-
+
+tum vnsen salichmaker
+
+in dem slechte dauides sines
+
+kindes [[red][A]]lso he heft to vore(n)
+
+gesprake(n) dor den mu(n)t syner
+
+p(ro)pheten ⸠de_van⸡ de van anbe-
+
+ginne ge_wesen synt [[red][D]]at 
+
+he vns eyne(n) heilsamloser
+
+wolde gheuen van vnsen
+
+---5r---
+
+vianden vnde van alle(n) der
+
+ge(n)nen de vns hateden [[blue][D]]ar
+
+ynne wolde he dön barmher-
+
+ticheit vnsen vederen vnde
+
+wolde dechtlik wesen sines
+
+hillighen geistes [[red][D]]ar he
+
+mede wolde leisten vn(de) vul-
+
+lenbringhen den eit den he
+
+swor abrahamme vnsen
+
+vader den he sick sulue wol-
+
+de gheue(n) [[blue][U]]p dat wi ane
+
+vruchte(n) worden geloset
+
+van de walt vnser viande
+
+Dat wi eme sekerlike(n) moch-
+
+ten denen [[red][I]]n hillicheit
+
+---5v---
+
+vnde in rechtuerdicheyt
+
+vor sine(n) angesichte alle
+
+de daghe vnses leuendes
+
+[[red][U]]nde du kint Joha(n)nes
+
+du werst geheten eyn p(ro)phe-
+
+te des alder hogesten wen-
+
+te du vortreden schult vor
+
+dat antlat des heren vnde
+
+kundighen eme to berey-
+
+dende sine weghe [[red][D]]u scult
+
+eyne salighe vorkundinge 
+
+doen synen vollke to eyner
+
+vorlatynghe ere sunde [[red][D]]e
+
+vns kamen schal va(n) inwe(n)-
+
+digher barmherticheit ihe-
+
+---6r---
+
+su (christ)i vnses gades dar mede
+
+he vns heuet an geseen
+
+[[blue][U]]nde he heft vns gewa(n)-
+
+delt in syner enighen bort
+
+va(n) sinen hemmelschen va-
+
+dere dar he ynne wil vor-
+
+luchten sine vrunt de dar
+
+sitten in der dusternisse vn(de)
+
+in deme scheme des dodes
+
+[[blue][U]]nde he wil vns ut lede(n)
+
+in der begherynghe de he
+
+richten wil inden wech des
+
+vredes [[red][E]]re si dem vadere
+
+vnde dem sone vnde dem 
+
+hillighen geiste [[blue][A]]lso id
+
+---6v---
+
+*** Text
+[[blue 2][C]]Um hillighe geist
+
+vn(de) vorvulle de herte
+
+der louigen vn(de) entfenge
+
+mene dat vur diner leue
+
+De du dat volck heuest
+
+vor sammelt van me(n)nyg(er)-
+
+leie tungen in de enheit
+
+des gelouen [[red][H]]ere vorbar-
+
+me di Criste vorbarme 
+
+dy Here vorbarme di [[red][P]]a-
+
+ter noster Aue maria
+
+[[red][E]]t ne nos inducas i(n)temp-
+
+tacione(m) [[blue][S]]ende uth dine(n)
+
+geist here vnde \wi/ werden ge-
+
+scapen vn(de) werst voreny-
+
+---7r---
+
+ggen \de/ dat antlat der erden
+
+[[red][H]]ere twide myn beth vnde
+
+myn ropen kame to dy 
+
+*** Collect
+**** Rubric
+coll(ec)ta
+
+**** Text
+
+[[2 blue][D]]Es hilligen geistes gna{/de}
+
+si myt vns des bidde wi
+
+di here beware vns vor alle(n)
+
+den dinghen de ieghen vns
+
+sint Dor vnsen heren Jhesu(m)
+
+(christu)m dinen sone de myt di
+
+leuet vn(de) regneret in enych-
+
+eit des sulue(n) hillige(n) geistes
+
+god esichliken Ame(n)
+
+[[red][H]]ere twide myn gebeth vn(de)
+
+myn ropent kame to di Wi
+
+benedien den heren God si
+
+---7v---
+
+gelouet
+
+** Prime
+*** rubric
+Dit is de prime
