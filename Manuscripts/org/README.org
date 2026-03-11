@@ -80,10 +80,10 @@ A description of the binding is given as a table with an optional prose paragrap
 * Contents
 The following items are available in the table:
 
-- Loc :: locus
-- Type :: text type
-- Level :: item level
-- Text :: Name of text
+- Loc :: Locus of the text. This is given in the format ~1r 2v~ indicating the first and last folio for the text separated by a whitespace.
+- Type :: Text type. Values can be e.g. ~prayer~, ~cycle~, ~hours~ etc.
+- Level :: Item level. Indicate nested items by giving them a value of ~2~ or higher.
+- Text :: Title of the text to be displayed. 
 - Key :: Text key
 - Rub/Inc/Exp :: Rubric, incipit, explicit
 - Lang :: language(s)

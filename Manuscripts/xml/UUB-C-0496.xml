@@ -6,7 +6,7 @@
 <titleStmt>
 <title>UUB C 496</title>
 <respStmt xml:id="SDV">
-<resp when="2025">Catalogue</resp>
+<resp when="2026">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
 </respStmt>
 </titleStmt>
@@ -57,7 +57,8 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="undefined" n="5">
 <locus from="3r" to="8r"/>
-<title/>
+<title key="15_PATER_NOSTER">Fifteen Oes</title>
+<author>Pseudo-Birgitta</author>
 <rubric>Hijr begynnen de xv p<ex>ate</ex>r n<ex>oste</ex>r</rubric>
 <incipit> <hi>O</hi> here ihu xpe </incipit>
 <explicit> moge dy suluen myt allen hilgen to seende Amen</explicit>
@@ -66,15 +67,18 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <msItem class="undefined" n="6">
 <locus from="8r" to="9r"/>
 <title/>
-<incipit>Sixtus de verde paus* <hi>A</hi>lmechtige vn<ex>de</ex> barmhertighe god </incipit>
+<rubric>Sixtus de verde paus</rubric>
+<incipit> <hi>A</hi>lmechtige vn<ex>de</ex> barmhertighe god </incipit>
 <explicit> Ju<ex>m</ex>mer mere vnde ewichliken Amen </explicit>
 <finalRubric>Sixtus de verde pauwes vte syner gewonliken mildigheit gifft allen isliken de dit vorscreuene bet lesen hundert dage afflates Jn wonliker formen der kerken</finalRubric>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="undefined" n="7">
 <locus from="9r" to="10r"/>
-<title/>
-<incipit>pater noster Aue maria* <hi>O</hi> Here ihu xpe ik bede dy an also du heuest gehangen </incipit>
+<title key="ADORO_TE">Adoro te</title>
+<author>Gregory the Great</author>
+<rubric>pater noster Aue maria</rubric>
+<incipit> <hi>O</hi> Here ihu xpe ik bede dy an also du heuest gehangen </incipit>
 <explicit> vorbarme dy ouer vns Amen </explicit>
 <finalRubric>p<ex>ate</ex>r noster Id is to wetende ... xl dusent xlviij iar vn<ex>de</ex> xxvi dage afflates</finalRubric>
 <textLang mainLang="gml"/>
@@ -84,20 +88,21 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <title/>
 <incipit><hi>G</hi>od mynes herten vn<ex>de</ex> my deel ihesu </incipit>
 <explicit> nw vn<ex>de</ex> to ewigen tyden Amen </explicit>
-<finalRubric>Johannes de xxij pauwes ... dre hundert dage afflate*s*</finalRubric>
+<finalRubric>Johannes de xxij pauwes ... dre hundert dage afflates</finalRubric>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="undefined" n="9">
 <locus from="10v" to="11v"/>
-<title/>
+<title key="JOHN_1">John 1: 1-14</title>
 <incipit><hi>J</hi>n deme ambegynne was dat wort </incipit>
 <explicit> to ewigen tyden Amen</explicit>
 <textLang mainLang="gml"/>
 <note>with collect</note>
 <msItem class="undefined" n="10">
 <locus from="11v" to="11v"/>
-<title/>
-<incipit>De trinitate* <hi>D</hi>er hilgen vn<ex>de</ex> ungedeleden dreualdicheit </incipit>
+<title>A prayer to the Trinity</title>
+<rubric>De trinitate</rubric>
+<incipit> <hi>D</hi>er hilgen vn<ex>de</ex> ungedeleden dreualdicheit </incipit>
 <explicit> to ewigen tyden Amen </explicit>
 <finalRubric>To desseme vorscreuene bede is gegeue<ex>n</ex> ... de inden dagelikes tyden gescheen</finalRubric>
 <textLang mainLang="gml"/>
@@ -105,7 +110,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="cycle" n="11">
 <locus from="11v" to="13r"/>
-<title/>
+<title>A prayer to Christ</title>
 <incipit><hi>H</hi>ere ihu xpe des leuendigen godes sone </incipit>
 <explicit> na dyner milden gnade vn<ex>de</ex> barmherticheit Amen </explicit>
 <finalRubric>pater noster</finalRubric>
@@ -128,7 +133,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="undefined" n="14">
 <locus from="17r" to="17r"/>
-<title>pestilence</title>
+<title>A prayer against pestilence</title>
 <rubric>Desse nascreuen bede schole gy gerne lesen vor de pestilencien</rubric>
 <incipit> <hi>U</hi>Rouwe dy koningy<ex>n</ex>ne des hemmels </incipit>
 <explicit> vn<ex>de</ex> de werlde dorch dat vur Amen</explicit>
@@ -137,7 +142,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="undefined" n="15">
 <locus from="17v" to="17v"/>
-<title>pestilence</title>
+<title>A prayer against pestilence</title>
 <rubric>Eyne ander gude segeni<ex>n</ex>nge vor de pestelentie</rubric>
 <incipit> <hi>I</hi>ck tekene my myd sunte Anthonius </incipit>
 <explicit> vnses heren ihu xpi Amen</explicit>
@@ -145,7 +150,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="undefined" n="16">
 <locus from="17v" to="17v"/>
-<title>pestilence</title>
+<title>A prayer against pestilence</title>
 <rubric>Ene ander gude segeninge vor dat sulue</rubric>
 <incipit> <hi>H</hi>utene benedie my de keyserlike maiestaet </incipit>
 <explicit> alle quade suke vn<ex>de</ex> krankheit Amen</explicit>
@@ -153,7 +158,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="undefined" n="17">
 <locus from="17v" to="18r"/>
-<title>Sebastian</title>
+<title>A prayer to St. Sebastian</title>
 <rubric>Van sunte sebastianus</rubric>
 <incipit> <hi>O</hi> Hilge here sunte sebastian </incipit>
 <explicit> des lyues vn<ex>de</ex> der selen Amen</explicit>
@@ -162,7 +167,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 </msItem>
 <msItem class="undefined" n="18">
 <locus from="18r" to="18v"/>
-<title>Anthonius</title>
+<title>A prayer to St. Anthonius</title>
 <rubric>Van sunte anthonius eyn bet</rubric>
 <incipit> <hi>O</hi> vterwelde vrunt godes </incipit>
 <explicit> de ewigen vroude ewichliken sunder ende Amen</explicit>
@@ -403,7 +408,8 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <msItem class="cycle" n="54">
 <locus from="31r" to="31v"/>
 <title/>
-<incipit>O* <hi>O</hi> Here ihu xpe ik bede dy an also du heuest gehangen </incipit>
+<rubric>O</rubric>
+<incipit> <hi>O</hi> Here ihu xpe ik bede dy an also du heuest gehangen </incipit>
 <explicit> dy myner selen in ereme aff scheidende Amen </explicit>
 <finalRubric>p<ex>ate</ex>r n<ex>oste</ex>r</finalRubric>
 </msItem>
@@ -466,7 +472,8 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <msItem class="undefined" n="63">
 <locus from="42r" to="42r"/>
 <title/>
-<incipit>Van der hilgen dreualdicheit eyn schone gebeth* <hi>O</hi> werde hilge dreualdichet Jk bidde dy wente du my na dy gebildet heuest </incipit>
+<rubric>Van der hilgen dreualdicheit eyn schone gebeth</rubric>
+<incipit> <hi>O</hi> werde hilge dreualdichet Jk bidde dy wente du my na dy gebildet heuest </incipit>
 <explicit> dat ik van dyne<ex>n</ex> vroliken antlate nu<ex>m</ex>mer ghescheyde<ex>n</ex> werde Amen </explicit>
 <finalRubric>pater noster Aue</finalRubric>
 </msItem>
@@ -481,195 +488,250 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <locus from="43r" to="44r"/>
 <title/>
 <incipit><hi>O</hi> he<ex>m</ex>melsche konink vn<ex>de</ex> eyn here alle der werlt </incipit>
-<explicit> Vn<ex>de</ex> dorch dyner grundelosen barmherticheit willen Amen</explicit>
+<explicit></explicit>
 </msItem>
 <msItem class="undefined" n="66">
 <locus from="44r" to="44v"/>
 <title/>
 <rubric>Van der upstandinge vnses heren les</rubric>
-<incipit></incipit>
+<incipit> </incipit>
+<explicit> Vn<ex>de</ex> dorch dyner grundelosen barmherticheit willen Amen</explicit>
 </msItem>
 <msItem class="undefined" n="67">
 <locus from="44v" to="45r"/>
 <title/>
 <rubric>Eyn gud gebet</rubric>
-<incipit></incipit>
+<incipit> <hi>J</hi>k offer desse bede vor der hilgen gotheit vn<ex>de</ex> der hilgen hant </incipit>
+<explicit> sunder ende leuest vn<ex>de</ex> regnerest Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="68">
 <locus from="45v" to="48r"/>
 <title/>
+<incipit><hi>O</hi> Alder soteste here ih<ex>es</ex>u xpe de du dar gesant bist </incipit>
+<explicit> de du bist benedyet to ewigen tyden Ame<ex>n</ex></explicit>
 </msItem>
 <msItem class="undefined" n="69">
 <locus from="48r" to="49v"/>
 <title/>
 <rubric>Eyn gud gebet van sunte erasmus</rubric>
-<incipit></incipit>
+<incipit> <hi>O</hi> hilge here sunte erasmus du bisscop vn<ex>de</ex> merteler godes </incipit>
+<explicit> van alle myne<ex>n</ex> vianden Amen</explicit>
+<note>With collects</note>
 </msItem>
 <msItem class="undefined" n="70">
 <locus from="49v" to="50v"/>
 <title/>
 <rubric>Eyn ander bet</rubric>
-<incipit></incipit>
+<incipit> <hi>O</hi> Leue here ihesu criste des leuendigen godes sone de du gehangen wordest </incipit>
+<explicit> vn<ex>de</ex> aller hilgen nw vn<ex>de</ex> alle tijt Amen</explicit>
 </msItem>
-<msItem class="psalms" n="71">
+<msItem class="undefined" n="71">
+<title/>
+</msItem>
+<msItem class="psalms" n="72">
 <locus from="50v" to="52r"/>
 <title/>
 <rubric>Deus in no<ex>m</ex>i<ex>n</ex>e tuo saluum me fac</rubric>
-<incipit></incipit>
+<incipit> <hi>G</hi>od in dynen namen make my salich vn<ex>de</ex> richt my </incipit>
+<explicit> Ere sy deme vader vn<ex>de</ex> deme</explicit>
 </msItem>
-<msItem class="undefined" n="72">
+<msItem class="undefined" n="73">
+<title/>
+</msItem>
+<msItem class="undefined" n="74">
+<title/>
+</msItem>
+<msItem class="undefined" n="75">
 <locus from="52r" to="53r"/>
 <title/>
 <rubric>Van vnser leuen vrouwen eyn gud gebeth</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="73">
+<msItem class="undefined" n="76">
 <locus from="53r" to="54r"/>
 <title/>
 <rubric>Eyn gud bet</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="74">
+<msItem class="undefined" n="77">
 <locus from="54r" to="54r"/>
 <title/>
 <rubric>Dit na gescreue<ex>n</ex> leset des sondages</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="75">
+<msItem class="undefined" n="78">
 <locus from="54r" to="55r"/>
 <title/>
 <rubric>Waner gy edder Jw frunt in noden syn so leset dit gebet</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="76">
+<msItem class="undefined" n="79">
 <locus from="55r" to="55r"/>
 <title/>
 <rubric>Dit bet spreket wa<ex>n</ex>ner gy bedrouet syn</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="77">
+<msItem class="undefined" n="80">
 <locus from="55r" to="56r"/>
 <title/>
 <rubric>Van sunte cristoffer eyn schon gebet</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="78">
+<msItem class="undefined" n="81">
 <locus from="56r" to="56v"/>
 <title/>
 <rubric>Item eyn mysse van sunte Jurien Item ene misse van sunte cristoffer</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="79">
+<msItem class="undefined" n="82">
 <locus from="56v" to="57r"/>
 <title/>
 </msItem>
-<msItem class="cycle" n="80">
+<msItem class="cycle" n="83">
 <locus from="57r" to="57v"/>
 <title/>
 <rubric>Eyne gude segeninge leset eyn pater noster</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="81">
+<msItem class="undefined" n="84">
 <locus from="57v" to="58r"/>
 <title/>
 <rubric>Eyne nutte segeninge</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="82">
+<msItem class="undefined" n="85">
 <locus from="58r" to="58r"/>
 <title/>
 <rubric>Eyne gude segeningen wa<ex>n</ex>ner dat steit an geit ofte jw vrunt van jw varet</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="83">
+<msItem class="undefined" n="86">
 <locus from="58r" to="58v"/>
 <title/>
 <rubric>De wape<ex>n</ex> to bespreken ene segeni<ex>n</ex>ge</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="84">
+<msItem class="undefined" n="87">
 <locus from="58v" to="58v"/>
 <title/>
 <rubric>Ene schone segeninge de wapene to bespreken</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="85">
+<msItem class="undefined" n="88">
 <locus from="58v" to="59v"/>
 <title/>
 <rubric>Desse neddersten dink in desser werlt negest godes me<ex>n</ex>nichuoldich<ex>et</ex> helpen</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="86">
+<msItem class="undefined" n="89">
 <locus from="59v" to="60v"/>
 <title/>
 <rubric>Eyn nutte gebet wan men vntfangen wil den licham vnses heren ihu xpi leset</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="87">
+<msItem class="undefined" n="90">
 <locus from="60v" to="60v"/>
 <title/>
 </msItem>
-<msItem class="undefined" n="88">
+<msItem class="undefined" n="91">
 <locus from="61r" to="61r"/>
 <title/>
 <rubric>Wa<ex>n</ex>ner ...</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="89">
+<msItem class="undefined" n="92">
 <locus from="61r" to="62v"/>
 <title/>
 <rubric>Dite gebet...</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="90">
+<msItem class="undefined" n="93">
 <locus from="62v" to="63r"/>
 <title/>
 </msItem>
-<msItem class="undefined" n="91">
+<msItem class="undefined" n="94">
 <locus from="63r" to="64v"/>
 <title>Birgitta</title>
 </msItem>
-<msItem class="undefined" n="92">
+<msItem class="undefined" n="95">
 <locus from="64v" to="64v"/>
 <title/>
 <rubric>Van der kuscheit des lyues vn<ex>de</ex> der selen en bet</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="93">
+<msItem class="undefined" n="96">
 <locus from="65r" to="66v"/>
 <title/>
 <rubric>Van dem hilgen geiste en schon gebeth</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="94">
+<msItem class="undefined" n="97">
 <locus from="66v" to="67r"/>
 <title/>
 </msItem>
-<msItem class="undefined" n="95">
+<msItem class="undefined" n="98">
 <locus from="67r" to="68r"/>
 <title/>
 <rubric>Leset dessen ...</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="96">
+<msItem class="undefined" n="99">
 <locus from="68v" to="69r"/>
 <title/>
 <rubric>Dessen ...</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="97">
+<msItem class="undefined" n="100">
 <locus from="69r" to="69v"/>
 <title/>
 <rubric>Dessen ...</rubric>
 <incipit></incipit>
 </msItem>
-<msItem class="undefined" n="98">
+<msItem class="undefined" n="101">
 <locus from="69v" to="70r"/>
 <title/>
 </msItem>
-<msItem class="undefined" n="99">
+<msItem class="undefined" n="102">
 <locus from="70r" to="70v"/>
 <title/>
+</msItem>
+<msItem class="undefined" n="103">
+<locus from="70v" to="71v"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="104">
+<locus from="71v" to="73v"/>
+<title/>
+<incipit>! IMAGE MISSING</incipit>
+</msItem>
+<msItem class="undefined" n="105">
+<locus from="73v" to="75r"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="106">
+<locus from="75r" to="76v"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="107">
+<locus from="76v" to="77v"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="108">
+<locus from="77v" to="78r"/>
+<title/>
+<note>With collect</note>
+</msItem>
+<msItem class="undefined" n="109">
+<locus from="78r" to="79v"/>
+<title/>
+</msItem>
+<msItem class="Instruction" n="110">
+<locus from="79v" to="80v"/>
+<title/>
+<rubric>So die prister spreckt die wort spreck em na</rubric>
+<incipit> Peripsum et cum ipso </incipit>
+<explicit> in dem rechten werden gefunden Amen</explicit>
+<textLang mainLang="gmh" otherLangs="lat"/>
 </msItem>
 </msContents>
 <physDesc>
