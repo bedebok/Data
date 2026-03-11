@@ -2,7 +2,7 @@
 
 |------------+-------------|
 | Manuscript | UUB C 496   |
-| Locus      | 95r2        |
+| Locus      | 95r2 98v    |
 | Work       | KRONGEBET   |
 | Language   | gml         |
 | Status     | transcribed |

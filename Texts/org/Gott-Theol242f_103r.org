@@ -1,12 +1,12 @@
-#+TITLE: Das goldene Krongebet
+#+TITLE: Das goldene Krongebet (Golden Coronation Prayer)
 
-|------------+---------------------------------|
-| Manuscript | Göttingen Cod. Ms. Theol. 242f  |
-| Locus      | 103r:19                         |
-| Work       | KRONGEBET                       |
-| Language   | gml                             |
-| Status     | begun                           |
-|------------+---------------------------------|
+|------------+--------------------------------|
+| Manuscript | Göttingen Cod. Ms. Theol. 242f |
+| Locus      | 103r19 107v                    |
+| Work       | KRONGEBET                      |
+| Language   | gml                            |
+| Status     | transcribed                    |
+|------------+--------------------------------|
 - images :: https://gdz.sub.uni-goettingen.de/id/DE-611-HS-4211601?tify=%7B%22pages%22%3A%5B211%5D%2C%22view%22%3A%22info%22%7D 
 
 * Transcription
@@ -88,12 +88,12 @@ gebet na dyne(n) gnaden vn(de)
 
 na myner begerynge Amen
 
+** Prayer                                                           :MDB105c:
 *** Rubric
 x Aue ma-
 
 ria
-
-** Prayer 
+ 
 *** Text
 [[red][O]] Maria ick vor-
 
@@ -131,10 +131,10 @@ den vnde na mynder begery(n)-
 
 ge Amen
 
+** Prayer                                                           :MDB105d:
 *** Rubric
 x aue maria
 
-** Prayer
 *** Text
 
 [[red][O]] Maria Jck v(or)mane dy
@@ -179,6 +179,7 @@ gnaden Vn(de) na myner bege-
 
 rynge amen
 
+** Prayer                                                           :MDB105e:
 *** Rubric
 x Aue maria
 
@@ -215,6 +216,7 @@ my(n) gebet na dyne(n) gnade(n)
 
 vn(de) na myner begerynge ame(n)
 
+** Prayer                                                           :MDB105f:
 *** Rubric
 x aue
 
@@ -254,6 +256,7 @@ nen genaden vn(de) na myner
 
 begerynge Amen
 
+** Prayer                                                           :MDB105g:
 *** Rubric
 x aue maria
 
@@ -299,6 +302,7 @@ nen gnaden vn(de) na myner
 
 begerynge Amen
 
+** Prayer                                                           :MDB105h:
 *** Rubric
 x aue maria
 
@@ -336,10 +340,11 @@ den vn(de) na myner bege-
 
 rynge Amen 
 
+** Prayer                                                           :MDB105i:
 *** Rubric
 x aue maria
 
-*** TExt
+*** Text
 
 [[red 2][O]] Maria ick v(or)mane
 
@@ -377,6 +382,7 @@ na dynen gnaden vnde na my-
 
 ner begerynge Ame(n)
 
+** Prayer                                                           :MDB105j:
 *** Rubric
 x aue maria
 
@@ -404,3 +410,32 @@ Vnde gaff dy de crone(n) des ric-
 
 kes de vorsyrt was myt de(n)
 
+twelff sterne(n) Dar salomon
+
+lange to vore(n) va(n) gesproken
+
+hadde Do wordest du geheyte(n)
+
+eyne ko(n)nigynge des hemels
+
+vnde yene moder der barm-
+
+---107v---
+
+herticheit O moder der barmher-
+
+thicheit der groten vroude wes
+
+van my vormant Vnde twy-
+
+de my(n) gebeth na dynen gna-
+
+den vnde na myner begery(n)-
+
+ge Na myner behouycheit
+
+vnde nottruftycheit Dorch dy-
+
+ne grondelosen mylden barm-
+
+herticheit Amen
