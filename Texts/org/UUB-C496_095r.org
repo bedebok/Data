@@ -1,15 +1,16 @@
 #+TITLE: Das goldene Krongebet 
 
-|------------+-----------|
-| Manuscript | UUB C 496 |
-| Locus      | 95r2      |
-| Work       | KRONGEBET |
-| Language   | gml       |
-| Status     | begun     |
-|------------+-----------|
+|------------+-------------|
+| Manuscript | UUB C 496   |
+| Locus      | 95r2        |
+| Work       | KRONGEBET   |
+| Language   | gml         |
+| Status     | transcribed |
+|------------+-------------|
 
 * Transcription
-** Rubric
+** Prayer
+*** Rubric
 Wanner gy dyt na-
 
 gescreuen bet lesen So schole gy stan
@@ -20,7 +21,6 @@ spreken theyn aue maria vn(de) val-
 
 len denne up juwe knee vn(de) spreket
 
-** Prayer
 *** Text
 [[red 2][M]]aria ik vormane dy der ouervlodi-
 
@@ -43,6 +43,7 @@ vormane ik dy vn(de) bidde dy dattu my
 twidest my gebet na dynen gnade
 
 vn(de) na myner begerynge amen
+** Prayer
 *** Rubric
 Spreket
 
@@ -50,7 +51,6 @@ x pater noster vn(de) x aue maria al stan-
 
 de vn(de) vallet denne vp juwe knee
 
-** Prayer
 *** Text
 [[2 red][M]]aria ik vormane dy der groten
 
@@ -97,6 +97,7 @@ uet vn(de) gebenediet twide myn gebet
 na dynen gnaden vn(de) na myne be-
 
 geringe Amen
+** Prayer
 *** Rubric
 Spreket x pater no[ster]
 
@@ -104,8 +105,7 @@ vn(de) x aue maria alstande vn(de) vallet op
 
 juwe knee vn(de) spreket dit gebet
 
-** Text
-*** Rubric
+*** Text
 [[red 2][M]]aria ik vormane dy der groten
 
 vroude ere vn(de) werdicheit de dy-
@@ -113,3 +113,296 @@ vroude ere vn(de) werdicheit de dy-
 ne sele vn(de) dyn liff vntfynck Jn deme
 
 ---96r---
+
+hilgen winachten dage Do du dyn leue
+
+kynt aller ersten in de wege ledest vro-
+
+liken sunder smerte vn(de) bleuest maget
+
+na der bort ewichlik maria dyn vroude
+
+was so grot do du dyn leue kynt ers-
+
+ten vp togest vn(de) vp houest vn(de) kussedest
+
+dat dicke vor synen munt dar mede
+
+sprekestu vrede den armen des vrouwet
+
+sik allent dat in he(m)mel vn(de) in erden is
+
+Maria der groten vroude vor_mane ik 
+
+dy vn(de) bidde dy dat du myn gebet twi-
+
+dest na dynen gnade vn(de) na mynder
+
+begerynge Amen
+
+** Prayer
+*** Rubric
+Spreket x pater
+
+noster vn(de) x aue maria vallet vp Jw kne
+
+*** Text
+
+[[red 2][M]]aria ik vormane dy der ouervlo-
+
+digen ere vn(de) werdicheit vn(de) vrou-
+
+de de dyne sele vn(de) dyn lyff vntfenk an
+
+deme hilgen twelfften dage do de hilli-
+
+gen dre koninge dy dat offer brachten
+
+wyrok mirre vn(de) golt wente se de ers-
+
+ten weren de dyn kynt bekanden dat
+
+id god vn(de) mynsche was Maria der
+
+groten vroude wes vormanet vnde
+
+---96v---
+
+wes gebenediet vn(de) twide myn gebet na
+
+dynen gnade vn(de) na myner begerynge
+
+Amen
+
+** Prayer
+*** Rubric
+Spreket x aue maria al stande
+
+vn(de) vallet vp juwe kne vn(de) spreket
+
+*** Text
+
+[[2 red][M]]aria ik vormane dy der groten vrou-
+
+de ere vn(de) werdicheit de dyne sele 
+
+vn(de) dyn liff vntfenk do du dyn leue kynt
+
+wedder vundest dattu in den drudden dach
+
+vorloren haddest vn(de) du wol wustest dat
+
+he den doet van den ioden lyden wolde
+
+dar v(m)me was dyne vroude des to groter
+
+do du ene wedder vundest Maria des-
+
+ser groten vroude vormane ik dy vn(de)
+
+bidde dy dattu my twidest na dynen
+
+gnaden vn(de) na myner nottrofft Amen
+
+** Prayer
+*** Rubric
+
+Spreket x aue maria al stande vnde
+
+vallet vppe juwe knee vn(de) spreket
+
+*** Text
+
+[[2 red][M]]aria ik vormane dy der ouervlo-
+
+digen vroude de du vntfyngest
+
+an der hilgen pasche nacht do du dyn
+
+leue kynt na der hilgen vpstandinge
+
+aller ersten segest dar na openbare-
+
+de he sik marien magdalenen vn(de) syne(n)
+
+---97r---
+
+leuen Jungeren vn(de) voer weldichliken
+
+to der hellen vn(de) losede dar vt alle de gen-
+
+nen de synen willen hadden gedan vn(de) vo-
+
+rede se in dat paradijs dar se ynne won-
+
+nen wente an den jungesten dach Maria
+
+godes moder der groten vroude vorma-
+
+ne ik dy twide myn gebet na dyner gna-
+
+de vn(de) na myner begerynge AmeN
+
+** Prayer
+*** Rubric
+
+Spreket x aue maria alstande vn(de)
+
+vallet denne vp juwe knee vn(de) spre
+
+*** Text
+
+[[red 2][M]]aria ik vormane dy der grote(n)
+
+vroude de dyn lyff vn(de) dyne
+
+sele vntfenk do dyn leue kynt ihesus
+
+(christ)us to he(m)mele vor myt alle den
+
+de he an deme pasche dage vte der
+
+helle losede maria dyne vroude was
+
+so grot do du segest dor de negen
+
+kore der enge vnde segest vppe den
+
+stoel de dy van der crafft der ewi-
+
+gen wischeit gemaket was vn(de) den
+
+du besitten scholdest ewichliken der
+
+groten vroude vormane ik dy ma-
+
+ria godes moder ik bidde twide my(n)
+
+---97v---
+
+gebet na dynen gnaden vn(de) na my-
+
+ner nottroft Amen
+
+** Prayer
+*** Rubric
+Spreket x aue
+
+maria al stan vn(de) valle vp dyne kne
+
+*** Text
+
+[[2 red][M]]aria ik vormane dy der groten 
+
+vroude de dyne sele vn(de) dyn liff 
+
+vntfenk an deme hilgen pinxte da-
+
+ge do du vn(de) de hilgen apostolen to
+
+samende weren bynnen ener beslo-
+
+tener dore Do worde gy alle vor-
+
+vullet my dem hilgen geiste Do qua(m)
+
+dyn leue kynt middene mank jw
+
+vn(de) sprak pax vobis myn vrede sy
+
+my Jw Do sende dyn leue kynt
+
+de xij appostelen in de werlt vn(de) sprak 
+
+dat se scholden prediken den criste-
+
+nen gelouen maria der groten vrou-
+
+de vormane ik dy vn(de) bidde dy twide
+
+myn gebet na dynen gnaden vn(de) na
+
+myner nottrofft Amen
+
+** Prayer
+*** Rubric
+Sprek x p(ate)r
+
+n(oste)r al stande vn(de) valle vp dyne kne vn(de)
+
+*** Text
+
+[[red 2][M]]aria ik vormane dy der groten
+
+vroude de du vntfyngest do dyn
+
+leue kynt den hilgen engel to dy san-
+
+---98r---
+
+de dat du van desseme ertrike scholdest 
+
+scheyden vn(de) komen to der ewigen vrou-
+
+de Maria desser groten vroude vorma-
+
+ne ik dy Dar quemen de hilgen apposte-
+
+le to dyneme graue Dar quam dyn
+
+leue kynt myt alleme hemelschen here
+
+to dyner vorscheydinge vn(de) vorde dy
+
+my lyue vn(de) myt sele in de negen ko-
+
+re der hilgen engele Dar wart dy grot
+
+leff vn(de) ere geboden van allen godes
+
+hilgen Maria der groten vroude vor-
+
+mane ik dy vn(de) bidde dy dattu my vn
+
+twidest myner bede na dyner gnade(n)
+
+vn na myner begerynge Amen
+
+** Prayer
+*** Rubric
+
+Spreket x pater noster vn(de) x aue
+
+maria alstande vn(de) vallet vppe juwe
+
+*** Text
+
+[[red 2][M]]aria ik vormane dy der groten
+
+vroude ere vn(de) werdicheit de du
+
+haddest do dyn leue kynt dy gewel-
+
+dich vp nam in den he(m)mel vn(de) settede 
+
+dy to syner vorderen hant in den our-
+
+sten tron vn(de) gaff dy gewalt ouer he(m)-
+
+mel vn(de) ertrike vn(de) cronede dy myt
+
+---98v---
+
+der cronen des ewigen rikes vn(de) myt
+
+den twelff sterne dar wordestu gehe-
+
+ten ene moder der barmherticheit O
+
+leue eddele ioncfrouwe maria lat dy-
+
+ne barmhertischeit an my erschynen
+
+vn(de) twyde myn gebet na dynen gna-
+
+den vn(de) na myner begeringe Amen
