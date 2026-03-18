@@ -1,0 +1,311 @@
+#+TITLE: Golden Coronation Prayer
+
+|------------+-----------------|
+| MANUSCRIPT | Guelf 1025 Novi |
+| LOCUS      | 230r1 232v      |
+| WORK       | KRONGEBET       |
+| LANGUAGE   | gml             |
+| STATUS     | Proofread       |
+|------------+-----------------|
+
+* Transcription
+** Text
+[[red 3][O]] Maria ik 00000000000
+
+groten ou(er)vlodig0000000
+
+vnde vroude de du haddest
+
+de god de vader vnde de sone
+
+vnde de hillyge geist de dick
+
+suluen to eynner moder gaff
+
+Vnde alle de werlt yn deme
+
+rade der hilligen dreuoldich(eit)
+
+Er he hy(m)mel vnde erden schop
+
+Junckfrouwe godes moder der
+
+groten vroude vormane ik dij
+
+Bewyse dij an mek armen vn-
+
+de entphank myn beth na myneme
+
+vordeynste men na dyner berm-
+
+herticheyt Amen 
+
+** Rubric
+Sprick xiiii 
+
+p(ate)r n(oste)r Aue maria
+
+** Text
+
+[[red 3][M]]Aria ik vormane deck
+
+der grote(n) ouerulodyge(n)
+
+vr[a/o]ude de dyn zele
+
+Vnde liff do entphengk do an
+
+dij wart gebenediget de vrucht
+
+dynes lyues d|-u-|\o/ du de wort vor-
+
+nemest do bekandestu wol des
+
+---230---
+
+00000 des sones barmher-
+
+000000 0[n]de des hylligen geys-
+
+tes wys[he]yt vrowe dy godes
+
+moder der groten vroude vn-
+
+de wes van my armen sunde-
+
+re ghe_louet vnde ghebenedy-
+
+geth vnde twyde myn beth Na
+
+dynen gnaden vnde na my-
+
+ner begerynge Amen
+
+** Text
+
+[[red 3][M]]Aria ick vor_mane dij der
+
+ou(er)ulodige(n) vroude vnde
+
+ere vnde werdicheyt De
+
+dyn lyff vnde dyn zele entphe(n)k
+
+an deme wynachten dage do
+
+du dyn kynt yn de krybben ley-
+
+dest vroliken ane smerte vn-
+
+de maget na der bort ewichlike(n)
+
+bleuest Maria dyn vroude
+
+was vil grot do du dyn leue
+
+kynt an segest vnde vptogest
+
+vnde kussedest dat vor syne
+
+munt des vrouwet sik alle dat
+
+dut yn he(m)melrike vnde yn ert-
+
+rike is Maria der groten 
+
+Vroude vor_mane ik dij twyde
+
+myn beth na dynen gnaden Am(en)
+
+---231r---
+
+** Text
+[[red 3][M]]Aria ik v00000
+
+grote(n) vroud[e] 00000
+
+ouerulodige(n) leue de dy[/(n)][fn::No nasal stroke is visible, but possibly gone missing due to damage.]
+
+liff vnde zele entphengk an
+
+deme hillygen twolften dage
+
+Do de hillige(n) dre konny(n)ghe dy
+
+dat opper[fn::NB. High German form.] brochten wyrok myr-
+
+re(n) vnde golt wente se de ers-
+
+te(n) waren de dyn leue kynt be-
+
+kanden dat he god vnde myn-
+
+sche was Ma(r)ia der groten gna-
+
+de wes vor_manet vnde twyde
+
+my yn myneme bede na dyner
+
+gnade vnde bermherticheit Ame(n)
+
+** Text
+
+[[red 3][M]]Aria ik vor_mane dy der 
+
+groten vroude vnde ere
+
+de dyn liff vnde zele ent-
+
+phengk do du dyn leue kynt
+
+an deme tempele vundest dat
+
+du vorloren haddest an deme
+
+drydden dage vnde du wol
+
+wustest dat he den doͤt van den
+
+noemen wolde Des was dyn
+
+vroude deste groter do du one
+
+wedder wun|-g-|\d/est Maria der
+
+groten vroude wes van my 
+
+vor_manet vnde [d/t]wyde myne
+
+---231v---
+
+00000 gnaden vnde
+
+000000r nottroft Amen
+
+** Text
+
+[[red 3][M]]Aria ik vor_mane dy der
+
+groten ere de dyn lyff
+
+vnde sele hadde yn de-
+
+me daghe do dyn leue ky(n)t 
+
+to he(m)mele vor myt alle den
+
+de yn deme passchen loset were(n)
+
+van gnade iu(n)cfrouwe ma(r)ia der
+
+groten vroude wes van my vor-
+
+manet twyde myn beth na dy-
+
+ner gnade Vnde na myner be-
+
+gerynge Amen
+
+** Text
+
+[[red 3][M]]Aria ik vor_mane dij
+
+der grote(n) ou(er)ulodige(n)
+
+vroude de dyn lijff Vnde
+
+zele entphenk an deme hillige(n)
+
+pinxtdage do du vnde syne 
+
+apostelen in besloten doren we-
+
+ren dar wore gij alle vor-
+
+uullet myt deme hillige(n) geis-
+
+te den dyn leue kynt den
+
+apostelen yn de werlde sende
+
+Dat se predeken scholden den
+
+cristen gelouen Maria der
+
+---232r---
+
+groten vroud[e] 0000
+
+vnde twyde myn be0000
+
+gnaden vnde na myner bege-
+
+rynghe Amen
+
+** Text
+
+[[red 3][M]]Aria ik vor_mane dij der
+
+grote(n) vroude de dyn
+
+lyff vnde sele entphe(n)k
+
+Do dyn leue kynt den hilge(n)
+
+engel Sunte gabriel sende
+
+to dij Dat du scholdest va(n) dus-
+
+seme leuende vnde elende vo-
+
+ren to der ewygen vroude O
+
+maria dorch dusser groten
+
+vroude willen So vor_mane
+
+ik dy twyde myne bede na dy-
+
+nen gnaden vnde na myner 
+
+begerynge Amen
+
+** Text
+
+[[red 3][M]][M/]aria ek vor_mane
+
+dy der groten vroude
+
+vnde ere de du haddest
+
+Vnde ewichliken hest do dek
+
+dyn leue kynt vp nam to 
+
+seck yn den hymmel vnde se[t]-
+
+tede dy to syner vorderen
+
+hant yn deme ou(er)sten trone
+
+---232v---
+
+00000 walt ouer hym-
+
+0000 ou[(er)] erden vnde krone-
+
+de dy myt der cronen des rikes
+
+Vnde den twelff schare(n) her sa-
+
+lomon beredede do wordestu
+
+ghe_heten eyn moder der
+
+barmherticheyt an my werden
+
+schyn vnde twyde myner bede
+
+na dyner gnade vnde na my-
+
+ner begerynge Amen

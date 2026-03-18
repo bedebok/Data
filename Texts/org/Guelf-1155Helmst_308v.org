@@ -1,0 +1,339 @@
+#+TITLE: Golden Coronation Prayer
+
+|------------+--------------------|
+| Manuscript | Guelf 1155 Helmst. |
+| Locus      | 308v               |
+| Work       | KRONGEBET          |
+| Language   | gml                |
+| Status     | Proofread          |
+|------------+--------------------|
+
+* Transcription
+** Text
+[[red 2][M]]Aria ek vormane dy der
+
+groten [a/o]uervlodigen[fn::Looks like <a> but all others are more clearly <o>.] ere
+
+Vnde vraude de du haddest 
+
+do god de vader vnde de so-
+
+[so/ne] vnde de hilge geyst de dyk
+
+suluen to eyner moder gaff
+
+Vnde alle de werlt Jn deme
+
+---309r---
+
+rade der hilge dreuoldicheyt er
+
+he he(m)mele vnde erde schop Ju(n)c-
+
+frowe maria godes moder der
+
+groten vraude vor_mane ek
+
+dy bewise dy an mek arme(n)
+
+vnde entfanck my(n) beth na dyne(n)
+
+gnaden vnde nicht na myne(n) vor-
+
+denste men na dyner barmher-
+
+ticheyt Ame(n)
+
+** Rubric
+Spreck verteyn
+
+pater n(oste)r Aue ma(r)ia
+
+** Text
+
+[[red][M]]Aria ek vor_mane dy der
+
+auervlodigen vraude de dyn se-
+
+le vnde lyff do entfenck do an
+
+dy wart gebenediget de frucht
+
+dynes lyues do du de wort vor-
+
+nemest Do bekandestu wol des
+
+vaders goyde des sones bar(m)-
+
+herticheyt vnde des hilgen 
+
+geystes wisheyt vrowe dy
+
+godes moder der groten vrou-
+
+de vnde wes van my arme(n)
+
+---309v---
+
+sunde(re) gelouet vnde benediet
+
+vnde twyde myn bet na dyne(n)
+
+gnaden vnde na myner bege-
+
+rynge Amen
+
+** Text
+
+[[red][M]]Aria ek vor_mane dy der
+
+ouervlodigen vraude vnde
+
+ere vnde werdicheit de dy(n)
+
+lyff vnde dyn sele entfenck 
+
+an dem wynachten dage do
+
+du dyn leue kynt in der kryb-
+
+ben leydest vroliken ane
+
+smerte vnde maget na der
+
+bort ewichliken bleuest Ma-
+
+ria dyn vraude was vil
+
+grot do du dyn leue kynt 
+
+ansegest vnde vp togest vn(de)
+
+kussedest dat vor syne mu(n)d
+
+des vrowet sek alle dat in
+
+he(m)melryke vnde in ertryke
+
+is Maria der grote(n) vraude
+
+vormane ek dy twyde myn
+
+---310r---
+
+beth na dynen gnaden Ame(n)
+
+** Text
+
+[[red][M]]Aria ek vormane dy der
+
+ouervlodigen leue vnde vrau-
+
+de de dyn lyff vnde sele entfe-
+
+nck an dem hilgen twelften da-
+
+ge do de hilgen dre koni(n)gynne
+
+dy dar dat offer brochten wy-
+
+rock myrren vnde golt we(n)-
+
+te se de ersten weren de dy(n)
+
+leue kynt bekanden de he god
+
+vnde mynsche was Maria
+
+der groten gnade wes vor-
+
+manet vnde twyde my in my-
+
+nem bede na dyner gnade vn(de)
+
+barmherticheyt Amen
+
+** Text 
+
+[[red][M]]Aria ek vormane dy der
+
+groten vraude vnde ere de
+
+dyn lyff vnde sele entfenck do
+
+du dyn leue kynt an dem tem-
+
+pel vu(n)dest dattu vorloren 
+
+haddest an dem drydde(n) dage
+
+vnde du wol wustest dat he
+
+---310v---
+
+den dot van den Joden neme(n)
+
+wolde Des was dyn vraude des-
+
+te groter do du one weder vu(n)-
+
+dest Maria der groten vrau-
+
+de wes van my vormanet
+
+Vnde twyde myne bede na dy-
+
+nen gnaden vnde barmhertich(eit)
+
+Ame(n)
+
+** Text
+[[red][M]]Aria ek vormane
+
+dy der groten ouervlodighe(n)
+
+vraude de du do entfengest
+
+an deme hilgen pasche dage
+
+do dy leue kynt na syner vp-
+
+standynge seghest myt marie(n)
+
+magdalenen Dar na openbarde
+
+he sek alle synen leue(n) vru(n)de(n)
+
+Maria moder goddes dusser gro-
+
+ten vraude wes vor_manet
+
+van my vnde twyde my(n) bet
+
+na dynen gnaden vnde na
+
+myner nottrofft Amen
+
+** Text
+
+[[red][M]]Aria ek vormane dy der
+
+groten ere de dyn lyff vnde
+
+---311r---
+
+zele hadde in deme dage do dyn le-
+
+ue kynt to hemele vor myt alle
+
+den de indem paschen geloset we-
+
+ren van gnade Ju(n)cfrowe ma(r)ia
+
+der groten vraude wes van my
+
+vor_manet twyde my(n) bet na dy-
+
+ner gnade vnde na myner bege-
+
+rynge Amen
+
+** Text
+
+[[red][M]]Aria ek vormane dy der gro-
+
+ten ouervlodigen vraude de dyn [/lyff]
+
+vnde zele entfenck an dem hil-
+
+gen pinxsten daghe do du vn(de)
+
+syne apostole in besloten doren
+
+weren dar worde gij alle vor-
+
+vullet myt deme hilgen geyste
+
+den dyn leue kynt den aposto-
+
+len inde werde sende dat se
+
+predigen scholden der cristen
+
+loue(n) Maria der grote(n) vrau-
+
+de wes vormanet vnde twyde
+
+myn beth na dyne(n) gnade(n) vn(de)
+
+---311v---
+
+na myner begerynge Amen
+
+** Text
+
+[[red][M]]Aria ek vormane dy der
+
+groten vraude de dyn lyff
+
+vnde zele entfenck do dyn
+
+leue kynt den hilgen engel 
+
+Sunte Gabriel sende to dy
+
+dattu scholdest van dussem le-
+
+uende vnde ellende vore(n) to
+
+der ewygen vraude Ma(r)ia
+
+dorch dusser grote(n) vraude
+
+willen so vormane ek dy
+
+twyde myne bede na dyne(n)
+
+gnaden vnde na myner be-
+
+gherynge Amen
+
+** Text
+
+[[red][M]]aria ek vor_mane dy
+
+der groten vraude vnde e-
+
+re de du haddest vnde ewich-
+
+liken hest do dek dyn leue
+
+kynt vp nam to sek anden he(m)-
+
+mele vnde sette dy to syner
+
+vorderen hant in deme ouer-
+
+sten throne vnde gaff dy de
+
+---312r---
+
+walt ouer he(m)mel vnde ouer 
+
+erden vnde kronede dy myt der
+
+cronen des rykes vnde den
+
+twelf scharen her salomon
+
+beredede do wordestu ghehe-
+
+ten eyn moder der barmher-
+
+ticheyt an my werden schy(n)
+
+vnde twyde myne bede na dy-
+
+ner gnade vnde na myner be-
+
+gherynge Amen
