@@ -5,6 +5,7 @@ The metadata for the file starts from the very beginning with the ~#+TITLE:~. He
 
 What follows is a table with the other metadata which will be placed inside the ~<fileDesc>~.
 
+#+BEGIN_verbatim
 |------------+---|
 | Manuscript |   |
 | Locus      |   |
@@ -12,6 +13,7 @@ What follows is a table with the other metadata which will be placed inside the 
 | Language   |   |
 | Status     |   |
 |------------+---|
+#+END_verbatim 
 
 - Manuscript :: Provide the key for the manuscript, e.g. ~AM08-0073~ for AM 73 8vo.
 - Locus :: Provide the first and final page separated by a space, e.g. ~9r 9v~
@@ -38,9 +40,6 @@ In addition, a given text might have one of the following structural elements (e
 - Antiphon ::
 - Lesson ::
 - Chapter ::
-
-
-# What about the orders for the Gloria Patri, etc?
 
 ** Mise-en-page
 The following macros will be used to indicate the most salient features of the mise-en-page (layout) of the manuscript.
