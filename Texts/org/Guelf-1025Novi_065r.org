@@ -2,10 +2,10 @@
 
 |------------+-----------------|
 | Manuscript | Guelf 1025 Novi |
-|            | 65r22 66r       |
-|            | gml             |
-|            |                 |
-|            | Proofread       |
+| Locus      | 65r22 66r       |
+| Language   | gml             |
+| Work       |                 |
+| Status     | Proofread       |
 |------------+-----------------|
 
 * Transcription
