@@ -24,7 +24,6 @@ Limp leather binding with an envelope-style wraparound. A brass clasp is still p
 
 ** Quire Structure
 
-
 * History
 |------------+---|
 | PLACE      |   |
@@ -32,13 +31,29 @@ Limp leather binding with an envelope-style wraparound. A brass clasp is still p
 | PROVENANCE |   |
 |------------+---|
 
-
 * Contents 
 
 NB: Ends with Erasmus, Polycarp — Like in Spejl?
-|-----+------+-----------+-------------+------+--------+-------+-------|
-| Loc | Type | Text      | Rub/Inc/Exp | Lang | Status | Notes | Level |
-|-----+------+-----------+-------------+------+--------+-------+-------|
-| 1v  |      | KRONGEBET |             |      |        |       |       |
-| 4v  |      |           |             |      |        |       |       |
-|     |      |           |             |      |        |       |       |
+|---------+------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------+--------+-------+----------|
+| Loc     | Type | Text      | Rub/Inc/Exp                                                                                                                                                                                                                   | Lang | Status | Notes  | Level |      MDB |
+|---------+------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------+--------+-------+----------|
+| 1v 2v   |      | KRONGEBET | *Th(et) vær en gudeligh jomff(rv) ...* [[M]]aria ick bedh(e)r tek och på my(n)ner tek  [...] gudz modh(e)r oc ewighen                                                                                                             | da   | main   | defect |     1 |      105 |
+| 3r 4v   |      |           | ...krone pa thit velsignedæ hoffuæt [...]                                                                                                                                                                                     |      |        |        |       |      191 |
+| 4v 5v   |      |           |                                                                                                                                                                                                                               |      |        |        |       |      342 |
+| 6r 6r   |      |           |                                                                                                                                                                                                                               |      |        |        |       |       70 |
+| 6r 7v   |      |           |                                                                                                                                                                                                                               |      |        |        |       |       45 |
+| 8r 8v   |      |           |                                                                                                                                                                                                                               |      |        |        |       |      105 |
+| 9r 9v   |      |           |                                                                                                                                                                                                                               |      |        |        |       |      105 |
+| 10r 10v |      |           |                                                                                                                                                                                                                               |      |        |        |       |      105 |
+| 11r 11v |      |           |                                                                                                                                                                                                                               |      |        |        |       |      105 |
+| 12r 12v |      |           |                                                                                                                                                                                                                               |      |        |        |       |      105 |
+| 13r 13v |      |           |                                                                                                                                                                                                                               |      |        |        |       |       69 |
+| 14r 15v |      |           |                                                                                                                                                                                                                               |      |        |        |       |      342 |
+| 15v 17v |      |           |                                                                                                                                                                                                                               |      |        |        |       |       91 |
+| 18r 18r |      |           | ...som iek wedh ath jngh(e)n sønnær bøn [...] oc jomff(rv) maria oc ff(ru) s(an)c(t)a anna Am(en) **p(ate)r n(oste)r aue maria**                                                                                              | da   | main   | defect |       |      141 |
+| 18r 22r |      |           | *It(em) hær æffth(e)r sk(r)iffuew e(n) godh bøn aff wor h(er)r(e)s pina* [[H]]eel ih(es)us h(er)ræ kiær [...] tha bleffue jek syld wedh all my(n) wee Am(en) **p(ate)r n(oste)r**                                                 | da   | main   |        |       |      221 |
+| 22r 24r |      |           | *It(em) hwo som the(n)ne æffter(skreffne) bøn læss m(et) gudelit hiartæ...* [[O]] h(er)ræ ih(es)u (christ)e iek skal ey dyrffues [...] m(et) gud fadh(e)r oc th(e)n hellig \and/ ewi(n)nælig Am(en)                               | da   | main   |        |       |     1059 |
+| 24r 25r |      |           | *It(em) th(en)ne æffter(skreffne) bøn skal tu læsæ hwær løwerdagh...* [[O]] Jomff(rv) maria gudz mod(er) ick offtær tek th(et)te lyus tek til heder oc æræ [...] æffth(e)r døden Am(en) **p(ate)r n(oste)r**                      | da   | main   |        |       |     1060 |
+| 25r 26v |      |           | *It(em) en god bøn aff th(e)n værdugæ fadh(e)r s(an)c(t)o f[/r]ancisco* [[J]]ek bedh(e)r thik helligæ fadh(e)r s(an)c(tu)s franciscus [...] oc bliffuæ m(et) ha(num) ewi(n)næligh vden ændæ Am(en) **p(ate)r n(oste)r**           | da   | main   |        |       |     1061 |
+| 26v 27v |      |           | *It(em) en godh bøn aff thin helligæ ængild* [[O]] helligæ gudz ængil hwilke(n) som ær giffue(n) mek aff gud til en godh bewarelsæ [...] oc antworde he(n)næ gud fadh(e)r oc søn oc th(e)n hellig and Am(en) **p(ate)r n(oste)r** | da   | main   |        |       | 144 (50) |
+| 28r     |      |           | *Thesse æffter(skreffne) bøner skalt thu læsæ m(et) stor ødmyugh(et) for th(et) helligæ korss...* [[O]] h(er)ræ ih(es)u (christ)e hær staar iek for tik som en bedery(n)næ [...]                                              |      |        |        |       |          |
