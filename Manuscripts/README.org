@@ -54,7 +54,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[org/Holm-A-0051.org][A 51]]     | Description of /Cantus Sororum/        | Danish      |      1450 |
 | [[org/Holm-A-0085.org][A 85]]     | Psalter                                | Danish      | 1500-1599 |
 | [[org/Holm-A-0086.org][A 86]]     | Fragment of Birgittine rule            | Danish      |   ca 1500 |
-| [[org/Holm-A-0126.org][A 126]]    | Of purgatory, Ps. Birgitta from Sweden | German      |           |
+| [[org/Holm-A-0126.org][A 126]]    | Of purgatory, Ps. Birgitta (Fragment)  | German      |           |
 |----------+----------------------------------------+-------------+-----------|
 ** Kalmar, Stadsbiblioteket
 |-----------+----------------------------+-------------+---------|
@@ -67,7 +67,6 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | Shelmark        | Description   | Language(s)   | Date |
 |-----------------+---------------+---------------+------|
 | [[file:./org/Link-Teol-0009.org][Cod. Theol. 9]]   | Psalter       | German, Latin |      |
-| [[file:org/Link-Teol-0010.org][Cod. Theol. 10]]  | Psalter       | German        |      |
 | [[file:org/Link-Teol-0215.org][Cod. Theol. 215]] | Psalter       | German        |      |
 | [[file:org/Link-Teol-0217.org][Cod. Theol. 217]] |               | Danish        |      |
 |-----------------+---------------+---------------+------|
@@ -94,6 +93,7 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | KB Stockholm | A 218           | Aegidius von Assissi                              | German        |           |
 | KB Stockholm | A 234           | Latin composite manuscripts with Low German texts | German        |           |
 | Uppsala UB   | [[file:org/UUB-C-0495.org][C 495]]           | Psalterium, Low German                            | German, Latin | 1400-1499 |
+| Linköping    | [[file:org/Link-Teol-0010.org][Cod. Theol. 10]]  | Psalter [from Cologne]                            | German        |           |
 | Linköping    | [[file:org/Link-Teol-0216.org][Cod. Theol. 216]] | Book of Hours                                     | Dutch?        |           |
 | KB Kbh       | [[file:org/GKS08-3451.org][GKS 3451 8vo]]    | Book of Hours (rel. Thott 130 8vo?) [Medingen]    | German        | 1500-1787 |
 | KB Kbh       | GKS 3452 8vo    | [Medingen]                                        |               |           |

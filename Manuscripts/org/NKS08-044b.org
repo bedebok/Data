@@ -1,0 +1,44 @@
+#+TITLE: Gudelige bønner (NKS 44 b 8vo)
+
+A fragment consisting of a single bifolium.
+
+* PhysDesc
+
+|--------------+---------|
+| SUPPORT      | perg    |
+| NUMBER       | 2       |
+| SIZE         | 165 105 |
+| WRITING AREA | 135 90  |
+| COLUMNS      | 1       |
+| LINES        | 25      |
+| FOLIATION    | none    |
+|--------------+---------|
+
+
+** Binding
+|------+------|
+| TYPE | none |
+| DATE |      |
+| SIZE |      |
+|------+------|
+
+** Quire Structure
+
+
+* History
+|------------+------------|
+| PLACE      | DK         |
+| DATE       | after 1507 |
+| PROVENANCE |            |
+|------------+------------|
+
+
+* Contents 
+|-------+------+------------------+--------------------------------------------------------------------------------------------+------+--------+-------+-------|
+| Loc   | Type | Text             | Rub/Inc/Exp                                                                                | Lang | Status | Notes | Level |
+|-------+------+------------------+--------------------------------------------------------------------------------------------+------+--------+-------+-------|
+| 1r 1r |      | [aceph]          |                                                                                            |      |        |       |       |
+| 1r 1v |      | om kloker onsdag | [...] som hand haffde i sit hierte                                                         |      |        |       |       |
+| 1v 2r |      | om aften         | [[O]]m afftenen less fem p(ate)r nost(er) oc fem aue ma(ri)a [...] stod han(um) saare at taale |      |        |       |       |
+| 2r 2v |      | om torsdagen     | [[O]]m torsdagend less femten p(ate)r n(oste)r oc femten aue ma(ri)a [...]                     |      |        |       |       |
+|-------+------+------------------+--------------------------------------------------------------------------------------------+------+--------+-------+-------|

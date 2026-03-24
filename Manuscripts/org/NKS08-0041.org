@@ -1,0 +1,80 @@
+#+TITLE: Psalterium Latinum (NKS 41 8vo)
+
+
+* PhysDesc
+
+|--------------+--------------|
+| SUPPORT      | perg         |
+| NUMBER       | ii + 257 + i |
+| SIZE         | 115 70       |
+| WRITING AREA | 70 50        |
+| COLUMNS      | 1            |
+| LINES        | 16           |
+| FOLIATION    | f 1-257      |
+|--------------+--------------|
+
+
+** Binding
+Full leather binding with blind stamping and two clasps (missing). Red cloth cover (removed in Birgitte Dall's workshop).
+|------+--------------|
+| TYPE | full leather |
+| DATE | XV           |
+| SIZE | 115 80 50    |
+|------+--------------|
+
+** Quire Structure
+Binding is too tight to collate.
+
+* History
+|------------+---|
+| PLACE      |   |
+| DATE       |   |
+| PROVENANCE |   |
+|------------+---|
+
+
+* Contents 
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+| Loc       | Type       | Text  | Rub/Inc/Exp                             | Lang | Status   | Notes                                      | Level |
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+| 1r 6v     | cal        |       | Januaris h(abe)t dies xxx               |      |          |                                            |     1 |
+| 8v 11v    | miniatures |       |                                         |      |          |                                            |     1 |
+| 12r 227r  | Psalter    |       |                                         |      |          |                                            |     1 |
+| 12r 12v   |            | ps1   | Qui non abijt in consilio [...]         |      |          | beatus vir missing; prev verso inhabited B |     2 |
+| 154v 156r |            | ps95  | Cantante...                             |      |          | inhabited c                                |     2 |
+| 155r 155r | min        |       |                                         |      | inserted |                                            |     3 |
+| 226r 227r |            | ps150 | Laudate dominum in sanctis eius         |      |          |                                            |     2 |
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+| 227r 227v |            |       | Confitebor tibi domine quonam iratus es |      |          |                                            |       |
+| 227v 229r |            |       | Ego dixi in dimidio dierum              |      |          |                                            |       |
+| 229r 230r |            |       | Exultauit cor meum in domino            |      |          |                                            |       |
+| 230r 232v |            |       | Cantemus domine in gloriose enum        |      |          |                                            |       |
+| 232v 234v |            |       | Domine audivi auditionem tuam           |      |          |                                            |       |
+| 234v 239v |            |       | Audite caeli quae loquor                |      |          |                                            |       |
+| 239v 240v |            |       | Benedicite omnia opera domini           |      |          |                                            |       |
+| 240v 241v |            |       | Benedictus dominus deus                 |      |          |                                            |       |
+| 241v 243r |            |       | Te deum laudamus                        |      |          |                                            |       |
+| 243r 246v |            |       | Quicumque vult salvus esse              |      |          |                                            |       |
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+| 246v 248v | litany     |       | Kyrieleyson                             |      |          |                                            |       |
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+| 249r 249r |            |       | Omnipotens sempiterne deus dirige       |      |          |                                            |       |
+| 249r 249v |            |       | Placebo                                 |      |          |                                            |       |
+| 249v 250r |            |       | Placebo in domine nichil                |      |          |                                            |       |
+| 250v 251r |            |       | Taedet animam meam vitae meae           |      |          |                                            |       |
+| 251r 252r |            |       | Manus tuae domine fecerunt me           |      |          |                                            |       |
+| 252r 252v |            |       | Responde mihi quantas habeo iniquitates |      |          |                                            |       |
+| 252v 253v |            |       | Homo natus de muliere                   |      |          |                                            |       |
+| 253v 254r |            |       | Quis mihi hoc tribuat                   |      |          |                                            |       |
+| 254v 255r |            |       | Spiritus mei attennabit  ??             |      |          |                                            |       |
+| 255r 256r |            |       | Pelli meae, consumptis carnibus         |      |          |                                            |       |
+| 256r 256v |            |       | In diebus illis audivi vocem            |      |          |                                            |       |
+| 256v 257r | collect    |       | Partem beate resurectionis              |      |          |                                            |       |
+| 257r 257r | collect    |       | Absolve domine animas                   |      |          |                                            |       |
+| 257r 257r | collect    |       | Fidelium deus omnium conditor           |      |          |                                            |       |
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+| 257v 257v |            |       | Ik dancke dy                            | gml  | added    |                                            |       |
+|-----------+------------+-------+-----------------------------------------+------+----------+--------------------------------------------+-------|
+
+* Bibliography
+- Borcheling 1900 :: 7-8

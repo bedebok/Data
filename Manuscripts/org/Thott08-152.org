@@ -1,0 +1,44 @@
+#+TITLE: Thott 152 8vo
+
+
+* PhysDesc
+
+|--------------+----------------|
+| SUPPORT      | pap            |
+| NUMBER       | iii + 76 + iii |
+| SIZE         | 130 95         |
+| WRITING AREA | 100 70         |
+| COLUMNS      | 1              |
+| LINES        | 15             |
+| FOLIATION    | 2-76           |
+|--------------+----------------|
+
+
+** Binding
+Limp leather binding with an envelope-style wraparound. A brass clasp is still preserved. Stamping on binding (best seen underneath flap).
+|------+-------------------------------|
+| TYPE | Limp leather with wrap-around |
+| DATE | XV                            |
+| SIZE | 130 110 25                    |
+|------+-------------------------------|
+
+** Quire Structure
+
+
+* History
+|------------+---|
+| PLACE      |   |
+| DATE       |   |
+| PROVENANCE |   |
+|------------+---|
+
+
+* Contents 
+
+NB: Ends with Erasmus, Polycarp — Like in Spejl?
+|-----+------+-----------+-------------+------+--------+-------+-------|
+| Loc | Type | Text      | Rub/Inc/Exp | Lang | Status | Notes | Level |
+|-----+------+-----------+-------------+------+--------+-------+-------|
+| 1v  |      | KRONGEBET |             |      |        |       |       |
+| 4v  |      |           |             |      |        |       |       |
+|     |      |           |             |      |        |       |       |
