@@ -2,7 +2,7 @@
 
 |------------+--------------------|
 | Manuscript | AM 76 8vo          |
-| Locus      | 113r               |
+| Locus      | 113r1              |
 | Work       | PENITENTIAL_PSALMS |
 | Language   | da                 |
 | Status     | begun              |
@@ -21,5 +21,143 @@ mynnes ey myne eller myner
 
 foræld(er)s brøthæ oc tagh ey hawyn
 
-aff wore syndh ???
+aff wore syndh(er) Aaf(er) a nob(is) d(omi)ne
 
+** Text
+
+[[red 3][H]]Ærræ røp migh ey i tyn
+
+bræthæ oc refs megh ey
+
+i thyn bræthe Myskwndh
+
+megh for iech er sywgh hel megh
+
+for ath myn been ær allæ krangæ
+
+Och myn syel er serlych drøweth
+
+h(er)ræ hwar lengæ skal t(et) saa wa(re)
+
+Wenth tech oc trels myn syæl hel
+
+megh for thyn mysckwndh Forty
+
+ath e[/n]gh(e)n døth ær my(n)nes tegh en
+
+i helweth ho low(er) tegh Jech ær
+
+wæthæ i my(n) swkken jech skal to
+
+særleghæ hwer nath myn sengh
+
+m(et) mynæ toræ skal iech wathnæ
+
+mynæ senghæ clethær Myn øwe(n)
+
+ær drøweth aff bræthæ iech ælde-
+
+thæs y blandh allæ mynæ wænæ
+
+Gaar borth fran mech allæ ty
+
+th(er) gyøre ontskaf forty ath wor
+
+h(er)ræ hørdæ myn grædynnæ røstæ
+
+---113v---
+
+wor h(er)ræ hørdæ my(n) aakallen wor
+
+h(er)ræ togh myn bøn Skam oc drø-
+
+welsæ faa allæ mynæ wænæ saa
+
+ath the wm|-f-|\w/ændes ok ska(m)mes fwl
+
+skyøth Æræ hawæ fath(er) och søn
+
+oc thæn hellyandh 
+
+** Rubric 
+Ame(n) 
+
+** Rubric
+Anne(n) salmæ
+
+** Text
+
+[[red 3][H]]Alygæ æræ \te/ th/(er) ontzskaff
+
+æræ forlathnæ och thæræ
+
+syndh(er) æræ hwldæ Sæl
+
+ær th(e)n mandh th(er) gwth wyth(er)( ey
+
+syndh(er) oc ey ær swigh i hans hw
+
+Foræ ath iech tengtæ ta ælde-
+
+thæs my(n) ben mæth(e)n iech øptæ
+
+al dawe(n) Forty ath daw oc nath
+
+twyngdes tyn hond |-0000-| øw(er) mech
+
+iech ær wmwedh i myn ysældh
+
+foræ ath torner samme(n) festæs
+
+Myn brøthæ kwngør tha iech
+
+tegh oc my(n) wreth ær ey fyældh
+
+Mith hyærthæ sathæ iegh skwllæ
+
+weth gongæ gen megh sælff
+
+foræ wor h(er)ræ oc thw forloth
+
+myn ontzskaf oc my(n)næ syndh(er)
+
+Th(er) for skwllæ allæ hellygh
+
+---114r---
+
+me(n) bethæ tyl tegh i qwe(m)legh ty-
+
+mæ Æn thw gwndæ the tigh ey
+
+nær wor y mygheth wandfloth Thv
+
+æsth myn hielp af th(e)n nøth meg
+
+øw(er) omgyweth Jech skal gywæ
+
+tegh wndh(er)standelsæ oc koænnæ
+
+tegh a th(e)n wey thw gaar skal jæk festæ ywer tigh myn øwen
+
+Wærær ey so swm hestæ oc mulæ
+
+th(er) ey hawæ wnd(er)standelsæ J gry-
+
+mæ oc bezel holth the(re) gynben
+
+th(er) ey wyllæ tygh tel ko(m)mæ 
+
+Megel plecht bør syndw men
+
+en the th(er) aa gwth hopæ skal
+
+meskwndh wæræ Glæthes aff
+
+gwth oc frygthæs rætæ me(n) oc
+
+æres allæ th(er) ræthæ æ[/ræ] y herthæ
+
+Ære hawæ fath(er) 
+
+** Rubric
+psalmus
