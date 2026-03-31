@@ -1,11 +1,11 @@
 #+TITLE: Golden Coronation Prayer
 
 |------------+-----------------|
-| MANUSCRIPT | Guelf 1025 Novi |
-| LOCUS      | 230r1 232v      |
-| WORK       | KRONGEBET       |
-| LANGUAGE   | gml             |
-| STATUS     | Proofread       |
+| Manuscript | Guelf 1025 Novi |
+| Locus      | 230r1 232v      |
+| Work       | KRONGEBET       |
+| Language   | gml             |
+| Status     | Proofread       |
 |------------+-----------------|
 
 * Transcription

@@ -1,0 +1,319 @@
+,word,language,documents
+0,kald,da,GKS04-1615_019r.org
+1,kalixtus,gml,AM08-0073_013r.org
+2,kalk,da,AM04-0789_001r.org
+3,kallest,da,Lund-0035_064v.org
+4,kallet,da,Thott04-0553_125v.org Holm-A-0042_095v.org
+5,kallis,da,AM08-0072_128r.org AM08-0072_128v.org
+6,kallær,da,Holm-A-0042_095v.org
+7,kaluere,gml,AM08-0073_013r.org
+8,kam,da,Lund-0035_064v.org Holm-A-0042_095v.org
+9,kam,gml,GKS08-3487_104v.org
+10,kame,gml,AM12-0417_001r.org GKS08-3423_071v.org AM12-0417_073v.org
+11,kamen,gml,AM12-0417_001r.org GKS08-3423_211r.org AM12-0417_050r.org AM12-0417_063r.org
+12,kamende,gml,GKS08-3487_001r.org
+13,kamenn,gml,GKS08-3423_111r2.org
+14,kameren,gml,AM08-0073_044r.org
+15,kamme,da,Lund-0035_064v.org
+16,kan,gml,GKS08-3423_211r.org AM12-0417_050r.org Hamburg-CodConv-6_002r.org Speghel_R1r.org Guelf-1025Novi_065r.org Arndes1487_265r.org AM08-0073_054v.org GKS08-3423_111r2.org AM04-0782_091r.org
+17,kan,da,AM04-0782_216v.org Thott04-0553_021r.org Thott04-0553_125v.org Lund-0035_064v.org
+18,kand,da,AM04-0782_216v.org
+19,kandh,da,AM04-0784_300r.org
+20,kanst,gml,UUB-C496_091v.org
+21,kanut,gml,AM08-0073_013r.org
+22,kardynal,gml,GKS08-3487_009v.org
+23,kareste,gml,AM08-0073_055r.org
+24,kariner,da,Holm-A-0042_053r.org
+25,karinær,da,Lund-0035_038v.org
+26,karke,gml,GKS08-3423_111r2.org
+27,karlen,gml,GKS08-3487_104v.org
+28,karllo,gml,GKS08-3487_104v.org
+29,katherina,gml,AM08-0073_013r.org
+30,ke,gml,AM08-0073_071r.org AM08-0073_055r.org AM08-0073_074v.org
+31,keden,gml,GKS08-3487_001r.org
+32,kedome,gml,AM08-0073_077r.org
+33,keghen,gml,AM08-0073_165v.org
+34,kelen,gml,AM08-0073_054v.org
+35,ken,gml,AM08-0073_077r.org AM08-0073_082v.org
+36,kenne,da,Thott04-0553_125v.org
+37,kennes,da,Thott04-0553_022r.org
+38,kennest,gml,Speghel_R1r.org AM04-0782_091r.org
+39,kerche,gml,GKS08-3487_001r.org
+40,kere,da,AM04-0789_001r.org AM04-0789_002v.org
+41,kere,gml,GKS08-3423_211r.org AM08-0073_077r.org AM08-0073_109r.org AM08-0073_088v.org AM12-0417_073v.org AM08-0073_013r.org AM08-0073_054v.org
+42,keren,gml,AM12-0417_050r.org Speghel_R1r.org AM04-0782_091r.org
+43,keret,gml,AM12-0417_073v.org AM08-0073_080r.org
+44,kerke,gml,AM08-0070_001r.org AM08-0073_013r.org GKS08-3423_111r2.org
+45,kerken,gml,UUB-C496_002r.org UUB-C496_003r.org GKS08-3487_009v.org AM08-0073_013r.org AM08-0073_136v.org GKS08-3487_001r.org UBB-C496_019v.org
+46,kerlighedh,da,Thott04-0553_021r-2.org
+47,kerligheet,da,AM08-0075_022v-4.org
+48,kerlighet,da,AM04-0789_001r.org AM04-0782_001r.org AM04-0784_080r.org
+49,kerlyghet,da,AM04-0782_001r.org AM04-0784_080r.org
+50,keryste,da,AM04-0784_080r.org
+51,kes,gml,AM08-0073_082v.org
+52,keterye,gml,GKS08-3487_001r.org
+53,ketteren,gml,Arndes1487_265r.org
+54,keysær,da,Holm-A-0042_051v.org
+55,khælith,da,AM08-0072_128v.org
+56,kielde,da,AM04-0789_001r.org
+57,kiende,da,Holm-A-0042_052v.org
+58,kiene,da,Lund-0035_064v.org Holm-A-0042_095v.org
+59,kienne,da,AM04-0789_001r.org
+60,kienner,da,AM04-0789_001r.org
+61,kienæ,da,Lund-0035_064v.org
+62,kierlighe,da,AM08-0075_009r.org
+63,kierligheed,da,AM08-0075_009r.org
+64,kierligæ,da,GKS04-1613_161r.org
+65,kinde,gml,AM12-0417_050r.org Hamburg-CodConv-6_002r.org
+66,kindere,gml,AM08-0070_064r.org AM08-0073_077r.org AM08-0073_082v.org AM08-0073_088v.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_054v.org
+67,kinderen,gml,AM08-0073_054v.org
+68,kindes,gml,AM12-0417_001r.org AM12-0417_050r.org AM08-0073_228r.org AM08-0073_055r.org AM08-0073_054v.org
+69,kint,gml,AM12-0417_001r.org AM08-0073_082v.org Hamburg-CodConv-6_002r.org Beinecke-0218_127r.org AM08-0073_087r.org AM08-0073_054v.org
+70,kintheit,gml,AM08-0073_082v.org Beschauwing_009.org
+71,kirieleyson,gml,NKS08-0045_194r.org
+72,kirki,da,GKS04-1613_161r.org
+73,kirtze,gml,Koln-W52_167r.org
+74,kischeit,gml,AM08-0073_099r.org
+75,kiær,da,Lund-0035_064v.org
+76,kiære,da,AM04-0789_002v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org
+77,kiæriste,da,Lund-0035_064v.org AM12-0420_026r.org
+78,kiæristæ,da,Holm-A-0042_095v.org
+79,kiærligheet,da,Holm-A-0042_095v.org
+80,kiærlighet,da,Lund-0035_064v.org
+81,kiæræ,da,Lund-0035_064v.org Holm-A-0042_095v.org
+82,kiød,da,Thott04-0553_021r.org
+83,kiøn,da,Lund-0035_023v.org
+84,kiøste,da,AM12-0420_026r.org
+85,klare,da,AM04-0782_216v.org Holm-A-0042_053r.org AM08-0072_126r.org
+86,klarheyt,gml,GKS08-3423_211r.org GKS08-3423_111r2.org GKS08-3487_104v.org
+87,klede,gml,GKS08-3423_111r2.org UBB-C496_019v.org
+88,kleder,gml,GKS08-3423_211r.org
+89,klenheit,gml,AM12-0417_073v.org
+90,klenlyke,gml,Beschauwing_009.org
+91,klet,gml,GKS08-3423_211r.org
+92,klocke,gml,UBB-C496_019v.org
+93,klocken,gml,UBB-C496_019v.org
+94,klogæ,da,GKS04-1613_161r.org
+95,kloke,gml,UBB-C496_019v.org
+96,klokke,gml,UBB-C496_019v.org
+97,klokliken,gml,AM08-0070_003r.org
+98,klædh,da,NKS08-0045_120v.org
+99,klærkænæ,da,Lund-0035_023v.org
+100,knaken,gml,GKS08-3423_211r.org AM12-0417_073v.org
+101,kne,da,AM12-0420_026r.org
+102,kne,gml,UUB-C496_095r.org AM04-0789_005r.org
+103,knech,gml,AM08-0073_044r.org
+104,knecht,gml,AM08-0073_088v.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org GKS08-3487_001r.org
+105,knechte,gml,AM08-0073_088v.org Speghel_R1r.org AM12-0417_073v.org AM08-0073_013r.org AM08-0073_074v.org
+106,knechten,gml,AM08-0073_094r.org AM12-0417_073v.org AM08-0073_013r.org
+107,kneckten,gml,AM04-0782_091r.org
+108,knee,gml,Hamburg-CodConv-6_002r.org UUB-C496_095r.org
+109,kneen,gml,Gott-Theol242f_103r.org Hamburg-CodConv-6_002r.org GKS08-3423_202v.org
+110,kneynde,gml,Koln-W52_167r.org
+111,knoken,gml,AM12-0417_073v.org AM08-0073_013r.org
+112,knsen,gml,Arndes1487_265r.org
+113,kny,gml,Koln-W52_167r.org
+114,knæ,da,Holm-A-0042_055r.org AM04-0789_001r.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org
+115,ko,gml,AM08-0073_067r.org AM08-0073_044r.org AM08-0073_055r.org
+116,kocheyt,gml,GKS08-3487_001r.org
+117,koer,gml,AM08-0073_044r.org
+118,kolen,gml,AM08-0073_071r.org
+119,kom,da,GKS04-1615_019r.org AM04-0782_216v.org AM04-0782_001r.org Thott04-0553_125v.org AM08-0075_063r.org AM12-0421_030r.org AM04-0784_080r.org Lund-0035_023v.org
+120,kom,gml,AM08-0070_064r.org
+121,kome,da,AM04-0784_080r.org
+122,kome,gml,AM08-0073_109r.org AM08-0070_003r.org AM08-0073_071r.org NKS08-0045_174r.org NKS08-0045_194r.org AM08-0073_013r.org
+123,komen,other,Guelf08-6114Aug_181r.org
+124,komen,gml,AM08-0073_077r.org AM08-0073_099r.org AM08-0073_109r.org Beschauwing_009.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org Speghel_R1r.org Guelf-1025Novi_065r.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org GKS08-3487_001r.org AM04-0782_091r.org
+125,komen,da,Lund-0035_064v.org
+126,komende,gml,AM08-0073_077r.org AM08-0073_109r.org AM08-0073_230r.org AM08-0070_001r.org
+127,komenden,gml,AM08-0073_109r.org
+128,komer,da,GKS04-1615_009r.org
+129,komet,gml,AM08-0073_077r.org AM08-0073_071r.org AM08-0073_044r.org
+130,komma,other,Holm-A-0029_145v.org
+131,komme,da,AM08-0072_128r.org AM12-0421_022r.org AM04-0789_001r.org Thott04-0553_125v.org Lund-0035_023v.org AM08-0072_127r.org
+132,kommelsse,da,AM04-0782_001r.org
+133,kommen,gml,AM04-0782_091r.org
+134,kommer,da,Holm-A-0042_055r.org AM04-0782_001r.org AM04-0789_002v.org AM04-0784_080r.org
+135,kommæ,da,GKS04-1613_161r.org AM04-0782_001r.org NRA-0085-b_001v.org NKS08-0045_120v.org Lund-0035_064v.org AM04-0784_080r.org
+136,kompne,da,Thott04-0553_125v.org
+137,kompnæ,da,Thott04-0553_125v.org
+138,konde,gml,AM08-0070_003r.org Hamburg-CodConv-6_002r.org
+139,konge,da,Holm-A-0042_055v.org
+140,kongelig,da,AM04-0784_080r.org
+141,kongelygh,da,AM04-0782_001r.org
+142,konger,da,Holm-A-0042_095v.org AM12-0420_026r.org
+143,kongiorth,da,NKS08-0045_120v.org
+144,kongæ,da,Holm-A-0042_051v.org
+145,kongær,da,Lund-0035_064v.org
+146,konin,gml,AM08-0073_054v.org
+147,koninckynen,gml,GKS08-3487_009v.org
+148,koning,gml,AM08-0073_088v.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_054v.org AM08-0073_074v.org
+149,koninge,gml,AM08-0073_099r.org AM08-0073_082v.org UUB-C496_002r.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_054v.org
+150,koningenne,gml,AM12-0417_063r.org
+151,koninges,gml,Beschauwing_009.org
+152,koningh,gml,AM08-0073_054v.org
+153,koninghe,gml,Hamburg-CodConv-6_002r.org AM12-0417_073v.org
+154,koninghes,gml,AM08-0073_099r.org AM12-0417_063r.org
+155,koninghynne,gml,AM12-0417_050r.org
+156,koningliken,gml,Beschauwing_009.org
+157,koningynne,gml,Guelf-1155Helmst_308v.org
+158,konnigk,gml,Guelf-1025Novi_065r.org
+159,konnigynge,gml,Gott-Theol242f_103r.org
+160,konnynch,gml,GKS08-3487_104v.org
+161,konnynck,gml,GKS08-3487_104v.org
+162,konnynge,da,Thott04-0553_125v.org
+163,konnynghe,gml,Guelf-1025Novi_230r.org
+164,konynck,gml,GKS08-3487_104v.org
+165,konyncklyken,gml,GKS08-3423_111r2.org
+166,konyng,gml,AM08-0073_088v.org
+167,konynge,gml,AM08-0073_094r.org Gott-Theol242f_103r.org AM08-0070_003r.org AM08-0073_071r.org
+168,konynges,gml,AM08-0070_003r.org AM08-0073_055r.org
+169,konyngh,gml,GKS08-3487_009v.org NKS08-0045_174r.org
+170,konynghe,gml,AM08-0073_055r.org
+171,konynghyn,da,AM08-0070_247r.org
+172,konynghynnen,gml,AM08-0070_003r.org
+173,konyngynne,gml,AM08-0070_003r.org AM08-0073_055r.org
+174,konynk,gml,GKS08-3423_211r.org AM08-0070_003r.org AM08-0070_001r.org
+175,konynklyke,gml,GKS08-3423_211r.org
+176,koor,da,Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org
+177,kore,gml,AM08-0073_109r.org AM12-0417_050r.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_054v.org
+178,korn,da,Holm-A-0042_054v.org
+179,kornes,gml,AM08-0073_082v.org
+180,kornuten,gml,GKS08-3487_001r.org
+181,kors,da,AM08-0070_002v.org Holm-A-0042_053r.org AM04-0789_001r.org Holm-A-0042_051v.org AM04-0789_002v.org Lund-0035_038v.org
+182,korseth,da,Thott04-0553_015v.org
+183,korsfesther,da,AM12-0421_022r.org
+184,korsfestæ,da,AM08-0070_253v.org GKS04-1614_001r.org
+185,korsfæst,da,Holm-A-0042_053r.org Lund-0035_038v.org
+186,korss,da,AM12-0421_030r.org
+187,korssen,da,AM04-0789_001r.org
+188,korssens,da,Holm-A-0042_054v.org AM12-0421_030r.org
+189,korsset,da,UUB-C496_136r.org AM04-0789_001r.org AM04-0789_002v.org
+190,korssyt,da,AM12-0421_030r.org
+191,korssyth,da,AM04-0782_001r.org AM12-0421_030r.org AM04-0784_080r.org
+192,korten,gml,AM08-0070_003r.org
+193,kortheyt,gml,GKS08-3487_001r.org
+194,kortynge,gml,GKS08-3487_009v.org
+195,kos,gml,AM08-0073_067r.org
+196,koste,gml,AM12-0417_001r.org
+197,kosten,gml,AM12-0417_073v.org
+198,kracht,gml,Gott-Theol242f_103r.org
+199,krafft,da,Thott04-0553_021r.org AM08-0079Ieta_001r.org Thott04-0553_125v.org Lund-0035_064v.org
+200,kraft,da,AM12-0420_026r.org
+201,kraft,gml,GKS08-3423_211r.org AM12-0417_073v.org AM08-0073_013r.org GKS08-3423_111r2.org
+202,kraftlosen,gml,GKS08-3423_211r.org
+203,krancheit,gml,AM08-0073_071r.org
+204,krancheyden,gml,GKS08-3423_111r2.org
+205,krancheyt,gml,GKS08-3423_211r.org GKS08-3487_001r.org
+206,kranck,gml,AM12-0417_073v.org
+207,kranckan,gml,GKS08-3487_001r.org
+208,krancken,gml,AM08-0073_109r.org GKS08-3487_001r.org
+209,kranckheit,gml,AM12-0417_001r.org
+210,kranckheit,da,AM04-0789_002v.org
+211,krank,gml,AM08-0073_013r.org
+212,kranken,gml,GKS08-3423_071v.org UUB-C496_002r.org NKS08-0045_194r.org GKS08-3487_001r.org
+213,krankheyt,gml,GKS08-3423_211r.org GKS08-3487_001r.org
+214,krefte,gml,GKS08-3423_211r.org
+215,kreften,gml,GKS08-3423_111r2.org
+216,kribben,gml,Beinecke-0218_127r.org
+217,kriecht,gml,AM08-0073_088v.org
+218,kring,gml,AM08-0073_044r.org
+219,kringh,da,AM04-0789_001r.org
+220,krink,gml,AM08-0073_054v.org
+221,kristeligh,da,AM08-0075_022v-4.org AM08-0075_009r.org
+222,kristendom,da,Holm-A-0042_055v.org
+223,kristenhet,da,Holm-A-0042_055v.org
+224,kristæne,da,Holm-A-0042_055v.org
+225,krone,gml,GKS08-3423_211r.org NKS08-0045_194r.org AM08-0073_228r.org
+226,krone,da,Lund-0035_064v.org Holm-A-0042_095v.org
+227,kronede,gml,Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org
+228,kronede,other,Guelf08-6114Aug_181r.org
+229,kronen,other,Guelf08-6114Aug_181r.org
+230,kronen,gml,AM08-0073_099r.org Beinecke-0218_127r.org
+231,kronæ,da,Thott04-0553_125v.org
+232,kroppe,da,AM04-0789_001r.org
+233,krubbe,gml,GKS08-3423_111r2.org
+234,krubben,gml,GKS08-3423_111r2.org
+235,kruden,gml,AM08-0073_228r.org
+236,krwben,da,AM04-0782_001r.org AM04-0784_080r.org
+237,krybbeken,gml,Gott-Theol242f_103r.org
+238,krybben,gml,Beschauwing_009.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org
+239,krygen,gml,UUB-C496_091v.org
+240,kryghe,gml,GKS08-3487_104v.org
+241,kryghen,gml,GKS08-3487_009v.org
+242,krystenheit,gml,GKS08-3423_103r.org
+243,krøbben,da,Thott04-0553_125v.org
+244,kudighen,gml,AM08-0073_044r.org
+245,kulde,gml,AM08-0073_082v.org AM08-0073_054v.org
+246,kulen,gml,GKS08-3487_001r.org
+247,kulæ,gml,AM08-0070_064r.org
+248,kum,gml,AM08-0073_082v.org GKS08-3423_071v.org AM08-0073_071r.org AM08-0073_093r.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_087r.org AM08-0073_055r.org AM08-0073_054v.org GKS08-3423_111r2.org
+249,kume,gml,Arndes1487_265r.org
+250,kumpt,gml,AM08-0073_109r.org
+251,kumt,gml,GKS08-3423_202v.org
+252,kunde,gml,GKS08-3487_001r.org AM04-0789_005r.org
+253,kundeghet,gml,AM08-0073_044r.org
+254,kundhgiordhe,da,AM12-0420_026r.org
+255,kundich,gml,AM12-0417_073v.org
+256,kundige,gml,AM12-0417_073v.org
+257,kundigede,other,Guelf08-6114Aug_181r.org
+258,kundigede,gml,Beinecke-0218_127r.org AM08-0073_013r.org AM08-0073_054v.org
+259,kundigeden,gml,AM12-0417_073v.org
+260,kundigen,gml,AM12-0417_073v.org AM08-0073_013r.org AM08-0073_055r.org
+261,kundigende,gml,Beschauwing_009.org
+262,kundighede,gml,Hamburg-CodConv-6_002r.org
+263,kundighen,gml,AM12-0417_001r.org AM12-0417_073v.org
+264,kundighet,gml,AM08-0073_082v.org
+265,kundik,gml,AM08-0073_013r.org
+266,kundyghen,gml,AM08-0073_109r.org
+267,kungiorde,da,Thott04-0553_125v.org Holm-A-0042_095v.org
+268,kungiordhæ,da,Lund-0035_064v.org
+269,kungiordæ,da,Lund-0035_064v.org
+270,kunne,da,Lund-0035_064v.org
+271,kunst,gml,Arndes1487_265r.org
+272,kusche,gml,UUB-C496_091v.org AM12-0417_050r.org
+273,kuscheit,gml,AM12-0417_050r.org AM12-0417_063r.org
+274,kuschet,gml,Beschauwing_009.org
+275,kuscheyt,gml,AM08-0073_055r.org GKS08-3423_111r2.org
+276,kusken,gml,GKS08-3423_111r2.org
+277,kussche,gml,UUB-C496_091v.org AM08-0073_082v.org
+278,kusscheit,gml,AM08-0073_109r.org
+279,kussedest,gml,Koln-W52_167r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org UUB-C496_095r.org
+280,kussedest,other,Guelf08-6114Aug_181r.org
+281,kwnde,da,AM04-0782_216v.org AM12-0421_030r.org
+282,kwngiorde,da,Holm-A-0042_095v.org
+283,kwnne,da,AM08-0079Ieta_001r.org Thott04-0553_125v.org
+284,kwnnæ,da,AM08-0079Ieta_001r.org NKS08-0045_120v.org
+285,kyllær,da,NRA-0085-b_001v.org
+286,kynde,gml,UUB-C496_091v.org Gott-Theol242f_103r.org
+287,kynde,other,Guelf08-6114Aug_181r.org
+288,kyndere,gml,AM08-0070_003r.org
+289,kynderen,gml,UUB-C496_091v.org GKS08-3423_211r.org
+290,kyndes,gml,GKS08-3423_202v.org Beinecke-0218_127r.org
+291,kyndes,other,Guelf08-6114Aug_181r.org
+292,kyndis,gml,Beinecke-0218_157r.org
+293,kynnebacken,gml,AM08-0070_001r.org
+294,kynt,other,Guelf08-6114Aug_181r.org
+295,kynt,gml,UUB-C496_091v.org Gott-Theol242f_103r.org AM08-0073_237v.org Koln-W52_167r.org GKS08-3423_071v.org GKS08-3423_109v.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org GKS08-3423_202v.org Beinecke-0218_127r.org UUB-C496_095r.org Beinecke-0218_157r.org
+296,kyntlyken,gml,GKS08-3487_001r.org
+297,kyrielesion,gml,AM08-0073_054v.org
+298,kyrieleyson,gml,AM08-0073_071r.org AM08-0073_088v.org AM08-0073_013r.org AM08-0073_080r.org
+299,kyrke,da,AM12-0421_022r.org
+300,kyrkæ,da,NKS08-0045_120v.org
+301,kyrkæs,da,NKS08-0045_120v.org
+302,kyrkæss,da,NKS08-0045_120v.org
+303,kyskhed,da,AM04-0782_001r.org
+304,kyskhet,da,AM04-0784_080r.org
+305,kyste,da,Holm-A-0042_095v.org
+306,kystæ,da,AM08-0079Ieta_001r.org Thott04-0553_125v.org Lund-0035_064v.org
+307,kælstfnkalse,da,NKS08-0045_120v.org
+308,kænde,da,Thott04-0553_021r-2.org Thott04-0553_125v.org
+309,kænnæs,da,NKS08-0045_120v.org
+310,kænth,da,NKS08-0045_120v.org
+311,kære,da,AM12-0421_072r.org Thott04-0553_125v.org AM08-0072_127r.org
+312,kærlighet,da,NKS08-0045_120v.org
+313,kættere,da,AM04-0782_216v.org
+314,kættæri,da,NKS08-0045_120v.org
+315,köre,gml,Hamburg-CodConv-6_002r.org
+316,køn,da,AM12-0421_030r.org
+317,kůndeghen,gml,AM08-0070_003r.org

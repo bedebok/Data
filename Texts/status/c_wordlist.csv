@@ -1,0 +1,165 @@
+,word,language,documents
+0,c,gml,GKS08-3423_211r.org
+1,c,da,Holm-A-0042_055v.org GKS04-1615_009r.org Thott04-0553_125v.org Lund-0035_064v.org
+2,call,da,NKS08-0045_120v.org
+3,caluer,gml,AM12-0417_073v.org
+4,canticulum,gml,AM08-0073_044r.org
+5,canticum,da,AM08-0075_063r.org
+6,capetulum,gml,AM08-0073_099r.org
+7,capitele,gml,GKS08-3487_009v.org
+8,capiti,gml,GKS08-3487_009v.org
+9,capitulo,gml,GKS08-3487_009v.org
+10,capitulum,other,AM08-0070_254r.org
+11,capitulum,gml,AM08-0073_077r.org AM08-0073_099r.org AM08-0073_082v.org AM08-0073_071r.org AM08-0073_088v.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org
+12,cardinale,gml,UUB-C496_002r.org
+13,caritas,gml,AM08-0073_013r.org
+14,castitas,gml,AM08-0073_013r.org
+15,cccc,gml,UUB-C496_001v.org
+16,cecia,gml,AM08-0073_013r.org
+17,cecilia,gml,AM08-0073_013r.org
+18,cedar,gml,AM08-0073_071r.org
+19,cederbome,gml,AM08-0073_054v.org
+20,cele,other,Holm-A-0042_032r.org
+21,celebrant,other,Kalmar-0033_037v.org
+22,celi,gml,AM08-0073_044r.org
+23,celi,da,AM08-0070_247r.org
+24,cella,other,AM08-0070_254r.org
+25,celorum,gml,AM08-0073_094r.org
+26,cetera,other,AM08-0070_254r.org
+27,cetera,gml,AM08-0073_082v.org AM08-0073_088v.org
+28,chame,gml,AM08-0073_067r.org
+29,charitas,gml,GKS08-3487_009v.org
+30,charlemagnekarl,da,Holm-A-0042_051v.org
+31,chen,gml,AM08-0073_044r.org
+32,cherubin,gml,UUB-C496_001r.org AM08-0073_055r.org
+33,chore,gml,AM08-0073_055r.org
+34,chore,other,Guelf08-6114Aug_181r.org
+35,chrisi,gml,GKS08-3487_001r.org
+36,christe,gml,GKS08-3423_211r.org GKS08-3423_103v.org GKS08-3423_103r.org AM08-0073_165v.org AM08-0073_109r.org UUB-C496_002r.org UUB-C496_003r.org AM08-0073_230r.org AM08-0073_013r.org GKS08-3423_111r2.org AM04-0782_091r.org
+37,christe,da,UUB-C496_136r.org Thott04-0553_021r-2.org AM12-0421_072r.org AM08-0070_002v.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM04-0789_001r.org NRA-0085-b_001v.org Thott04-0553_015v.org Thott04-0553_021v.org Lund-0035_038v.org AM08-0072_126r.org
+38,christe,other,AM08-0070_254r.org Holm-A-0029_145v.org
+39,christeleyson,gml,AM08-0073_088v.org NKS08-0045_194r.org AM08-0073_013r.org AM08-0073_080r.org
+40,christelige,da,AM04-0782_216v.org
+41,christen,gml,GKS08-3487_001r.org
+42,christi,da,Holm-A-0042_054v.org AM08-0070_253v.org Holm-A-0042_053r.org Holm-A-0042_051v.org Thott04-0553_021v.org Lund-0035_038v.org AM12-0421_030r.org AM08-0072_126r.org GKS04-1614_001r.org
+43,christi,other,AM08-0070_254r.org
+44,christi,gml,AM12-0417_001r.org AM12-0417_050r.org AM08-0073_093r.org AM08-0073_088v.org UUB-C496_001v.org AM08-0073_080r.org GKS08-3423_111r2.org GKS08-3487_001r.org GKS08-3487_104v.org
+45,christielesion,gml,AM08-0073_054v.org
+46,christne,da,AM08-0073_011v.org
+47,christo,other,AM08-0070_254r.org
+48,christo,gml,AM08-0073_088v.org
+49,christo,da,AM08-0075_063r.org AM08-0072_126r.org
+50,christteleyson,gml,AM08-0073_071r.org
+51,christum,gml,AM08-0073_094r.org AM12-0417_001r.org AM08-0073_077r.org AM08-0073_099r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0073_071r.org AM08-0073_093r.org AM08-0073_088v.org UUB-C496_001r.org AM08-0073_087r.org AM08-0073_136v.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_001r.org
+52,christum,da,AM08-0072_128r.org AM08-0072_128v.org AM12-0421_022r.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org AM08-0072_127r.org
+53,christus,da,AM08-0072_128r.org UUB-C496_136r.org AM08-0072_128v.org Thott04-0553_022r.org AM04-0784_092r.org
+54,christus,gml,GKS08-3423_211r.org AM08-0073_099r.org AM08-0073_109r.org GKS08-3487_009v.org AM08-0073_088v.org UUB-C496_095r.org
+55,christy,gml,GKS08-3423_211r.org
+56,ciperen,gml,GKS08-3423_211r.org
+57,cipriane,gml,AM08-0073_013r.org
+58,cirlatus,gml,AM08-0073_013r.org
+59,claar,da,AM12-0421_030r.org
+60,claer,gml,Arndes1487_265r.org
+61,clamaui,gml,AM08-0073_013r.org
+62,clamor,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+63,clar,gml,AM08-0073_074v.org
+64,clara,gml,AM08-0073_013r.org
+65,clare,gml,Arndes1487_265r.org
+66,claren,gml,AM08-0070_003r.org
+67,clarheit,gml,AM08-0073_109r.org
+68,clarliken,gml,AM08-0070_001r.org
+69,claræ,da,Lund-0035_038v.org
+70,clearly,gml,Guelf-1155Helmst_308v.org
+71,cledes,gml,AM08-0073_088v.org
+72,cleit,gml,AM12-0417_073v.org
+73,clemens,other,AM08-0070_254r.org
+74,clemens,gml,AM08-0073_013r.org
+75,clerke,gml,AM08-0073_082v.org AM08-0073_087r.org
+76,clero,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+77,clete,gml,AM08-0073_013r.org
+78,cleyder,gml,UBB-C496_019v.org
+79,cleyn,gml,AM08-0073_044r.org
+80,cleyne,gml,AM08-0070_064r.org
+81,cleynen,gml,AM08-0073_082v.org AM08-0073_044r.org AM08-0073_087r.org
+82,cleyneste,gml,GKS08-3487_001r.org
+83,cleynheit,gml,AM08-0073_013r.org
+84,cleyt,gml,AM08-0073_013r.org GKS08-3487_001r.org
+85,closter,da,Thott04-0553_125v.org
+86,closter,gml,UUB-C496_002r.org Hamburg-CodConv-6_002r.org AM04-0789_005r.org
+87,clostær,da,Lund-0035_064v.org
+88,collecta,gml,AM08-0073_094r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org AM08-0073_099r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0073_071r.org AM08-0073_093r.org NKS08-0045_174r.org Speghel_R1r.org AM08-0070_001r.org AM08-0073_228r.org AM08-0073_013r.org AM08-0073_087r.org Arndes1487_265r.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org AM12-0417_063r.org
+89,collecta,da,AM04-0782_216v.org AM08-0070_247r.org
+90,collecta,other,AM08-0070_254r.org
+91,collectaymus,gml,AM12-0417_063r.org
+92,collecte,gml,AM08-0073_228r.org
+93,collecte,da,AM08-0072_128r.org AM08-0072_128v.org Holm-A-0042_053r.org AM08-0072_126r.org AM08-0072_127r.org
+94,collecten,gml,AM04-0782_091r.org
+95,collecter,da,Lund-0035_038v.org
+96,columbanus,gml,GKS08-3487_104v.org
+97,comende,gml,AM08-0073_136v.org
+98,commemoracionem,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+99,completorium,gml,AM08-0073_099r.org AM12-0417_063r.org
+100,completorrium,gml,AM08-0073_088v.org
+101,conciensien,gml,AM04-0782_091r.org
+102,concra,da,UUB-C496_136r.org
+103,consciencien,gml,Speghel_R1r.org
+104,constancia,gml,AM08-0073_013r.org
+105,contra,da,AM08-0073_011v.org
+106,cordis,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+107,corneli,gml,AM08-0073_013r.org
+108,cracht,other,Guelf08-6114Aug_181r.org
+109,crafft,gml,Beinecke-0218_127r.org UUB-C496_095r.org GKS08-3487_104v.org
+110,craft,gml,AM12-0417_001r.org Hamburg-CodConv-6_002r.org AM08-0073_054v.org
+111,cranc,gml,AM08-0073_077r.org
+112,crancken,gml,AM08-0073_013r.org
+113,crasinus,gml,NKS08-0045_166r.org
+114,craturen,gml,GKS08-3487_001r.org
+115,cre,gml,NKS08-0045_166r.org
+116,creature,gml,AM08-0073_109r.org AM08-0070_003r.org
+117,creature,da,AM08-0070_253v.org GKS04-1614_001r.org
+118,creaturen,gml,AM08-0073_165v.org AM08-0073_088v.org GKS08-3487_104v.org
+119,credo,da,AM12-0421_022r.org
+120,credo,gml,AM08-0073_071r.org AM08-0073_088v.org
+121,crippen,gml,Koln-W52_167r.org
+122,cris,gml,AM08-0073_082v.org
+123,crist,gml,UUB-C496_091v.org
+124,cristage,gml,Koln-W52_167r.org
+125,criste,da,AM04-0789_001r.org
+126,criste,gml,AM12-0417_001r.org AM08-0073_077r.org AM12-0417_050r.org AM08-0073_071r.org Speghel_R1r.org AM08-0073_228r.org UUB-C496_001r.org AM08-0073_080r.org AM08-0073_074v.org UBB-C496_019v.org
+127,cristen,gml,AM08-0073_109r.org AM12-0417_050r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org Arndes1487_265r.org AM08-0073_054v.org GKS08-3487_001r.org GKS08-3487_104v.org
+128,cristen,other,Guelf08-6114Aug_181r.org
+129,cristene,gml,UUB-C496_002r.org AM08-0073_013r.org
+130,cristenen,gml,Hamburg-CodConv-6_002r.org UUB-C496_095r.org
+131,cristenheit,gml,AM08-0073_088v.org AM08-0073_136v.org
+132,cristenheyt,gml,GKS08-3487_009v.org AM08-0073_044r.org AM08-0073_055r.org GKS08-3487_001r.org
+133,cristenæ,da,GKS04-1613_161r.org
+134,cristi,gml,NKS08-0045_187r.org AM08-0070_003r.org AM08-0070_001r.org UUB-C496_001v.org NKS08-0045_166r.org
+135,cristine,gml,AM08-0073_013r.org
+136,cristnæ,da,NKS08-0045_120v.org Thott04-0553_125v.org
+137,cristo,gml,AM08-0073_082v.org AM08-0070_003r.org GKS08-3487_104v.org
+138,cristo,da,Thott04-0553_021r.org
+139,cristoffer,gml,AM08-0073_013r.org
+140,cristum,gml,AM12-0417_001r.org Arndes1487_265r.org GKS08-3487_104v.org AM12-0417_063r.org
+141,cristus,gml,AM08-0073_088v.org AM08-0073_074v.org GKS08-3487_104v.org AM12-0417_063r.org
+142,cristælig,da,AM04-0784_300r.org
+143,cristæligæ,da,NKS08-0045_120v.org
+144,cristæne,da,Lund-0035_064v.org Holm-A-0042_095v.org
+145,cronede,gml,Hamburg-CodConv-6_002r.org UUB-C496_095r.org
+146,cronedest,gml,AM08-0073_044r.org
+147,cronen,gml,Gott-Theol242f_103r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org UUB-C496_095r.org
+148,cruce,gml,UUB-C496_091v.org GKS08-3423_211r.org GKS08-3423_103r.org GKS08-3423_202v.org AM08-0073_228r.org Beinecke-0218_157r.org UBB-C496_019v.org
+149,cruces,gml,GKS08-3423_211r.org GKS08-3487_009v.org AM08-0073_013r.org
+150,crucynghe,gml,GKS08-3423_211r.org
+151,cruuce,gml,GKS08-3423_211r.org
+152,cruzce,gml,GKS08-3487_104v.org
+153,crysset,da,AM08-0072_126r.org
+154,cryste,gml,GKS08-3423_111r2.org
+155,crystene,gml,Arndes1487_265r.org
+156,crystus,gml,GKS08-3423_111r2.org
+157,cum,gml,AM12-0417_001r.org
+158,custodiat,gml,GKS08-3487_104v.org
+159,cvstodi,da,UUB-C496_136r.org
+160,cxvi,da,AM08-0073_098r.org
+161,cyrode,gml,AM08-0073_082v.org
+162,czen,gml,AM08-0073_013r.org
+163,czeterende,gml,AM08-0073_165v.org

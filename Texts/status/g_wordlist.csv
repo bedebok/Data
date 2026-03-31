@@ -1,0 +1,903 @@
+,word,language,documents
+0,g,gml,GKS08-3487_001r.org GKS08-3487_104v.org
+1,g,da,GKS04-1615_009r.org Thott04-0553_125v.org
+2,ga,gml,AM08-0073_088v.org AM12-0417_073v.org AM08-0073_013r.org GKS08-3487_104v.org
+3,gaa,da,AM04-0782_001r.org AM08-0079Ieta_001r.org AM12-0421_030r.org AM04-0784_080r.org
+4,gaar,da,AM08-0075_022v-4.org Holm-A-0042_051v.org Lund-0035_038v.org
+5,gabriel,gml,Gott-Theol242f_103r.org Beschauwing_009.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org AM04-0789_005r.org
+6,gabriel,other,Guelf08-6114Aug_181r.org
+7,gabriel,da,AM08-0072_128r.org AM04-0782_001r.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org AM04-0784_080r.org AM08-0072_127r.org
+8,gabriele,gml,AM08-0073_093r.org
+9,gabrielem,da,AM04-0784_080r.org
+10,gabrielis,gml,AM08-0073_082v.org GKS08-3487_009v.org
+11,gabriell,da,AM04-0782_001r.org
+12,gabryel,other,Guelf08-6114Aug_181r.org
+13,gack,da,AM12-0421_030r.org
+14,gade,gml,GKS08-3423_071v.org GKS08-3423_109v.org AM08-0070_001r.org GKS08-3423_202v.org Guelf-1025Novi_065r.org GKS08-3423_111r2.org
+15,gades,gml,AM12-0417_001r.org AM12-0417_050r.org GKS08-3423_111r2.org GKS08-3487_001r.org GKS08-3487_104v.org AM12-0417_063r.org
+16,gaen,gml,AM08-0073_071r.org AM12-0417_073v.org
+17,gaf,da,AM12-0420_026r.org
+18,gaf,gml,Hamburg-CodConv-6_002r.org AM08-0073_054v.org AM08-0073_074v.org
+19,gaff,other,Guelf08-6114Aug_181r.org
+20,gaff,da,Holm-A-0042_054v.org GKS04-1613_161r.org Holm-A-0042_055v.org Holm-A-0042_053r.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org
+21,gaff,gml,Gott-Theol242f_103r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org UUB-C496_095r.org GKS08-3487_104v.org UBB-C496_019v.org
+22,gaffn,da,NKS08-0045_120v.org
+23,gaffuær,da,NKS08-0045_120v.org
+24,gaib,gml,Koln-W52_167r.org
+25,gallen,gml,GKS08-3423_211r.org AM08-0073_228r.org UBB-C496_019v.org
+26,gallenskab,da,Thott04-0553_015v.org
+27,gallich,gml,UBB-C496_019v.org
+28,gallæ,other,AM08-0070_254r.org
+29,gan,gml,GKS08-3423_211r.org AM08-0073_165v.org AM08-0073_067r.org AM08-0073_088v.org GKS08-3423_001r.org AM08-0073_013r.org AM08-0073_054v.org
+30,ganczen,gml,AM08-0073_013r.org
+31,gange,gml,AM08-0073_082v.org
+32,gange,da,Holm-A-0042_052v.org
+33,ganger,da,AM08-0075_009r.org
+34,ganghæ,da,Holm-A-0042_095v.org
+35,gangyth,da,AM04-0782_001r.org AM04-0784_080r.org
+36,gangæ,da,Thott04-0553_125v.org Lund-0035_064v.org
+37,gank,gml,AM08-0070_064r.org AM08-0073_071r.org GKS08-3423_111r2.org
+38,gans,gml,GKS08-3423_211r.org UUB-C496_001r.org
+39,gansen,gml,GKS08-3423_111r2.org
+40,ganser,gml,GKS08-3423_111r2.org
+41,gantze,gml,AM08-0070_003r.org AM08-0070_001r.org
+42,gantze,da,AM08-0070_002v.org
+43,gantzen,gml,AM08-0073_055r.org UBB-C496_019v.org
+44,gantzer,gml,AM08-0070_001r.org
+45,ganzce,gml,AM08-0073_109r.org
+46,ganzen,gml,AM04-0782_091r.org
+47,gar,da,Holm-A-0042_053r.org
+48,gar,gml,AM08-0073_013r.org Beinecke-0218_157r.org
+49,garden,gml,GKS08-3423_211r.org
+50,garuen,gml,AM08-0073_077r.org AM08-0073_080r.org
+51,gast,gml,GKS08-3423_211r.org
+52,gat,gml,AM08-0073_054v.org
+53,gaue,gml,AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_099r.org AM12-0417_073v.org GKS08-3487_104v.org NKS08-0045_166r.org AM12-0417_063r.org
+54,gayen,gml,AM08-0073_013r.org
+55,gddz,da,NKS08-0045_120v.org
+56,ge,gml,AM08-0073_077r.org AM08-0073_067r.org AM08-0073_088v.org AM08-0073_044r.org AM08-0073_055r.org AM08-0073_054v.org
+57,geapenbaret,gml,AM12-0417_073v.org
+58,gebar,gml,AM08-0073_099r.org AM08-0073_082v.org
+59,gebaren,gml,Beschauwing_009.org AM12-0417_050r.org
+60,gebede,gml,Gott-Theol242f_103r.org Koln-W52_167r.org
+61,gebede,other,Guelf08-6114Aug_181r.org
+62,gebeden,gml,Beinecke-0218_127r.org
+63,gebedes,gml,UUB-C496_002r.org AM12-0417_073v.org
+64,gebenediet,other,Guelf08-6114Aug_181r.org
+65,gebenediet,gml,UUB-C496_091v.org Koln-W52_167r.org AM08-0073_109r.org Beinecke-0218_127r.org UUB-C496_095r.org
+66,gebenediget,gml,Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org
+67,gebenedyet,gml,Gott-Theol242f_103r.org
+68,gebennediet,other,Guelf08-6114Aug_181r.org
+69,geberdest,other,Guelf08-6114Aug_181r.org
+70,geberedest,gml,AM08-0073_093r.org
+71,geberen,gml,AM08-0073_093r.org
+72,geberet,gml,AM08-0073_099r.org
+73,gebet,gml,AM08-0070_064r.org Gott-Theol242f_103r.org Koln-W52_167r.org UUB-C496_095r.org
+74,gebet,other,Guelf08-6114Aug_181r.org
+75,gebeth,gml,AM12-0417_001r.org Gott-Theol242f_103r.org Koln-W52_167r.org AM12-0417_063r.org
+76,gebloyet,gml,AM08-0073_077r.org
+77,geboden,gml,AM08-0073_109r.org Beinecke-0218_127r.org UUB-C496_095r.org
+78,geboden,other,Guelf08-6114Aug_181r.org
+79,gebord,gml,Beinecke-0218_127r.org
+80,geboren,gml,UUB-C496_091v.org AM08-0073_099r.org AM08-0073_109r.org AM12-0417_050r.org AM08-0073_071r.org AM08-0073_088v.org AM08-0073_136v.org AM08-0073_054v.org
+81,geboret,gml,AM08-0073_044r.org
+82,geborn,gml,AM12-0417_063r.org
+83,gebort,other,Guelf08-6114Aug_181r.org
+84,gebort,gml,Gott-Theol242f_103r.org Koln-W52_167r.org AM12-0417_063r.org
+85,geborth,gml,Beinecke-0218_127r.org
+86,gebracht,gml,AM12-0417_001r.org UBB-C496_019v.org
+87,gebrocht,gml,AM08-0073_080r.org
+88,gebrockt,gml,AM04-0782_091r.org
+89,gebunden,gml,UBB-C496_019v.org
+90,gebuwet,gml,AM08-0073_082v.org AM08-0073_071r.org AM12-0417_073v.org AM08-0073_013r.org
+91,gechicket,gml,AM08-0073_013r.org
+92,gecrucighet,gml,AM08-0073_109r.org
+93,gecruziget,gml,GKS08-3487_104v.org
+94,geczuret,gml,AM08-0073_099r.org
+95,gedaen,gml,AM08-0073_077r.org AM12-0417_050r.org AM12-0417_073v.org
+96,gedaen,other,Guelf08-6114Aug_181r.org
+97,gedan,gml,AM08-0073_237v.org AM08-0073_109r.org GKS08-3423_071v.org UUB-C496_002r.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org GKS08-3423_111r2.org
+98,gedancken,gml,AM08-0073_099r.org
+99,gedancket,gml,AM08-0073_099r.org AM08-0073_082v.org
+100,gedanket,gml,AM08-0073_080r.org
+101,gede,gml,AM08-0073_099r.org
+102,gedelget,gml,AM08-0073_109r.org
+103,gedenk,gml,AM08-0070_064r.org
+104,gedodet,gml,GKS08-3487_001r.org
+105,gedowet,gml,AM08-0073_099r.org
+106,gedragen,gml,AM08-0073_099r.org AM12-0417_063r.org
+107,gedregen,gml,AM12-0417_063r.org
+108,gedreuen,gml,UUB-C496_091v.org
+109,geeret,gml,AM08-0073_099r.org AM12-0417_063r.org
+110,geet,gml,Beschauwing_009.org
+111,gefrediget,gml,AM12-0417_073v.org
+112,gegan,gml,AM12-0417_073v.org AM08-0073_013r.org
+113,gegeiselt,gml,UBB-C496_019v.org
+114,gegeten,gml,UUB-C496_003r.org
+115,gegeuen,gml,UUB-C496_091v.org AM12-0417_001r.org AM08-0073_109r.org UUB-C496_001v.org AM08-0073_013r.org UBB-C496_019v.org
+116,gegheuen,gml,AM08-0073_099r.org AM08-0073_165v.org AM12-0417_073v.org AM08-0073_054v.org AM12-0417_063r.org
+117,geghoten,gml,AM08-0073_044r.org
+118,gegrodet,gml,GKS08-3487_009v.org
+119,gegrot,other,Guelf08-6114Aug_181r.org
+120,gegrotet,gml,UUB-C496_091v.org Beschauwing_009.org GKS08-3423_020r.org UUB-C496_095r.org
+121,gegrutet,gml,AM08-0073_094r.org Beinecke-0218_127r.org
+122,gehad,gml,AM08-0073_013r.org
+123,gehalslaget,gml,UBB-C496_019v.org
+124,gehat,gml,Beschauwing_009.org AM12-0417_073v.org
+125,gehebracht,gml,GKS08-3487_001r.org
+126,geheiten,other,Guelf08-6114Aug_181r.org
+127,geheiten,gml,Beinecke-0218_127r.org
+128,geheten,gml,AM12-0417_001r.org UUB-C496_095r.org
+129,geheyten,gml,Gott-Theol242f_103r.org
+130,gehilget,gml,Beschauwing_009.org
+131,gehilliget,gml,AM12-0417_063r.org
+132,gehillighet,gml,Gott-Theol242f_103r.org
+133,gehoghet,gml,AM08-0073_067r.org
+134,geholden,gml,GKS08-3487_001r.org
+135,gehordest,gml,AM08-0070_064r.org
+136,gehoret,gml,AM12-0417_073v.org
+137,gehulpen,gml,AM08-0073_099r.org AM12-0417_063r.org
+138,geiselen,gml,AM12-0417_073v.org
+139,geist,gml,AM12-0417_001r.org AM08-0073_237v.org AM08-0073_109r.org AM12-0417_050r.org NKS08-0045_174r.org Guelf-1025Novi_230r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_054v.org AM08-0073_074v.org UBB-C496_019v.org
+140,geiste,gml,AM12-0417_001r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_109r.org Beschauwing_009.org AM08-0070_003r.org UUB-C496_002r.org Guelf-1025Novi_230r.org AM12-0417_073v.org Beinecke-0218_127r.org UUB-C496_095r.org AM08-0073_054v.org
+141,geiste,other,Guelf08-6114Aug_181r.org
+142,geistes,gml,AM12-0417_001r.org AM08-0073_099r.org Koln-W52_167r.org Beinecke-0218_127r.org UUB-C496_095r.org AM08-0073_054v.org AM12-0417_063r.org
+143,geistes,other,Guelf08-6114Aug_181r.org
+144,geistlicheit,gml,UUB-C496_002r.org
+145,geistlike,gml,AM12-0417_001r.org UUB-C496_002r.org
+146,geisvte,gml,AM08-0073_109r.org
+147,geit,gml,AM12-0417_063r.org
+148,gekeret,gml,UUB-C496_091v.org AM12-0417_073v.org AM08-0073_013r.org
+149,gekomen,gml,AM12-0417_001r.org AM12-0417_073v.org AM08-0073_013r.org AM04-0789_005r.org
+150,gekronet,gml,UBB-C496_019v.org
+151,gekrummet,gml,AM12-0417_073v.org
+152,gelaset,gml,AM08-0073_074v.org
+153,gelauet,gml,AM12-0417_063r.org
+154,geleuet,gml,UUB-C496_091v.org
+155,gelick,gml,AM12-0417_073v.org
+156,gelicke,gml,AM12-0417_063r.org
+157,gelike,gml,UUB-C496_091v.org
+158,geliken,gml,Beinecke-0218_127r.org
+159,gelikerwis,gml,AM12-0417_001r.org
+160,gelikwurden,gml,AM12-0417_073v.org
+161,geloebet,gml,Koln-W52_167r.org
+162,geloset,other,Guelf08-6114Aug_181r.org
+163,geloset,gml,AM12-0417_001r.org AM08-0073_071r.org Guelf-1155Helmst_308v.org AM08-0073_088v.org GKS08-3487_104v.org
+164,gelouedes,gml,AM08-0073_093r.org
+165,gelouen,other,Guelf08-6114Aug_181r.org
+166,gelouen,gml,AM12-0417_001r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org UUB-C496_095r.org AM12-0417_063r.org
+167,gelouet,other,Guelf08-6114Aug_181r.org
+168,gelouet,gml,AM12-0417_001r.org AM08-0073_071r.org Guelf-1155Helmst_308v.org AM08-0073_044r.org AM08-0073_054v.org AM04-0789_005r.org AM12-0417_063r.org
+169,gelouete,gml,AM08-0073_013r.org
+170,gelouigen,gml,AM12-0417_001r.org
+171,gelouingen,gml,AM12-0417_001r.org
+172,geluudiget,gml,AM12-0417_073v.org
+173,gemaket,gml,AM08-0073_109r.org Beinecke-0218_127r.org AM08-0073_044r.org UUB-C496_095r.org AM08-0073_054v.org
+174,gemaket,other,Guelf08-6114Aug_181r.org
+175,gemartert,gml,Beinecke-0218_157r.org
+176,gemeyne,gml,AM12-0417_063r.org
+177,gemeynen,gml,AM08-0073_099r.org
+178,gemothes,gml,AM08-0073_013r.org
+179,gemynnet,gml,AM08-0073_044r.org
+180,gen,da,NKS08-0045_120v.org
+181,gen,gml,AM08-0073_082v.org AM08-0073_088v.org AM08-0073_044r.org AM08-0073_054v.org
+182,genade,other,Guelf08-6114Aug_181r.org
+183,genade,gml,Koln-W52_167r.org
+184,genaden,gml,Gott-Theol242f_103r.org
+185,genaden,other,Guelf08-6114Aug_181r.org
+186,gencium,gml,GKS08-3423_111r2.org
+187,gene,gml,AM08-0073_093r.org
+188,genegelt,gml,UBB-C496_019v.org
+189,geneme,gml,AM08-0073_099r.org
+190,genen,gml,AM08-0073_067r.org AM08-0073_044r.org AM08-0073_013r.org
+191,generaciones,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+192,genesen,gml,GKS08-3487_104v.org
+193,geneten,gml,AM12-0417_050r.org
+194,geniste,gml,AM08-0073_099r.org
+195,gennen,gml,AM12-0417_001r.org GKS08-3423_020r.org UUB-C496_095r.org
+196,genomen,gml,Beinecke-0218_127r.org
+197,genomet,gml,NKS08-0045_194r.org AM08-0073_054v.org
+198,genslyken,gml,GKS08-3423_211r.org
+199,geopenbaret,gml,AM08-0073_013r.org
+200,georgen,gml,AM08-0073_013r.org
+201,geotmodiget,gml,AM08-0073_013r.org
+202,gepiniget,gml,AM12-0417_073v.org
+203,geplantet,gml,AM12-0417_001r.org
+204,geprowert,gml,AM08-0070_064r.org
+205,gepyneget,gml,AM08-0073_013r.org
+206,ger,da,AM08-0073_098r.org
+207,gere,gml,GKS08-3487_001r.org
+208,gerechticheit,gml,AM08-0073_013r.org
+209,gerenigheit,gml,AM08-0073_109r.org
+210,gereon,gml,AM08-0073_013r.org
+211,gereyneget,gml,AM08-0073_013r.org
+212,gereynighet,gml,AM12-0417_073v.org
+213,gerichte,gml,AM08-0073_099r.org AM12-0417_073v.org AM08-0073_013r.org AM12-0417_063r.org
+214,gerichtes,gml,AM12-0417_050r.org AM08-0073_013r.org
+215,gerichtet,gml,AM12-0417_001r.org AM12-0417_073v.org AM08-0073_013r.org
+216,german,gml,Guelf-1025Novi_230r.org
+217,gerne,gml,GKS08-3487_001r.org UBB-C496_019v.org
+218,gerninghe,da,AM08-0072_127r.org
+219,gerningær,da,Holm-A-0042_054r.org NKS08-0045_120v.org
+220,gernynger,da,AM04-0782_001r.org AM04-0784_080r.org
+221,gertrud,gml,AM08-0073_013r.org
+222,gesaget,gml,UUB-C496_091v.org
+223,gesant,gml,AM08-0073_099r.org
+224,gescapen,gml,AM12-0417_001r.org AM12-0417_073v.org
+225,geschach,gml,AM04-0789_005r.org
+226,geschapen,gml,AM08-0073_109r.org AM08-0073_093r.org AM08-0073_044r.org AM08-0073_013r.org
+227,geschee,gml,Beinecke-0218_127r.org
+228,geschenket,gml,UBB-C496_019v.org
+229,geschey,other,Guelf08-6114Aug_181r.org
+230,geschop,gml,UUB-C496_095r.org
+231,geschreben,gml,Koln-W52_167r.org
+232,geschreuen,gml,AM08-0073_013r.org
+233,geschynet,gml,AM12-0417_063r.org
+234,gescicket,gml,AM12-0417_073v.org
+235,gescreuen,gml,UUB-C496_003r.org AM12-0417_073v.org
+236,gescreven,gml,Beinecke-0218_127r.org
+237,gesecht,gml,AM08-0073_082v.org AM08-0073_071r.org
+238,geseen,gml,AM12-0417_001r.org AM08-0073_237v.org AM12-0417_073v.org
+239,geseet,gml,AM08-0073_099r.org AM12-0417_063r.org
+240,geset,gml,AM12-0417_063r.org
+241,geseth,gml,AM08-0073_099r.org
+242,gesetten,gml,AM08-0073_077r.org
+243,gesettes,gml,AM08-0073_099r.org AM12-0417_063r.org
+244,gesettet,gml,NKS08-0045_194r.org
+245,gesichte,gml,AM08-0073_109r.org
+246,geslagen,gml,AM08-0073_013r.org
+247,geslechte,gml,AM08-0073_099r.org Beschauwing_009.org AM12-0417_063r.org
+248,gesloten,gml,AM08-0073_099r.org AM12-0417_050r.org
+249,gesneden,gml,AM08-0073_099r.org
+250,gespraken,gml,AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_013r.org
+251,gesproken,gml,Gott-Theol242f_103r.org AM08-0073_237v.org AM08-0073_109r.org
+252,gesproken,other,Guelf08-6114Aug_181r.org
+253,gest,gml,GKS08-3423_211r.org GKS08-3423_103v.org GKS08-3423_071v.org GKS08-3423_109v.org GKS08-3423_111r2.org
+254,gestalt,gml,Beinecke-0218_157r.org
+255,gestarket,gml,AM08-0073_054v.org
+256,geste,gml,GKS08-3423_103v.org AM08-0070_003r.org AM08-0073_055r.org AM08-0073_054v.org GKS08-3423_111r2.org
+257,gestedeget,gml,AM08-0073_013r.org
+258,gestediget,gml,AM12-0417_073v.org
+259,gestedighet,gml,AM08-0070_003r.org
+260,gesten,gml,AM08-0073_044r.org
+261,gestes,gml,GKS08-3423_111r2.org
+262,gesthe,da,AM12-0421_030r.org
+263,gestich,gml,AM08-0073_044r.org
+264,gestoruen,gml,UUB-C496_091v.org
+265,gestucket,gml,AM12-0417_073v.org AM08-0073_013r.org
+266,gesund,gml,AM08-0070_064r.org
+267,gesundeget,gml,AM08-0073_013r.org
+268,gesundiget,gml,AM08-0073_013r.org UUB-C496_001r.org
+269,gesundyghet,gml,GKS08-3487_001r.org
+270,gesunt,gml,AM12-0417_073v.org
+271,geswaren,gml,AM12-0417_050r.org
+272,geswaret,gml,AM08-0073_013r.org
+273,gesweghen,gml,AM12-0417_073v.org
+274,get,gml,AM08-0073_099r.org AM08-0073_080r.org
+275,getekent,gml,AM08-0070_003r.org
+276,getelet,gml,AM08-0073_077r.org AM08-0073_099r.org AM08-0073_055r.org AM12-0417_063r.org
+277,getendes,gml,GKS08-3423_211r.org
+278,getest,gml,AM08-0073_013r.org
+279,getogen,gml,UUB-C496_091v.org AM08-0073_080r.org UBB-C496_019v.org
+280,getrecket,gml,UBB-C496_019v.org
+281,getroist,gml,Koln-W52_167r.org
+282,getrostet,gml,AM08-0073_077r.org
+283,getwide,gml,Beinecke-0218_127r.org
+284,getwidet,gml,AM08-0073_013r.org
+285,getwidetvnde,gml,AM08-0073_013r.org
+286,getzyret,gml,AM12-0417_063r.org
+287,geue,gml,AM08-0070_003r.org GKS08-3487_009v.org AM08-0073_088v.org GKS08-3487_001r.org
+288,geuedeliken,gml,AM08-0073_099r.org
+289,geuedichliken,gml,AM08-0073_165v.org
+290,geuen,gml,UUB-C496_091v.org AM08-0073_099r.org UUB-C496_002r.org AM12-0417_073v.org AM08-0073_013r.org AM08-0073_055r.org AM08-0073_054v.org GKS08-3423_111r2.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org
+291,geuende,gml,AM08-0073_099r.org NKS08-0045_194r.org AM12-0417_063r.org
+292,geuer,gml,GKS08-3423_211r.org
+293,geues,gml,AM08-0073_044r.org
+294,geuest,gml,GKS08-3423_211r.org AM08-0073_237v.org GKS08-3423_109v.org AM12-0417_073v.org AM08-0073_013r.org
+295,geuestet,gml,AM08-0073_054v.org
+296,geuestiget,gml,AM12-0417_073v.org
+297,geuet,gml,AM08-0073_071r.org
+298,geuo,gml,AM08-0073_099r.org
+299,geuoget,gml,AM08-0073_099r.org AM12-0417_063r.org
+300,geuoghet,gml,AM08-0073_099r.org
+301,geuorden,gml,AM12-0417_063r.org
+302,geurowet,gml,AM08-0073_082v.org
+303,gevangen,gml,UBB-C496_019v.org
+304,gevlogen,gml,UUB-C496_091v.org
+305,gevochten,gml,AM08-0073_080r.org
+306,gevoget,gml,AM12-0417_063r.org
+307,gevrowet,gml,AM08-0073_071r.org AM08-0073_088v.org
+308,gevunden,gml,AM08-0073_109r.org
+309,gewalt,gml,AM12-0417_050r.org UUB-C496_095r.org
+310,gewalt,other,Guelf08-6114Aug_181r.org
+311,gewaltt,gml,Beinecke-0218_127r.org
+312,gewan,gml,AM12-0417_050r.org
+313,gewandelt,gml,AM12-0417_001r.org
+314,geweldich,gml,UUB-C496_095r.org
+315,gewesen,gml,AM12-0417_001r.org AM08-0073_109r.org Beschauwing_009.org
+316,gewest,gml,GKS08-3487_001r.org
+317,gewesth,gml,AM04-0782_091r.org
+318,gewonnest,gml,UUB-C496_095r.org
+319,gewonynge,gml,AM08-0073_237v.org
+320,geworden,gml,AM08-0073_077r.org AM08-0073_099r.org AM12-0417_073v.org AM08-0073_013r.org AM08-0073_054v.org
+321,gewracht,gml,Beschauwing_009.org
+322,geys,gml,AM08-0073_054v.org
+323,geyselen,gml,AM12-0417_073v.org AM08-0073_013r.org
+324,geyst,gml,GKS08-3423_211r.org Gott-Theol242f_103r.org AM08-0073_099r.org Koln-W52_167r.org Guelf-1155Helmst_308v.org AM08-0073_013r.org AM08-0073_054v.org GKS08-3423_111r2.org GKS08-3487_001r.org
+325,geyste,gml,AM08-0073_099r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0073_071r.org Guelf-1155Helmst_308v.org AM08-0073_088v.org AM08-0073_044r.org AM08-0073_013r.org GKS08-3487_104v.org
+326,geystes,gml,Gott-Theol242f_103r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org AM08-0073_013r.org GKS08-3487_001r.org GKS08-3487_104v.org
+327,geysth,gml,GKS08-3487_104v.org
+328,geysthes,gml,GKS08-3487_009v.org
+329,geystu,gml,AM04-0782_091r.org
+330,geyt,gml,GKS08-3487_104v.org
+331,gezen,gml,AM08-0073_013r.org
+332,ggot,gml,AM08-0073_099r.org
+333,gha,gml,Guelf-1025Novi_065r.org AM08-0073_013r.org
+334,ghade,gml,AM08-0073_165v.org
+335,ghaer,gml,Arndes1487_265r.org
+336,ghan,gml,AM08-0073_082v.org AM08-0070_003r.org AM08-0073_044r.org AM08-0073_054v.org
+337,ghande,gml,GKS08-3487_001r.org
+338,ghank,gml,AM08-0073_044r.org
+339,ghanslyken,gml,Speghel_R1r.org
+340,ghantzen,gml,Speghel_R1r.org
+341,ghanzcen,gml,AM08-0073_109r.org
+342,ghar,gml,AM08-0070_003r.org
+343,ghaue,gml,AM08-0073_099r.org Arndes1487_265r.org
+344,ghauen,gml,GKS08-3487_001r.org
+345,ghe,gml,GKS08-3423_211r.org AM08-0073_082v.org AM08-0073_071r.org AM08-0073_067r.org Arndes1487_265r.org AM08-0073_055r.org AM08-0073_054v.org
+346,gheachtet,gml,Arndes1487_265r.org
+347,gheapent,gml,GKS08-3423_211r.org
+348,ghebaden,gml,GKS08-3487_001r.org
+349,ghebar,gml,AM08-0070_003r.org
+350,ghebaren,gml,GKS08-3487_001r.org
+351,ghebed,gml,Arndes1487_265r.org
+352,ghebeden,gml,GKS08-3487_009v.org
+353,ghebenediet,gml,Hamburg-CodConv-6_002r.org
+354,ghebenedyeden,gml,GKS08-3423_211r.org
+355,ghebenedygeth,gml,Guelf-1025Novi_230r.org
+356,gheberedest,gml,AM08-0073_054v.org
+357,ghebet,gml,AM08-0070_003r.org GKS08-3487_009v.org Beinecke-0218_127r.org
+358,ghebleuen,gml,AM08-0073_055r.org GKS08-3487_001r.org
+359,ghebloyet,gml,GKS08-3423_111r2.org
+360,gheboden,gml,AM08-0070_003r.org Hamburg-CodConv-6_002r.org GKS08-3487_001r.org
+361,gheboghet,gml,AM08-0070_003r.org
+362,gheboren,gml,AM08-0070_003r.org AM08-0073_071r.org Guelf-1025Novi_065r.org AM08-0073_044r.org
+363,ghebracht,gml,Speghel_R1r.org
+364,ghebracken,gml,GKS08-3487_001r.org
+365,ghebrech,gml,AM08-0070_003r.org
+366,ghebredet,gml,AM08-0073_228r.org
+367,ghebreke,gml,NKS08-0045_174r.org
+368,ghebreydet,gml,AM08-0070_003r.org
+369,ghebrochen,gml,GKS08-3487_001r.org
+370,ghebruket,gml,GKS08-3487_001r.org
+371,ghebunden,gml,GKS08-3423_211r.org
+372,ghebyldet,gml,AM04-0782_091r.org
+373,ghecledet,gml,GKS08-3487_001r.org
+374,ghecrucighet,gml,AM08-0073_136v.org GKS08-3487_001r.org
+375,ghedacht,gml,AM08-0070_003r.org
+376,ghedaen,gml,AM08-0073_082v.org AM08-0073_087r.org GKS08-3487_001r.org
+377,ghedan,gml,GKS08-3423_211r.org AM08-0073_109r.org GKS08-3423_071v.org GKS08-3423_109v.org Hamburg-CodConv-6_002r.org AM08-0070_001r.org AM08-0073_013r.org
+378,ghedancket,gml,AM08-0073_088v.org
+379,ghedanken,gml,GKS08-3423_211r.org
+380,ghede,gml,AM12-0417_073v.org
+381,ghedechtenysse,gml,GKS08-3423_211r.org
+382,ghedelet,gml,AM08-0070_001r.org
+383,ghedencket,gml,AM12-0417_073v.org
+384,ghedenke,gml,AM08-0073_013r.org
+385,ghedich,gml,AM08-0073_013r.org
+386,ghedichtet,gml,AM08-0070_001r.org
+387,ghedoen,gml,GKS08-3487_001r.org
+388,ghedoft,gml,Arndes1487_265r.org
+389,ghedouwet,gml,AM12-0417_063r.org
+390,ghedrenket,gml,AM08-0073_228r.org
+391,ghedrucket,gml,GKS08-3423_211r.org GKS08-3423_103v.org AM08-0070_003r.org
+392,ghedwunghen,gml,AM08-0070_003r.org
+393,ghedychlyken,gml,GKS08-3423_211r.org
+394,ghedylet,gml,AM08-0070_003r.org
+395,ghedän,gml,Hamburg-CodConv-6_002r.org
+396,gheereth,gml,GKS08-3487_001r.org
+397,gheerne,gml,Speghel_R1r.org
+398,gheest,gml,AM08-0073_109r.org AM08-0070_003r.org
+399,gheet,gml,AM12-0417_001r.org
+400,ghef,gml,AM08-0073_013r.org
+401,ghegan,gml,GKS08-3423_111r2.org GKS08-3487_001r.org
+402,ghegeuen,gml,GKS08-3423_103v.org AM08-0073_013r.org GKS08-3487_001r.org
+403,ghegeyselet,gml,GKS08-3423_211r.org
+404,ghegheuen,gml,AM08-0073_109r.org AM08-0070_003r.org GKS08-3487_001r.org
+405,ghegoten,gml,AM08-0073_077r.org
+406,ghegrot,gml,AM08-0073_044r.org
+407,ghegrotet,gml,GKS08-3423_211r.org GKS08-3423_103v.org Guelf-1025Novi_065r.org
+408,ghegrutet,gml,AM08-0073_094r.org AM08-0073_099r.org Hamburg-CodConv-6_002r.org AM12-0417_063r.org
+409,ghehandelt,gml,GKS08-3423_111r2.org
+410,ghehat,gml,GKS08-3487_001r.org
+411,ghehatet,gml,Arndes1487_265r.org GKS08-3487_001r.org
+412,gheherberget,gml,GKS08-3487_001r.org
+413,gheheten,gml,GKS08-3423_211r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org
+414,ghehillighet,gml,AM08-0070_003r.org
+415,ghehoghet,gml,AM08-0073_054v.org
+416,gheholden,gml,Speghel_R1r.org GKS08-3487_001r.org AM04-0782_091r.org
+417,ghehyndere,gml,GKS08-3487_001r.org
+418,gheist,gml,AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM08-0073_087r.org AM08-0073_136v.org
+419,gheiste,gml,AM08-0073_109r.org AM08-0073_136v.org
+420,gheistes,gml,AM08-0073_109r.org AM08-0070_003r.org
+421,gheklaget,gml,GKS08-3423_211r.org
+422,ghekomen,gml,Hamburg-CodConv-6_002r.org
+423,ghekoren,gml,AM08-0073_088v.org
+424,ghekrencket,gml,GKS08-3487_001r.org
+425,ghekronet,gml,NKS08-0045_194r.org
+426,ghekurret,gml,GKS08-3487_001r.org
+427,ghekynet,gml,GKS08-3487_001r.org
+428,ghelauet,gml,GKS08-3487_001r.org AM12-0417_063r.org
+429,gheleden,gml,AM08-0070_003r.org GKS08-3487_001r.org
+430,ghelereden,gml,Arndes1487_265r.org
+431,gheleret,gml,AM08-0070_003r.org
+432,ghelesen,gml,GKS08-3423_111r2.org
+433,gheleuet,gml,Arndes1487_265r.org
+434,ghelike,gml,AM08-0070_003r.org
+435,gheliken,gml,AM08-0070_003r.org
+436,ghelikes,gml,AM08-0070_003r.org
+437,gheloset,gml,GKS08-3423_211r.org AM08-0070_003r.org AM08-0073_088v.org Guelf-1025Novi_065r.org AM08-0073_044r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_001r.org
+438,ghelouet,gml,GKS08-3487_009v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org AM08-0073_054v.org GKS08-3487_001r.org
+439,ghelyk,gml,GKS08-3423_211r.org GKS08-3423_111r2.org
+440,ghelyke,gml,GKS08-3423_111r2.org
+441,ghemakes,gml,AM08-0070_003r.org
+442,ghemaket,gml,AM08-0073_109r.org AM12-0417_050r.org AM08-0070_003r.org GKS08-3423_109v.org Hamburg-CodConv-6_002r.org AM08-0073_228r.org GKS08-3487_001r.org
+443,ghemarteret,gml,GKS08-3423_202v.org
+444,ghemene,gml,GKS08-3487_009v.org GKS08-3487_001r.org
+445,ghemenen,gml,GKS08-3423_103r.org GKS08-3487_009v.org
+446,ghemeret,gml,AM08-0070_003r.org
+447,ghemurret,gml,GKS08-3487_001r.org
+448,ghen,gml,AM08-0073_071r.org AM12-0417_073v.org AM08-0073_080r.org AM08-0073_054v.org GKS08-3487_001r.org
+449,ghenade,gml,GKS08-3487_001r.org
+450,ghenamen,gml,GKS08-3423_111r2.org
+451,ghenegelt,gml,GKS08-3423_211r.org
+452,ghenegheden,gml,GKS08-3423_211r.org
+453,ghengeuen,gml,GKS08-3487_001r.org
+454,ghennen,gml,AM12-0417_063r.org
+455,ghenodet,gml,AM08-0073_109r.org
+456,ghenomen,gml,AM08-0070_003r.org GKS08-3487_009v.org
+457,ghenslyken,gml,AM04-0782_091r.org
+458,gheontmodiget,gml,AM12-0417_073v.org
+459,gheopenbaret,gml,AM08-0070_001r.org
+460,gheperset,gml,GKS08-3423_211r.org
+461,ghepyneghet,gml,AM08-0073_136v.org
+462,ghequelet,gml,GKS08-3487_001r.org
+463,ghere,gml,AM08-0073_109r.org
+464,ghereinighet,gml,Speghel_R1r.org AM04-0782_091r.org
+465,ghereppet,gml,AM08-0070_001r.org
+466,ghereysighet,gml,GKS08-3487_001r.org
+467,ghericheyt,gml,GKS08-3487_001r.org
+468,gherichtet,gml,AM12-0417_073v.org
+469,gherne,gml,AM04-0782_091r.org
+470,ghesadiget,gml,Guelf-1025Novi_065r.org
+471,ghesaluet,gml,AM08-0073_228r.org
+472,ghesant,gml,AM08-0070_001r.org Guelf-1025Novi_065r.org AM12-0417_063r.org
+473,ghescapen,gml,AM12-0417_050r.org
+474,gheschant,gml,NKS08-0045_174r.org
+475,gheschapen,gml,AM08-0073_109r.org AM08-0070_003r.org GKS08-3423_001r.org NKS08-0041_257v.org
+476,ghescheen,gml,GKS08-3487_001r.org
+477,gheschen,gml,AM08-0073_109r.org GKS08-3423_111r2.org
+478,gheschenen,gml,GKS08-3423_111r2.org
+479,gheschicket,gml,AM08-0070_003r.org
+480,ghescholden,gml,GKS08-3487_001r.org
+481,gheschonet,gml,GKS08-3423_111r2.org
+482,gheschreuen,gml,GKS08-3423_111r2.org AM04-0789_005r.org
+483,gheschup,gml,Hamburg-CodConv-6_002r.org
+484,ghescreuen,gml,AM08-0070_003r.org Hamburg-CodConv-6_002r.org AM08-0070_001r.org
+485,gheseen,gml,GKS08-3423_071v.org AM08-0070_003r.org
+486,ghesegh,gml,AM08-0073_082v.org
+487,gheseryget,gml,GKS08-3423_211r.org
+488,gheset,gml,AM12-0417_063r.org
+489,gheseth,gml,Arndes1487_265r.org
+490,ghesettet,gml,AM08-0070_003r.org AM08-0070_001r.org AM08-0073_228r.org
+491,gheseyn,gml,Guelf-1025Novi_065r.org
+492,gheskapen,gml,AM08-0073_054v.org
+493,gheslaghen,gml,AM08-0070_003r.org
+494,gheslechten,gml,GKS08-3423_109v.org
+495,ghesneden,gml,AM04-0782_091r.org
+496,ghesoch,gml,GKS08-3487_001r.org
+497,ghesocht,gml,GKS08-3487_001r.org
+498,ghesprachen,gml,GKS08-3487_001r.org
+499,ghespraken,gml,GKS08-3423_211r.org GKS08-3423_071v.org GKS08-3423_109v.org GKS08-3487_001r.org
+500,ghespro,gml,AM08-0073_082v.org
+501,ghesproken,gml,AM08-0070_003r.org AM08-0073_087r.org
+502,ghespyset,gml,GKS08-3487_001r.org
+503,ghest,gml,AM08-0073_044r.org GKS08-3487_001r.org
+504,gheste,gml,AM08-0073_109r.org AM08-0070_003r.org Hamburg-CodConv-6_002r.org AM08-0073_054v.org
+505,ghestes,gml,GKS08-3487_001r.org
+506,ghestliken,gml,AM08-0070_001r.org
+507,ghestoruen,gml,GKS08-3487_001r.org
+508,ghestraffet,gml,GKS08-3487_001r.org
+509,ghestreden,gml,NKS08-0045_194r.org
+510,ghesundiget,gml,GKS08-3487_001r.org
+511,ghesundighet,gml,GKS08-3487_001r.org
+512,ghesundyget,gml,GKS08-3487_001r.org
+513,ghesundyghet,gml,GKS08-3487_001r.org
+514,gheswolen,gml,GKS08-3487_001r.org
+515,ghesyget,gml,GKS08-3423_111r2.org
+516,ghesynde,gml,GKS08-3423_211r.org
+517,ghetastet,gml,AM08-0070_003r.org
+518,ghetenen,gml,NKS08-0045_174r.org
+519,ghetoghen,gml,Hamburg-CodConv-6_002r.org
+520,ghetreden,gml,AM08-0073_109r.org
+521,ghetrostet,gml,Hamburg-CodConv-6_002r.org NKS08-0045_174r.org GKS08-3487_001r.org
+522,ghetweden,gml,Arndes1487_265r.org
+523,ghetweyuelt,gml,GKS08-3423_211r.org
+524,ghetwidet,gml,Hamburg-CodConv-6_002r.org AM12-0417_073v.org
+525,gheuangen,gml,AM08-0073_228r.org
+526,gheuastet,gml,GKS08-3487_001r.org
+527,gheue,gml,AM08-0070_003r.org GKS08-3487_001r.org
+528,gheuen,gml,AM12-0417_001r.org NKS08-0045_187r.org AM08-0073_071r.org AM08-0070_001r.org AM08-0073_013r.org AM08-0073_054v.org
+529,gheuer,gml,GKS08-3423_211r.org GKS08-3423_020r.org
+530,gheuest,gml,AM08-0073_109r.org Speghel_R1r.org AM08-0073_013r.org
+531,gheuet,gml,AM08-0070_001r.org
+532,gheulaten,gml,AM08-0073_088v.org
+533,ghevangen,gml,AM08-0073_013r.org
+534,ghevleschet,gml,AM08-0073_109r.org
+535,ghevloghen,gml,Arndes1487_265r.org
+536,ghevnunden,gml,Speghel_R1r.org
+537,ghevrouwet,gml,AM08-0070_003r.org GKS08-3487_001r.org
+538,ghevructhet,gml,GKS08-3487_001r.org
+539,ghevryget,gml,Speghel_R1r.org
+540,ghevryghet,gml,AM04-0782_091r.org
+541,ghevunden,gml,GKS08-3423_211r.org
+542,ghewalt,gml,GKS08-3423_211r.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_065r.org
+543,ghewerdighe,gml,GKS08-3423_020r.org
+544,ghewesen,gml,AM08-0070_003r.org Arndes1487_265r.org GKS08-3487_001r.org
+545,gheweset,gml,AM08-0070_003r.org
+546,ghewest,gml,AM08-0073_165v.org AM08-0070_003r.org GKS08-3487_001r.org
+547,gheweten,gml,Arndes1487_265r.org
+548,gheweyde,gml,GKS08-3423_211r.org
+549,ghewiset,gml,AM08-0070_001r.org
+550,ghewolgeth,gml,GKS08-3487_001r.org
+551,gheworden,gml,GKS08-3423_211r.org GKS08-3423_111r2.org
+552,ghewracht,gml,GKS08-3423_111r2.org
+553,ghewyrct,gml,GKS08-3487_001r.org
+554,gheyslike,gml,AM08-0073_228r.org
+555,gheyst,gml,Hamburg-CodConv-6_002r.org Speghel_R1r.org GKS08-3487_001r.org
+556,gheyste,gml,Hamburg-CodConv-6_002r.org Arndes1487_265r.org GKS08-3487_001r.org
+557,gheystes,gml,Hamburg-CodConv-6_002r.org GKS08-3487_001r.org
+558,gheystlick,gml,GKS08-3487_001r.org
+559,gheystlyke,gml,GKS08-3487_009v.org
+560,gheystlykens,gml,GKS08-3487_001r.org
+561,gheystu,gml,Speghel_R1r.org
+562,ghieeiste,gml,AM08-0073_109r.org
+563,ghif,gml,AM08-0073_109r.org Speghel_R1r.org AM08-0073_013r.org Arndes1487_265r.org AM04-0782_091r.org
+564,ghift,gml,Speghel_R1r.org
+565,ghij,gml,Guelf-1025Novi_065r.org
+566,ghink,gml,AM08-0073_099r.org AM08-0073_054v.org
+567,ghodes,gml,Speghel_R1r.org GKS08-3487_001r.org NKS08-0045_166r.org
+568,ghot,gml,NKS08-0045_166r.org
+569,ghoten,gml,Arndes1487_265r.org
+570,ghotestu,gml,Arndes1487_265r.org
+571,ghud,gml,GKS08-3487_001r.org
+572,ghude,gml,AM08-0073_109r.org AM08-0073_088v.org NKS08-0045_176r.org
+573,ghuden,gml,AM08-0073_109r.org AM08-0073_074v.org GKS08-3487_001r.org
+574,ghudes,gml,NKS08-0045_166r.org
+575,ghued,gml,Arndes1487_265r.org
+576,ghut,gml,AM08-0073_165v.org
+577,ghy,gml,AM08-0070_003r.org AM08-0070_001r.org AM08-0073_013r.org
+578,ghyf,gml,Speghel_R1r.org
+579,ghyff,gml,Speghel_R1r.org AM04-0782_091r.org
+580,gi,gml,AM12-0417_001r.org AM08-0073_109r.org AM08-0073_082v.org
+581,gidder,da,AM04-0789_002v.org
+582,gien,da,UUB-C496_136r.org
+583,gienkiøbere,da,AM12-0420_026r.org
+584,gienkiøbære,da,Lund-0035_064v.org Holm-A-0042_095v.org
+585,gierne,da,GKS04-1615_009r.org
+586,gif,gml,AM12-0417_001r.org AM08-0073_077r.org AM08-0073_099r.org AM08-0073_237v.org AM08-0073_109r.org AM08-0073_082v.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_087r.org AM08-0073_054v.org AM12-0417_063r.org
+587,giff,gml,AM08-0073_099r.org AM08-0073_109r.org AM08-0073_082v.org UUB-C496_002r.org UUB-C496_003r.org AM08-0070_001r.org AM08-0073_044r.org UUB-C496_001r.org
+588,giff,da,UUB-C496_136r.org Holm-A-0042_055v.org AM04-0789_001r.org Thott04-0553_015v.org AM08-0075_022v-4.org Thott04-0553_021v.org AM08-0075_009r.org AM08-0072_127r.org
+589,giffs,da,AM04-0789_001r.org
+590,giffue,da,AM04-0789_001r.org AM04-0789_002v.org
+591,giffuen,other,AM08-0070_254r.org
+592,giffuer,da,AM04-0784_026v_m.org Thott04-0553_015v.org Thott04-0553_021r.org
+593,giffuet,da,NKS08-0045_120v.org
+594,giffuær,da,NKS08-0045_120v.org
+595,gift,gml,AM12-0417_001r.org AM08-0073_077r.org AM08-0073_082v.org GKS08-3423_020r.org AM04-0782_091r.org
+596,giiff,da,AM04-0782_001r.org AM04-0784_080r.org
+597,giiffwe,da,AM04-0782_001r.org AM04-0784_080r.org
+598,gij,gml,Gott-Theol242f_103r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org
+599,gijff,gml,NKS08-0045_166r.org
+600,gik,da,UUB-C496_136r.org AM08-0079Ieta_001r.org
+601,gilderne,da,GKS04-1615_009r.org
+602,gilerne,da,GKS04-1615_009r.org
+603,gillerne,da,GKS04-1615_009r.org
+604,ginck,gml,AM12-0417_001r.org AM12-0417_073v.org AM08-0073_228r.org AM12-0417_063r.org
+605,ginck,other,AM08-0070_254r.org
+606,ginge,da,AM04-0789_002v.org
+607,gingen,other,AM08-0070_254r.org
+608,gingen,gml,AM08-0073_080r.org
+609,ginghen,gml,AM08-0073_044r.org
+610,gingæ,da,AM08-0079Ieta_001r.org
+611,gink,gml,Beschauwing_009.org AM08-0073_088v.org AM08-0073_044r.org
+612,gior,da,NKS08-0045_120v.org
+613,giord,da,Holm-A-0042_055r.org NKS08-0045_120v.org AM12-0420_026r.org
+614,giorde,da,Holm-A-0042_055r.org
+615,giorder,other,AM08-0070_254r.org
+616,giordh,da,AM04-0782_001r.org NKS08-0045_120v.org Lund-0035_064v.org
+617,giordhæ,da,Lund-0035_023v.org
+618,giordæ,da,GKS04-1613_161r.org Holm-A-0042_051v.org NKS08-0045_120v.org Thott04-0553_125v.org
+619,giort,da,AM04-0789_001r.org NKS08-0045_120v.org Thott04-0553_125v.org AM04-0784_080r.org
+620,giorth,da,NKS08-0045_120v.org
+621,gire,da,AM04-0789_001r.org
+622,girighet,da,Holm-A-0042_055v.org NKS08-0045_120v.org
+623,giter,other,Holm-A-0029_145v.org
+624,giuer,da,Holm-A-0042_055v.org
+625,giærninge,da,AM04-0789_001r.org
+626,giærningh,da,Holm-A-0042_055v.org
+627,giøm,da,UUB-C496_136r.org Lund-0035_038v.org
+628,giøme,da,UUB-C496_136r.org
+629,giømel,da,Holm-A-0042_095v.org
+630,giømen,da,Holm-A-0042_053r.org
+631,giømme,da,Holm-A-0042_055v.org
+632,giømmen,da,Lund-0035_038v.org
+633,giømæn,da,Lund-0035_038v.org
+634,giør,da,UUB-C496_136r.org GKS04-1615_019r.org Holm-A-0042_055v.org Thott04-0553_021v.org Lund-0035_064v.org
+635,giørdhe,da,GKS04-1615_019r.org
+636,giøre,da,AM08-0075_022v-4.org Holm-A-0042_051v.org AM04-0789_002v.org Lund-0035_064v.org AM08-0075_009r.org Lund-0035_023v.org
+637,giører,da,Holm-A-0042_055v.org
+638,giørt,da,AM08-0075_063r.org
+639,giøræ,da,Holm-A-0042_055v.org Holm-A-0042_051v.org
+640,glad,da,AM08-0072_127r.org
+641,glans,gml,GKS08-3423_202v.org
+642,glantz,gml,Beinecke-0218_157r.org
+643,glathe,da,AM08-0072_127r.org
+644,gledas,da,GKS04-1613_161r.org
+645,gleddhes,da,AM08-0072_127r.org
+646,glede,da,AM04-0789_001r.org AM04-0789_002v.org Holm-A-0042_095v.org AM12-0420_026r.org
+647,gledelich,da,AM12-0420_026r.org
+648,gledeligh,da,Lund-0035_064v.org Holm-A-0042_095v.org
+649,gleder,da,Holm-A-0042_095v.org
+650,gledes,da,AM08-0072_127r.org
+651,gledh,da,AM08-0072_128r.org AM08-0072_128v.org
+652,gledhæ,da,Lund-0035_064v.org Lund-0035_038v.org
+653,gledæ,da,Holm-A-0042_053r.org Lund-0035_064v.org Holm-A-0042_095v.org
+654,glees,da,AM08-0075_063r.org
+655,glethe,da,AM08-0072_128r.org AM08-0072_128v.org
+656,glethæ,da,AM08-0072_127r.org
+657,glike,gml,AM08-0073_099r.org
+658,gloria,da,AM08-0075_063r.org
+659,gloria,gml,AM12-0417_050r.org AM08-0070_003r.org GKS08-3423_111r2.org
+660,gloria,other,Holm-A-0042_032r.org
+661,gloriam,gml,AM08-0073_044r.org
+662,glorie,gml,GKS08-3423_111r2.org
+663,gloriosa,gml,AM08-0073_067r.org
+664,gloriosas,gml,GKS08-3487_104v.org
+665,gloryen,gml,GKS08-3423_111r2.org
+666,glæde,da,Thott04-0553_125v.org AM08-0075_063r.org
+667,glædhe,da,AM12-0421_072r.org
+668,glædis,da,GKS04-1615_019r.org
+669,glædæ,da,AM04-0782_001r.org NKS08-0045_120v.org AM04-0784_080r.org
+670,glømme,da,AM04-0789_002v.org
+671,gna,gml,AM08-0073_080r.org
+672,gnade,gml,UUB-C496_091v.org AM12-0417_001r.org AM08-0073_077r.org GKS08-3423_103r.org AM08-0073_099r.org Koln-W52_167r.org NKS08-0045_187r.org AM08-0073_109r.org Beschauwing_009.org AM12-0417_050r.org AM08-0070_003r.org Guelf-1155Helmst_308v.org UUB-C496_003r.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org Guelf-1025Novi_230r.org Speghel_R1r.org AM12-0417_073v.org NKS08-0045_176r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_054v.org GKS08-3423_111r2.org GKS08-3487_001r.org AM04-0782_091r.org AM12-0417_063r.org
+673,gnaden,gml,UUB-C496_091v.org AM12-0417_001r.org GKS08-3423_211r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM12-0417_050r.org AM08-0073_071r.org GKS08-3423_020r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org AM08-0073_088v.org Guelf-1025Novi_230r.org Speghel_R1r.org Beinecke-0218_127r.org UUB-C496_095r.org Arndes1487_265r.org GKS08-3487_001r.org AM04-0782_091r.org AM12-0417_063r.org
+674,gnadenmodher,gml,AM08-0070_003r.org
+675,gnadhe,gml,GKS08-3487_009v.org
+676,gne,gml,AM08-0073_074v.org
+677,gnedelike,gml,AM08-0070_001r.org
+678,gnedeliken,gml,AM08-0070_001r.org
+679,gnedich,gml,NKS08-0045_194r.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_001r.org Arndes1487_265r.org AM08-0073_054v.org
+680,gnedicheit,gml,AM12-0417_073v.org AM08-0073_013r.org AM08-0073_080r.org
+681,gnedichliken,gml,AM12-0417_063r.org
+682,gnedige,gml,UUB-C496_002r.org AM04-0782_091r.org
+683,gnedighen,gml,Speghel_R1r.org Arndes1487_265r.org
+684,gnedik,gml,AM08-0073_071r.org
+685,go,gml,AM08-0073_044r.org AM08-0073_054v.org
+686,god,gml,UUB-C496_091v.org AM12-0417_001r.org GKS08-3423_211r.org Gott-Theol242f_103r.org NKS08-0045_187r.org AM12-0417_050r.org UUB-C496_002r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org Speghel_R1r.org GKS08-3423_202v.org Guelf-1025Novi_065r.org AM12-0417_073v.org Beinecke-0218_127r.org UUB-C496_095r.org UUB-C496_001r.org Arndes1487_265r.org GKS08-3423_111r2.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org AM12-0417_063r.org
+687,god,da,AM08-0072_128r.org AM08-0072_128v.org AM08-0072_126r.org
+688,god,other,Guelf08-6114Aug_181r.org
+689,goddes,gml,Guelf-1155Helmst_308v.org
+690,goddis,gml,Beinecke-0218_127r.org
+691,gode,gml,UUB-C496_091v.org AM08-0073_094r.org AM12-0417_001r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_237v.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM08-0070_003r.org AM08-0073_071r.org GKS08-3487_009v.org AM08-0073_088v.org Speghel_R1r.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org Arndes1487_265r.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org UBB-C496_019v.org NKS08-0045_166r.org AM04-0789_005r.org AM12-0417_063r.org
+692,gode,da,Holm-A-0042_055r.org Holm-A-0042_054r.org Holm-A-0042_055v.org AM04-0789_001r.org AM04-0782_001r.org AM08-0079Ieta_001r.org AM04-0784_080r.org
+693,godere,gml,AM08-0070_064r.org
+694,godes,gml,UUB-C496_091v.org AM12-0417_001r.org AM08-0073_077r.org AM08-0073_099r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM08-0070_003r.org AM08-0073_071r.org AM08-0073_067r.org Guelf-1155Helmst_308v.org AM08-0073_093r.org Hamburg-CodConv-6_002r.org AM08-0073_088v.org Guelf-1025Novi_230r.org AM08-0070_001r.org Guelf-1025Novi_065r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org NKS08-0041_257v.org AM08-0073_080r.org AM08-0073_055r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org UBB-C496_019v.org AM12-0417_063r.org
+695,godes,other,Guelf08-6114Aug_181r.org
+696,godh,da,AM04-0789_001r.org Thott04-0553_015v.org Thott04-0553_021r.org Thott04-0553_021v.org AM08-0072_127r.org
+697,godhan,other,Holm-A-0029_145v.org
+698,godhe,da,AM12-0421_072r.org
+699,godhedh,da,Thott04-0553_125v.org
+700,godhet,da,GKS04-1615_019r.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org
+701,godhæ,da,Lund-0035_023v.org
+702,godz,da,NKS08-0045_120v.org
+703,godæ,da,GKS04-1613_161r.org
+704,gold,da,AM04-0789_002v.org
+705,gold,gml,Beinecke-0218_127r.org
+706,goldgyff,da,AM12-0421_030r.org
+707,goldhwad,da,AM12-0421_030r.org
+708,goldhwær,da,AM12-0421_030r.org
+709,goldieg,da,AM12-0421_030r.org
+710,goldmaria,gml,Beinecke-0218_127r.org
+711,goldo,da,AM12-0421_030r.org
+712,golt,gml,Gott-Theol242f_103r.org AM08-0073_099r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org AM08-0073_044r.org UUB-C496_095r.org
+713,golt,other,Guelf08-6114Aug_181r.org
+714,gone,gml,Guelf-1025Novi_230r.org
+715,gootz,da,Thott04-0553_125v.org
+716,gorde,gml,AM08-0073_054v.org
+717,gosz,da,Lund-0035_064v.org
+718,got,other,AM08-0070_254r.org
+719,got,gml,AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org AM08-0073_099r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org AM08-0073_088v.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_136v.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM12-0417_063r.org
+720,got,da,Holm-A-0042_054r.org AM04-0789_001r.org Holm-A-0042_051v.org AM04-0789_002v.org AM08-0075_063r.org AM08-0070_247r.org
+721,goth,gml,GKS08-3487_001r.org
+722,goth,da,AM08-0075_022v-4.org AM08-0075_009r.org
+723,gotheit,gml,AM08-0073_109r.org AM08-0070_003r.org
+724,gotheyt,gml,AM08-0073_055r.org AM08-0073_054v.org GKS08-3423_111r2.org
+725,gothlich,gml,GKS08-3487_001r.org
+726,gotlike,gml,AM12-0417_063r.org
+727,gotliken,gml,AM08-0073_099r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0070_003r.org AM08-0070_001r.org AM08-0073_228r.org UUB-C496_001r.org AM12-0417_063r.org
+728,gotliker,gml,AM08-0073_099r.org AM12-0417_063r.org
+729,gotlyke,gml,GKS08-3423_211r.org
+730,gotlyken,gml,GKS08-3423_211r.org GKS08-3423_103v.org
+731,gotlyker,gml,GKS08-3423_211r.org
+732,gottes,gml,Koln-W52_167r.org
+733,goyde,gml,Guelf-1155Helmst_308v.org
+734,graad,da,AM12-0421_030r.org
+735,graadzens,da,AM12-0421_030r.org
+736,grabriel,da,AM08-0072_128v.org
+737,gracia,gml,GKS08-3487_009v.org
+738,gracia,da,Thott04-0553_021v.org
+739,gracias,other,Kalmar-0033_037v.org
+740,gracissima,gml,AM08-0070_003r.org
+741,gradh,da,AM08-0079Ieta_001r.org
+742,gradt,da,AM04-0784_300r.org
+743,graff,gml,AM08-0073_228r.org
+744,grafft,other,Guelf08-6114Aug_181r.org
+745,graffuen,da,AM08-0079Ieta_001r.org
+746,graffuæ,da,NKS08-0045_120v.org
+747,graft,gml,Hamburg-CodConv-6_002r.org AM08-0073_013r.org
+748,gratia,da,AM04-0789_001r.org
+749,graue,gml,UUB-C496_095r.org
+750,gred,da,AM04-0782_216v.org
+751,gredhe,da,AM12-0421_030r.org
+752,greedh,da,AM12-0421_030r.org
+753,green,gml,AM08-0070_003r.org
+754,green,da,AM12-0421_022r.org
+755,greenalse,gml,AM08-0070_003r.org
+756,greende,gml,AM08-0070_003r.org
+757,greendenne,gml,AM08-0070_003r.org
+758,greender,gml,AM08-0070_003r.org
+759,greendu,gml,AM08-0070_003r.org
+760,greenere,gml,AM08-0070_003r.org
+761,greenhwn,da,AM12-0421_030r.org
+762,greenjk,gml,AM08-0070_003r.org
+763,greenudij,da,AM12-0421_030r.org
+764,greenunses,gml,AM08-0070_003r.org
+765,greenwen,gml,AM08-0070_003r.org
+766,gregorio,gml,AM08-0073_228r.org
+767,gregorius,gml,AM08-0073_013r.org
+768,gregorygregorius,da,Holm-A-0042_053r.org Lund-0035_038v.org
+769,grene,gml,AM08-0073_013r.org
+770,greseliken,gml,AM12-0417_001r.org
+771,gribe,da,Holm-A-0042_095v.org
+772,grimmeste,da,Holm-A-0042_055r.org
+773,gro,gml,Arndes1487_265r.org
+774,grod,gml,GKS08-3487_009v.org Beinecke-0218_127r.org
+775,grof,gml,GKS08-3423_111r2.org
+776,groisszen,gml,Koln-W52_167r.org
+777,groisßen,gml,Koln-W52_167r.org
+778,groiß,gml,Koln-W52_167r.org
+779,grondelosen,gml,Gott-Theol242f_103r.org
+780,gropen,gml,AM08-0070_003r.org
+781,grot,gml,GKS08-3423_109v.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org AM08-0073_044r.org UUB-C496_095r.org Arndes1487_265r.org GKS08-3487_001r.org
+782,grot,other,Guelf08-6114Aug_181r.org
+783,grote,gml,UUB-C496_091v.org GKS08-3423_211r.org Gott-Theol242f_103r.org AM08-0073_237v.org AM08-0073_082v.org Beschauwing_009.org GKS08-3423_071v.org AM12-0417_050r.org GKS08-3423_109v.org Speghel_R1r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_087r.org Arndes1487_265r.org AM08-0073_054v.org GKS08-3423_111r2.org AM04-0782_091r.org UBB-C496_019v.org NKS08-0045_166r.org
+784,grote,other,Guelf08-6114Aug_181r.org
+785,groten,other,Guelf08-6114Aug_181r.org
+786,groten,gml,Gott-Theol242f_103r.org AM08-0073_109r.org AM12-0417_050r.org UUB-C496_002r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org GKS08-3423_001r.org Guelf-1025Novi_230r.org Speghel_R1r.org AM12-0417_073v.org Beinecke-0218_127r.org NKS08-0045_176r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_080r.org GKS08-3423_111r2.org AM04-0782_091r.org Beinecke-0218_157r.org UBB-C496_019v.org
+787,groter,gml,GKS08-3423_211r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM12-0417_050r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org AM08-0070_001r.org GKS08-3423_202v.org Beinecke-0218_127r.org UUB-C496_095r.org GKS08-3423_111r2.org GKS08-3487_001r.org UBB-C496_019v.org
+788,groter,other,Guelf08-6114Aug_181r.org
+789,groteste,gml,AM08-0073_099r.org
+790,grotesten,gml,AM08-0073_044r.org GKS08-3487_001r.org
+791,grotet,gml,AM08-0073_109r.org
+792,grothe,gml,GKS08-3487_001r.org
+793,grothen,gml,GKS08-3487_001r.org
+794,grother,gml,Beschauwing_009.org
+795,grotli,gml,AM08-0073_077r.org
+796,grotliken,gml,AM08-0073_077r.org
+797,groyssen,gml,Koln-W52_167r.org
+798,grund,gml,GKS08-3487_001r.org
+799,grundelosen,gml,GKS08-3423_211r.org GKS08-3423_103r.org
+800,grundelsen,gml,Guelf-1025Novi_065r.org
+801,grunt,gml,GKS08-3487_001r.org
+802,grunthlozen,gml,GKS08-3487_001r.org
+803,grut,gml,AM08-0073_093r.org
+804,gruwelycheyt,gml,GKS08-3423_211r.org
+805,grvt,gml,NKS08-0045_174r.org
+806,grymmeden,gml,AM08-0070_003r.org
+807,grymmycheyt,gml,GKS08-3423_211r.org
+808,grymmyghe,gml,GKS08-3423_211r.org
+809,græde,da,AM08-0079Ieta_001r.org
+810,grædet,da,AM04-0782_216v.org
+811,grædh,da,AM08-0079Ieta_001r.org
+812,grædindhæ,da,Lund-0035_023v.org
+813,græthe,da,AM08-0072_126r.org
+814,gt,gml,Koln-W52_167r.org
+815,gu,gml,GKS08-3423_109v.org
+816,gud,da,AM04-0784_026v_m.org GKS04-1615_019r.org GKS04-1613_161r.org Holm-A-0042_055v.org Holm-A-0042_052v.org AM04-0789_001r.org AM04-0782_001r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM08-0075_063r.org AM12-0420_026r.org AM04-0784_080r.org Kalmar-0033_139v.org
+817,gud,gml,UUB-C496_002r.org Hamburg-CodConv-6_002r.org GKS08-3487_001r.org
+818,guddoms,da,Thott04-0553_021r-2.org Holm-A-0042_052v.org AM04-0789_001r.org
+819,gude,gml,UUB-C496_091v.org GKS08-3423_211r.org AM08-0073_077r.org GKS08-3423_103v.org AM08-0073_099r.org AM08-0073_237v.org AM08-0073_109r.org AM08-0073_082v.org AM12-0417_050r.org GKS08-3423_020r.org UUB-C496_002r.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org GKS08-3423_001r.org AM12-0417_073v.org UUB-C496_001v.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_087r.org GKS08-3423_111r2.org GKS08-3487_104v.org
+820,gudelig,da,Holm-A-0042_055v.org AM04-0789_001r.org
+821,gudelige,da,GKS04-1614_001r.org
+822,gudeligh,da,AM12-0420_026r.org
+823,gudelighedh,da,Thott04-0553_125v.org
+824,gudelighet,da,Lund-0035_064v.org
+825,gudeligt,da,AM04-0789_001r.org
+826,guden,gml,UUB-C496_091v.org AM12-0417_001r.org AM08-0073_099r.org AM08-0073_237v.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org GKS08-3423_071v.org AM08-0073_071r.org UUB-C496_002r.org GKS08-3423_109v.org GKS08-3423_202v.org AM12-0417_073v.org AM08-0073_013r.org AM08-0073_087r.org GKS08-3487_001r.org AM12-0417_063r.org
+827,guder,gml,NKS08-0045_174r.org GKS08-3487_001r.org
+828,guderterende,gml,GKS08-3423_211r.org
+829,guderterenste,gml,GKS08-3423_211r.org
+830,gudes,gml,GKS08-3423_211r.org Hamburg-CodConv-6_002r.org
+831,gudh,da,Holm-A-0042_054v.org GKS04-1613_161r.org Thott04-0553_021r-2.org Holm-A-0042_055v.org Holm-A-0042_052v.org Thott04-0553_022r.org AM04-0789_001r.org Thott04-0553_021r.org Thott04-0553_020v.org AM08-0075_022v-4.org NKS08-0045_120v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM08-0072_126r.org AM08-0075_009r.org Lund-0035_023v.org AM08-0072_127r.org
+832,gudhelik,da,AM08-0072_127r.org
+833,gudhelykt,da,AM08-0072_127r.org
+834,gudhfader,da,Thott04-0553_125v.org
+835,gudhfaders,da,Thott04-0553_125v.org
+836,gudhz,other,Holm-A-0029_145v.org
+837,gudhz,da,AM08-0072_127r.org
+838,gudoms,da,GKS04-1613_161r.org
+839,gudtz,da,AM08-0073_011v.org
+840,gudz,da,AM04-0789_001r.org AM04-0782_001r.org NRA-0085-b_001v.org NKS08-0045_120v.org Thott04-0553_125v.org AM12-0420_026r.org
+841,gudælig,da,Lund-0035_023v.org
+842,gudæligh,da,GKS04-1613_161r.org Holm-A-0042_055v.org Lund-0035_064v.org
+843,gudælighet,da,Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org
+844,gue,da,Holm-A-0042_095v.org
+845,guet,gml,AM08-0073_228r.org UUB-C496_095r.org
+846,guld,da,AM12-0420_026r.org
+847,guldh,da,Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org
+848,guodhied,da,AM08-0073_011v.org
+849,guodt,da,AM08-0073_098r.org
+850,gus,da,AM08-0072_128r.org AM08-0072_128v.org
+851,gusdz,da,AM08-0072_128r.org AM08-0072_128v.org
+852,gusz,da,Holm-A-0042_054v.org GKS04-1613_161r.org Holm-A-0042_054r.org Holm-A-0042_052v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org
+853,gut,gml,AM08-0070_003r.org AM08-0073_088v.org AM08-0073_013r.org GKS08-3487_104v.org AM04-0789_005r.org
+854,gutch,gml,GKS08-3487_104v.org
+855,gutlichen,gml,AM08-0073_013r.org
+856,gutlik,gml,NKS08-0045_187r.org
+857,gutlike,gml,AM08-0073_093r.org
+858,gutliken,gml,NKS08-0045_187r.org AM08-0070_001r.org AM12-0417_073v.org
+859,gutlykeste,gml,GKS08-3423_001r.org
+860,guttekeit,gml,Koln-W52_167r.org
+861,gutturre,gml,AM08-0070_003r.org
+862,gutz,da,Thott04-0553_021r-2.org GKS04-1615_009r.org Thott04-0553_015v.org Thott04-0553_021r.org Thott04-0553_125v.org
+863,gwd,da,GKS04-1615_019r.org AM04-0782_216v.org AM12-0421_022r.org AM04-0782_001r.org NKS08-0045_120v.org AM04-0784_080r.org
+864,gwdelige,da,AM04-0784_080r.org
+865,gwdelygh,da,AM04-0782_001r.org
+866,gwdh,da,AM04-0782_001r.org NKS08-0045_120v.org AM04-0784_080r.org
+867,gwdhz,da,AM04-0782_001r.org AM04-0784_080r.org
+868,gwds,da,NKS08-0045_120v.org
+869,gwdz,da,AM04-0784_092r.org AM04-0782_001r.org NKS08-0045_120v.org AM12-0421_030r.org AM04-0784_080r.org
+870,gwdztienæstæ,da,NKS08-0045_120v.org
+871,gwdælig,da,NKS08-0045_120v.org
+872,gws,da,AM08-0072_128r.org AM08-0072_128v.org
+873,gwsz,da,AM12-0420_026r.org
+874,gwt,da,AM04-0782_216v.org
+875,gy,gml,AM08-0073_077r.org Gott-Theol242f_103r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0070_003r.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org AM08-0073_088v.org Guelf-1025Novi_065r.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_054v.org
+876,gydh,da,Holm-A-0042_055r.org
+877,gyestes,gml,GKS08-3487_104v.org
+878,gyf,gml,GKS08-3423_211r.org GKS08-3423_109v.org AM08-0073_093r.org GKS08-3423_111r2.org
+879,gyff,gml,GKS08-3487_104v.org
+880,gyiff,da,AM08-0072_128r.org
+881,gyn,gml,AM08-0073_082v.org
+882,gynck,gml,GKS08-3487_104v.org
+883,gyngestu,gml,AM08-0070_003r.org
+884,gynk,gml,AM08-0073_044r.org
+885,gyricheit,gml,AM08-0073_109r.org
+886,gænstridælssæ,da,NKS08-0045_120v.org
+887,gæringh,da,Thott04-0553_125v.org
+888,gærne,da,Thott04-0553_022r.org
+889,gærninger,da,NKS08-0045_120v.org
+890,gærningær,da,NKS08-0045_120v.org
+891,gærnynga,other,Holm-A-0029_145v.org
+892,gøm,da,AM04-0789_001r.org
+893,gømen,da,AM04-0789_001r.org AM04-0789_002v.org
+894,gømme,da,AM04-0784_026v_m.org AM04-0789_002v.org
+895,gømmer,da,AM04-0789_001r.org
+896,gør,da,Thott04-0553_125v.org
+897,gørdhe,da,AM08-0072_127r.org
+898,gøre,da,AM04-0782_001r.org Thott04-0553_125v.org AM04-0784_080r.org
+899,gøre,other,Holm-A-0029_145v.org
+900,gørth,da,AM08-0072_127r.org
+901,gøræ,da,AM04-0782_216v.org NKS08-0045_120v.org

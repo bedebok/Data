@@ -1,10 +1,10 @@
 #+TITLE: A prayer of thanksgiving
 
 |------------+------------|
-| MANUSCRIPT | NKS 41 8vo |
-| LOCUS      | 257v1 257v |
-| WORK       |            |
-| LANG       | gml        |
+| Manuscript | NKS 41 8vo |
+| Locus      | 257v1 257v |
+| Work       |            |
+| Language   | gml        |
 | Status     | Proofread  |
 |------------+------------|
 

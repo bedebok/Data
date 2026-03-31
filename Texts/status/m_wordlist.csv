@@ -1,0 +1,514 @@
+,word,language,documents
+0,m,gml,GKS08-3423_211r.org
+1,m,da,AM04-0782_216v.org AM04-0789_001r.org
+2,ma,gml,AM08-0073_067r.org AM08-0073_055r.org
+3,ma,da,Holm-A-0042_052v.org AM08-0075_022v-4.org Holm-A-0042_051v.org Lund-0035_064v.org
+4,maa,da,AM08-0073_098r.org Thott04-0553_021r-2.org AM04-0782_216v.org AM08-0075_022v-4.org AM08-0079Ieta_001r.org AM04-0789_002v.org Thott04-0553_125v.org Thott04-0553_021v.org
+5,maade,da,AM04-0782_216v.org AM04-0784_300r.org
+6,mach,gml,GKS08-3423_211r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org AM12-0417_050r.org AM08-0070_003r.org GKS08-3423_109v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org GKS08-3423_202v.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org Arndes1487_265r.org AM08-0073_080r.org GKS08-3423_111r2.org GKS08-3487_104v.org NKS08-0045_166r.org
+7,machen,gml,AM04-0782_091r.org
+8,machstu,gml,Speghel_R1r.org
+9,macht,gml,NKS08-0045_187r.org AM08-0073_109r.org AM08-0070_003r.org Hamburg-CodConv-6_002r.org AM08-0073_013r.org Arndes1487_265r.org
+10,macht,da,Thott04-0553_015v.org Thott04-0553_021r.org AM08-0079Ieta_001r.org
+11,macke,gml,GKS08-3487_104v.org
+12,macth,da,AM12-0421_030r.org
+13,magda,da,Lund-0035_064v.org
+14,magdalena,gml,AM08-0073_013r.org
+15,magdalena,da,Thott04-0553_125v.org AM08-0075_063r.org Holm-A-0042_095v.org AM12-0420_026r.org
+16,magdalenen,other,Guelf08-6114Aug_181r.org
+17,magdalenen,gml,Gott-Theol242f_103r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Speghel_R1r.org Beinecke-0218_127r.org UUB-C496_095r.org AM04-0782_091r.org
+18,magdalenes,da,Thott04-0553_015v.org
+19,maget,other,Guelf08-6114Aug_181r.org
+20,maget,gml,UUB-C496_091v.org Beschauwing_009.org AM12-0417_050r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org UUB-C496_095r.org
+21,magetdom,gml,AM04-0789_005r.org
+22,magh,gml,Beinecke-0218_127r.org
+23,maghet,gml,Hamburg-CodConv-6_002r.org AM08-0073_074v.org GKS08-3487_001r.org
+24,maghetdome,gml,Hamburg-CodConv-6_002r.org
+25,maghin,other,Holm-A-0029_145v.org
+26,magna,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+27,magnificat,gml,AM08-0073_237v.org GKS08-3423_071v.org GKS08-3423_109v.org
+28,magnificat,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+29,magnificat,da,GKS04-1613_161r.org AM08-0075_063r.org
+30,magnus,gml,AM08-0073_013r.org
+31,maiestas,gml,GKS08-3487_104v.org
+32,mak,gml,AM08-0073_055r.org
+33,make,gml,UUB-C496_091v.org AM08-0070_064r.org AM12-0417_001r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM08-0070_003r.org AM08-0073_093r.org NKS08-0045_174r.org AM08-0073_088v.org GKS08-3423_001r.org AM12-0417_073v.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_055r.org AM08-0073_054v.org AM08-0073_074v.org
+34,makede,gml,AM08-0073_088v.org AM08-0073_044r.org AM08-0073_054v.org AM08-0073_074v.org
+35,makeden,gml,AM08-0070_003r.org
+36,makedest,gml,AM12-0417_001r.org AM08-0073_088v.org
+37,maken,gml,Speghel_R1r.org AM08-0073_013r.org GKS08-3423_111r2.org
+38,makende,gml,AM08-0073_071r.org
+39,makest,gml,AM08-0070_064r.org Beschauwing_009.org
+40,maket,gml,AM08-0073_077r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0070_003r.org GKS08-3423_109v.org AM08-0073_044r.org
+41,makt,da,GKS04-1613_161r.org Holm-A-0042_053r.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org
+42,male,gml,Hamburg-CodConv-6_002r.org Arndes1487_265r.org AM12-0417_063r.org
+43,mall,da,Holm-A-0042_055v.org
+44,man,gml,AM12-0417_001r.org AM08-0073_077r.org Koln-W52_167r.org AM08-0073_082v.org Beschauwing_009.org AM12-0417_073v.org AM08-0073_013r.org Arndes1487_265r.org GKS08-3487_104v.org NKS08-0045_166r.org
+45,man,da,GKS04-1615_019r.org AM08-0075_022v-4.org NKS08-0045_120v.org Holm-A-0042_095v.org AM08-0075_009r.org
+46,manck,gml,AM12-0417_073v.org Beinecke-0218_127r.org GKS08-3487_104v.org AM12-0417_063r.org
+47,mand,da,AM04-0782_001r.org AM04-0784_080r.org Kalmar-0033_139v.org
+48,mandom,da,AM08-0070_253v.org AM04-0789_002v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org GKS04-1614_001r.org
+49,mandoms,da,AM04-0782_001r.org
+50,mandomss,da,AM04-0784_080r.org
+51,mandz,da,NKS08-0045_120v.org
+52,mane,gml,AM08-0073_071r.org AM08-0073_054v.org
+53,manen,gml,Koln-W52_167r.org AM08-0073_044r.org
+54,manet,gml,GKS08-3487_009v.org
+55,mange,da,Holm-A-0042_054v.org Holm-A-0042_055v.org AM04-0789_002v.org
+56,mangefald,da,AM04-0789_002v.org
+57,mangefoldhet,da,Holm-A-0042_055r.org
+58,manghe,da,Holm-A-0042_095v.org
+59,mangk,gml,AM08-0073_099r.org Beinecke-0218_127r.org
+60,mank,gml,AM08-0073_094r.org GKS08-3423_211r.org AM08-0073_109r.org AM08-0073_082v.org GKS08-3423_001r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_055r.org
+61,manliken,gml,NKS08-0045_194r.org
+62,mannes,gml,AM08-0073_055r.org
+63,manngenn,da,AM08-0073_011v.org
+64,mannich,gml,AM08-0073_054v.org
+65,mannichuoldicheit,gml,AM08-0073_013r.org
+66,mannichuoldigen,gml,AM08-0073_054v.org
+67,mans,da,AM08-0072_128r.org AM08-0072_128v.org
+68,mante,gml,GKS08-3423_111r2.org
+69,manynghe,gml,GKS08-3423_211r.org
+70,marcellus,gml,AM08-0073_013r.org
+71,march,gml,GKS08-3423_211r.org
+72,marcus,gml,AM08-0073_013r.org
+73,margareta,gml,AM12-0417_050r.org
+74,margaretha,gml,AM08-0073_013r.org
+75,mari,gml,AM08-0073_071r.org AM08-0073_067r.org AM08-0073_080r.org
+76,maria,da,AM08-0072_129v.org AM08-0072_128r.org AM08-0070_253v.org GKS04-1613_161r.org AM08-0072_128v.org Thott04-0553_021r-2.org AM12-0421_072r.org Holm-A-0042_055v.org AM12-0421_022r.org Holm-A-0042_052v.org AM04-0789_001r.org AM04-0784_092r.org AM04-0782_001r.org Thott04-0553_015v.org Thott04-0553_021r.org Thott04-0553_020v.org AM04-0789_002v.org Thott04-0553_125v.org Thott04-0553_021v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM12-0420_026r.org AM08-0072_126r.org AM04-0784_080r.org Lund-0035_023v.org AM08-0072_127r.org GKS04-1614_001r.org
+77,maria,gml,UUB-C496_091v.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org Gott-Theol242f_103r.org AM08-0073_099r.org Koln-W52_167r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org AM08-0073_067r.org Guelf-1155Helmst_308v.org AM08-0073_093r.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org AM08-0073_230r.org Beinecke-0218_127r.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_087r.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_104v.org AM04-0789_005r.org AM12-0417_063r.org
+78,maria,other,Holm-A-0042_032r.org AM08-0070_254r.org Guelf08-6114Aug_181r.org Kalmar-0033_037v.org
+79,mariam,gml,AM08-0073_055r.org GKS08-3487_104v.org
+80,mariam,da,NKS08-0045_120v.org
+81,marian,gml,AM12-0417_063r.org
+82,mariaria,gml,Gott-Theol242f_103r.org
+83,marie,da,Thott04-0553_015v.org Thott04-0553_125v.org AM04-0784_080r.org
+84,marie,gml,AM08-0073_099r.org AM08-0073_109r.org Speghel_R1r.org AM04-0782_091r.org
+85,marien,gml,AM08-0073_077r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_165v.org Koln-W52_167r.org AM08-0073_109r.org AM08-0070_003r.org AM08-0073_071r.org UUB-C496_002r.org Guelf-1155Helmst_308v.org AM08-0073_093r.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org AM08-0073_088v.org Speghel_R1r.org AM08-0070_001r.org Beinecke-0218_127r.org NKS08-0045_176r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_136v.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org AM12-0417_063r.org
+86,marien,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+87,mariinus,gml,AM08-0073_013r.org
+88,maris,gml,AM08-0073_082v.org
+89,mariæ,da,AM08-0070_002v.org AM04-0782_001r.org NKS08-0045_120v.org
+90,martelare,gml,NKS08-0045_166r.org
+91,martelere,gml,AM12-0417_050r.org
+92,marteleren,gml,AM12-0417_050r.org
+93,martelers,gml,NKS08-0045_194r.org
+94,marter,gml,Beschauwing_009.org AM08-0073_013r.org UBB-C496_019v.org
+95,martere,gml,AM08-0073_109r.org UBB-C496_019v.org
+96,martha,gml,AM08-0073_013r.org
+97,martinus,gml,AM08-0073_013r.org
+98,martir,da,Holm-A-0042_054v.org AM08-0072_126r.org
+99,marya,gml,GKS08-3423_211r.org GKS08-3423_071v.org GKS08-3423_111r2.org
+100,maryen,gml,GKS08-3423_001r.org GKS08-3423_111r2.org
+101,mate,gml,AM08-0070_003r.org NKS08-0045_174r.org AM08-0070_001r.org Arndes1487_265r.org
+102,mater,gml,AM08-0070_003r.org AM08-0073_067r.org
+103,materilik,gml,AM08-0070_003r.org
+104,mathis,gml,AM08-0073_013r.org
+105,matrris,gml,GKS08-3487_009v.org
+106,matte,da,AM08-0072_126r.org AM08-0075_009r.org AM08-0072_127r.org
+107,matthe,da,AM08-0072_127r.org
+108,maurus,gml,AM08-0073_013r.org
+109,mdeme,gml,AM08-0073_099r.org
+110,mdoer,gml,AM08-0073_099r.org
+111,me,gml,AM08-0073_099r.org AM08-0073_082v.org AM08-0073_088v.org UUB-C496_001v.org AM08-0073_013r.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org GKS08-3487_104v.org
+112,me,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+113,mea,gml,AM08-0073_044r.org
+114,mea,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+115,mea,da,AM08-0073_011v.org
+116,meam,gml,NKS08-0045_174r.org AM08-0073_013r.org
+117,meam,other,Holm-A-0042_032r.org
+118,mec,da,GKS04-1615_019r.org
+119,mechtet,gml,AM08-0073_071r.org
+120,mechtich,gml,UUB-C496_091v.org
+121,mechticheit,gml,AM08-0073_099r.org AM08-0073_109r.org AM12-0417_063r.org
+122,mechtildmettilde,da,Holm-A-0042_052v.org
+123,mechtych,gml,GKS08-3423_111r2.org
+124,mectistæ,da,AM04-0784_080r.org
+125,mectugh,da,GKS04-1615_019r.org
+126,mectwgh,da,GKS04-1615_019r.org
+127,mectwghe,da,GKS04-1615_019r.org
+128,mectystæ,da,AM04-0782_001r.org
+129,med,other,AM08-0070_254r.org
+130,med,da,AM12-0421_072r.org AM04-0782_216v.org AM12-0421_030r.org
+131,mede,gml,UUB-C496_091v.org AM12-0417_001r.org GKS08-3423_211r.org Hamburg-CodConv-6_002r.org GKS08-3423_001r.org UUB-C496_095r.org AM08-0073_055r.org
+132,mede,other,AM08-0070_254r.org
+133,medelidinge,gml,AM08-0073_165v.org
+134,medelidynghe,gml,GKS08-3487_001r.org
+135,medelydich,gml,GKS08-3487_001r.org
+136,medelydych,gml,GKS08-3423_211r.org
+137,medelydynghe,gml,GKS08-3423_211r.org
+138,medferder,da,AM08-0075_009r.org
+139,medgong,da,AM04-0784_026v_m.org
+140,medh,da,AM12-0421_030r.org
+141,medytatio,gml,GKS08-3423_111r2.org
+142,meed,da,AM12-0421_030r.org
+143,meenløs,da,Holm-A-0042_054v.org
+144,meer,gml,Beschauwing_009.org AM08-0070_001r.org AM08-0073_044r.org Arndes1487_265r.org GKS08-3487_001r.org
+145,meers,gml,AM08-0073_054v.org
+146,meg,da,AM08-0072_128r.org AM08-0072_128v.org AM12-0421_072r.org AM04-0784_092r.org AM04-0782_001r.org AM12-0421_030r.org AM04-0784_080r.org AM08-0072_127r.org
+147,meget,da,AM08-0079Ieta_001r.org
+148,megh,da,AM08-0072_129v.org AM08-0072_128r.org GKS04-1615_019r.org AM08-0072_128v.org AM04-0782_001r.org Thott04-0553_021r.org AM12-0421_030r.org AM04-0784_080r.org AM08-0072_127r.org
+149,meglæ,da,Thott04-0553_015v.org
+150,meherticheit,gml,AM08-0073_082v.org
+151,mei,gml,GKS08-3487_009v.org AM08-0073_013r.org
+152,mei,other,AM08-0070_254r.org
+153,mek,gml,Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org
+154,mek,da,GKS04-1613_161r.org Thott04-0553_022r.org Thott04-0553_015v.org Thott04-0553_021r.org Thott04-0553_125v.org Thott04-0553_021v.org
+155,mektig,da,AM08-0075_063r.org
+156,mektige,da,AM08-0075_063r.org
+157,mektighe,da,AM08-0075_063r.org
+158,mektista,da,GKS04-1613_161r.org
+159,mektugestæ,da,Holm-A-0042_055r.org
+160,mektugæste,da,Holm-A-0042_055v.org
+161,mel,gml,AM08-0073_082v.org AM08-0073_088v.org AM08-0073_074v.org
+162,meland,da,AM04-0782_216v.org
+163,melchior,gml,GKS08-3487_104v.org
+164,melchise,gml,AM08-0073_082v.org
+165,mele,gml,AM08-0073_082v.org
+166,melen,gml,AM08-0073_082v.org
+167,melle,da,Holm-A-0042_095v.org
+168,mellen,da,Thott04-0553_125v.org
+169,mellom,da,NKS08-0045_120v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org
+170,mellum,da,GKS04-1615_009r.org
+171,melske,da,Thott04-0553_125v.org
+172,men,da,GKS04-1613_161r.org Holm-A-0042_055v.org AM04-0782_216v.org Holm-A-0042_052v.org AM04-0782_001r.org Thott04-0553_015v.org AM04-0784_300r.org AM04-0789_002v.org Lund-0035_064v.org AM04-0784_080r.org
+173,men,gml,AM12-0417_001r.org GKS08-3423_211r.org Koln-W52_167r.org AM08-0073_109r.org AM08-0070_003r.org Guelf-1155Helmst_308v.org UUB-C496_003r.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org Speghel_R1r.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org Arndes1487_265r.org GKS08-3423_111r2.org GKS08-3487_104v.org AM04-0782_091r.org UBB-C496_019v.org AM04-0789_005r.org AM12-0417_063r.org
+174,menden,gml,AM08-0073_109r.org
+175,mendest,gml,GKS08-3423_211r.org
+176,mene,gml,AM12-0417_001r.org GKS08-3487_001r.org
+177,menegerleyde,other,AM08-0070_254r.org
+178,menen,gml,GKS08-3487_001r.org
+179,mengede,gml,AM12-0417_073v.org AM08-0073_013r.org
+180,mennich,gml,UUB-C496_091v.org AM08-0070_003r.org
+181,mennichuoldicheit,gml,AM12-0417_073v.org AM08-0073_054v.org
+182,mennichuoldighet,gml,AM08-0070_003r.org
+183,mennichuoldyghen,gml,GKS08-3487_001r.org
+184,mennighen,gml,Arndes1487_265r.org
+185,menniska,da,Lund-0035_064v.org
+186,menniske,da,Holm-A-0042_054v.org Holm-A-0042_055v.org AM04-0782_216v.org Holm-A-0042_053r.org AM04-0789_001r.org AM08-0075_022v-4.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org AM08-0075_009r.org
+187,mennisken,da,Thott04-0553_020v.org Holm-A-0042_051v.org Lund-0035_064v.org Holm-A-0042_095v.org AM04-0784_080r.org
+188,menniskes,da,AM12-0421_022r.org NKS08-0045_120v.org Thott04-0553_125v.org Lund-0035_064v.org AM12-0421_030r.org
+189,menniskæ,da,GKS04-1613_161r.org AM04-0782_216v.org NRA-0085-b_001v.org AM04-0784_300r.org NKS08-0045_120v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM04-0784_080r.org
+190,mennych,gml,AM12-0417_073v.org
+191,mennychuoldyghen,gml,GKS08-3423_211r.org GKS08-3487_001r.org
+192,mennyger,gml,GKS08-3423_211r.org
+193,mennygerleie,gml,AM12-0417_001r.org
+194,mennyske,da,AM04-0782_001r.org AM04-0784_080r.org
+195,mennysken,da,AM04-0782_001r.org AM04-0784_080r.org
+196,mennyskens,da,AM04-0782_001r.org
+197,menscap,gml,AM08-0073_136v.org
+198,mensche,gml,Gott-Theol242f_103r.org Koln-W52_167r.org
+199,menscheit,gml,Koln-W52_167r.org
+200,menschen,gml,AM08-0073_044r.org
+201,menschop,gml,GKS08-3487_001r.org
+202,menschoppynghe,gml,GKS08-3487_001r.org
+203,mente,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+204,meo,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+205,mer,gml,GKS08-3423_211r.org AM08-0073_109r.org AM08-0070_003r.org AM08-0073_044r.org Arndes1487_265r.org AM08-0073_054v.org
+206,merch,gml,GKS08-3423_211r.org
+207,mere,da,Lund-0035_064v.org
+208,mere,gml,UUB-C496_091v.org GKS08-3487_001r.org
+209,merealis,gml,GKS08-3487_104v.org
+210,merer,gml,AM12-0417_063r.org
+211,meres,gml,AM08-0073_093r.org AM08-0073_044r.org AM08-0073_055r.org
+212,meritis,gml,AM08-0070_003r.org
+213,merket,gml,AM08-0070_003r.org
+214,merteler,gml,AM08-0073_013r.org
+215,mertelere,gml,AM08-0073_109r.org AM08-0073_013r.org UUB-C496_001r.org AM08-0073_055r.org
+216,mertlere,gml,AM08-0073_013r.org
+217,meræ,da,Thott04-0553_125v.org
+218,meskwnde,da,AM04-0782_216v.org
+219,messer,da,Holm-A-0042_055v.org
+220,messæ,da,Holm-A-0042_055v.org
+221,messær,da,Holm-A-0042_055v.org
+222,mester,gml,GKS08-3423_211r.org
+223,met,da,UUB-C496_136r.org AM08-0072_128v.org AM04-0789_001r.org AM04-0784_092r.org NRA-0085-b_001v.org AM04-0784_300r.org AM08-0079Ieta_001r.org NKS08-0045_120v.org AM04-0789_002v.org Lund-0035_064v.org AM12-0421_030r.org AM08-0072_126r.org AM04-0784_080r.org AM08-0072_127r.org Kalmar-0033_139v.org
+224,met,gml,AM08-0073_099r.org AM08-0073_109r.org AM08-0073_013r.org
+225,met,other,AM08-0070_254r.org
+226,meteghen,gml,NKS08-0045_187r.org
+227,meten,gml,GKS08-3423_211r.org
+228,metferd,da,AM08-0075_022v-4.org
+229,meth,da,Holm-A-0042_055r.org AM08-0072_128r.org GKS04-1615_019r.org GKS04-1613_161r.org Thott04-0553_021r-2.org Holm-A-0042_055v.org AM04-0782_216v.org Holm-A-0042_052v.org Holm-A-0042_053r.org Thott04-0553_022r.org AM04-0789_001r.org AM04-0782_001r.org Thott04-0553_015v.org Thott04-0553_021r.org Thott04-0553_020v.org AM08-0075_022v-4.org Holm-A-0042_051v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM12-0420_026r.org AM08-0075_009r.org AM04-0784_080r.org AM08-0072_127r.org
+230,meticheit,gml,AM08-0073_109r.org
+231,metige,gml,AM12-0417_063r.org
+232,metighende,gml,AM08-0073_099r.org
+233,metten,gml,AM08-0070_001r.org AM08-0073_013r.org
+234,mettene,gml,AM08-0073_080r.org AM08-0073_054v.org
+235,mettyn,gml,AM12-0417_073v.org
+236,meum,gml,AM08-0073_071r.org AM08-0073_044r.org
+237,meus,gml,AM08-0073_054v.org
+238,meus,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+239,meylaen,gml,Arndes1487_265r.org
+240,meynen,gml,GKS08-3423_111r2.org
+241,meyster,gml,AM08-0073_071r.org AM08-0073_074v.org
+242,meyt,gml,AM08-0073_080r.org
+243,mi,gml,AM12-0417_050r.org Speghel_R1r.org AM12-0417_063r.org
+244,mich,da,AM04-0789_001r.org AM08-0075_022v-4.org AM04-0789_002v.org AM08-0075_009r.org
+245,mich,gml,Koln-W52_167r.org
+246,michael,gml,AM12-0417_050r.org AM08-0073_013r.org
+247,midden,gml,Beinecke-0218_127r.org
+248,middene,gml,UUB-C496_095r.org
+249,midder,gml,UBB-C496_019v.org
+250,midelste,da,UUB-C496_136r.org
+251,midleste,gml,NKS08-0045_176r.org
+252,miere,da,AM12-0420_026r.org
+253,migdom,da,GKS04-1615_019r.org
+254,migh,da,AM04-0789_001r.org AM08-0075_063r.org Lund-0035_038v.org AM08-0075_009r.org
+255,mihi,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+256,mik,other,Holm-A-0029_145v.org
+257,mik,gml,Beinecke-0218_127r.org
+258,mik,da,Holm-A-0042_055r.org Holm-A-0042_054r.org Holm-A-0042_055v.org Holm-A-0042_053r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_023v.org
+259,milde,gml,AM08-0073_109r.org AM08-0073_082v.org AM12-0417_050r.org AM08-0073_093r.org GKS08-3423_001r.org AM08-0070_001r.org
+260,milde,other,AM08-0070_254r.org
+261,milde,da,AM04-0789_001r.org
+262,mildeicheit,gml,AM08-0073_099r.org
+263,mildelege,other,AM08-0070_254r.org
+264,mildelichen,gml,AM08-0073_054v.org
+265,milden,gml,AM08-0073_109r.org UUB-C496_002r.org AM08-0073_044r.org AM08-0073_013r.org
+266,milder,gml,UUB-C496_091v.org AM08-0073_099r.org
+267,mildeste,gml,AM08-0073_044r.org
+268,mildh,other,AM08-0070_254r.org
+269,mildhe,other,AM08-0070_254r.org
+270,mildheit,gml,AM08-0073_013r.org
+271,mildhet,da,Holm-A-0042_055r.org
+272,mildheyt,gml,AM08-0073_013r.org
+273,mildicheit,gml,NKS08-0045_187r.org AM08-0073_109r.org AM12-0417_050r.org AM12-0417_063r.org
+274,mildichliker,gml,AM08-0073_109r.org
+275,milhet,da,NKS08-0045_120v.org
+276,milheth,da,AM08-0072_128r.org AM08-0072_128v.org
+277,mille,da,AM08-0072_126r.org AM08-0072_127r.org
+278,millelik,da,AM08-0072_127r.org
+279,millest,da,AM08-0075_063r.org
+280,min,da,GKS04-1613_161r.org AM04-0789_002v.org AM12-0420_026r.org
+281,min,gml,Speghel_R1r.org
+282,mine,gml,AM08-0073_013r.org
+283,minen,other,AM08-0070_254r.org
+284,minen,gml,Speghel_R1r.org
+285,miner,gml,Speghel_R1r.org
+286,mines,gml,Beschauwing_009.org
+287,minschen,gml,AM12-0417_050r.org
+288,minæ,da,AM08-0072_127r.org
+289,mir,da,AM12-0420_026r.org
+290,mir,gml,Koln-W52_167r.org
+291,mirakel,gml,Arndes1487_265r.org
+292,mirram,da,Thott04-0553_125v.org
+293,mirre,da,Lund-0035_064v.org Holm-A-0042_095v.org
+294,mirre,gml,UUB-C496_095r.org
+295,mirren,gml,Hamburg-CodConv-6_002r.org Beinecke-0218_127r.org
+296,misael,gml,AM08-0073_054v.org
+297,mischund,da,AM04-0789_002v.org
+298,mischundelig,da,AM04-0789_001r.org
+299,miscundeligheed,da,AM08-0075_009r.org
+300,miscundh,da,GKS04-1613_161r.org AM08-0075_022v-4.org
+301,miscundhet,da,GKS04-1613_161r.org
+302,miscwnnelykthet,da,AM08-0072_128r.org AM08-0072_128v.org
+303,misdederen,gml,AM08-0073_013r.org
+304,miserere,gml,AM08-0070_003r.org
+305,misericordia,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+306,misericordie,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+307,miseris,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+308,misheghelich,gml,AM08-0073_165v.org
+309,miskund,da,AM08-0073_098r.org Holm-A-0042_053r.org AM08-0075_063r.org
+310,miskundelikhes,da,AM08-0072_127r.org
+311,miskundt,da,AM08-0073_098r.org
+312,miskundælighet,da,Holm-A-0042_055v.org
+313,miskwnd,da,Holm-A-0042_055r.org NKS08-0045_120v.org
+314,miskwndh,da,Lund-0035_023v.org
+315,miskwndhæ,da,Lund-0035_038v.org
+316,miskwndz,da,Holm-A-0042_055r.org
+317,miskwndæ,da,NKS08-0045_120v.org
+318,missen,gml,GKS08-3423_020r.org GKS08-3487_001r.org
+319,missing,gml,AM08-0073_109r.org Guelf-1025Novi_230r.org
+320,mistrostich,gml,AM08-0073_082v.org
+321,mistwttich,gml,AM08-0073_087r.org
+322,mit,da,Holm-A-0042_053r.org AM04-0789_001r.org Thott04-0553_021r.org
+323,mit,gml,AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org AM08-0073_099r.org AM08-0073_237v.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM08-0073_071r.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org AM08-0073_088v.org AM08-0070_001r.org NKS08-0045_194r.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org Arndes1487_265r.org AM08-0073_080r.org AM08-0073_055r.org AM08-0073_054v.org AM08-0073_074v.org AM04-0782_091r.org NKS08-0045_166r.org AM12-0417_063r.org
+324,mith,da,AM04-0789_001r.org NKS08-0045_120v.org AM04-0789_002v.org Thott04-0553_125v.org Lund-0035_038v.org AM08-0075_009r.org AM08-0072_127r.org
+325,mjn,da,AM04-0789_002v.org
+326,mjserere,gml,AM08-0073_013r.org
+327,mmaria,gml,Guelf-1025Novi_230r.org
+328,mo,gml,AM08-0073_077r.org AM08-0073_099r.org GKS08-3423_109v.org
+329,mochte,gml,AM08-0070_003r.org AM08-0073_044r.org
+330,mochten,gml,AM12-0417_001r.org AM08-0073_080r.org
+331,mod,da,GKS04-1613_161r.org NKS08-0045_120v.org
+332,mode,gml,AM08-0073_054v.org
+333,moder,da,AM08-0070_253v.org AM04-0782_216v.org AM04-0789_001r.org AM04-0784_300r.org Thott04-0553_125v.org Holm-A-0042_095v.org AM12-0421_030r.org AM12-0420_026r.org GKS04-1614_001r.org
+334,moder,gml,UUB-C496_091v.org GKS08-3423_211r.org AM08-0073_077r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_165v.org AM08-0073_082v.org Beschauwing_009.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org AM08-0073_067r.org UUB-C496_002r.org Guelf-1155Helmst_308v.org AM08-0073_093r.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org AM08-0073_088v.org Guelf-1025Novi_230r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org Arndes1487_265r.org AM08-0073_080r.org AM08-0073_055r.org AM08-0073_054v.org GKS08-3423_111r2.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org UBB-C496_019v.org AM12-0417_063r.org
+335,moder,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+336,moderen,da,AM08-0079Ieta_001r.org
+337,moders,da,Holm-A-0042_055v.org Thott04-0553_021r.org
+338,modest,gml,AM08-0073_013r.org
+339,modh,da,Holm-A-0042_055v.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0782_001r.org NKS08-0045_120v.org Lund-0035_038v.org AM04-0784_080r.org
+340,modher,gml,AM08-0070_003r.org AM08-0070_001r.org
+341,modher,da,AM12-0421_072r.org AM04-0784_092r.org AM04-0782_001r.org Thott04-0553_125v.org AM08-0070_247r_m.org AM12-0421_030r.org AM04-0784_080r.org AM08-0072_127r.org
+342,modherlig,da,AM12-0421_030r.org
+343,modicheit,gml,UBB-C496_019v.org
+344,modighe,gml,AM08-0073_082v.org
+345,modighen,gml,AM08-0073_054v.org
+346,modær,da,Lund-0035_064v.org Holm-A-0042_095v.org
+347,moerder,gml,Speghel_R1r.org
+348,moge,gml,GKS08-3423_211r.org AM08-0073_109r.org AM12-0417_050r.org NKS08-0045_174r.org UUB-C496_001v.org GKS08-3423_111r2.org AM04-0782_091r.org
+349,mogen,gml,AM08-0073_094r.org AM08-0073_099r.org AM08-0073_109r.org AM08-0070_001r.org AM08-0073_044r.org UUB-C496_001r.org AM12-0417_063r.org
+350,mogest,gml,GKS08-3423_111r2.org
+351,moghe,gml,GKS08-3423_211r.org AM08-0073_109r.org AM12-0417_050r.org Speghel_R1r.org GKS08-3423_111r2.org GKS08-3487_001r.org AM04-0782_091r.org
+352,mogheliker,gml,Hamburg-CodConv-6_002r.org
+353,moghen,gml,AM12-0417_001r.org GKS08-3487_009v.org AM08-0073_088v.org AM08-0070_001r.org
+354,moglicheit,gml,AM04-0789_005r.org
+355,moneke,gml,AM08-0073_013r.org
+356,mongfoldælighed,da,NKS08-0045_120v.org
+357,monghæ,da,NRA-0085-b_001v.org
+358,monica,gml,Arndes1487_265r.org
+359,monnike,gml,UUB-C496_002r.org
+360,mont,gml,AM12-0417_050r.org
+361,moo,da,NKS08-0045_120v.org
+362,mool,da,NKS08-0045_120v.org AM08-0072_126r.org
+363,mord,da,NKS08-0045_120v.org
+364,morder,gml,AM04-0782_091r.org
+365,more,gml,Guelf-1155Helmst_308v.org
+366,morgen,da,AM04-0789_001r.org
+367,morgen,gml,Guelf-1025Novi_065r.org AM12-0417_073v.org UBB-C496_019v.org
+368,morghen,da,AM08-0075_022v-4.org AM08-0075_009r.org
+369,morigen,da,UUB-C496_136r.org
+370,mot,gml,UUB-C496_091v.org
+371,mote,gml,UUB-C496_091v.org GKS08-3423_211r.org AM08-0073_165v.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM12-0417_050r.org AM08-0070_001r.org AM08-0073_044r.org AM08-0073_080r.org AM08-0073_054v.org GKS08-3423_111r2.org GKS08-3487_104v.org
+372,mote,other,Guelf08-6114Aug_181r.org
+373,moten,gml,AM08-0073_109r.org AM08-0073_082v.org AM08-0073_088v.org AM08-0073_044r.org AM08-0073_054v.org GKS08-3487_104v.org
+374,mothe,da,AM12-0421_030r.org
+375,mothe,gml,AM08-0073_165v.org AM08-0073_109r.org Beschauwing_009.org NKS08-0045_194r.org GKS08-3487_001r.org
+376,mothen,gml,NKS08-0045_174r.org
+377,mother,da,AM08-0072_128r.org AM08-0072_128v.org AM08-0072_127r.org
+378,motte,da,AM04-0789_001r.org AM04-0782_001r.org AM04-0784_080r.org
+379,motthe,da,AM12-0421_030r.org
+380,mottæ,da,AM04-0782_001r.org NKS08-0045_120v.org AM04-0784_080r.org
+381,moue,da,Lund-0035_064v.org
+382,moueligt,da,Lund-0035_064v.org
+383,mowe,da,AM08-0072_126r.org
+384,moyses,gml,AM08-0073_074v.org
+385,moysæs,da,Thott04-0553_015v.org
+386,moyt,gml,Guelf-1025Novi_065r.org
+387,muder,gml,Beinecke-0218_127r.org
+388,mue,da,AM04-0784_026v_m.org
+389,mule,gml,AM08-0073_013r.org
+390,mund,gml,Guelf-1155Helmst_308v.org
+391,mund,da,AM12-0420_026r.org
+392,munde,gml,AM08-0073_082v.org AM08-0070_003r.org AM08-0073_088v.org AM08-0070_001r.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org
+393,munden,gml,UBB-C496_019v.org
+394,mundes,gml,AM08-0073_044r.org
+395,munt,gml,AM08-0070_064r.org AM12-0417_001r.org AM08-0073_077r.org Koln-W52_167r.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_054v.org UBB-C496_019v.org
+396,munt,other,Guelf08-6114Aug_181r.org
+397,mure,gml,AM08-0073_013r.org
+398,muren,gml,AM12-0417_073v.org
+399,muthe,gml,AM08-0073_109r.org
+400,mutter,gml,Koln-W52_167r.org
+401,mvnt,gml,AM08-0073_109r.org
+402,mwnd,da,NKS08-0045_120v.org Thott04-0553_125v.org
+403,mwndh,da,Lund-0035_064v.org Holm-A-0042_095v.org
+404,mwnne,da,AM12-0421_030r.org
+405,my,da,AM04-0789_001r.org
+406,my,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+407,my,gml,UUB-C496_091v.org AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org GKS08-3423_103r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_165v.org AM08-0073_237v.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org GKS08-3423_020r.org UUB-C496_002r.org GKS08-3423_109v.org Guelf-1155Helmst_308v.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org AM08-0073_088v.org GKS08-3423_001r.org Guelf-1025Novi_230r.org AM08-0073_230r.org Speghel_R1r.org AM08-0070_001r.org GKS08-3423_202v.org AM12-0417_073v.org UUB-C496_001v.org Beinecke-0218_127r.org AM08-0073_228r.org NKS08-0045_176r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_087r.org NKS08-0041_257v.org AM08-0073_080r.org AM08-0073_054v.org GKS08-3423_111r2.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org Beinecke-0218_157r.org UBB-C496_019v.org AM12-0417_063r.org
+408,myd,gml,AM08-0070_001r.org
+409,mydde,gml,Koln-W52_167r.org
+410,myddel,gml,GKS08-3423_211r.org GKS08-3487_104v.org
+411,mydils,da,AM08-0072_127r.org
+412,mygelhet,da,Holm-A-0042_055r.org
+413,myit,gml,AM08-0073_044r.org
+414,mylde,gml,GKS08-3423_211r.org AM08-0070_003r.org GKS08-3423_020r.org AM08-0070_001r.org GKS08-3487_104v.org
+415,mylden,gml,GKS08-3423_211r.org GKS08-3423_103r.org Gott-Theol242f_103r.org GKS08-3423_111r2.org GKS08-3487_001r.org
+416,mylder,gml,AM12-0417_063r.org
+417,myldeste,gml,GKS08-3423_001r.org NKS08-0045_176r.org
+418,myldhe,da,AM12-0421_030r.org
+419,myldicheyt,gml,Arndes1487_265r.org GKS08-3487_001r.org
+420,myldycheit,gml,GKS08-3423_001r.org
+421,myldycheyt,gml,GKS08-3423_211r.org
+422,myldychlyken,gml,GKS08-3423_211r.org
+423,mylhe,gml,GKS08-3487_001r.org
+424,myme,gml,AM08-0073_088v.org AM08-0073_080r.org AM08-0073_054v.org
+425,myn,gml,UUB-C496_091v.org AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org Gott-Theol242f_103r.org AM08-0073_237v.org Koln-W52_167r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org GKS08-3423_071v.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org GKS08-3423_109v.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org AM08-0073_088v.org Guelf-1025Novi_230r.org Speghel_R1r.org GKS08-3423_202v.org NKS08-0045_194r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_087r.org AM08-0073_080r.org AM08-0073_054v.org GKS08-3423_111r2.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org Beinecke-0218_157r.org UBB-C496_019v.org NKS08-0045_166r.org
+426,myn,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+427,myn,da,Holm-A-0042_054v.org GKS04-1615_019r.org GKS04-1613_161r.org Thott04-0553_021r-2.org Holm-A-0042_054r.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0782_001r.org Thott04-0553_015v.org Thott04-0553_021r.org Thott04-0553_020v.org AM08-0075_022v-4.org AM08-0079Ieta_001r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM04-0789_002v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM08-0075_009r.org AM04-0784_080r.org Lund-0035_023v.org AM08-0072_127r.org
+428,myna,other,Holm-A-0029_145v.org
+429,mynchselik,gml,AM08-0070_003r.org
+430,mynck,gml,GKS08-3423_111r2.org
+431,mynder,gml,Gott-Theol242f_103r.org UUB-C496_095r.org
+432,myndæ,da,NKS08-0045_120v.org
+433,myne,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org Holm-A-0029_145v.org
+434,myne,gml,AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org GKS08-3423_103r.org AM08-0073_099r.org AM08-0073_237v.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org GKS08-3423_071v.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org AM08-0073_088v.org Guelf-1025Novi_230r.org Speghel_R1r.org AM12-0417_073v.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_080r.org AM08-0073_054v.org GKS08-3423_111r2.org AM08-0073_074v.org GKS08-3487_001r.org AM04-0782_091r.org AM12-0417_063r.org
+435,myne,da,Holm-A-0042_055r.org AM08-0072_129v.org AM08-0072_128r.org AM08-0072_128v.org Holm-A-0042_054r.org AM04-0789_001r.org AM04-0782_001r.org AM08-0075_022v-4.org AM04-0789_002v.org AM08-0075_009r.org AM04-0784_080r.org AM08-0076_113r.org AM08-0072_127r.org
+436,mynem,gml,AM08-0073_082v.org Guelf-1155Helmst_308v.org AM08-0073_087r.org
+437,myneme,gml,AM08-0073_237v.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org GKS08-3423_071v.org AM08-0070_003r.org GKS08-3423_109v.org Guelf-1025Novi_230r.org Speghel_R1r.org AM08-0073_044r.org AM08-0073_013r.org GKS08-3487_001r.org AM04-0782_091r.org
+438,mynen,gml,AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_109r.org AM12-0417_050r.org AM08-0070_003r.org UUB-C496_002r.org Guelf-1155Helmst_308v.org NKS08-0045_174r.org AM08-0073_088v.org GKS08-3423_001r.org Speghel_R1r.org AM12-0417_073v.org AM08-0073_228r.org NKS08-0045_176r.org AM08-0073_044r.org AM08-0073_013r.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org UBB-C496_019v.org
+439,mynen,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+440,myner,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+441,myner,da,AM08-0076_113r.org
+442,myner,gml,UUB-C496_091v.org AM08-0070_064r.org GKS08-3423_211r.org AM08-0073_077r.org Gott-Theol242f_103r.org AM08-0073_165v.org Koln-W52_167r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org AM12-0417_050r.org AM08-0070_003r.org UUB-C496_002r.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org GKS08-3423_001r.org Guelf-1025Novi_230r.org Speghel_R1r.org GKS08-3423_202v.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_080r.org AM08-0073_054v.org GKS08-3487_001r.org AM04-0782_091r.org Beinecke-0218_157r.org NKS08-0045_166r.org
+443,mynes,gml,GKS08-3423_211r.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0070_003r.org AM08-0073_088v.org GKS08-3423_202v.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_080r.org GKS08-3423_111r2.org GKS08-3487_001r.org Beinecke-0218_157r.org NKS08-0045_166r.org
+444,mynesønder,da,AM04-0789_001r.org
+445,mynn,gml,Beschauwing_009.org
+446,mynne,da,AM04-0789_001r.org
+447,mynneligh,da,Holm-A-0042_055r.org
+448,mynner,da,Lund-0035_064v.org
+449,mynnes,da,AM08-0076_113r.org
+450,mynnet,da,Lund-0035_023v.org
+451,mynniske,da,AM08-0072_127r.org
+452,mynnychlick,gml,GKS08-3423_202v.org
+453,mynnæ,da,AM04-0782_001r.org AM04-0784_080r.org
+454,mynnær,da,Lund-0035_064v.org
+455,myns,gml,AM08-0073_071r.org
+456,mynsche,gml,UUB-C496_091v.org AM08-0070_064r.org AM08-0073_077r.org AM08-0073_109r.org Beschauwing_009.org Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org Speghel_R1r.org GKS08-3423_202v.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_044r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_055r.org GKS08-3423_111r2.org GKS08-3487_001r.org GKS08-3487_104v.org UBB-C496_019v.org AM04-0789_005r.org
+457,mynscheit,gml,UUB-C496_091v.org GKS08-3423_211r.org Beschauwing_009.org AM08-0070_003r.org
+458,mynschelyken,gml,GKS08-3423_111r2.org
+459,mynschen,gml,AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_109r.org AM08-0070_003r.org UUB-C496_002r.org GKS08-3487_009v.org GKS08-3423_001r.org Arndes1487_265r.org AM08-0073_055r.org GKS08-3487_001r.org
+460,mynschen,other,Guelf08-6114Aug_181r.org
+461,mynscheyt,gml,Guelf-1025Novi_065r.org GKS08-3423_111r2.org
+462,mynschlyken,gml,GKS08-3423_211r.org
+463,mynscklyken,gml,GKS08-3423_211r.org
+464,mynske,gml,AM04-0782_091r.org
+465,mynsken,gml,GKS08-3423_111r2.org
+466,mynsliche,gml,AM08-0073_054v.org
+467,mynste,gml,GKS08-3423_211r.org
+468,mynæ,da,GKS04-1613_161r.org AM04-0789_001r.org NKS08-0045_120v.org
+469,mynær,da,Lund-0035_064v.org
+470,myr,gml,Koln-W52_167r.org
+471,myrren,other,Guelf08-6114Aug_181r.org
+472,myrren,gml,GKS08-3423_211r.org Gott-Theol242f_103r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org AM08-0073_228r.org
+473,myschebrvket,gml,GKS08-3487_001r.org
+474,myschen,gml,AM08-0073_044r.org
+475,myschwndh,da,AM04-0789_001r.org
+476,myscrostyghen,gml,GKS08-3423_211r.org
+477,myscund,da,Thott04-0553_015v.org Thott04-0553_021v.org
+478,myscunde,da,Thott04-0553_022r.org
+479,myscwndalig,da,NKS08-0045_120v.org
+480,mysdedere,gml,GKS08-3487_001r.org
+481,myshandelst,gml,GKS08-3423_211r.org
+482,myskwnd,da,AM12-0421_030r.org
+483,myskwndelighet,da,GKS04-1615_019r.org
+484,myskwndh,da,AM12-0421_072r.org
+485,myskwndæligh,da,NKS08-0045_120v.org
+486,myskwndælighed,da,NKS08-0045_120v.org
+487,myskwnnelighet,da,GKS04-1615_019r.org
+488,myslouen,gml,GKS08-3487_001r.org
+489,mysse,gml,AM04-0782_091r.org
+490,myssedaed,gml,Speghel_R1r.org
+491,mystaldycheyt,gml,GKS08-3423_211r.org
+492,mystaldyghen,gml,GKS08-3487_001r.org
+493,mystroscthe,gml,GKS08-3487_001r.org
+494,mystrøstigæ,da,Lund-0035_023v.org
+495,myszchelghelicheyt,gml,GKS08-3487_001r.org
+496,myt,gml,UUB-C496_091v.org AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_165v.org Koln-W52_167r.org AM08-0073_109r.org AM08-0073_082v.org GKS08-3423_071v.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_067r.org UUB-C496_002r.org GKS08-3423_109v.org Guelf-1155Helmst_308v.org AM08-0073_093r.org GKS08-3487_009v.org NKS08-0045_174r.org AM08-0073_088v.org Guelf-1025Novi_230r.org Speghel_R1r.org AM08-0070_001r.org GKS08-3423_202v.org Guelf-1025Novi_065r.org AM12-0417_073v.org UUB-C496_001v.org AM08-0073_228r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_087r.org Arndes1487_265r.org NKS08-0041_257v.org AM08-0073_080r.org AM08-0073_055r.org GKS08-3423_111r2.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org UBB-C496_019v.org AM12-0417_063r.org
+497,myt,other,Guelf08-6114Aug_181r.org
+498,myt,da,AM04-0782_001r.org AM08-0075_022v-4.org NKS08-0045_120v.org AM08-0075_009r.org AM04-0784_080r.org
+499,myth,da,NKS08-0045_120v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0421_030r.org AM08-0075_009r.org
+500,myth,gml,GKS08-3487_104v.org AM04-0782_091r.org
+501,mytten,other,Guelf08-6114Aug_181r.org
+502,mytter,other,Guelf08-6114Aug_181r.org
+503,mæctild,da,Thott04-0553_021r-2.org
+504,mægh,da,GKS04-1613_161r.org AM12-0420_026r.org
+505,mæn,da,GKS04-1615_019r.org Thott04-0553_021r-2.org Thott04-0553_125v.org
+506,mærckelig,da,AM04-0789_001r.org
+507,mæræ,da,NKS08-0045_120v.org
+508,mæste,da,Thott04-0553_125v.org
+509,mø,da,AM12-0421_030r.org
+510,mødeligt,da,AM04-0789_001r.org
+511,møget,da,AM04-0782_216v.org AM04-0784_300r.org
+512,møligheræ,da,Thott04-0553_125v.org

@@ -1,0 +1,495 @@
+,word,language,documents
+0,t,gml,AM08-0073_067r.org AM12-0417_063r.org
+1,taal,da,AM04-0789_001r.org
+2,taar,da,AM12-0421_030r.org
+3,taaræ,da,Thott04-0553_020v.org
+4,taber,gml,AM08-0073_088v.org
+5,tabernaculo,gml,AM08-0073_067r.org
+6,tabernakel,gml,AM08-0073_088v.org
+7,tabet,da,AM04-0789_002v.org Lund-0035_064v.org Holm-A-0042_095v.org
+8,tabeth,da,Thott04-0553_125v.org
+9,tack,da,Thott04-0553_021v.org
+10,tacke,da,AM04-0782_001r.org AM04-0784_080r.org
+11,tacknæmeligh,da,Thott04-0553_125v.org
+12,tackæd,da,NKS08-0045_120v.org
+13,tag,da,Holm-A-0042_053r.org
+14,tage,da,AM04-0789_001r.org
+15,taget,da,NKS08-0045_120v.org
+16,tagh,da,AM04-0789_002v.org Lund-0035_038v.org AM08-0076_113r.org
+17,taghe,da,AM08-0072_127r.org
+18,tagæ,da,Holm-A-0042_051v.org
+19,tagækors,da,Holm-A-0042_051v.org
+20,take,da,AM08-0073_011v.org
+21,takker,da,AM08-0075_022v-4.org AM08-0075_009r.org
+22,taknameligh,da,Lund-0035_064v.org
+23,taknæmæligh,da,Lund-0035_064v.org
+24,tal,gml,NKS08-0045_174r.org GKS08-3423_001r.org AM08-0073_044r.org
+25,tal,da,GKS04-1615_009r.org
+26,tala,other,Holm-A-0029_145v.org
+27,talamo,gml,GKS08-3423_111r2.org
+28,tale,da,Holm-A-0042_054r.org
+29,tale,gml,GKS08-3423_211r.org
+30,taledæ,da,Lund-0035_064v.org Holm-A-0042_095v.org
+31,talet,da,NKS08-0045_120v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_023v.org
+32,taleth,da,GKS04-1615_019r.org
+33,tallen,gml,AM08-0073_082v.org
+34,talæ,da,AM08-0079Ieta_001r.org AM08-0072_127r.org
+35,tam,gml,AM12-0417_073v.org AM08-0073_013r.org
+36,tangat,gml,GKS08-3487_104v.org
+37,tasten,gml,GKS08-3487_001r.org
+38,tastende,gml,AM08-0070_003r.org GKS08-3487_001r.org
+39,tawel,da,GKS04-1615_009r.org
+40,te,other,Holm-A-0042_032r.org
+41,te,gml,Gott-Theol242f_103r.org AM08-0073_082v.org AM08-0070_003r.org AM08-0073_044r.org AM08-0073_013r.org Arndes1487_265r.org AM08-0073_055r.org AM08-0073_054v.org AM08-0073_074v.org NKS08-0045_166r.org
+42,teck,da,AM04-0782_216v.org
+43,teckelige,da,AM12-0421_030r.org
+44,tede,gml,AM08-0073_071r.org AM08-0073_054v.org
+45,teen,gml,AM08-0073_109r.org
+46,teende,gml,AM08-0070_001r.org
+47,teertz,other,AM08-0070_254r.org
+48,tees,da,Holm-A-0042_095v.org
+49,teg,da,AM12-0421_072r.org AM04-0784_092r.org AM04-0784_300r.org AM12-0421_030r.org AM04-0784_080r.org
+50,tegen,da,Holm-A-0042_051v.org
+51,tegen,gml,AM08-0070_064r.org AM08-0073_013r.org
+52,tegh,da,GKS04-1615_019r.org AM12-0421_072r.org NRA-0085-b_001v.org AM04-0789_002v.org AM12-0421_030r.org AM08-0072_127r.org
+53,tek,da,Thott04-0553_021r-2.org Thott04-0553_022r.org Thott04-0553_015v.org AM08-0079Ieta_001r.org Thott04-0553_125v.org Thott04-0553_021v.org
+54,teken,gml,GKS08-3423_211r.org GKS08-3423_103v.org GKS08-3487_009v.org NKS08-0045_174r.org
+55,tekene,gml,GKS08-3423_111r2.org
+56,tekent,gml,AM08-0070_003r.org GKS08-3487_009v.org
+57,teledest,gml,AM08-0073_044r.org
+58,telerinne,gml,AM08-0073_077r.org AM08-0073_099r.org AM08-0073_013r.org AM08-0073_055r.org
+59,telerinnen,gml,AM08-0070_003r.org AM12-0417_063r.org
+60,telerynne,gml,AM08-0070_003r.org AM12-0417_063r.org
+61,telerynne,da,AM08-0070_247r.org
+62,telerynnen,gml,AM08-0073_094r.org AM08-0073_099r.org AM08-0073_109r.org AM08-0073_013r.org
+63,telet,gml,GKS08-3423_111r2.org
+64,telinge,gml,AM08-0070_003r.org
+65,tellerinne,other,AM08-0070_254r.org
+66,temet,gml,GKS08-3423_111r2.org
+67,tempel,other,Guelf08-6114Aug_181r.org
+68,tempel,gml,Gott-Theol242f_103r.org AM12-0417_050r.org Guelf-1155Helmst_308v.org AM08-0073_055r.org GKS08-3423_111r2.org AM12-0417_063r.org
+69,tempele,gml,AM12-0417_001r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org
+70,temple,gml,AM08-0073_099r.org
+71,ten,gml,AM08-0073_077r.org AM08-0073_071r.org GKS08-3423_109v.org AM08-0073_044r.org AM08-0073_054v.org
+72,tenen,gml,AM08-0070_003r.org
+73,tenke,da,Holm-A-0042_054r.org AM12-0421_030r.org
+74,tenkelsæ,da,Holm-A-0042_054r.org
+75,teophilus,gml,UUB-C496_091v.org
+76,tercia,gml,AM08-0073_044r.org
+77,tercie,gml,AM08-0073_109r.org AM12-0417_063r.org
+78,tere,gml,AM08-0073_054v.org
+79,terra,gml,AM08-0073_044r.org
+80,ters,gml,AM08-0073_074v.org
+81,tes,gml,AM08-0073_071r.org AM08-0073_054v.org
+82,tesse,da,Thott04-0553_022r.org Thott04-0553_125v.org
+83,tessæ,da,Thott04-0553_021r-2.org Thott04-0553_021r.org
+84,test,gml,AM08-0073_077r.org AM08-0073_054v.org
+85,testament,gml,AM08-0073_099r.org
+86,testamentes,gml,AM08-0073_054v.org AM12-0417_063r.org
+87,tet,gml,AM08-0073_044r.org AM08-0073_054v.org
+88,tetthe,da,AM08-0072_126r.org
+89,teyen,gml,GKS08-3487_001r.org
+90,teyn,gml,Hamburg-CodConv-6_002r.org
+91,teyn,other,Guelf08-6114Aug_181r.org
+92,teynde,gml,GKS08-3423_211r.org
+93,teyndusent,gml,AM08-0073_013r.org
+94,tha,gml,AM08-0073_044r.org
+95,tha,da,Holm-A-0042_054v.org UUB-C496_136r.org Thott04-0553_021r-2.org Holm-A-0042_055v.org AM04-0782_216v.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0782_001r.org GKS04-1615_009r.org Thott04-0553_021r.org AM08-0079Ieta_001r.org AM04-0789_002v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM12-0420_026r.org AM04-0784_080r.org Lund-0035_023v.org AM08-0072_127r.org Kalmar-0033_139v.org
+96,tha,other,Holm-A-0029_145v.org
+97,thaa,da,AM08-0072_127r.org
+98,thaare,da,AM04-0789_001r.org Lund-0035_038v.org
+99,thabet,da,AM12-0420_026r.org
+100,thadeus,gml,AM08-0073_013r.org
+101,thag,da,AM04-0789_002v.org
+102,thage,da,AM04-0789_002v.org
+103,thaker,da,AM08-0073_098r.org
+104,thaledæ,da,AM12-0420_026r.org
+105,thankom,other,Holm-A-0029_145v.org
+106,thare,da,AM04-0782_216v.org Holm-A-0042_053r.org
+107,that,da,AM08-0075_022v-4.org
+108,the,da,GKS04-1615_019r.org GKS04-1613_161r.org AM12-0421_072r.org Holm-A-0042_055v.org AM04-0782_216v.org AM04-0789_001r.org AM04-0782_001r.org GKS04-1615_009r.org Thott04-0553_021r.org Thott04-0553_020v.org AM08-0079Ieta_001r.org NKS08-0045_120v.org Thott04-0553_125v.org Thott04-0553_021v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org AM04-0784_080r.org Lund-0035_023v.org AM08-0072_127r.org
+109,thedes,da,AM04-0789_001r.org
+110,thee,da,AM04-0789_001r.org Thott04-0553_125v.org
+111,theg,da,AM08-0072_128r.org AM08-0072_128v.org AM08-0072_126r.org AM08-0075_009r.org AM08-0072_127r.org
+112,thegh,da,AM08-0072_128r.org AM08-0072_128v.org AM08-0072_127r.org
+113,theghe,da,AM08-0072_128r.org
+114,thek,da,Thott04-0553_021v.org
+115,them,da,UUB-C496_136r.org GKS04-1615_019r.org GKS04-1613_161r.org Thott04-0553_021r-2.org AM04-0782_216v.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM04-0789_001r.org AM08-0079Ieta_001r.org NKS08-0045_120v.org Thott04-0553_125v.org Thott04-0553_021v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM12-0420_026r.org Lund-0035_023v.org
+116,themam,gml,GKS08-3487_009v.org
+117,themet,gml,AM08-0073_054v.org
+118,themnne,da,Holm-A-0042_095v.org
+119,then,gml,AM08-0073_088v.org
+120,then,da,Holm-A-0042_054v.org AM04-0784_026v_m.org AM08-0072_128r.org UUB-C496_136r.org GKS04-1615_019r.org GKS04-1613_161r.org AM08-0072_128v.org Holm-A-0042_055v.org AM04-0782_216v.org AM12-0421_022r.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0782_001r.org NRA-0085-b_001v.org GKS04-1615_009r.org Thott04-0553_015v.org AM04-0784_300r.org Thott04-0553_021r.org Thott04-0553_020v.org AM08-0075_022v-4.org AM08-0079Ieta_001r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM04-0789_002v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM12-0420_026r.org AM04-0784_080r.org Lund-0035_023v.org AM08-0072_127r.org GKS04-1614_001r.org
+121,thener,da,AM08-0072_128r.org AM08-0072_128v.org
+122,thenm,da,Lund-0035_038v.org
+123,thenne,da,AM04-0789_001r.org AM04-0782_001r.org Thott04-0553_020v.org AM08-0075_022v-4.org NKS08-0045_120v.org Thott04-0553_125v.org AM12-0421_030r.org AM12-0420_026r.org AM08-0075_009r.org AM04-0784_080r.org AM08-0072_127r.org GKS04-1614_001r.org
+124,thennæ,da,Thott04-0553_125v.org AM12-0420_026r.org
+125,thenom,da,Lund-0035_064v.org
+126,thensost,da,Lund-0035_064v.org
+127,thenæ,da,AM08-0075_063r.org
+128,theodora,gml,AM08-0073_013r.org
+129,ther,da,Holm-A-0042_055r.org AM08-0072_128r.org UUB-C496_136r.org GKS04-1615_019r.org GKS04-1613_161r.org AM08-0072_128v.org Holm-A-0042_054r.org Holm-A-0042_055v.org AM04-0782_216v.org AM08-0070_002v.org AM04-0789_001r.org AM04-0782_001r.org NRA-0085-b_001v.org GKS04-1615_009r.org Thott04-0553_021r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM04-0789_002v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0421_030r.org AM12-0420_026r.org AM04-0784_080r.org AM08-0072_127r.org
+130,there,other,AM08-0070_254r.org
+131,theres,da,GKS04-1615_019r.org
+132,therfor,da,Thott04-0553_125v.org
+133,theris,da,NRA-0085-b_001v.org AM08-0075_063r.org
+134,thes,da,Lund-0035_064v.org AM12-0420_026r.org
+135,thess,da,Thott04-0553_125v.org AM08-0072_127r.org
+136,thesse,da,AM04-0789_001r.org Thott04-0553_125v.org
+137,thet,da,AM08-0072_128r.org AM08-0072_128v.org Holm-A-0042_055v.org AM04-0782_216v.org AM08-0070_002v.org AM12-0421_022r.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0782_001r.org GKS04-1615_009r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM04-0789_002v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0421_030r.org AM12-0420_026r.org AM08-0075_009r.org AM04-0784_080r.org AM08-0072_127r.org
+138,thetewygæ,da,AM04-0782_001r.org
+139,thette,da,AM08-0070_002v.org AM04-0782_001r.org Thott04-0553_125v.org Thott04-0553_021v.org Lund-0035_064v.org AM04-0784_080r.org AM08-0072_127r.org
+140,theyn,gml,UUB-C496_095r.org
+141,thi,da,AM08-0079Ieta_001r.org Thott04-0553_125v.org AM12-0421_030r.org
+142,thic,da,Holm-A-0042_055v.org Holm-A-0042_052v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0420_026r.org
+143,thic,other,AM08-0070_254r.org
+144,thict,da,AM08-0072_126r.org
+145,thid,da,AM12-0420_026r.org
+146,thienesthe,da,GKS04-1615_019r.org
+147,thienestæ,da,AM08-0075_009r.org
+148,thieniste,da,AM04-0789_001r.org
+149,thiennistæ,da,Lund-0035_038v.org
+150,thienærinda,da,GKS04-1613_161r.org
+151,thieres,da,GKS04-1613_161r.org Lund-0035_064v.org
+152,thieræs,da,GKS04-1613_161r.org
+153,thig,da,AM08-0072_128r.org AM08-0072_128v.org AM08-0075_022v-4.org AM08-0075_009r.org AM08-0072_127r.org
+154,thigde,other,Holm-A-0029_145v.org
+155,thigh,da,AM08-0072_128r.org AM08-0072_128v.org AM08-0075_009r.org
+156,thiissligiist,da,NKS08-0045_120v.org
+157,thiit,da,AM08-0070_002v.org
+158,thik,da,Holm-A-0042_055r.org Holm-A-0042_055v.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM08-0075_022v-4.org Lund-0035_064v.org Holm-A-0042_095v.org
+159,thik,other,Holm-A-0029_145v.org
+160,thil,da,AM04-0782_216v.org AM08-0075_063r.org
+161,thime,da,Holm-A-0042_055v.org Holm-A-0042_052v.org AM04-0789_001r.org AM04-0789_002v.org
+162,thin,da,Holm-A-0042_055r.org AM08-0072_128r.org UUB-C496_136r.org AM08-0072_128v.org Thott04-0553_021r-2.org Holm-A-0042_055v.org AM08-0070_002v.org Holm-A-0042_052v.org Holm-A-0042_053r.org Thott04-0553_022r.org AM04-0789_001r.org NRA-0085-b_001v.org Thott04-0553_015v.org Thott04-0553_020v.org AM08-0075_022v-4.org AM08-0079Ieta_001r.org AM04-0789_002v.org Thott04-0553_125v.org Thott04-0553_021v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0420_026r.org AM08-0075_009r.org Lund-0035_023v.org AM08-0072_127r.org
+163,thin,other,AM08-0070_254r.org
+164,thine,da,Thott04-0553_021r-2.org Holm-A-0042_055v.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0784_300r.org Thott04-0553_125v.org Thott04-0553_021v.org Lund-0035_064v.org Holm-A-0042_095v.org AM08-0072_126r.org
+165,thing,other,Holm-A-0029_145v.org
+166,thing,da,Holm-A-0042_053r.org AM08-0075_063r.org AM12-0420_026r.org Lund-0035_023v.org AM08-0072_127r.org
+167,thingh,da,GKS04-1613_161r.org AM04-0789_001r.org Lund-0035_023v.org
+168,things,da,Lund-0035_064v.org Holm-A-0042_095v.org
+169,thinne,da,Holm-A-0042_055r.org Holm-A-0042_054v.org Holm-A-0042_055v.org AM12-0420_026r.org
+170,thinnæ,da,Holm-A-0042_054v.org Holm-A-0042_051v.org AM12-0420_026r.org
+171,thinæ,da,AM04-0789_001r.org Thott04-0553_125v.org Lund-0035_038v.org
+172,this,da,AM04-0789_001r.org Lund-0035_064v.org AM12-0420_026r.org
+173,thisse,da,Lund-0035_064v.org Holm-A-0042_095v.org
+174,thissæ,da,Holm-A-0042_052v.org Lund-0035_064v.org Holm-A-0042_095v.org
+175,thit,da,UUB-C496_136r.org Holm-A-0042_055v.org Holm-A-0042_053r.org AM04-0789_001r.org AM08-0075_022v-4.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0420_026r.org AM08-0075_009r.org AM08-0072_127r.org
+176,thith,da,AM04-0789_001r.org
+177,thiæneste,da,AM08-0075_063r.org
+178,thiæniste,da,AM12-0420_026r.org
+179,thiænistæ,da,Thott04-0553_125v.org
+180,thiænte,da,Thott04-0553_125v.org
+181,tho,gml,Gott-Theol242f_103r.org AM08-0073_109r.org Beschauwing_009.org AM08-0073_093r.org GKS08-3487_009v.org AM08-0073_230r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_228r.org GKS08-3487_001r.org AM04-0782_091r.org AM12-0417_063r.org
+182,thogevoghet,gml,AM12-0417_063r.org
+183,thokomende,gml,AM12-0417_050r.org
+184,thollæ,da,AM04-0789_001r.org
+185,thomas,gml,AM08-0073_013r.org
+186,thoore,da,AM04-0784_300r.org
+187,thorne,other,AM08-0070_254r.org
+188,thorthelikheth,da,AM08-0072_129v.org
+189,thosamende,gml,AM08-0073_228r.org
+190,thouoren,gml,GKS08-3487_104v.org
+191,thpa,da,Lund-0035_064v.org
+192,thre,da,AM04-0789_002v.org
+193,thredie,da,UUB-C496_136r.org AM04-0789_002v.org
+194,threfoldighedh,da,AM08-0070_253v.org
+195,thretwge,da,AM04-0789_001r.org
+196,thro,da,AM04-0782_216v.org
+197,throen,other,Guelf08-6114Aug_181r.org
+198,throer,da,AM12-0421_022r.org
+199,thron,gml,Beinecke-0218_127r.org
+200,throne,gml,Guelf-1155Helmst_308v.org
+201,thronæ,da,Thott04-0553_125v.org
+202,thsin,da,Lund-0035_023v.org
+203,thu,da,Holm-A-0042_055r.org AM08-0072_128r.org UUB-C496_136r.org AM08-0072_128v.org Holm-A-0042_054r.org Holm-A-0042_055v.org AM08-0070_002v.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM04-0789_001r.org NRA-0085-b_001v.org AM04-0789_002v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0420_026r.org AM08-0072_127r.org
+204,thu,other,Holm-A-0029_145v.org
+205,thuet,gml,Koln-W52_167r.org
+206,thughin,gml,AM08-0073_088v.org
+207,thus,da,AM12-0420_026r.org
+208,thusind,da,Holm-A-0042_055v.org
+209,thw,da,AM08-0072_128r.org AM08-0072_128v.org Thott04-0553_021r-2.org AM12-0421_072r.org AM04-0782_216v.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0789_002v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0421_030r.org AM08-0072_127r.org
+210,thwsende,da,GKS04-1614_001r.org
+211,thy,da,AM08-0072_128r.org GKS04-1613_161r.org AM08-0072_128v.org AM08-0075_063r.org
+212,thyd,da,AM04-0782_216v.org
+213,thyffwel,da,Holm-A-0042_095v.org
+214,thyn,da,AM12-0421_072r.org AM04-0782_216v.org AM12-0421_030r.org
+215,thæ,da,GKS04-1615_009r.org
+216,thækkes,da,AM08-0075_009r.org
+217,thæn,da,NKS08-0045_120v.org
+218,thænkt,other,Holm-A-0029_145v.org
+219,thænne,da,AM08-0072_127r.org
+220,thænne,other,Holm-A-0029_145v.org
+221,thær,da,AM04-0789_001r.org
+222,thæs,other,Holm-A-0029_145v.org
+223,thøm,da,AM04-0789_001r.org
+224,thørste,da,AM04-0789_001r.org
+225,ti,gml,AM08-0073_099r.org
+226,tich,da,AM04-0789_001r.org AM04-0789_002v.org
+227,ticheyht,gml,AM08-0073_055r.org
+228,tid,da,GKS04-1613_161r.org AM08-0079Ieta_001r.org AM12-0420_026r.org
+229,tid,gml,Beschauwing_009.org AM08-0070_003r.org
+230,tide,gml,AM08-0073_109r.org
+231,tiden,gml,AM08-0073_109r.org AM08-0073_082v.org AM08-0070_003r.org AM08-0073_071r.org AM08-0073_088v.org AM08-0073_230r.org AM08-0073_080r.org AM08-0073_054v.org AM08-0073_074v.org AM12-0417_063r.org
+232,tidh,da,AM08-0072_128r.org AM08-0072_128v.org AM04-0789_001r.org Lund-0035_064v.org Holm-A-0042_095v.org AM08-0072_127r.org
+233,tiedæ,da,GKS04-1613_161r.org
+234,tiegen,gml,AM08-0070_003r.org
+235,tiegh,gml,AM08-0070_003r.org
+236,tiene,da,AM12-0421_030r.org
+237,tienere,da,AM04-0784_026v_m.org AM08-0073_098r.org
+238,tieners,da,Lund-0035_023v.org
+239,tieniste,da,Holm-A-0042_055v.org Holm-A-0042_053r.org Holm-A-0042_095v.org
+240,tienistæ,da,Lund-0035_064v.org
+241,tientte,da,Holm-A-0042_095v.org
+242,tientæ,da,Lund-0035_064v.org
+243,tig,da,AM04-0789_001r.org AM04-0789_002v.org
+244,tigde,da,Holm-A-0042_054r.org
+245,tigh,da,AM08-0070_253v.org AM04-0789_001r.org AM04-0782_001r.org AM08-0075_022v-4.org AM04-0789_002v.org AM08-0075_009r.org AM04-0784_080r.org
+246,tighet,da,GKS04-1613_161r.org
+247,tiid,da,AM04-0782_001r.org AM04-0784_080r.org
+248,tiidh,da,Thott04-0553_125v.org
+249,tiidt,da,AM08-0073_098r.org
+250,tiil,da,AM08-0073_098r.org NKS08-0045_120v.org
+251,tiill,da,AM04-0782_001r.org NKS08-0045_120v.org AM04-0784_080r.org
+252,tiisswær,da,NKS08-0045_120v.org
+253,tijd,gml,AM08-0073_109r.org AM08-0073_082v.org AM08-0073_071r.org Speghel_R1r.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org AM08-0073_087r.org AM08-0073_080r.org AM08-0073_054v.org UBB-C496_019v.org
+254,tijde,gml,AM12-0417_001r.org
+255,tijden,gml,AM12-0417_063r.org
+256,tijn,da,AM04-0784_300r.org
+257,tijt,gml,AM08-0070_003r.org AM08-0073_013r.org UBB-C496_019v.org
+258,tik,da,Holm-A-0042_055v.org AM04-0789_001r.org AM08-0075_022v-4.org Lund-0035_064v.org Holm-A-0042_095v.org
+259,til,da,Holm-A-0042_055r.org Holm-A-0042_054v.org UUB-C496_136r.org GKS04-1613_161r.org Holm-A-0042_054r.org Holm-A-0042_055v.org Holm-A-0042_052v.org Holm-A-0042_053r.org AM04-0789_001r.org AM04-0782_001r.org NRA-0085-b_001v.org Thott04-0553_021r.org AM08-0075_022v-4.org AM08-0079Ieta_001r.org Holm-A-0042_051v.org NKS08-0045_120v.org AM04-0789_002v.org Thott04-0553_125v.org AM08-0075_063r.org Lund-0035_064v.org Holm-A-0042_095v.org Lund-0035_038v.org AM12-0420_026r.org AM08-0072_126r.org AM08-0075_009r.org Lund-0035_023v.org AM08-0072_127r.org GKS04-1614_001r.org
+260,til,other,AM08-0070_254r.org Holm-A-0029_145v.org
+261,tilbøy,da,AM08-0072_126r.org
+262,tilfald,da,Thott04-0553_125v.org
+263,tilflucht,da,NRA-0085-b_001v.org
+264,tilflucth,other,AM08-0070_254r.org
+265,tilføwes,da,AM08-0072_126r.org
+266,tilkomelsæ,da,AM04-0784_080r.org
+267,tilkommelsse,da,AM04-0782_001r.org AM04-0784_080r.org
+268,till,da,GKS04-1615_019r.org Thott04-0553_021r-2.org AM04-0789_001r.org AM04-0782_001r.org AM04-0789_002v.org AM08-0075_063r.org AM04-0784_080r.org
+269,tillkomelsæ,da,AM04-0784_080r.org
+270,tillkommelssæ,da,AM04-0782_001r.org
+271,tilluchte,da,Thott04-0553_125v.org
+272,tilsammen,da,Thott04-0553_125v.org
+273,tilstonnen,da,AM08-0072_127r.org
+274,time,da,Holm-A-0042_055v.org Holm-A-0042_053r.org
+275,timentibus,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+276,timæ,da,Lund-0035_038v.org AM08-0072_127r.org
+277,tine,da,AM04-0789_001r.org
+278,tingh,da,Thott04-0553_125v.org Lund-0035_038v.org
+279,tith,da,AM04-0789_001r.org AM04-0789_002v.org
+280,tiwe,da,GKS04-1614_001r.org
+281,tiæneste,da,AM04-0782_001r.org
+282,tiænesthæ,da,AM04-0784_080r.org
+283,tiænestæ,da,AM04-0782_001r.org
+284,tiænæstæ,da,NKS08-0045_120v.org
+285,to,gml,UUB-C496_091v.org AM08-0070_064r.org AM12-0417_001r.org GKS08-3423_211r.org AM08-0073_077r.org GKS08-3423_103v.org GKS08-3423_103r.org Gott-Theol242f_103r.org AM08-0073_099r.org AM08-0073_165v.org AM08-0073_237v.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_082v.org Beschauwing_009.org GKS08-3423_071v.org AM12-0417_050r.org AM08-0070_003r.org AM08-0073_071r.org GKS08-3423_020r.org UUB-C496_002r.org GKS08-3423_109v.org Guelf-1155Helmst_308v.org GKS08-3487_009v.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org AM08-0073_088v.org GKS08-3423_001r.org Guelf-1025Novi_230r.org Speghel_R1r.org AM08-0070_001r.org GKS08-3423_202v.org Guelf-1025Novi_065r.org NKS08-0045_194r.org AM12-0417_073v.org UUB-C496_001v.org Beinecke-0218_127r.org AM08-0073_044r.org AM08-0073_013r.org UUB-C496_095r.org UUB-C496_001r.org AM08-0073_087r.org Arndes1487_265r.org AM08-0073_136v.org NKS08-0041_257v.org AM08-0073_080r.org AM08-0073_055r.org AM08-0073_054v.org GKS08-3423_111r2.org AM08-0073_074v.org GKS08-3487_001r.org GKS08-3487_104v.org AM04-0782_091r.org UBB-C496_019v.org NKS08-0045_166r.org AM04-0789_005r.org AM12-0417_063r.org
+286,to,da,NKS08-0045_120v.org AM08-0070_247r.org
+287,to,other,AM08-0070_254r.org Guelf08-6114Aug_181r.org
+288,tobiam,da,UUB-C496_136r.org
+289,tobiass,da,UUB-C496_136r.org
+290,tobie,da,AM04-0784_026v_m.org UUB-C496_136r.org
+291,toch,gml,AM08-0070_003r.org AM08-0073_054v.org AM12-0417_063r.org
+292,todo,gml,AM08-0073_228r.org NKS08-0045_166r.org
+293,toffdhæ,da,Lund-0035_038v.org
+294,tog,da,GKS04-1615_019r.org AM04-0782_216v.org Lund-0035_064v.org AM12-0420_026r.org
+295,togen,gml,GKS08-3423_211r.org
+296,togest,gml,Guelf-1155Helmst_308v.org Beinecke-0218_127r.org UUB-C496_095r.org
+297,togeuoget,gml,AM08-0073_099r.org AM12-0417_063r.org
+298,togevo,gml,AM12-0417_063r.org
+299,togevoget,gml,AM12-0417_063r.org
+300,togh,gml,AM08-0073_099r.org
+301,togh,da,AM04-0789_002v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM08-0072_126r.org
+302,toghe,gml,GKS08-3423_211r.org
+303,toghe,da,AM08-0079Ieta_001r.org Thott04-0553_125v.org
+304,toghen,gml,AM08-0070_064r.org GKS08-3423_211r.org
+305,toghest,gml,Hamburg-CodConv-6_002r.org
+306,togsth,da,AM08-0070_002v.org
+307,togt,da,AM04-0789_002v.org
+308,tokkelik,da,AM08-0072_126r.org
+309,tokno,gml,AM08-0073_013r.org
+310,tokumpst,gml,AM08-0073_109r.org Beschauwing_009.org AM08-0073_013r.org AM08-0073_055r.org GKS08-3423_111r2.org
+311,tokumst,gml,NKS08-0041_257v.org
+312,tolde,da,Holm-A-0042_053r.org
+313,toldæ,da,Lund-0035_038v.org
+314,tolff,da,Thott04-0553_125v.org
+315,tolffte,da,Holm-A-0042_095v.org
+316,tolfftæ,da,Thott04-0553_125v.org Lund-0035_064v.org
+317,tolfte,da,AM12-0420_026r.org
+318,tolle,da,AM12-0421_030r.org
+319,tollighet,da,Holm-A-0042_055v.org
+320,tollæmodh,da,Thott04-0553_015v.org
+321,tomende,gml,AM12-0417_073v.org
+322,toopp,da,AM12-0421_030r.org
+323,torn,gml,UUB-C496_091v.org NKS08-0045_187r.org AM08-0073_109r.org AM08-0073_088v.org
+324,tornde,gml,AM08-0073_074v.org
+325,torne,gml,AM08-0073_082v.org AM08-0070_003r.org AM12-0417_073v.org AM08-0073_044r.org AM08-0073_013r.org GKS08-3487_001r.org
+326,tornen,gml,AM08-0073_071r.org
+327,tornes,gml,GKS08-3423_211r.org AM08-0073_082v.org AM12-0417_073v.org AM08-0073_013r.org
+328,torsdagh,da,Holm-A-0042_095v.org
+329,toschundynghe,gml,GKS08-3487_001r.org
+330,tospleten,gml,GKS08-3423_211r.org
+331,tosprekt,gml,AM08-0073_082v.org
+332,touerye,gml,GKS08-3487_001r.org
+333,toulucht,gml,AM08-0073_013r.org
+334,touoren,gml,AM08-0070_003r.org
+335,tovlucht,gml,AM08-0073_099r.org GKS08-3487_009v.org AM12-0417_063r.org
+336,tovoghet,gml,AM12-0417_063r.org
+337,towde,da,Holm-A-0042_053r.org
+338,trachtent,gml,AM08-0073_044r.org
+339,traen,gml,Speghel_R1r.org
+340,trane,gml,Speghel_R1r.org AM08-0073_013r.org Arndes1487_265r.org
+341,tranen,gml,GKS08-3423_211r.org AM08-0073_077r.org AM08-0073_088v.org AM12-0417_073v.org AM08-0073_013r.org
+342,trannen,gml,AM04-0782_091r.org
+343,trat,gml,AM08-0073_109r.org AM08-0070_003r.org UBB-C496_019v.org
+344,tre,da,Thott04-0553_021r-2.org Holm-A-0042_052v.org Thott04-0553_125v.org Lund-0035_064v.org Holm-A-0042_095v.org AM12-0420_026r.org AM08-0072_126r.org
+345,treden,gml,GKS08-3423_111r2.org
+346,tredest,gml,GKS08-3423_211r.org
+347,tredhe,da,AM12-0421_022r.org
+348,tredwgh,da,AM04-0782_001r.org AM04-0784_080r.org
+349,tree,da,Lund-0035_064v.org AM12-0421_030r.org
+350,trefallighet,da,AM04-0784_080r.org
+351,trefoldughetz,da,Holm-A-0042_095v.org
+352,trefoldyghet,da,AM04-0782_001r.org
+353,trefollighet,da,GKS04-1614_001r.org
+354,trefollighetz,da,Thott04-0553_125v.org
+355,trefollighhedh,da,GKS04-1614_001r.org
+356,trengdhe,da,AM12-0421_030r.org
+357,tresynne,da,GKS04-1614_001r.org
+358,tribulor,other,AM08-0070_254r.org
+359,tribve,da,UUB-C496_136r.org
+360,trididagh,da,AM08-0072_127r.org
+361,tridie,da,Holm-A-0042_053r.org Lund-0035_064v.org
+362,tridiæ,da,Lund-0035_038v.org AM12-0420_026r.org
+363,trinitati,gml,AM08-0070_003r.org
+364,trinitatis,gml,GKS08-3487_009v.org
+365,tro,da,AM08-0072_128r.org AM08-0072_128v.org Thott04-0553_021r-2.org Holm-A-0042_055v.org Holm-A-0042_052v.org
+366,troen,gml,AM04-0782_091r.org
+367,troendis,da,Lund-0035_064v.org
+368,troest,gml,Speghel_R1r.org
+369,troldom,da,NKS08-0045_120v.org
+370,troloffuede,da,Thott04-0553_125v.org
+371,troloffuet,da,Lund-0035_064v.org Holm-A-0042_095v.org
+372,trom,gml,UUB-C496_001r.org
+373,tron,gml,UUB-C496_095r.org
+374,trone,da,Lund-0035_064v.org Holm-A-0042_095v.org
+375,trone,gml,Hamburg-CodConv-6_002r.org Guelf-1025Novi_230r.org
+376,tronen,gml,AM12-0417_063r.org
+377,troo,da,Thott04-0553_021r-2.org AM04-0784_300r.org NKS08-0045_120v.org Thott04-0553_125v.org AM08-0072_126r.org
+378,tror,da,NKS08-0045_120v.org
+379,trost,gml,GKS08-3423_211r.org GKS08-3423_103v.org AM08-0073_099r.org AM12-0417_050r.org GKS08-3423_001r.org AM08-0073_044r.org AM08-0073_054v.org AM12-0417_063r.org
+380,troste,gml,GKS08-3423_211r.org AM08-0073_109r.org GKS08-3423_071v.org
+381,trostede,other,AM08-0070_254r.org
+382,trostede,gml,Hamburg-CodConv-6_002r.org AM04-0789_005r.org
+383,trostedest,gml,GKS08-3423_211r.org
+384,trostende,gml,AM08-0073_082v.org GKS08-3423_020r.org AM08-0073_044r.org AM08-0073_087r.org
+385,trostende,other,Guelf08-6114Aug_181r.org
+386,trostenden,gml,AM08-0073_088v.org
+387,troster,gml,AM12-0417_001r.org GKS08-3423_020r.org GKS08-3423_111r2.org
+388,trostes,gml,AM12-0417_050r.org
+389,trostest,gml,AM08-0073_044r.org
+390,troth,da,NKS08-0045_120v.org
+391,trouich,gml,AM12-0417_073v.org
+392,troær,da,AM12-0421_022r.org NKS08-0045_120v.org
+393,tru,gml,Arndes1487_265r.org AM08-0073_055r.org
+394,truwelyken,gml,GKS08-3423_211r.org
+395,truwen,gml,AM08-0073_099r.org AM08-0073_074v.org AM12-0417_063r.org
+396,try,da,AM04-0782_001r.org AM04-0784_080r.org
+397,tryg,da,Holm-A-0042_055v.org
+398,tryggæ,da,NRA-0085-b_001v.org
+399,trykt,da,AM08-0075_063r.org
+400,tryktæ,da,GKS04-1613_161r.org
+401,trystyue,da,Holm-A-0042_055v.org
+402,trændæ,da,NKS08-0045_120v.org
+403,trøest,gml,AM04-0782_091r.org
+404,trøste,da,AM04-0789_001r.org
+405,trøstet,da,Lund-0035_064v.org
+406,trøstæ,da,Thott04-0553_125v.org
+407,trøstædæ,da,Lund-0035_064v.org
+408,tu,gml,AM08-0070_003r.org
+409,tua,gml,AM08-0073_044r.org
+410,tuam,other,Holm-A-0042_032r.org Kalmar-0033_037v.org
+411,tuch,gml,AM08-0073_088v.org
+412,tuchnisse,gml,AM08-0073_109r.org AM08-0073_071r.org GKS08-3487_001r.org
+413,tucht,gml,AM08-0070_003r.org
+414,tuchtige,gml,AM12-0417_073v.org AM08-0073_013r.org
+415,tuchtigher,gml,Arndes1487_265r.org
+416,tue,gml,GKS08-3487_009v.org
+417,tughen,gml,GKS08-3423_211r.org
+418,tumescrit,gml,GKS08-3423_111r2.org
+419,tun,gml,AM08-0073_054v.org
+420,tunge,gml,AM08-0073_077r.org AM08-0073_013r.org
+421,tungen,gml,AM12-0417_001r.org AM08-0073_071r.org NKS08-0045_174r.org
+422,tunghe,gml,AM12-0417_073v.org
+423,tunghen,gml,AM08-0073_044r.org GKS08-3487_001r.org
+424,tuo,gml,GKS08-3487_009v.org AM08-0073_013r.org
+425,tuo,da,AM08-0076_113r.org
+426,tuorum,gml,AM08-0073_094r.org
+427,tuos,other,Kalmar-0033_037v.org
+428,tusschen,gml,UUB-C496_091v.org AM08-0073_109r.org AM12-0417_050r.org
+429,tuum,other,Holm-A-0042_032r.org
+430,tvo,da,UUB-C496_136r.org
+431,tvvm,da,UUB-C496_136r.org
+432,tw,da,AM04-0784_026v_m.org Thott04-0553_021r-2.org AM04-0782_216v.org AM04-0784_092r.org AM04-0782_001r.org Thott04-0553_015v.org AM04-0784_300r.org Thott04-0553_020v.org Thott04-0553_125v.org Thott04-0553_021v.org AM04-0784_080r.org GKS04-1614_001r.org
+433,twe,gml,GKS08-3487_009v.org
+434,twelf,gml,Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org
+435,twelff,gml,Gott-Theol242f_103r.org Guelf-1025Novi_230r.org Beinecke-0218_127r.org UUB-C496_095r.org GKS08-3487_001r.org
+436,twelff,other,Guelf08-6114Aug_181r.org
+437,twelfften,gml,UUB-C496_095r.org
+438,twelfften,other,Guelf08-6114Aug_181r.org
+439,twelfte,gml,GKS08-3423_211r.org
+440,twelften,gml,Guelf-1155Helmst_308v.org Hamburg-CodConv-6_002r.org
+441,tweuolyger,gml,GKS08-3423_111r2.org
+442,twghet,da,GKS04-1615_019r.org
+443,twide,gml,AM08-0070_064r.org AM12-0417_001r.org AM08-0073_109r.org AM08-0073_082v.org AM08-0070_003r.org AM08-0073_071r.org Hamburg-CodConv-6_002r.org NKS08-0045_174r.org NKS08-0045_194r.org AM12-0417_073v.org Beinecke-0218_127r.org AM08-0073_013r.org UUB-C496_095r.org AM08-0073_087r.org AM08-0073_080r.org
+444,twidede,gml,AM08-0073_071r.org Arndes1487_265r.org
+445,twiden,gml,AM12-0417_050r.org AM08-0073_013r.org
+446,twidest,gml,Hamburg-CodConv-6_002r.org UUB-C496_095r.org
+447,twier,gml,UUB-C496_091v.org
+448,twintigh,gml,AM08-0073_013r.org
+449,twisten,gml,AM08-0073_013r.org
+450,twnge,da,Holm-A-0042_054r.org
+451,twngen,gml,GKS08-3487_104v.org
+452,twnghe,da,AM08-0072_128r.org AM08-0072_128v.org
+453,twngher,da,GKS04-1615_019r.org
+454,twngo,other,Holm-A-0029_145v.org
+455,twolften,gml,Guelf-1025Novi_230r.org
+456,twyde,gml,Gott-Theol242f_103r.org GKS08-3423_071v.org AM12-0417_050r.org Guelf-1155Helmst_308v.org Guelf-1025Novi_230r.org AM12-0417_073v.org UUB-C496_095r.org
+457,twyde,other,Guelf08-6114Aug_181r.org
+458,twyden,gml,AM12-0417_073v.org
+459,twydest,other,Guelf08-6114Aug_181r.org
+460,twynget,da,AM04-0784_080r.org
+461,twyngith,da,AM04-0782_001r.org
+462,twyuelen,gml,AM08-0070_003r.org
+463,tyd,da,AM04-0782_216v.org
+464,tyd,gml,AM12-0417_001r.org GKS08-3423_211r.org Beschauwing_009.org GKS08-3423_001r.org AM12-0417_073v.org AM08-0073_044r.org GKS08-3487_001r.org AM04-0782_091r.org
+465,tyde,gml,AM12-0417_063r.org
+466,tyden,gml,GKS08-3423_211r.org GKS08-3423_103r.org AM08-0073_099r.org AM08-0073_109r.org AM08-0070_003r.org UUB-C496_002r.org UUB-C496_001v.org NKS08-0041_257v.org
+467,tyder,da,Holm-A-0042_051v.org
+468,tydh,gml,GKS08-3487_001r.org
+469,tydh,da,AM04-0782_001r.org AM04-0784_080r.org
+470,tyendæ,da,NKS08-0045_120v.org
+471,tyenestæ,da,AM08-0075_022v-4.org
+472,tyff,da,NKS08-0045_120v.org
+473,tygh,da,AM04-0782_001r.org AM04-0784_080r.org
+474,tyl,da,AM12-0421_072r.org AM12-0421_022r.org AM12-0421_030r.org
+475,tyll,da,AM12-0421_072r.org AM04-0784_080r.org
+476,tymæ,da,Thott04-0553_021r-2.org AM08-0075_022v-4.org Thott04-0553_021v.org AM08-0075_009r.org
+477,tyn,da,AM04-0782_216v.org AM04-0784_092r.org AM04-0782_001r.org AM12-0421_030r.org AM04-0784_080r.org
+478,tyne,da,AM04-0782_216v.org
+479,tynne,da,AM04-0782_001r.org AM04-0784_080r.org
+480,tynæ,da,AM04-0782_001r.org AM04-0784_080r.org
+481,tyrstigæ,da,NKS08-0045_120v.org
+482,tyt,gml,AM12-0417_073v.org GKS08-3487_104v.org
+483,tyth,da,AM12-0421_030r.org
+484,tyttæ,da,Lund-0035_064v.org
+485,tyænestæ,da,AM04-0784_080r.org
+486,tzehen,gml,Koln-W52_167r.org
+487,tziringe,gml,AM12-0417_050r.org
+488,tziringhe,gml,AM12-0417_050r.org
+489,tzu,gml,Koln-W52_167r.org
+490,tzwyde,gml,Koln-W52_167r.org
+491,tækkes,da,AM08-0075_022v-4.org
+492,tænckt,da,AM04-0789_002v.org
+493,tæssæ,da,NKS08-0045_120v.org
