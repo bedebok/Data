@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PENITENTIAL_PSALMS" type="work">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seven Penitential Psalms (Septem Psalmi Poenitentiales)</title>
+<respStmt xml:id="SDV">
+<resp when="2026">Written by</resp>
+<persName>Seán D Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<p>Born digital</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div>
+<p>Seven psalms of David considered lamentations. These frequently are found in books of hours and are typically followed by the litany, which can be used to locate the use of a certain book.
+</p>
+<p>1. Psalm 6 (Domine ne in furore tuo aruas me.)
+</p>
+<p>2. Palm 31 (Beati quorum remissae sunt iniquitates.)
+</p>
+<p>3. Psalm 37 (38) (Domine ne in furore tuo arguas me.)
+</p>
+<p>Psalm 50 (51) (Miserere mei, Deus, secundum magnam misericordiam tuam.)
+</p>
+<p>Psalm 101 (102) (Domine, exaudi orationem meam, et clamor meus ad te veniat.)
+</p>
+<p>Psalm 129 (130) (De profundis clamavi ad te, Domine.)
+</p>
+<p>Psalm 142 (143) (Domine, exaudi orationem meam: auribus percipe obsecrationem meam in veritate tua.)
+</p>
+</div>
+</body>
+</text>
+</TEI>

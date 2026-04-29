@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ADORO_TE" type="work">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Adoro te</title>
+<respStmt xml:id="ILK">
+<resp when="2026">Written by</resp>
+<persName>Iliana Kandzha</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<p>Born digital</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div>
+<p>Known as the Verses of St Gregory (adore te in cruce pendentem); the story of St Gregory’s mass developed in Rome among Carthusians around 1400, especially popular at the end of the 15th century in Dutch books of hours and MLG prayer books. It is also contained in multiple Danish prayer books with various rubrics that often add a note about Christian I’s pilgrimage to Rome in 1474.
+</p>
+<p>Some of these prayers within the cycle are known from the 9th century.
+</p>
+</div>
+</body>
+</text>
+</TEI>
