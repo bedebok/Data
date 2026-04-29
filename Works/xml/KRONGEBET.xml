@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KRONGEBET" type="work">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Golden Coronation Prayer of Mary's Ten Joys</title>
+<respStmt xml:id="SDV">
+<resp when="2026">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<p>Born digital</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader><text>
+<body>
+<div>
+<p>An originally upper German prayer from the 1420s is known in four redactions. Redaction 3 includes a Low German recension. The Danish recension clearly belongs to this third redaction as well.
+</p>
+<p>The prayer cycle opens with a rubric explaining the origin of the prayers. According to this story, a cloistered virgin had committed her chastity to the Virgin Mary, for which she was mocked by the other sisters in the convent, who also stole some of her goods. Not knowing what to do, the chaste sister served the Angel Gabriel as best she could. One night the angel visited her and taught her the prayers. 
+</p>
+</div>
+</body>
+</text>
+</TEI>
