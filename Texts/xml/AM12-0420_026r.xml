@@ -4,7 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Das goldene Krongebet</title>
+<title>Golden Coronation Prayer of Mary's Ten Joys</title>
 <respStmt xml:id="SDV">
 <resp when="2024">Catalogue</resp>
 <persName>Seán D. Vrieland</persName>
@@ -23,7 +23,7 @@
 <msContents>
 <msItem>
 <locus from="26r" to="|"/>
-<title key="KRONGEBET">Das goldene Krongebet</title>
+<title key="KRONGEBET">Golden Coronation Prayer of Mary's Ten Joys</title>
 <textLang mainLang="da"/>
 </msItem>
 </msContents>
@@ -515,109 +515,109 @@
 <w xml:id="AM12-0420_28r.15.4">thu</w>
 <w xml:id="AM12-0420_28r.15.5">iæn</w>
 <w xml:id="AM12-0420_28r.15.6">fred</w>
-<w xml:id="AM12-0420_28r.15.7">imel<pb n="28r"/><lb n="1"/>læ<ex>m</ex></w>
-<w xml:id="AM12-0420_28r.1.0">arme</w>
-<w xml:id="AM12-0420_28r.1.3">synduge</w>
-<w xml:id="AM12-0420_28r.1.4">me<ex>n</ex>niske</w>
-<w xml:id="AM12-0420_28r.1.5">oc</w>
+<w xml:id="AM12-0420_28r.15.7">imel<pb n="28v"/><lb n="1"/>læ<ex>m</ex></w>
+<w xml:id="AM12-0420_28v.1.2">arme</w>
+<w xml:id="AM12-0420_28v.1.3">synduge</w>
+<w xml:id="AM12-0420_28v.1.4">me<ex>n</ex>niske</w>
+<w xml:id="AM12-0420_28v.1.5">oc</w>
 <lb n="2"/>
-<w xml:id="AM12-0420_28r.2.1">thi<ex>n</ex></w>
-<w xml:id="AM12-0420_28r.2.2">søn</w>
-<w xml:id="AM12-0420_28r.2.3">oc</w>
-<w xml:id="AM12-0420_28r.2.4">ewig</w>
-<w xml:id="AM12-0420_28r.2.5">gusz</w>
-<w xml:id="AM12-0420_28r.2.6">søn</w>
-<w xml:id="AM12-0420_28r.2.7">Thes</w>
+<w xml:id="AM12-0420_28v.2.1">thi<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.2.2">søn</w>
+<w xml:id="AM12-0420_28v.2.3">oc</w>
+<w xml:id="AM12-0420_28v.2.4">ewig</w>
+<w xml:id="AM12-0420_28v.2.5">gusz</w>
+<w xml:id="AM12-0420_28v.2.6">søn</w>
+<w xml:id="AM12-0420_28v.2.7">Thes</w>
 <lb n="3"/>
-<w xml:id="AM12-0420_28r.3.1">frygder</w>
-<w xml:id="AM12-0420_28r.3.2">sig</w>
-<w xml:id="AM12-0420_28r.3.3">alt</w>
-<w xml:id="AM12-0420_28r.3.4">th<ex>et</ex></w>
-<w xml:id="AM12-0420_28r.3.5">i</w>
-<w xml:id="AM12-0420_28r.3.6">he<ex>m</ex>mæle<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.3.1">frygder</w>
+<w xml:id="AM12-0420_28v.3.2">sig</w>
+<w xml:id="AM12-0420_28v.3.3">alt</w>
+<w xml:id="AM12-0420_28v.3.4">th<ex>et</ex></w>
+<w xml:id="AM12-0420_28v.3.5">i</w>
+<w xml:id="AM12-0420_28v.3.6">he<ex>m</ex>mæle<ex>n</ex></w>
 <lb n="4"/>
-<w xml:id="AM12-0420_28r.4.1">oc</w>
-<w xml:id="AM12-0420_28r.4.2">i</w>
-<w xml:id="AM12-0420_28r.4.3">iørdærigi</w>
-<w xml:id="AM12-0420_28r.4.4">ær</w>
-<w xml:id="AM12-0420_28r.4.5">Maria</w>
-<w xml:id="AM12-0420_28r.4.6">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_28v.4.1">oc</w>
+<w xml:id="AM12-0420_28v.4.2">i</w>
+<w xml:id="AM12-0420_28v.4.3">iørdærigi</w>
+<w xml:id="AM12-0420_28v.4.4">ær</w>
+<w xml:id="AM12-0420_28v.4.5">Maria</w>
+<w xml:id="AM12-0420_28v.4.6">th<ex>e</ex>n</w>
 <lb n="5"/>
-<w xml:id="AM12-0420_28r.5.1">store</w>
-<w xml:id="AM12-0420_28r.5.2">frygd</w>
-<w xml:id="AM12-0420_28r.5.3">var</w>
-<w xml:id="AM12-0420_28r.5.4">for maneth</w>
+<w xml:id="AM12-0420_28v.5.1">store</w>
+<w xml:id="AM12-0420_28v.5.2">frygd</w>
+<w xml:id="AM12-0420_28v.5.3">var</w>
+<w xml:id="AM12-0420_28v.5.4">for maneth</w>
 <lb n="6"/>
-<w xml:id="AM12-0420_28r.6.1">for</w>
-<w xml:id="AM12-0420_28r.6.2">oc</w>
-<w xml:id="AM12-0420_28r.6.3">vær</w>
-<w xml:id="AM12-0420_28r.6.4">benedijt</w>
-<w xml:id="AM12-0420_28r.6.5">oc</w>
-<w xml:id="AM12-0420_28r.6.6">ful<lb n="7"/>kom</w>
-<w xml:id="AM12-0420_28r.7.2">mi<ex>n</ex></w>
-<w xml:id="AM12-0420_28r.7.3">bøn</w>
-<w xml:id="AM12-0420_28r.7.4">efter</w>
-<w xml:id="AM12-0420_28r.7.5">thi<ex>n</ex></w>
-<w xml:id="AM12-0420_28r.7.6">nade</w>
+<w xml:id="AM12-0420_28v.6.1">for</w>
+<w xml:id="AM12-0420_28v.6.2">oc</w>
+<w xml:id="AM12-0420_28v.6.3">vær</w>
+<w xml:id="AM12-0420_28v.6.4">benedijt</w>
+<w xml:id="AM12-0420_28v.6.5">oc</w>
+<w xml:id="AM12-0420_28v.6.6">ful<lb n="7"/>kom</w>
+<w xml:id="AM12-0420_28v.7.2">mi<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.7.3">bøn</w>
+<w xml:id="AM12-0420_28v.7.4">efter</w>
+<w xml:id="AM12-0420_28v.7.5">thi<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.7.6">nade</w>
 <lb n="8"/>
-<w xml:id="AM12-0420_28r.8.1">oc</w>
-<w xml:id="AM12-0420_28r.8.2">æfter</w>
-<w xml:id="AM12-0420_28r.8.3">mi<ex>n</ex></w>
-<w xml:id="AM12-0420_28r.8.4">begering</w>
+<w xml:id="AM12-0420_28v.8.1">oc</w>
+<w xml:id="AM12-0420_28v.8.2">æfter</w>
+<w xml:id="AM12-0420_28v.8.3">mi<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.8.4">begering</w>
 </p></div>
 <div type="rubric">
 <p>
-<w xml:id="AM12-0420_28r.8.5">stand</w>
+<w xml:id="AM12-0420_28v.8.5">stand</w>
 <lb n="9"/>
-<w xml:id="AM12-0420_28r.9.1">op</w>
-<w xml:id="AM12-0420_28r.9.2">och</w>
-<w xml:id="AM12-0420_28r.9.3">les</w>
-<w xml:id="AM12-0420_28r.9.4">x</w>
-<w xml:id="AM12-0420_28r.9.5">aue</w>
-<w xml:id="AM12-0420_28r.9.6">maria</w>
-<w xml:id="AM12-0420_28r.9.7">oc</w>
+<w xml:id="AM12-0420_28v.9.1">op</w>
+<w xml:id="AM12-0420_28v.9.2">och</w>
+<w xml:id="AM12-0420_28v.9.3">les</w>
+<w xml:id="AM12-0420_28v.9.4">x</w>
+<w xml:id="AM12-0420_28v.9.5">aue</w>
+<w xml:id="AM12-0420_28v.9.6">maria</w>
+<w xml:id="AM12-0420_28v.9.7">oc</w>
 <lb n="10"/>
-<w xml:id="AM12-0420_28r.10.1">fal</w>
-<w xml:id="AM12-0420_28r.10.2">side<ex>n</ex></w>
-<w xml:id="AM12-0420_28r.10.3">pa</w>
-<w xml:id="AM12-0420_28r.10.4">kne</w>
-<w xml:id="AM12-0420_28r.10.5">oc</w>
-<w xml:id="AM12-0420_28r.10.6">læs</w>
-<w xml:id="AM12-0420_28r.10.7"><choice><sic>oc les</sic><corr></corr></choice></w>
+<w xml:id="AM12-0420_28v.10.1">fal</w>
+<w xml:id="AM12-0420_28v.10.2">side<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.10.3">pa</w>
+<w xml:id="AM12-0420_28v.10.4">kne</w>
+<w xml:id="AM12-0420_28v.10.5">oc</w>
+<w xml:id="AM12-0420_28v.10.6">læs</w>
+<w xml:id="AM12-0420_28v.10.7"><choice><sic>oc les</sic><corr></corr></choice></w>
 <lb n="11"/>
-<w xml:id="AM12-0420_28r.11.1">t<ex>henne</ex></w>
-<w xml:id="AM12-0420_28r.11.2">b<ex>øn</ex></w>
+<w xml:id="AM12-0420_28v.11.1">t<ex>henne</ex></w>
+<w xml:id="AM12-0420_28v.11.2">b<ex>øn</ex></w>
 </p></div>
 </div>
 <div type="prayer">
 <p>
 </p><div type="text">
 <p>
-<w xml:id="AM12-0420_28r.11.3"><hi rend="red 2">M</hi>aria</w>
-<w xml:id="AM12-0420_28r.11.4">iæc</w>
-<w xml:id="AM12-0420_28r.11.5">for maner</w>
+<w xml:id="AM12-0420_28v.11.3"><hi rend="red 2">M</hi>aria</w>
+<w xml:id="AM12-0420_28v.11.4">iæc</w>
+<w xml:id="AM12-0420_28v.11.5">for maner</w>
 <lb n="12"/>
-<w xml:id="AM12-0420_28r.12.1">thic</w>
-<w xml:id="AM12-0420_28r.12.2">for</w>
-<w xml:id="AM12-0420_28r.12.3">th<ex>e</ex>n</w>
-<w xml:id="AM12-0420_28r.12.4">ower flo<lb n="13"/>dige</w>
-<w xml:id="AM12-0420_28r.13.2">frygd</w>
-<w xml:id="AM12-0420_28r.13.3">oc</w>
-<w xml:id="AM12-0420_28r.13.4">verdughet</w>
-<w xml:id="AM12-0420_28r.13.5">so<ex>m</ex></w>
+<w xml:id="AM12-0420_28v.12.1">thic</w>
+<w xml:id="AM12-0420_28v.12.2">for</w>
+<w xml:id="AM12-0420_28v.12.3">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_28v.12.4">ower flo<lb n="13"/>dige</w>
+<w xml:id="AM12-0420_28v.13.2">frygd</w>
+<w xml:id="AM12-0420_28v.13.3">oc</w>
+<w xml:id="AM12-0420_28v.13.4">verdughet</w>
+<w xml:id="AM12-0420_28v.13.5">so<ex>m</ex></w>
 <lb n="14"/>
-<w xml:id="AM12-0420_28r.14.1">thi<ex>n</ex></w>
-<w xml:id="AM12-0420_28r.14.2">siæl</w>
-<w xml:id="AM12-0420_28r.14.3">oc</w>
-<w xml:id="AM12-0420_28r.14.4">thic</w>
-<w xml:id="AM12-0420_28r.14.5">lijff</w>
-<w xml:id="AM12-0420_28r.14.6">vnt fek</w>
+<w xml:id="AM12-0420_28v.14.1">thi<ex>n</ex></w>
+<w xml:id="AM12-0420_28v.14.2">siæl</w>
+<w xml:id="AM12-0420_28v.14.3">oc</w>
+<w xml:id="AM12-0420_28v.14.4">thic</w>
+<w xml:id="AM12-0420_28v.14.5">lijff</w>
+<w xml:id="AM12-0420_28v.14.6">vnt fek</w>
 <lb n="15"/>
-<w xml:id="AM12-0420_28r.15.1">pa</w>
-<w xml:id="AM12-0420_28r.15.2">th<ex>e</ex>n</w>
-<w xml:id="AM12-0420_28r.15.3">hellige</w>
-<w xml:id="AM12-0420_28r.15.4">tolfte</w>
-<w xml:id="AM12-0420_28r.15.5">iulæ</w>
+<w xml:id="AM12-0420_28v.15.1">pa</w>
+<w xml:id="AM12-0420_28v.15.2">th<ex>e</ex>n</w>
+<w xml:id="AM12-0420_28v.15.3">hellige</w>
+<w xml:id="AM12-0420_28v.15.4">tolfte</w>
+<w xml:id="AM12-0420_28v.15.5">iulæ</w>
 <pb n="29r"/>
 <lb n="1"/>
 <w xml:id="AM12-0420_29r.1.1">dagh</w>
