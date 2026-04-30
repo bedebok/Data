@@ -1,0 +1,51 @@
+#+TITLE:
+A direct copy of AM 790 4to, including the notes from Árni Magnússon about lacunae.
+
+* PhysDesc
+|--------------+---------|
+| SUPPORT      | pap     |
+| NUMBER       | 62      |
+| SIZE         | 218 165 |
+| WRITING AREA | 155 120 |
+| COLUMNS      | 1       |
+| LINES        | 14-16   |
+| FOLIATION    | p 3-124 |
+|--------------+---------|
+
+
+** Binding
+|------+-----------|
+| TYPE | Paper     |
+| DATE | XVIII     |
+| SIZE | 220 170 8 |
+|------+-----------|
+
+** Quire structure
+|-------+--------+------------+-------------------------|
+| Quire | Leaves | Structure  | Changes                 |
+|-------+--------+------------+-------------------------|
+| I     |    1-8 | quaternion |                         |
+| II    |   9-16 | quaternion |                         |
+| III   |  17-24 | quaternion |                         |
+| IV    |  25-32 | quaternion |                         |
+| V     |  33-40 | quaternion |                         |
+| VI    |  41-48 | quaternion |                         |
+| VII   |  49-56 | quaternion |                         |
+| VIII  |  57-62 | quaternion | Final two have been cut |
+|-------+--------+------------+-------------------------|
+
+* History
+|------------+---------|
+| PLACE      | Denmark |
+| DATE       | XVIII   |
+| PROVENANCE |         |
+|------------+---------|
+
+Written in Denmark in the end of the eighteenth century.
+
+* Contents
+|-----+------+-------+------+-------------+------+--------+------|
+| Loc | Text | Level | Type | Rub/Inc/Exp | Lang | Status | Note |
+|-----+------+-------+------+-------------+------+--------+------|
+|     |      |       |      |             |      |        |      |
+|-----+------+-------+------+-------------+------+--------+------|

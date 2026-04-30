@@ -1,0 +1,37 @@
+#+TITLE: A Middle Dutch prayer book
+This prayer book was originally catalogued as being in Middle Low German, but the language is Middle Dutch. It consists of multiple codicological units and different hands.
+
+* PhysDesc
+|--------------+---------|
+| SUPPORT      | pap     |
+| NUMBER       | 162     |
+| SIZE         | 142 102 |
+| WRITING AREA | 85v 65  |
+| COLUMNS      | 1       |
+| LINES        | 17-22   |
+| FOLIATION    | f 1-162 |
+|--------------+---------|
+
+** Binding
+|---------+-----------------------------------------|
+| TYPE    | Full leather binding with blind tooling |
+| CLOSURE | Single clasp (missing)                  |
+| DATE    | XV                                      |
+| SIZE    | 145 110 40                              |
+|---------+-----------------------------------------|
+
+** Quire Structure
+
+* History
+|------------+-----------------|
+| PLACE      | The Netherlands |
+| DATE       | XV              |
+| PROVENANCE |                 |
+|------------+-----------------|
+* Contents
+|-----+----------+-------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------+------|
+| Loc | Text     | Level | Type | Rub/Inc/Exp                                                                                                                                                     | Lang | Status | Note |
+|-----+----------+-------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------+------|
+| 1r  |          |       |      | [[B]]Ona ventura seyt dat een yghelic mensche die hem oefent inde(n) liden ons here(n) [...] bi sine ionghere(n) mit beslote(n) dore(n) opte(n) hoghen paedach Amen | dum  | main   |      |
+| 29r | ADORO_TE |       |      |                                                                                                                                                                 | dum  | main   |      |
+|-----+----------+-------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------+--------+------|
