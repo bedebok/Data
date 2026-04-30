@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM04-0782" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>AM 782 4to</title>
+<respStmt xml:id="SDV">
+<resp when="2026">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM04-0782"/>
+</msIdentifier>
+<head>
+
+</head>
+<msContents>
+<msItem class="prayer" n="1">
+<locus from="1r" to="4r"/>
+<title>ADVENT_1</title>
+<rubric>Jtem hær effther fylligher en bøn tw skalth læsse førsthe søndagh y adwent før jwll Och er th<ex>et</ex> th<ex>e</ex>n førstæ søndagh som ko<ex>m</ex>mer effth<ex>e</ex>r s<ex>anc</ex>te andras dag</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="prayer" n="2">
+<locus from="4r" to="undefined"/>
+<title>ADVENT_ALL</title>
+<rubric>Jtem her efft<ex>e</ex>r ffølger en bøn tw skall læse hwer dag y adventh</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="prayer" n="3">
+<locus from="6r" to="undefined"/>
+<title/>
+<rubric>Jtem her effter følger en bøn tw skalt læse nar tw gonger thyll skripte</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="prayer" n="4">
+<locus from="7r" to="undefined"/>
+<title/>
+<rubric>Jt<ex>em</ex> nar tw faller po tyne knæ for presten tha sy saa</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="5">
+<locus from="8r" to="undefined"/>
+<title/>
+<rubric>Jtem her effther følger en bøn tw skalt læse thyl Jomfrw ma<ex>ri</ex>a nar tw haffwer waret til sc<ex>ri</ex>ptee</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="6">
+<title/>
+</msItem>
+<msItem class="undefined" n="7">
+<locus from="10v" to="undefined"/>
+<title/>
+<rubric>Jt<ex>em</ex> her effth<ex>e</ex>r følger en bøn aff Jomf<ex>rv</ex> maria er gantze nyttelig at læsse hwer dag Och besynderligh y adwenth</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="8">
+<title/>
+<rubric>Jtem her effth<ex>e</ex>r følg<ex>e</ex>r en bøn aff Sancta barbara Och er hendes dag fierde dag effth<ex>e</ex>r S<ex>anc</ex>te Andree Dagh <ex>et</ex> cetera</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="9">
+<locus from="13v" to="undefined"/>
+<title/>
+<rubric>En bøn aff s<ex>anc</ex>te nicholae oc er hans daw and<ex>e</ex>n dage<ex>n</ex> efft<ex>e</ex>r s<ex>anc</ex>te barabra dag</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="10">
+<locus from="14v" to="undefined"/>
+<title/>
+<rubric>en bøn man skal læse th<ex>e</ex>n andh<ex>e</ex>n søndaw i adwent for jwle <ex>et cetera</ex></rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="11">
+<locus from="15v" to="undefined"/>
+<title/>
+<rubric>Her efft<ex>e</ex>r føl<ex>e</ex>r en bøn aff jomfrw maria som hwn vor vnfangen aff s<ex>anc</ex>ta anna oc er hendis daw tredie daw efft<ex>e</ex>r sancte nicolaue daw</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="12">
+<locus from="16r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="13">
+<locus from="17r" to="17v"/>
+<title/>
+<rubric>Jtem hær effth<ex>e</ex>r følg<ex>e</ex>r en bøn aff Sancta Anna oc er hendes daw th<ex>e</ex>n neste dag for vor frwe daw</rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="14">
+<locus from="17v" to="21v"/>
+<title/>
+<incipit><hi>O</hi> ære fwld være tw s<ex>anc</ex>ta Anna </incipit>
+<explicit></explicit>
+</msItem>
+<msItem class="undefined" n="15">
+<locus from="22r" to="22v"/>
+<title>ADVENT_3</title>
+<rubric>Jtem her effth<ex>e</ex>r følg<ex>e</ex>r en bøn tw skalt læsse th<ex>e</ex>n tredie søndag i aduent faare Jwll <ex>et cetera</ex></rubric>
+<incipit></incipit>
+</msItem>
+<msItem class="undefined" n="16">
+<locus from="22v" to="23r"/>
+<title/>
+<incipit><hi>O</hi> herre ih<ex>es</ex>u <ex>christ</ex>e tw som esth nw ko<ex>m</ex>men</incipit>
+</msItem>
+<msItem class="undefined" n="17">
+<locus from="23r" to="23r"/>
+<title/>
+<incipit><hi>O</hi> herr<ex>e</ex> ih<ex>es</ex>u <ex>christ</ex>e kom til meg i thende verdige tyd</incipit>
+</msItem>
+<msItem class="undefined" n="18">
+<locus from="23r" to="23v"/>
+<title/>
+<incipit><hi>O</hi> kæreste herr<ex>e</ex> kom til meg m<ex>eth</ex> thyn fred</incipit>
+</msItem>
+<msItem class="undefined" n="19">
+<locus from="23v" to="23v"/>
+<title/>
+<incipit>[O] Jomfrw maria gwtz mod<ex>e</ex>r ko<ex>m</ex> meg thil hielp</incipit>
+</msItem>
+<msItem class="undefined" n="20">
+<locus from="23v" to="24v"/>
+<title>LUCIA</title>
+<rubric>En bøn aff th<ex>e</ex>n hellige jomfrw sancta lucia [...]</rubric>
+<incipit> <hi>O</hi> Thw ædelige palma</incipit>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="undefined" n="21">
+<locus from="24v" to="undefined"/>
+<title>THOMAS</title>
+<rubric>En bøn af s<ex>anc</ex>te Tomes ap<ex>oste</ex>l er ha<ex>n</ex>s daw iij dagen fore jwle daw</rubric>
+<incipit> <hi>T</hi>eg vær<ex>e</ex> lof</incipit>
+</msItem>
+<msItem class="undefined" n="22">
+<title/>
+</msItem>
+<msItem class="undefined" n="23">
+<title/>
+</msItem>
+<msItem class="undefined" n="24">
+<title/>
+</msItem>
+<msItem class="undefined" n="25">
+<title/>
+</msItem>
+<msItem class="undefined" n="26">
+<title/>
+</msItem>
+<msItem class="undefined" n="27">
+<title/>
+</msItem>
+<msItem class="undefined" n="28">
+<title/>
+</msItem>
+<msItem class="undefined" n="29">
+<title/>
+</msItem>
+<msItem class="undefined" n="30">
+<title/>
+</msItem>
+<msItem class="undefined" n="31">
+<title/>
+</msItem>
+<msItem class="undefined" n="32">
+<title/>
+</msItem>
+<msItem class="undefined" n="33">
+<title/>
+</msItem>
+<msItem class="undefined" n="34">
+<title/>
+</msItem>
+<msItem class="undefined" n="35">
+<title/>
+</msItem>
+<msItem class="undefined" n="36">
+<title/>
+</msItem>
+<msItem class="undefined" n="37">
+<title/>
+</msItem>
+<msItem class="undefined" n="38">
+<title/>
+</msItem>
+<msItem class="undefined" n="39">
+<title/>
+</msItem>
+<msItem class="undefined" n="40">
+<title/>
+</msItem>
+<msItem class="undefined" n="41">
+<title/>
+</msItem>
+<msItem class="undefined" n="42">
+<title/>
+</msItem>
+<msItem class="undefined" n="43">
+<title/>
+</msItem>
+<msItem class="undefined" n="44">
+<title/>
+</msItem>
+<msItem class="undefined" n="45">
+<title/>
+</msItem>
+<msItem class="undefined" n="46">
+<title/>
+</msItem>
+<msItem class="undefined" n="47">
+<title/>
+</msItem>
+<msItem class="undefined" n="48">
+<title/>
+</msItem>
+<msItem class="undefined" n="49">
+<title/>
+</msItem>
+<msItem class="undefined" n="50">
+<title/>
+</msItem>
+<msItem class="undefined" n="51">
+<title/>
+</msItem>
+<msItem class="undefined" n="52">
+<title/>
+</msItem>
+<msItem class="undefined" n="53">
+<title/>
+</msItem>
+<msItem class="undefined" n="54">
+<title/>
+</msItem>
+<msItem class="undefined" n="55">
+<title/>
+</msItem>
+<msItem class="undefined" n="56">
+<title/>
+</msItem>
+<msItem class="undefined" n="57">
+<title/>
+</msItem>
+<msItem class="undefined" n="58">
+<title/>
+</msItem>
+<msItem class="undefined" n="59">
+<title/>
+</msItem>
+<msItem class="undefined" n="60">
+<title/>
+</msItem>
+<msItem class="undefined" n="61">
+<title/>
+</msItem>
+<msItem class="undefined" n="62">
+<title/>
+</msItem>
+<msItem class="undefined" n="63">
+<title/>
+</msItem>
+<msItem class="undefined" n="64">
+<title/>
+</msItem>
+<msItem class="undefined" n="65">
+<title/>
+</msItem>
+<msItem class="undefined" n="66">
+<title/>
+</msItem>
+<msItem class="undefined" n="67">
+<title/>
+</msItem>
+<msItem class="undefined" n="68">
+<title/>
+</msItem>
+<msItem class="undefined" n="69">
+<title/>
+</msItem>
+<msItem class="undefined" n="70">
+<title/>
+</msItem>
+<msItem class="undefined" n="71">
+<title/>
+</msItem>
+<msItem class="undefined" n="72">
+<title/>
+</msItem>
+<msItem class="undefined" n="73">
+<title/>
+</msItem>
+<msItem class="undefined" n="74">
+<title/>
+</msItem>
+<msItem class="undefined" n="75">
+<title/>
+</msItem>
+<msItem class="undefined" n="76">
+<title/>
+</msItem>
+<msItem class="undefined" n="77">
+<title/>
+</msItem>
+<msItem class="undefined" n="78">
+<title/>
+</msItem>
+<msItem class="undefined" n="79">
+<title/>
+</msItem>
+<msItem class="undefined" n="80">
+<title/>
+</msItem>
+<msItem class="undefined" n="81">
+<title/>
+</msItem>
+<msItem class="undefined" n="82">
+<title/>
+</msItem>
+<msItem class="undefined" n="83">
+<title/>
+</msItem>
+<msItem class="undefined" n="84">
+<title/>
+</msItem>
+<msItem class="undefined" n="85">
+<title/>
+</msItem>
+<msItem class="undefined" n="86">
+<title/>
+</msItem>
+<msItem class="undefined" n="87">
+<title/>
+</msItem>
+<msItem class="undefined" n="88">
+<title/>
+</msItem>
+<msItem class="undefined" n="89">
+<title/>
+</msItem>
+<msItem class="undefined" n="90">
+<title/>
+</msItem>
+<msItem class="undefined" n="91">
+<title/>
+</msItem>
+<msItem class="undefined" n="92">
+<title/>
+</msItem>
+<msItem class="undefined" n="93">
+<title/>
+</msItem>
+<msItem class="undefined" n="94">
+<locus from="77r" to="undefined"/>
+<title>OSWALD</title>
+</msItem>
+<msItem class="undefined" n="95">
+<locus from="77v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="96">
+<locus from="78r" to="undefined"/>
+<title>GABRIEL</title>
+</msItem>
+<msItem class="undefined" n="97">
+<locus from="78v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="98">
+<locus from="79r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="99">
+<locus from="80r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="100">
+<title/>
+</msItem>
+<msItem class="undefined" n="101">
+<title/>
+</msItem>
+<msItem class="undefined" n="102">
+<title/>
+</msItem>
+<msItem class="undefined" n="103">
+<title/>
+</msItem>
+<msItem class="undefined" n="104">
+<title/>
+</msItem>
+<msItem class="undefined" n="105">
+<title/>
+</msItem>
+<msItem class="undefined" n="106">
+<title/>
+</msItem>
+<msItem class="undefined" n="107">
+<title/>
+</msItem>
+<msItem class="undefined" n="108">
+<title/>
+</msItem>
+<msItem class="undefined" n="109">
+<title/>
+</msItem>
+<msItem class="undefined" n="110">
+<title/>
+</msItem>
+<msItem class="undefined" n="111">
+<title/>
+</msItem>
+<msItem class="undefined" n="112">
+<title/>
+</msItem>
+<msItem class="prayer" n="113">
+<locus from="91r" to="92r"/>
+<title>LENT_ALL</title>
+<rubric>It<ex>e</ex>m eynen beth de ga<ex>n</ex>zen vasten ower alle dage to bedende</rubric>
+<incipit> <hi>O</hi> ewige here vth der groten dwpe </incipit>
+<explicit> in dat ewigen lewend aller vroude Amen p<ex>ate</ex>r n<ex>oste</ex>r ame<ex>n</ex></explicit>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="undefined" n="114">
+<title/>
+</msItem>
+<msItem class="undefined" n="115">
+<title/>
+</msItem>
+<msItem class="undefined" n="116">
+<title/>
+</msItem>
+<msItem class="undefined" n="117">
+<title/>
+</msItem>
+<msItem class="undefined" n="118">
+<title/>
+</msItem>
+<msItem class="undefined" n="119">
+<title/>
+</msItem>
+<msItem class="undefined" n="120">
+<title/>
+</msItem>
+<msItem class="undefined" n="121">
+<title/>
+</msItem>
+<msItem class="undefined" n="122">
+<title/>
+</msItem>
+<msItem class="undefined" n="123">
+<title/>
+</msItem>
+<msItem class="undefined" n="124">
+<title/>
+</msItem>
+<msItem class="undefined" n="125">
+<title/>
+</msItem>
+<msItem class="undefined" n="126">
+<title/>
+</msItem>
+<msItem class="undefined" n="127">
+<title/>
+</msItem>
+<msItem class="undefined" n="128">
+<title/>
+</msItem>
+<msItem class="undefined" n="129">
+<title/>
+</msItem>
+<msItem class="undefined" n="130">
+<title/>
+</msItem>
+<msItem class="undefined" n="131">
+<title/>
+</msItem>
+<msItem class="undefined" n="132">
+<title/>
+</msItem>
+<msItem class="undefined" n="133">
+<title/>
+</msItem>
+<msItem class="undefined" n="134">
+<title/>
+</msItem>
+<msItem class="undefined" n="135">
+<title/>
+</msItem>
+<msItem class="undefined" n="136">
+<locus from="109v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="137">
+<locus from="110r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="138">
+<locus from="110v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="139">
+<locus from="111r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="140">
+<title/>
+</msItem>
+<msItem class="undefined" n="141">
+<title/>
+</msItem>
+<msItem class="undefined" n="142">
+<title/>
+</msItem>
+<msItem class="undefined" n="143">
+<title/>
+</msItem>
+<msItem class="undefined" n="144">
+<title/>
+</msItem>
+<msItem class="undefined" n="145">
+<title/>
+</msItem>
+<msItem class="undefined" n="146">
+<title/>
+</msItem>
+<msItem class="undefined" n="147">
+<title/>
+</msItem>
+<msItem class="undefined" n="148">
+<title/>
+</msItem>
+<msItem class="undefined" n="149">
+<title/>
+</msItem>
+<msItem class="undefined" n="150">
+<title/>
+</msItem>
+<msItem class="undefined" n="151">
+<title/>
+</msItem>
+<msItem class="undefined" n="152">
+<title/>
+</msItem>
+<msItem class="undefined" n="153">
+<title/>
+</msItem>
+<msItem class="undefined" n="154">
+<title/>
+</msItem>
+<msItem class="undefined" n="155">
+<title/>
+</msItem>
+<msItem class="undefined" n="156">
+<title/>
+</msItem>
+<msItem class="undefined" n="157">
+<title/>
+</msItem>
+<msItem class="undefined" n="158">
+<title/>
+</msItem>
+<msItem class="undefined" n="159">
+<title/>
+</msItem>
+<msItem class="undefined" n="160">
+<title/>
+</msItem>
+<msItem class="undefined" n="161">
+<title/>
+</msItem>
+<msItem class="undefined" n="162">
+<title/>
+</msItem>
+<msItem class="undefined" n="163">
+<title/>
+</msItem>
+<msItem class="undefined" n="164">
+<title/>
+</msItem>
+<msItem class="undefined" n="165">
+<title/>
+</msItem>
+<msItem class="undefined" n="166">
+<title/>
+</msItem>
+<msItem class="undefined" n="167">
+<title/>
+</msItem>
+<msItem class="undefined" n="168">
+<title/>
+</msItem>
+<msItem class="undefined" n="169">
+<title/>
+</msItem>
+<msItem class="undefined" n="170">
+<title/>
+</msItem>
+<msItem class="undefined" n="171">
+<title/>
+</msItem>
+<msItem class="undefined" n="172">
+<title/>
+</msItem>
+<msItem class="undefined" n="173">
+<title/>
+</msItem>
+<msItem class="undefined" n="174">
+<title/>
+</msItem>
+<msItem class="undefined" n="175">
+<title/>
+</msItem>
+<msItem class="undefined" n="176">
+<title/>
+</msItem>
+<msItem class="undefined" n="177">
+<title/>
+</msItem>
+<msItem class="undefined" n="178">
+<title/>
+</msItem>
+<msItem class="undefined" n="179">
+<title/>
+</msItem>
+<msItem class="undefined" n="180">
+<title/>
+</msItem>
+<msItem class="undefined" n="181">
+<title/>
+</msItem>
+<msItem class="undefined" n="182">
+<title/>
+</msItem>
+<msItem class="undefined" n="183">
+<title/>
+</msItem>
+<msItem class="undefined" n="184">
+<title/>
+</msItem>
+<msItem class="undefined" n="185">
+<title/>
+</msItem>
+<msItem class="undefined" n="186">
+<title/>
+</msItem>
+<msItem class="undefined" n="187">
+<title/>
+</msItem>
+<msItem class="undefined" n="188">
+<title/>
+</msItem>
+<msItem class="undefined" n="189">
+<title/>
+</msItem>
+<msItem class="undefined" n="190">
+<title/>
+</msItem>
+<msItem class="undefined" n="191">
+<title/>
+</msItem>
+<msItem class="undefined" n="192">
+<title/>
+</msItem>
+<msItem class="undefined" n="193">
+<title/>
+</msItem>
+<msItem class="undefined" n="194">
+<title/>
+</msItem>
+<msItem class="undefined" n="195">
+<title/>
+</msItem>
+<msItem class="undefined" n="196">
+<title/>
+</msItem>
+<msItem class="undefined" n="197">
+<title/>
+</msItem>
+<msItem class="undefined" n="198">
+<title/>
+</msItem>
+<msItem class="undefined" n="199">
+<title/>
+</msItem>
+<msItem class="undefined" n="200">
+<title/>
+</msItem>
+<msItem class="undefined" n="201">
+<title/>
+</msItem>
+<msItem class="undefined" n="202">
+<title/>
+</msItem>
+<msItem class="undefined" n="203">
+<title/>
+</msItem>
+<msItem class="undefined" n="204">
+<title/>
+</msItem>
+<msItem class="undefined" n="205">
+<title/>
+</msItem>
+<msItem class="undefined" n="206">
+<locus from="161r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="207">
+<title/>
+</msItem>
+<msItem class="undefined" n="208">
+<title/>
+</msItem>
+<msItem class="undefined" n="209">
+<title/>
+</msItem>
+<msItem class="undefined" n="210">
+<title/>
+</msItem>
+<msItem class="undefined" n="211">
+<title/>
+</msItem>
+<msItem class="undefined" n="212">
+<title/>
+</msItem>
+<msItem class="undefined" n="213">
+<title/>
+</msItem>
+<msItem class="undefined" n="214">
+<title/>
+</msItem>
+<msItem class="undefined" n="215">
+<title/>
+</msItem>
+<msItem class="undefined" n="216">
+<title/>
+</msItem>
+<msItem class="undefined" n="217">
+<title/>
+</msItem>
+<msItem class="undefined" n="218">
+<title/>
+</msItem>
+<msItem class="undefined" n="219">
+<title/>
+</msItem>
+<msItem class="undefined" n="220">
+<title/>
+</msItem>
+<msItem class="undefined" n="221">
+<title/>
+</msItem>
+<msItem class="undefined" n="222">
+<title/>
+</msItem>
+<msItem class="undefined" n="223">
+<title/>
+</msItem>
+<msItem class="undefined" n="224">
+<title/>
+</msItem>
+<msItem class="undefined" n="225">
+<title/>
+</msItem>
+<msItem class="undefined" n="226">
+<title/>
+</msItem>
+<msItem class="undefined" n="227">
+<title/>
+</msItem>
+<msItem class="undefined" n="228">
+<title/>
+</msItem>
+<msItem class="undefined" n="229">
+<title/>
+</msItem>
+<msItem class="undefined" n="230">
+<title/>
+</msItem>
+<msItem class="undefined" n="231">
+<title/>
+</msItem>
+<msItem class="undefined" n="232">
+<title/>
+</msItem>
+<msItem class="undefined" n="233">
+<title/>
+</msItem>
+<msItem class="undefined" n="234">
+<title/>
+</msItem>
+<msItem class="undefined" n="235">
+<title/>
+</msItem>
+<msItem class="undefined" n="236">
+<locus from="183r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="237">
+<title/>
+</msItem>
+<msItem class="undefined" n="238">
+<title/>
+</msItem>
+<msItem class="undefined" n="239">
+<title/>
+</msItem>
+<msItem class="undefined" n="240">
+<title/>
+</msItem>
+<msItem class="undefined" n="241">
+<locus from="186r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="242">
+<locus from="186r" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="243">
+<locus from="186v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="244">
+<locus from="186v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="245">
+<title/>
+</msItem>
+<msItem class="undefined" n="246">
+<title/>
+</msItem>
+<msItem class="undefined" n="247">
+<title/>
+</msItem>
+<msItem class="undefined" n="248">
+<title/>
+</msItem>
+<msItem class="undefined" n="249">
+<title/>
+</msItem>
+<msItem class="undefined" n="250">
+<title/>
+</msItem>
+<msItem class="undefined" n="251">
+<title/>
+</msItem>
+<msItem class="undefined" n="252">
+<title/>
+</msItem>
+<msItem class="undefined" n="253">
+<title/>
+</msItem>
+<msItem class="undefined" n="254">
+<title/>
+</msItem>
+<msItem class="undefined" n="255">
+<title/>
+</msItem>
+<msItem class="undefined" n="256">
+<title/>
+</msItem>
+<msItem class="undefined" n="257">
+<title/>
+</msItem>
+<msItem class="undefined" n="258">
+<title/>
+</msItem>
+<msItem class="undefined" n="259">
+<title/>
+</msItem>
+<msItem class="undefined" n="260">
+<title/>
+</msItem>
+<msItem class="undefined" n="261">
+<title/>
+</msItem>
+<msItem class="undefined" n="262">
+<title/>
+</msItem>
+<msItem class="undefined" n="263">
+<title/>
+</msItem>
+<msItem class="undefined" n="264">
+<title/>
+</msItem>
+<msItem class="undefined" n="265">
+<title/>
+</msItem>
+<msItem class="undefined" n="266">
+<title/>
+</msItem>
+<msItem class="undefined" n="267">
+<title/>
+</msItem>
+<msItem class="undefined" n="268">
+<title/>
+</msItem>
+<msItem class="undefined" n="269">
+<title/>
+</msItem>
+<msItem class="undefined" n="270">
+<title/>
+</msItem>
+<msItem class="undefined" n="271">
+<title/>
+</msItem>
+<msItem class="undefined" n="272">
+<title/>
+</msItem>
+<msItem class="undefined" n="273">
+<title/>
+</msItem>
+<msItem class="undefined" n="274">
+<title/>
+</msItem>
+<msItem class="undefined" n="275">
+<title/>
+</msItem>
+<msItem class="undefined" n="276">
+<title/>
+</msItem>
+<msItem class="undefined" n="277">
+<title/>
+</msItem>
+<msItem class="undefined" n="278">
+<title/>
+</msItem>
+<msItem class="undefined" n="279">
+<title/>
+</msItem>
+<msItem class="undefined" n="280">
+<title/>
+</msItem>
+<msItem class="undefined" n="281">
+<title/>
+</msItem>
+<msItem class="undefined" n="282">
+<title/>
+</msItem>
+<msItem class="undefined" n="283">
+<title/>
+</msItem>
+<msItem class="undefined" n="284">
+<title/>
+</msItem>
+<msItem class="undefined" n="285">
+<title/>
+</msItem>
+<msItem class="undefined" n="286">
+<title/>
+</msItem>
+<msItem class="undefined" n="287">
+<title/>
+</msItem>
+<msItem class="undefined" n="288">
+<title/>
+</msItem>
+<msItem class="undefined" n="289">
+<locus from="214v" to="undefined"/>
+<title/>
+</msItem>
+<msItem class="undefined" n="290">
+<title/>
+</msItem>
+<msItem class="undefined" n="291">
+<title/>
+</msItem>
+<msItem class="undefined" n="292">
+<title/>
+</msItem>
+<msItem class="undefined" n="293">
+<title/>
+</msItem>
+<msItem class="undefined" n="294">
+<title/>
+</msItem>
+<msItem class="undefined" n="295">
+<title/>
+</msItem>
+<msItem class="undefined" n="296">
+<title/>
+</msItem>
+<msItem class="undefined" n="297">
+<title/>
+</msItem>
+<msItem class="undefined" n="298">
+<title/>
+</msItem>
+<msItem class="undefined" n="299">
+<title/>
+</msItem>
+<msItem class="undefined" n="300">
+<title/>
+</msItem>
+<msItem class="undefined" n="301">
+<title/>
+</msItem>
+<msItem class="undefined" n="302">
+<title/>
+</msItem>
+<msItem class="undefined" n="303">
+<title/>
+</msItem>
+<msItem class="undefined" n="304">
+<title/>
+</msItem>
+<msItem class="undefined" n="305">
+<title/>
+</msItem>
+<msItem class="undefined" n="306">
+<title/>
+</msItem>
+<msItem class="undefined" n="307">
+<title/>
+</msItem>
+<msItem class="undefined" n="308">
+<title/>
+</msItem>
+<msItem class="undefined" n="309">
+<title/>
+</msItem>
+<msItem class="undefined" n="310">
+<title/>
+</msItem>
+<msItem class="undefined" n="311">
+<title/>
+</msItem>
+<msItem class="undefined" n="312">
+<title/>
+</msItem>
+<msItem class="undefined" n="313">
+<title/>
+</msItem>
+<msItem class="undefined" n="314">
+<title/>
+</msItem>
+<msItem class="undefined" n="315">
+<title/>
+</msItem>
+<msItem class="undefined" n="316">
+<title/>
+</msItem>
+<msItem class="undefined" n="317">
+<title/>
+</msItem>
+<msItem class="undefined" n="318">
+<title/>
+</msItem>
+<msItem class="undefined" n="319">
+<title/>
+</msItem>
+<msItem class="undefined" n="320">
+<title/>
+</msItem>
+<msItem class="undefined" n="321">
+<title/>
+</msItem>
+<msItem class="undefined" n="322">
+<title/>
+</msItem>
+<msItem class="undefined" n="323">
+<title/>
+</msItem>
+<msItem class="undefined" n="324">
+<title/>
+</msItem>
+<msItem class="undefined" n="325">
+<title/>
+</msItem>
+<msItem class="undefined" n="326">
+<title/>
+</msItem>
+<msItem class="undefined" n="327">
+<title/>
+</msItem>
+<msItem class="undefined" n="328">
+<locus from="246r" to="undefined"/>
+<title/>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<extent></extent>
+<collation>
+<list>
+<item n="1">
+<locus from="1" to="6"/>
+</item><item n="2">
+<locus from="7" to="12"/>
+</item><item n="3">
+<locus from="13" to="16"/>
+<desc>New hand</desc>
+</item><item n="5">
+<locus from="17" to="22"/>
+<desc>17, 18+21, 19+20, 22</desc>
+</item><item n="7">
+<locus from="23" to="24"/>
+</item><item n="8">
+<locus from="25" to="31"/>
+</item><item n="9">
+<locus from="32" to="37"/>
+</item><item n="10">
+<locus from="38" to="43"/>
+</item><item n="11">
+<locus from="44" to="49"/>
+</item><item n="12">
+<locus from="50" to="55"/>
+</item><item n="13">
+<locus from="56" to="61"/>
+</item><item n="14">
+<locus from="62" to="67"/>
+</item><item n="15">
+<locus from="68" to="73"/>
+</item><item n="16">
+<locus from="74" to="79"/>
+</item><item n="17">
+<locus from="80" to="85"/>
+</item><item n="18">
+<locus from="86" to="91"/>
+</item><item n="19">
+<locus from="92" to="97"/>
+</item><item n="20">
+<locus from="98" to="103"/>
+</item><item n="21">
+<locus from="104" to="109"/>
+</item><item n="22">
+<locus from="110" to="115"/>
+</item><item n="23">
+<locus from="116" to="121"/>
+</item><item n="24">
+<locus from="122" to="127"/>
+</item><item n="25">
+<locus from="128" to="133"/>
+</item><item n="26">
+<locus from="134" to="139"/>
+</item><item n="27">
+<locus from="140" to="143"/>
+</item><item n="28">
+<locus from="144" to="149"/>
+</item><item n="29">
+<locus from="150" to="155"/>
+</item><item n="30">
+<locus from="156" to="160"/>
+</item><item n="31">
+<locus from="161" to="166"/>
+</item><item n="32">
+<locus from="167" to="171"/>
+</item><item n="33">
+<locus from="173" to="178"/>
+</item><item n="34">
+<locus from="179" to="185"/>
+</item><item n="35">
+<locus from="186" to="189"/>
+</item><item n="36">
+<locus from="191" to="195"/>
+</item><item n="37">
+<locus from="196" to="200"/>
+</item><item n="38">
+<locus from="201" to="206"/>
+</item><item n="39">
+<locus from="207" to="211"/>
+</item><item n="40">
+<locus from="212" to="217"/>
+</item><item n="41">
+<locus from="218" to="223"/>
+</item><item n="42">
+<locus from="224" to="229"/>
+</item><item n="43">
+<locus from="230" to="235"/>
+</item><item n="44">
+<locus from="236" to="241"/>
+</item><item n="45">
+<locus from="242" to="247"/>
+</item><item n="46">
+<locus from="248" to="253"/>
+</item></list>
+</collation></supportDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>
