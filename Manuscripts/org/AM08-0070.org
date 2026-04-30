@@ -24,7 +24,6 @@ A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. 
 | Quire  |   Leaves | Structure   | Changes                                            |
 |--------+----------+-------------+----------------------------------------------------|
 | I      |      1-2 |             |                                                    |
-|        | [lacuna] |             |                                                    |
 |--------+----------+-------------+----------------------------------------------------|
 | II     |      3-8 |             | (catchword matches)                                |
 |        |     9-18 | quinternion | (catchword matches)                                |
