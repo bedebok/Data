@@ -1,4 +1,5 @@
-#+TITLE: Kalmar 33: Knud Billes Tidebog
+#+TITLE: Kalmar 33. Knud Bille's Book of Hours
+A book of hours belonging to the Danish nobleman Knud Bille.
 
 
 * PhysDesc
@@ -95,7 +96,7 @@
 | 133r 134r  |            | [MDB16]                   | *Her begynnes een god bøn aff wor herris pynelsæ oc th(e)r er ganskæ stort afflath til giffwet se(?)* [[D]]Eus qui pro rede(m)pc(i)one [...] p(er) o(mn)ia secula seculorum. Amen.                                    | lat da   | main              |       |
 | 134r 135r  |            | [MDB81]                   | *Orac(i)o bona* [[A]]VE dextera manus (christi) [...] faciant amore feru(er)tes. Per.                                                                                                                                 | lat      | main              |       |
 | 135r 136v  |            | BERNHARD                  | *Sancti bernardi bøn.* [[I]]llumina oculos meos [...] Per (chr)istum Dominu(m) nostrum. Amen.                                                                                                                         | lat da   | main              |       |
-| 137r 139v  |            | VERSE_GREGORY MDB191      | *SAnctus gregorius pawe dictede* [[O]] h(er)re ih(es)u criste Jag til beder dig [...] tiil liff oc siel nw oc ewindelige                                                                                              | da       | main              |       |
+| 137r 139v  |            | ADORO_TE MDB191           | *SAnctus gregorius pawe dictede* [[O]] h(er)re ih(es)u criste Jag til beder dig [...] tiil liff oc siel nw oc ewindelige                                                                                              | da       | main              |       |
 | 139v 145v  |            | NAME_PRAYER MDB88         | *Hwo som denne effter(skreffne) bøn læss hwer dag* [[O]] Alsomectiste gud [...] gud fader och den hellige and nw oc ewindelige Amen *Pater n(oste)r Aue ma(ria) Sanct(us) gregorius paw*                              | da       | main              |       |
 | 145v 151r  |            | gregory MDB203            | *Sanctus gregorius paw i Rom gaff ...* [[H]]eel ihesu cristi høgre hand [...] om den sa(m)me (christu)m vor h(er)re Amen *p(ate)r n(oste)r Aue*                                                                       | da       | main              |       |
 |------------+------------+---------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+-------------------+-------|
