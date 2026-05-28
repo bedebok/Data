@@ -72,12 +72,12 @@ This directory houses a catalogue of the manuscripts included in the project /Wh
 | [[file:org/Link-Teol-0217.org][Cod. Theol. 217]] |               | Danish        |      |
 |-----------------+---------------+---------------+------|
 ** Lund, University Library
-|----------+------------------------------------+-------------+------|
-| Shelmark | Description                        | Language(s) | Date |
-|----------+------------------------------------+-------------+------|
-| Mh 32b   |                                    | German      |      |
-| Mh 35    | Karen Ludvigsdatters book of hours | Danish      |      |
-|----------+------------------------------------+-------------+------|
+|----------+------------------------------------+---------------+------|
+| Shelmark | Description                        | Language(s)   | Date |
+|----------+------------------------------------+---------------+------|
+| [[https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A14557&dswid=5868][Mh 28]]    | Prayer book                        | Latin, German |      |
+| Mh 35    | Karen Ludvigsdatters book of hours | Danish        |      |
+|----------+------------------------------------+---------------+------|
 ** Uppsala, University Library
 |----------+-------------------------+---------------------------------+--------------|
 | Shelmark | Description             | Language(s)                     | Date         |

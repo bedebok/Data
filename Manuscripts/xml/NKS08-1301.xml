@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NKS08-1301" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A Low German prayer book</title>
+<respStmt xml:id="SDV">
+<resp when="2026">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="KBK"/>
+<idno corresp="NKS08-1301"/>
+</msIdentifier>
+<head>
+
+</head>
+<msContents>
+<msItem class="reading" n="1">
+<locus from="1r" to="4r"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="cycle" n="2">
+<locus from="4r" to="62v"/>
+<title/>
+<textLang mainLang="gml"/>
+<msItem class="prayer" n="3">
+<locus from="10v" to="16v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="4">
+<locus from="16v" to="22v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="5">
+<locus from="22v" to="27v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="6">
+<locus from="27v" to="34r"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="7">
+<locus from="34r" to="40v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="8">
+<locus from="40v" to="50v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="9">
+<locus from="50v" to="52r"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="10">
+<locus from="52r" to="62v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+</msItem>
+<msItem class="cycle" n="11">
+<locus from="63r" to="90r"/>
+<title/>
+<textLang mainLang="gml"/>
+<msItem class="collect" n="12">
+<locus from="84r" to="85r"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="reading" n="13">
+<locus from="85r" to="90r"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+</msItem>
+<msItem class="cycle" n="14">
+<locus from="90r" to="102v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="rubric" n="15" defective="true">
+<locus from="103r" to="103r"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="rubric" n="16">
+<locus from="103v" to="103v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="17">
+<locus from="104r" to="105v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="18">
+<locus from="105v" to="106v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="prayer" n="19">
+<locus from="106v" to="106v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+<msItem class="cycle" n="20">
+<locus from="107r" to="1000v"/>
+<title/>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<extent></extent>
+<collation>
+<list>
+</list>
+</collation></supportDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>
