@@ -26,102 +26,151 @@
 <msContents>
 <msItem class="reading" n="1">
 <locus from="1r" to="4r"/>
-<title/>
+<title>TITLE</title>
+<rubric>Hyr begy<ex>n</ex>net de hu<ex>n</ex>dert artyculen der passie<ex>n</ex> <ex>christ</ex>i</rubric>
+<incipit> <hi>S</hi>O we gedechtnysse der leflike<ex>n</ex> passien </incipit>
+<explicit> myt neder gestrekede<ex>n</ex> licham alsei ment geteke<ex>n</ex>t schal vynden</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="cycle" n="2">
 <locus from="4r" to="62v"/>
 <title/>
+<rubric><hi>H</hi>Yr begyn<ex>n</ex>en hu<ex>n</ex>dert gedenckenisse der passien ...</rubric>
+<incipit> <hi>O</hi> Here ihesu <ex>christ</ex>e wysheit godes </incipit>
+<explicit> vn<ex>de</ex> vtvorkorene<ex>n</ex> in ewycheit Amen</explicit>
 <textLang mainLang="gml"/>
 <msItem class="prayer" n="3">
 <locus from="10v" to="16v"/>
 <title/>
+<rubric>Des man daghes</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="4">
 <locus from="16v" to="22v"/>
 <title/>
+<rubric>Des dinse dages</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="5">
 <locus from="22v" to="27v"/>
 <title/>
+<rubric>Des mydwekens</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="6">
 <locus from="27v" to="34r"/>
 <title/>
+<rubric>Des donredages</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="7">
 <locus from="34r" to="40v"/>
 <title/>
+<rubric>Des vrydages</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="8">
 <locus from="40v" to="50v"/>
 <title/>
+<rubric>Des sonaue<ex>n</ex>des</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="9">
 <locus from="50v" to="52r"/>
 <title/>
+<rubric>Dyt na screuen gebeth scal men lesen vor alle de genne de gedechtich syn dusser c artickel</rubric>
+<incipit> <hi>O</hi> Here ih<ex>es</ex>u <ex>christ</ex>e wysheit des vaders </incipit>
+<explicit> vn<ex>de</ex> ores godenstigen mede doghens Amen</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="10">
 <locus from="52r" to="62v"/>
 <title/>
+<rubric>Hyr begynt de afgru<ex>n</ex>t</rubric>
+<incipit> <hi>O</hi> Afgru<ex>n</ex>t alre gutheit hilghe here </incipit>
+<explicit> vn<ex>de</ex> vtvorkorene<ex>n</ex> in ewycheit Amen</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 </msItem>
 <msItem class="cycle" n="11">
 <locus from="63r" to="90r"/>
 <title/>
+<rubric>Hyr begynt de gulden lettanie van den lydende vnses leue<ex>n</ex> here ih<ex>es</ex>u <ex>christ</ex>i</rubric>
+<incipit> <hi>H</hi>Ere entferme dy vnser </incipit>
+<explicit> Here vorhore myn gebeth Vnde myn ropent kome to dy</explicit>
 <textLang mainLang="gml"/>
 <msItem class="collect" n="12">
 <locus from="84r" to="85r"/>
 <title/>
+<rubric>Coll<ex>ec</ex>ta</rubric>
+<incipit> <hi>W</hi>y bydden dy here gyf den leuendighe<ex>n</ex> dyne gnade </incipit>
+<explicit> dor <ex>christu</ex>m ih<ex>esu</ex>m vnsen heren Amen</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="reading" n="13">
 <locus from="85r" to="90r"/>
 <title/>
+<rubric>Eyne openbarynge dusser guldene letanye</rubric>
+<incipit> <hi>E</hi>T was eyne sere hilghe deuote vrouwe gehete Magdalena </incipit>
+<explicit> wert dar vele af to scryue<ex>n</ex>de were</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 </msItem>
 <msItem class="cycle" n="14">
 <locus from="90r" to="102v"/>
 <title/>
+<incipit>Hyr begynt vyftich groete<ex>n</ex> ter ere<ex>n</ex> der Dorne<ex>n</ex> krone<ex>n</ex> vnses leue<ex>n</ex> heren p<ex>ate</ex>r noster Aue maria* <hi>L</hi>Of sy dy here konyck der ewygen glorie<ex>n</ex> </incipit>
+<explicit> bouen alre mynsche vorstant </explicit>
+<finalRubric><hi>L</hi>of sy dy here ko<ex>n</ex>nynck der ewyghen glorie Ame<ex>n</ex></finalRubric>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="rubric" n="15" defective="true">
 <locus from="103r" to="103r"/>
 <title/>
+<rubric>...sen des sondaghes wente men secht vnde is wol to louende dat he su<ex>n</ex>der vegevur komet to den ewygen leuende wente de gnade is vnsprekelik</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="rubric" n="16">
 <locus from="103v" to="103v"/>
 <title/>
+<rubric>Hyr begynen de vor rede vnde gebede van der Dornen Crone<ex>n</ex> vnses leuen here<ex>n</ex> ih<ex>es</ex>u <ex>christ</ex>i ...</rubric>
+<incipit></incipit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="17">
 <locus from="104r" to="105v"/>
 <title/>
+<incipit><hi>O</hi> Here ih<ex>es</ex>u <ex>christ</ex>e vorloser der werlt </incipit>
+<explicit> Vn<ex>de</ex> der salighen moder marien Amen</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="18">
 <locus from="105v" to="106v"/>
 <title/>
+<rubric>Gebeth</rubric>
+<incipit> <hi>O</hi> Here ih<ex>es</ex>u <ex>christ</ex>e des leuendighen godes sone </incipit>
+<explicit> dat se my vor wi<ex>n</ex>nen hebben</explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="prayer" n="19">
 <locus from="106v" to="106v"/>
 <title/>
+<incipit><hi>W</hi>Es gegrotet guds terne here ih<ex>es</ex>u <ex>christ</ex>e </incipit>
+<explicit> Vn<ex>de</ex> dat gebenediede blot dyner wunde<ex>n</ex></explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="cycle" n="20">
 <locus from="107r" to="1000v"/>
 <title/>
+<incipit><hi>I</hi>Ck groete dy gebenedyede Jhesus des leuendigen godes sone </incipit>
+<explicit></explicit>
 <textLang mainLang="gml"/>
 </msItem>
 </msContents>
@@ -129,7 +178,10 @@
 <objectDesc>
 <supportDesc>
 <extent></extent>
-</supportDesc>
+<collation>
+<list>
+</list>
+</collation></supportDesc>
 </objectDesc>
 </physDesc>
 </msDesc>
