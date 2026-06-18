@@ -2,10 +2,10 @@
 
 |------------+-------------|
 | Manuscript | AM 782 4to  |
-| Locus      | 91r 92r     |
-| Work       |             |
+| Locus      | 91r3 92r    |
+| Work       | LENT_DAILY  |
 | Language   | gml         |
-| Status     | Transcribed |
+| Status     | proofread |
 |------------+-------------|
 
 * Transcription
@@ -23,7 +23,7 @@ rope ick vorloren s{a/o}ne tho dy
 
 vad(e)r aller gnade vn(de) bermher-
 
-tigheyet de dw nemende vor
+tigheyet de dw nemende vor-
 
 lust vn(de) vor_s{n/m}aesth swnder
 
@@ -41,7 +41,7 @@ natwerlig dat dw alle tyd sconesth den armen swn-
 
 deren dede vedder to dy keren vyllen ick byn alte
 
-verne va(n) dy vor dueleth vn(de) kan doch nycth væd(e)r
+verne va(n) dy vor dueleth vn(de) kan doch nycth væd(e)r-
 
 ko(m)men to dy swnd(e)r dw helppest my yck voldy
 
@@ -49,13 +49,13 @@ gherne men dat vulle(n) bryngent is nickt by my my-
 
 ner swnde is neyn ende en dancken in vorden yn ver-
 
-lem en qwad(e)r vaenheyt en ry(n)ngwe_gynge vn(de) en
+{l/k}em en qwad(e)r vaenheyt en ry(n)ngwe_gynge vn(de) en
 
 ents{o/c}hwl_dynge myner swaren swnde almegtige
 
 god yck hebbe dy nickt vor ogen gheholden als
 
-mynen hæren vn(de) god mynen salickmacker vn(de)
+mynen hæren vn(de) god mynen salick_macker vn(de)
 
 vorlozer mynen neghesten hebbe yck vor_er_ghert
 
@@ -73,13 +73,13 @@ vore rwæ mynen ogen den borneder tra(n)nen dat ick
 
 sleme morder mynen armen zele nocht vn(de) dack be-
 
-weynen vn(de) becrien moge den doeth myner zelle
+weynen vn(de) bescrien moge den doeth myner zelle
 
 vn(de) er affscedent van gode myneme heyle [[red][O]] here vn(de)
 
 vad(e)r ghyff my den borne der gnade de(n) dw in der
 
-vustenye dyneme vokke gewesth dat vor quilkende
+vustenye dyneme vokke gewesth dat vor qwilkende
 
 vath(e)r vth deme harden stene ghif my de troen ma(ri)e 
 
@@ -119,7 +119,7 @@ personen vn(de) en eyneme wesende Amen
 
 ** Versicle
 *** Rubric
-v(er)sus
+v(er)s(icul)us
 
 *** Text
 [[red][H]]ere do wns nickt na vnsen swnden vn(de) betale vns
@@ -141,7 +141,7 @@ men dorck dat stede vorbedde(n)t der Jwncfrw marien der
 
 ewygen reynen Jwncfrwen vn(de) dorck de bede vn(de) dat
 
-grote vorlenee[?] vns dyne gnade vn(de) de tyd der varen
+grote vorlenee vns dyne gnade vn(de) de tyd der varen
 
 penitencien dat vy ghe_vryghet van alle vnsen benden 
 
