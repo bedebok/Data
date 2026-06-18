@@ -87,7 +87,7 @@ salyge(n) hillyghen louen geue ik my
 
 schuldich gode va(n) he(m)mel vn(de) syner
 
-werden mod(er) ma(ri)en vn(de) myneme hilly.
+werden mod(er) ma(ri)en vn(de) myneme hilly-
 
 ghen apostel vn(de) myneme hilgen en-
 
@@ -155,7 +155,7 @@ als ik wyl dat my goth va(n) he(m)mel
 
 ouer my schal wesen to deme Ju(n)-
 
-gesten daghe dat my leyt Jk hebbe
+gesten daghe dat {/is} my leyt Jk hebbe
 
 den nakeden na myneme vor_ma-
 
@@ -287,7 +287,7 @@ gnaden ghegeuen heft vn(de) by name(n)
 
 den werden staet der hilghen c(ri)ste(n)-
 
-heyt alzo reyne vn(de) vmbe smyttet
+heyt alzo reyne vn(de) vmbe_smyttet
 
 nicht gheholden hebbe alzo god va(n)
 
@@ -325,7 +325,7 @@ gheue my schuldich offte ik ghesundy-
 
 ghet hebbe an den achte stucken der hil-
 
-ghen salicheyt Ddat ik nicht byn ghewese(n)
+ghen salicheyt Dat ik nicht byn ghewese(n)
 
 va(n) eyneme othmodighen gheyste in alle
 
