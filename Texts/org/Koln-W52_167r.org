@@ -1,12 +1,12 @@
 #+TITLE: 
 
-|------------+------------|
-| Manuscript | Köln W 52  |
-| Locus      | 167r:8     |
-| Work       | KRONGEBET  |
-| Language   | gml        |
-| Status     | begun      |
-|------------+------------|
+|------------+-------------|
+| Manuscript | Köln W 52   |
+| Locus      | 167r:8 173v |
+| Work       | KRONGEBET   |
+| Language   | gml         |
+| Status     | transcribed |
+|------------+-------------|
 
 * Transcription
 ** Rubric
@@ -170,4 +170,301 @@ gnade vn(de) myner groisße(n) begeru(n)ge
 A[men]
 
 ** Rubric
+Leiß x Aue m(aria) steende vn(de) val vff
+
+---169v---
+
+dyne knye vn(de) sprich dyt gebeth
+
+** Text
+
+[[2][O]] Maria ich ermane(n) dich der
+
+groisßen freude ere vn(de) wyr-
+
+dickeit dij dyn lyp vn(de) sele
+
+entfyngk y(n) dem drytzehende dage
+
+do dir dy helgen dry ko(n)nige das
+
+opper brachten als golt wyrouch
+
+vn(de) mirre(n) wente sij dij irsten wa-
+
+ren dij din lybes kynt kante(n) das es
+
+got vn(de) mensche was O lijbe ma-
+
+ria der groisße(n) froude mane ich
+
+dich vn(de) tzwyde mir myne bede nach
+
+diner genade vn(de) myner groisßen 
+
+begeru(n)ge A[men] 
+
+** Rubric
+Leiß x Aue steende
+
+vn(de) val vff dy(n) kny (et_cetera)
+
+** Text
+[[2][0]] Maria
+
+ich ermane(n) dich der groisße(n)
+
+---170r---
+
+freude ere vn(de) wynrdickeit dij dyn
+
+lyp vn(de) sele entfingk do du dyn lijbes
+
+kynt wydder fundest dastu in den 
+
+drytten tack verloren hattest wa(n)te
+
+du woil wustest das es den doot
+
+lyden wolde von de(m) judden dar v(m)me
+
+waß dyn freude deste groisßer do
+
+du dyn lijbes kynt wydder fundest
+
+O lybe maria der groißen freude
+
+weß v(er)manet vn(de) gebenediet vn(de) 
+
+tzwyde mich myner bede nach diner
+
+genade vn(de) myner begeru(n)ge Ame(n)
+
+** Rubric
+Leiß x Aue m(aria) stee(n)de vn(de) val vff dy(n)
+
+knye vn(de) sprich
+
+** Text
+[[3][O]] Ma.
+
+ria Jch ermane(n) dich der gro-
+
+sßen freude ere vn(de) wyrdicket
+
+---170v---
+
+dij din lyp vn(de) sele entfingk an dem
+
+helge(n) oistertage nacht do du nyn
+
+lijbes kynt nach syne(r)r offer stan-
+
+du(n)ge yrst sehest Dar nach vffen-
+
+barte he sich marie(n) magdalene(n) vn(de)
+
+syne(r) lijben ju(n)geren vn(de) voer gewel-
+
+diglichen tzu der helle vn(de) loiste
+
+dar vß alle dij syne(n) wyllen getha-
+
+en hatten vn(de) dar ware(n) sye byß tzu sy-
+
+ner hy(m)melfart O maria der groi-
+
+sßen freude mane ich dich vn(de) wes
+
+gelobet vn(de) gebenediet vn(de) tzwy-
+
+de mich myner bede nach diner 
+
+genade vn(de) myner groisße(n) bege-
+
+ru(n)ge A[men]
+
+** Rubric
+Leiß x Aue m(aria) stee(n)de vnde
+
+---171r---
+
+val vff dy(n) knye vn(de) sprich dyt (et_cetera)
+
+** Text
+[[2][O]] Maria Jch ermane(n) dich
+
+der groisßen freude ere
+
+vn(de) wyrdickeit dij dy(n) lyp
+
+vn(de) sele entfingk do dyn lybes
+
+kynt tzu hy(m)mel fuer myt alle de(n) dij
+
+he in de(n) oistertage vß der helle er-
+
+loiste O maria dyn froude waß 
+
+so groiß dastu sehest dorch dij nue(n)
+
+kore der helge(n) engel vn(de) sehest vff
+
+de(n) stuel der dir van krafft der
+
+ewygen wyßheit gemacht waß
+
+vn(de) du de(n) tzu ewyge(n) tzyden besyt-
+
+tzen soldest O maria der groisßen
+
+freude ermane ich dich vn(de) weß
+
+---171v---
+
+geloibet vn(de) gebediet vn(de) tzwyde
+
+myr my(n) gebeth nach diner gena-
+
+de vn(de) myner groisßen begeru(n)ge
+
+Ame(n)
+
+** Rubric
+Leiß x Aue m(aria) stehende vn(de)
+
+val vff dyne knye vn(de) sprich
+
+** Text
+
+[[2][O]] Maria Jch ermane(n) dich
+
+der groisßen freude
+
+ere vn(de) wyrdickeit dij
+
+dyn lyp vn(de) sele entfingk an de(m)
+
+helgen pyngestage do du vn(de) dij
+
+helgen apostele(n) tzu same(n) ware(n)
+
+i(n) beschloisßener doir da wordet
+
+ir alle erfult myt de(m) helgen gei-
+
+ste dar qua(m)me dyn lijbes kynt
+
+mytten tzuschen vn(de) sprach Frey-
+
+dde sy mit vch Do sante dyn
+
+---172r---
+
+lijbes kynt dye tzelffe apostelen
+
+y dij wernt vn(de) sprach das sij solle(n)
+
+gehen vn(de) predige(n) den helgen
+
+cristen glauben O maria der gro-
+
+sßen freude ermane ich dich wes
+
+geloibet vn(de) gebenediet vn(de) tzwy-
+
+de mir my(n) gebeth nach diner ge-
+
+nade vn(de) myner groisße(n) begeru(n)ge
+
+A[men]
+
+** Rubric 
+Leiß x Aue m(aria) steende vn(de) val
+
+vff dine knye vn(de) sprich
+
+** Text
+
+[[2][O]] Maria ich ermane(n) dich
+
+der groisße freude ere
+
+vn(de) wyrdickeit dij din
+
+lyp vn(de) sele entfyngk do dyn lijbes 
+
+kynt dir den engel gabryel sante
+
+---172v---
+
+dastu van dysße(n) ertryche soldest
+
+scheiden vn(de) kome(n) tzu de(n) ewygen
+
+freuden vn(de) do quame(n) dij helgen
+
+apostelen tzu dyner graff Da
+
+qua(m)me dynes lijbes kynt myt al-
+
+lem hy(m)mlesche here tzu diner
+
+v(er)scheidu(n)ge vn(de) surte dich myt ly-
+
+be vn(de) myt sele dorch dij nuee(n) ko-
+
+re der helgen engel da wart dir
+
+ere geboden van alle gotz helge(n)
+
+O maria der groisße(n) freude wes
+
+v(er)manet vn(de) gebenediet vn(de) tzwy-
+
+de mir my(n) bede nach dyner gena-
+
+de vn(de) myner groisße(n) begeru(n)ge A[men]
+
+** Rubric
+
+Leyß x Aue m(aria) steende vn(de) val (et_cetera)
+
+---173r---
+
+[[4][O]] Maria Jch ermane(n) dich
+
+der groisßen freude ere 
+
+vn(de) wyrdickeit dye dyn
+
+lyp vn(de) sele entfinck do
+
+dyn lyebes kynt dich geweldiglic-
+
+hen vffnam i(n) den hy(m)mel vn(de) saßte
+
+dich tzu syner rechte(n) hant yn de(n)
+
+obirsten tron vn(de) gab dir gewalt
+
+ober hy(m)mel vn(de) erden vn(de) kronte
+
+dich myt der krone(n) des ewygen
+
+ryches vn(de) myt de(n) tzwelff sterne(n)
+
+der bar(m)hertzickeit O eddele ju(m)ffrau
+
+Maria laiß dine bar(m)herzickeit an
+
+myr erschyne(n) vn(de) weß gelobet vn(de)
+
+---173v---
+
+gebenediet vn(de) tzwyde mich myner
+
+bede nach diner genade vn(de) myner
+
+groisße(n) begeru(n)ge A[men]
 
