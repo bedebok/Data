@@ -1,12 +1,12 @@
-#+TITLE: Cantus Sororum (Matins)
+#+TITLE: Cantus Sororum (Sunday Matins)
 
-|------------+---------------|
-| Manuscript | AM 70 8vo     |
-| Locus      | 3r            |
-| Work       | CANTUS.matins |
-| Language   | gml           |
-| Status     | begun         |
-|------------+---------------|
+|------------+----------------------|
+| Manuscript | AM 70 8vo            |
+| Locus      | 3r                   |
+| Work       | CANTUS.SUNDAY.matins |
+| Language   | gml                  |
+| Status     | begun                |
+|------------+----------------------|
 
 * Transcription
 ** Text
@@ -715,3 +715,238 @@ geste bede. Amen
  inghebracht de vroude der bedrouede(n) werlt
 
  Amen.
+
+*** Lesson
+**** Rubric
+l(ec)c(i)o ij
+
+**** Text
+[[red 2][O]] du Maria werdegeste
+
+aller creature van ambegynne weres-
+
+tu vor_gorde er he dy schöp Alse de arke
+
+noe vor eme dar na alse noe de arken wus-
+
+te to buwende Alse eme dat got hete er
+
+he de arke vullenbrachte. Wente noe de
+
+wuste wol in der tijt alse dat gode beha-
+
+ghede wo syne arke scholde werden. Got 
+
+de wuste ok wol wo syne arke scholde
+
+werden. Dat was o Maria dyn erwer-
+
+dighe licham. Noe vrowede sik syner
+
+arken er se wart ghebuwet. O Juncvrou-
+
+we maria also vrouwede sik got van dy
+
+er he dy schop. Noe de vrouwede sik
+
+syner arken dat se so starke scholde
+
+werden ghebuwet dat se van neneme
+
+---9v---
+
+anweghende des stormes ne scholde
+
+vorgaen. Also vrouwede sik got o maria
+
+dat dyn licham also dogentsäm vn(de) stark
+
+scholde werden dar nene vordainghe
+
+der bosheit de in der helle to keomende was
+
+er to sunde scholde boghen. Noe vrou-
+
+wede sik in deme dat syn arke bynnen
+
+vnde buten also wol scholde ghelmiet
+
+werden dat neyn water edder hör schol-
+
+de edder mochte dar jnne drúppen. O 
+
+Maria also vrouwede sik got Jn deme
+
+dat he dynen willen also touoren wuste
+
+dat de so güt scholde werden van syner
+
+gudhe. dattu van saluynghe des hilli-
+
+ghen ghestes bynne(n) vnde buten wur-
+
+dest beghoten. Dat dat bagheer des des
+
+titliken gudes dat got in der werelde schol-
+
+de scheppen in dyn herte númmer en
+
+mochte inghant hebben. Wente also
+
+hetesch is gode de werlike ghyricheit
+
+an deme mynschen Alse noe was dat
+
+water edder dat hoer in syner arken
+
+Noe vrouwede sik der schonen brede syner
+
+arken. O maria also vrowede sik got
+
+---10r---
+
+an dyner breden barmherticheit dar du
+
+jnne scholdest alle vulle(n)komelike(n) leff heb-
+
+ben. Nicht dat gheschapen is vnrede-
+
+liken haten. Vnde sunderliken dar v(m)me
+
+dat dyne guthlike mildicheit also schol-
+
+de ghebredet werden. dat de grote got
+
+des syne grote vmbegripelik is des wol-
+
+de to rade werden dat he in dyneme be-
+
+nediden licha(m)me wolde liggen vnde myt
+
+dy v(m)meghän. Ok vrouwede sik noe dat 
+
+syne arke de he scholde maken was licht
+
+ghenoch edder schynende. O maria got
+
+de vrowede sik. dat dyne Juncvrouwe-
+
+schop also clär was to bewarende bette
+
+in dynen döt. dat nene bevleckynghe
+
+der súnde de mochte vordunkeren
+
+Ok vrowede sik des noe dat he alle nöt
+
+trost synes lyues scholde hebbe(n) in syner
+
+arken. O maria so vrowede sik ok got
+
+in deme dat he synen gantzen lycha(m)me
+
+alleyne an yenych ghebrech scholde
+
+entfanghen. Noch mer vrowede sik
+
+dyne got o maria alle kuschesthe der
+
+Juncvrouwen wan sik noe vrouwede
+
+---10v---
+
+syner arken. Wente noe wúste touore(n)
+
+van syner arken dat he myt deme sul-
+
+uen licha(m)me dar he mede ghynk in de
+
+arken scholde mede wedder vtghän.
+
+O Maria so wuste ok got wol do he 
+
+ghynk in dynen houeschen licham ane
+
+lichame. dat he vt deme licha(m)me myt
+
+deme licha(m)me. den he nam van dyne(me)
+
+reynen puren lichame van vlesche
+
+vnde blode wedder utghän scholde. Noe
+
+wuste ok wol dat he syne arke leddich
+
+scholde laten wen he wedder van er sche-
+
+dede vnde dar neghest nicht mer to er
+
+wedder to komende. O maria also wuste
+
+ok got er der werlt dat wen he van dy
+
+myt der mynscheit wurde gheboren
+
+Dat du juncvrouwe vnde erwerdegeste
+
+moder nych leddich scholdest blyuen
+
+alse de arke noe. Men in allen dyne(n)
+
+van ghauen des hillighen gheestes
+
+vorvullet bleuest. Vnde allene dat
+
+got syne(n) licham do he gheboren wart
+
+schedede van dyneme licha(m)me. Jo doch
+
+so wúste he touoren. dattu ane ende
+
+---11r---
+
+vnde ane affscheydent scholdest by eme
+
+blyuen ewichliken. Tu autem
+
+*** Responsorium
+**** Rubric
+Respon(sorium).
+
+**** Text
+
+[[red 2][O]] maria du alderwerdegheste wage(n)
+
+dar de konynk der ere heft sik ane
+
+vorotmodighet to sokende de armen
+
+kranekn. Vnde ok vormyddelst dy de
+
+dúrebaren stene van vnseme dale synt
+
+ghebracht in den berch des heren wedd(er)
+
+to makende dat hemelsche iherusale(m)
+
+ewychliken. 
+
+*** Versicle
+**** Rubric
+v(ersiculus)
+
+**** Text
+Hir v(m)me brynk an
+
+vnse herte synen waren leue de vor-
+
+myddelst dy is ghekomen to vns. Vnde
+
+ok vormyddelst dy de durebaren stene
+
+*** Absolutio
+**** Rubric
+Absolutio. Deu(s) nob(is)
+
+**** Text
+
