@@ -7,7 +7,7 @@
 <title>Adoro te</title>
 <respStmt xml:id="ILK">
 <resp when="2026">Written by</resp>
-<persName>Iliana Kandzha</persName>
+<persName key="ILK">Iliana Kandzha</persName>
 </respStmt>
 </titleStmt>
 <publicationStmt>
