@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="VERSES_BERNARD" type="work">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Eight Verses of St. Bernard</title>
+<respStmt xml:id="ILK">
+<resp when="2026">Written by</resp>
+<persName key="ILK">Iliana Kandzha</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<p>Born digital</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div>
+<p>As the story is known from the rubric often accompanying these excerpts from the psalms, <name key="BERNARD">St. Barnard of Clairvaux</name> (1090-1153) was once approached by a devil who claimed to know 8 verses from the psalms that one should recite daily to ensure salvation. St Bernard dismissed the devil’s trickery by saying that he recites the whole Psalter daily and does not need a shortcut. A disappointed devil gave away his knowledge anyway, and now the penitent can get some use of it. The prayer was popular in Latin and vernacular across Catholic Europe, and its exact origins are unknown.  
+</p>
+</div>
+</body>
+</text>
+</TEI>

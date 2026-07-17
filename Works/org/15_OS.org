@@ -1,8 +1,10 @@
 #+TITLE: 15 Pater Noster (Pseudo-Birgitta)
 
-A series of fifteen prayers to Christ, often beginning with "Oh!" and therefore also sometimes called "The Fifteen Os". Sometimes attributed to Birgitta, such as in Princeton MS. 231 (in High German).
+A series of fifteen prayers to Christ, often beginning with "Oh!" and therefore also sometimes called "The Fifteen Os". Sometimes attributed to <<BIRGITTA/Birgitta>>, such as in Princeton MS. 231 (in High German).
 
 The Danish versions seem to follow a slightly different order than the German. Claes Gejrot (2000: 218) notes that "one of the most obvious differences is to be seen in the internal order of the prayers. Thus, 4 and 2 change places in many manuscripts" though appears to be taking the "Swedish" order as the default.
+
+* Discussion
 
 |--------------------------------+----------------------------+-----------------------------------------+-----------------------------------+---------------------------------+--------------------------------------+----------------------------------+----------------------------+------------------------------+----------------------------------|
 | Prayer                         | Holm A 37                  | Holm A 38                               | MDB 334                           | MDB 85                          | MDB 21                               | MDB 240                          | GKS 3423                   | UUB 496                      | Princeton 231                    |
