@@ -20,39 +20,39 @@ A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. 
 |------+------|
 
 ** Quire Structure
-|--------+----------+-------------+----------------------------------------------------|
-| Quire  |   Leaves | Structure   | Changes                                            |
-|--------+----------+-------------+----------------------------------------------------|
-| I      |      1-2 |             |                                                    |
-|--------+----------+-------------+----------------------------------------------------|
-| II     |      3-8 |             | (catchword matches)                                |
-|        |     9-18 | quinternion | (catchword matches)                                |
-|        |    19-28 | quinternion | (catchword matches)                                |
-|        |    29-38 | quinternion | (catchword matches)                                |
-|        |    39-48 | quinternion | Top missing from f. 44 (catchword matches)         |
-|        |    49-58 | quinternion | (catchword matches)                                |
-|        |    59-70 | quinternion | 64-65 added                                        |
-|        |    71-80 | quinternion | (catchword)                                        |
-|        |    81-86 | quinternion | Missing leaves between 83-84 (catchword)           |
-|        |    87-96 | quinternion | (catchword)                                        |
-|        |   97-106 | quinternion |                                                    |
-|        |  107-113 | quinternion | On missing before 107; two missing between 109-110 |
-|        |  114-123 | quinternion | (catchword)                                        |
-|        |  124-133 | quinternion | (catchword)                                        |
-|        |  134-143 | quinternion | (catchword)                                        |
-|        |  144-153 | quinternion |                                                    |
-|        |  154-163 | quinternion |                                                    |
-|        |  164-172 | quinternion | pages missing after 172                            |
-|        |  173-181 | quinternion | (catchword)                                        |
-|        |  182-191 | quinternion | (catchword)                                        |
-|        |  192-201 | quinternion | (catchword)                                        |
-|        |  202-211 | quinternion | (catchword)                                        |
-|        |  212-220 | quinternion | page missing after 219 (catchword)                 |
-|        |  221-230 | quinternion | (catchword)                                        |
-|        |  231-240 | quinternion |                                                    |
-|        | 241-253? |             |                                                    |
-|        |  254-257 |             | Added later                                        |
-|--------+----------+-------------+----------------------------------------------------|
+|-------+----------+-------------+----------------------------------------------------|
+| Quire |   Leaves | Structure   | Changes                                            |
+|-------+----------+-------------+----------------------------------------------------|
+| I     |      1-2 |             |                                                    |
+|-------+----------+-------------+----------------------------------------------------|
+| II    |      3-8 |             | (catchword matches)                                |
+|       |     9-18 | quinternion | (catchword matches)                                |
+|       |    19-28 | quinternion | (catchword matches)                                |
+|       |    29-38 | quinternion | (catchword matches)                                |
+|       |    39-48 | quinternion | Top missing from f. 44 (catchword matches)         |
+|       |    49-58 | quinternion | (catchword matches)                                |
+|       |    59-70 | quinternion | 64-65 added                                        |
+|       |    71-80 | quinternion | (catchword)                                        |
+|       |    81-86 | quinternion | Missing leaves between 83-84 (catchword)           |
+|       |    87-96 | quinternion | (catchword)                                        |
+|       |   97-106 | quinternion |                                                    |
+|       |  107-113 | quinternion | On missing before 107; two missing between 109-110 |
+|       |  114-123 | quinternion | (catchword)                                        |
+|       |  124-133 | quinternion | (catchword)                                        |
+|       |  134-143 | quinternion | (catchword)                                        |
+|       |  144-153 | quinternion |                                                    |
+|       |  154-163 | quinternion |                                                    |
+|       |  164-172 | quinternion | pages missing after 172                            |
+|       |  173-181 | quinternion | (catchword)                                        |
+|       |  182-191 | quinternion | (catchword)                                        |
+|       |  192-201 | quinternion | (catchword)                                        |
+|       |  202-211 | quinternion | (catchword)                                        |
+|       |  212-220 | quinternion | page missing after 219 (catchword)                 |
+|       |  221-230 | quinternion | (catchword)                                        |
+|       |  231-240 | quinternion |                                                    |
+|       | 241-253? |             |                                                    |
+|       |  254-257 |             | Added later                                        |
+|-------+----------+-------------+----------------------------------------------------|
 
 
 * History

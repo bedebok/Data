@@ -27,15 +27,15 @@ A fifteenth-century prayer book in Low German with many full-page miniatures. It
 |---------+---------+--------------+-----------------------------------------------------------|
 | Quire   |  Leaves | Structure    | Changes                                                   |
 |---------+---------+--------------+-----------------------------------------------------------|
-| I.      |       1 | singleton    |                                                           |
+| I.      |     1-1 | singleton    |                                                           |
 | II.     |    2-11 | quinternion  |                                                           |
-| III.    |      12 | singleton    |                                                           |
+| III.    |   12-12 | singleton    |                                                           |
 | IV.     |   13-22 | quinternion  |                                                           |
 | V.      |   23-32 | quinternion  |                                                           |
 | VI.     |   33-42 | quinternion  | Loose guard between 37v-38r                               |
-| VII.    |   43-54 | quinternion  | 43 & 46 added, flap inserted at 48v                       |
+| VII.    |   43-54 | quinternion  | 43 + 46 added, flap inserted at 48v                       |
 | a.      |   55-58 | singletons?  | attatched to guards                                       |
-| VIII.   |   59-70 | quinternion  | 67 & 68 added                                             |
+| VIII.   |   59-70 | quinternion  | 67 + 68 added                                             |
 | IX.     |   71-80 | quinternion  |                                                           |
 | X.      |   81-90 | quinternion  |                                                           |
 | XI.     |   91-99 | unclear      | 91, 92, 98, 99 on guards                                  |
