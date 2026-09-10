@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="msDesc.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="UUB-C-0496" type="manuscript">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="UUB-C496" type="manuscript">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -18,7 +18,7 @@
 <msIdentifier>
 <settlement key="UPS"/>
 <repository key="UUB"/>
-<idno corresp="UUB-C-0496"/>
+<idno corresp="UUB-C496"/>
 </msIdentifier>
 <head>
 A fifteenth-century prayer book in Low German that shows traces of Danish and Swedish users.
@@ -48,7 +48,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="undefined" n="4">
-<locus from="3r" to="3r"/>
+<locus from="3r" to="3r" corresp="UUB-C496_003r" />
 <title/>
 <rubric>Dyt na gescreue<ex>n</ex> bedeken schal men lesen wen men gegeten heuet so vordenet men xl dage afflates</rubric>
 <incipit><hi>H</hi>ere ihesu cpe giff den leuendige<ex>n</ex></incipit>
@@ -56,7 +56,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="undefined" n="5">
-<locus from="3r" to="8r"/>
+<locus from="3r" to="8r" corresp="UUB-C496_003r" />
 <title key="15_PATER_NOSTER">Fifteen Oes</title>
 <author>Pseudo-Birgitta</author>
 <rubric>Hijr begynnen de xv p<ex>ate</ex>r n<ex>oste</ex>r</rubric>
@@ -73,7 +73,7 @@ A fifteenth-century prayer book in Low German that shows traces of Danish and Sw
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="undefined" n="7">
-<locus from="9r" to="10r"/>
+<locus from="9r" to="10r" corresp="UUB-C496_009r" />
 <title key="ADORO_TE">Adoro te</title>
 <author>Gregory the Great</author>
 <incipit>pater noster Aue maria* <hi>O</hi> Here ihu xpe ik bede dy an also du heuest gehangen</incipit>
