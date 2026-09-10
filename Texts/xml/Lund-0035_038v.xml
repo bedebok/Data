@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Lund-0035_038v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A prayer to the five Wounds of Christ (in verse)</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="LUN"/>
+<repository key="LUB"/>
+<idno corresp="Lund-0035">Mh 35</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="38v" to="39v"/>
+<title key="#other">A prayer to the five Wounds of Christ (in verse)</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="38v"/>
+<div type="rubric">
+<p>
+<w xml:id="Lund-0035_38v.12.1"><hi rend="2">T</hi>il</w>
+<w xml:id="Lund-0035_38v.12.2">huært</w>
+<w xml:id="Lund-0035_38v.12.3">værs</w>
+<w xml:id="Lund-0035_38v.12.4">och</w>
+<w xml:id="Lund-0035_38v.12.5">collecter</w>
+<w xml:id="Lund-0035_38v.12.6">som</w>
+<w xml:id="Lund-0035_38v.12.7">hær</w>
+<w xml:id="Lund-0035_38v.12.8">æffth<ex>e</ex>r</w>
+<lb n="13"/>
+<w xml:id="Lund-0035_38v.13.1">skriffuæs</w>
+<w xml:id="Lund-0035_38v.13.2">om</w>
+<w xml:id="Lund-0035_38v.13.3">thu</w>
+<w xml:id="Lund-0035_38v.13.4">læsær</w>
+<w xml:id="Lund-0035_38v.13.5">th<ex>e</ex><supplied>n/m</supplied></w>
+<w xml:id="Lund-0035_38v.13.6">m<ex>eth</ex></w>
+<w xml:id="Lund-0035_38v.13.7">gudæligh<ex>et</ex></w>
+<lb n="14"/>
+<w xml:id="Lund-0035_38v.14.1">tha</w>
+<w xml:id="Lund-0035_38v.14.2">gaff</w>
+<w xml:id="Lund-0035_38v.14.3"><name key="GREGORY">gregori<ex>us</ex></name></w>
+<w xml:id="Lund-0035_38v.14.4">paffuæ</w>
+<w xml:id="Lund-0035_38v.14.5">fæm</w>
+<w xml:id="Lund-0035_38v.14.6">hwndræt</w>
+<w xml:id="Lund-0035_38v.14.7">daghæ</w>
+<lb n="15"/>
+<w xml:id="Lund-0035_38v.15.1">och</w>
+<w xml:id="Lund-0035_38v.15.2">aar</w>
+<w xml:id="Lund-0035_38v.15.3">och</w>
+<w xml:id="Lund-0035_38v.15.4">syw</w>
+<w xml:id="Lund-0035_38v.15.5">karinær</w>
+<w xml:id="Lund-0035_38v.15.6">och</w>
+<w xml:id="Lund-0035_38v.15.7">skal</w>
+<w xml:id="Lund-0035_38v.15.8">frælses</w>
+<w xml:id="Lund-0035_38v.15.9">aff</w>
+<lb n="16"/>
+<w xml:id="Lund-0035_38v.16.1">bradh</w>
+<w xml:id="Lund-0035_38v.16.2">dødh</w>
+<w xml:id="Lund-0035_38v.16.3">och</w>
+<w xml:id="Lund-0035_38v.16.4">hilffwidis</w>
+<w xml:id="Lund-0035_38v.16.5">ildh</w>
+<w xml:id="Lund-0035_38v.16.6">om</w>
+<w xml:id="Lund-0035_38v.16.7">thu</w>
+<w xml:id="Lund-0035_38v.16.8">læsær</w>
+<lb n="17"/>
+<w xml:id="Lund-0035_38v.17.1">th<ex>e</ex>m</w>
+<w xml:id="Lund-0035_38v.17.2">m<ex>eth</ex></w>
+<w xml:id="Lund-0035_38v.17.3">gudæligh<ex>et</ex></w>
+<w xml:id="Lund-0035_38v.17.4">Amen</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="19"/>
+<w xml:id="Lund-0035_38v.19.1"><hi rend="red 2">H</hi>eel</w>
+<w xml:id="Lund-0035_38v.19.2">ih<ex>es</ex>u</w>
+<w xml:id="Lund-0035_38v.19.3"><ex>christ</ex>i</w>
+<w xml:id="Lund-0035_38v.19.4">høgræ</w>
+<w xml:id="Lund-0035_38v.19.5">handh</w>
+<w xml:id="Lund-0035_38v.19.6">som</w>
+<w xml:id="Lund-0035_38v.19.7">korsfæst</w>
+<lb n="20"/>
+<w xml:id="Lund-0035_38v.20.1">var</w>
+<w xml:id="Lund-0035_38v.20.2">a</w>
+<w xml:id="Lund-0035_38v.20.3">iødhæ</w>
+<w xml:id="Lund-0035_38v.20.4">landh</w>
+<w xml:id="Lund-0035_38v.20.5">løs</w>
+<w xml:id="Lund-0035_38v.20.6">migh</w>
+<w xml:id="Lund-0035_38v.20.7">vdh</w>
+<w xml:id="Lund-0035_38v.20.8">aff</w>
+<lb n="21"/>
+<w xml:id="Lund-0035_38v.21.1">syndzæns</w>
+<w xml:id="Lund-0035_38v.21.2">bondh</w>
+<w xml:id="Lund-0035_38v.21.3">och</w>
+<w xml:id="Lund-0035_38v.21.4">giøm</w>
+<w xml:id="Lund-0035_38v.21.5">myn</w>
+<w xml:id="Lund-0035_38v.21.6">siæl</w>
+<w xml:id="Lund-0035_38v.21.7">fra</w>
+<lb n="22"/>
+<w xml:id="Lund-0035_38v.22.1">hilwidis</w>
+<w xml:id="Lund-0035_38v.22.2">brandh</w>
+<w xml:id="Lund-0035_38v.22.3">Amen</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="23"/>
+<w xml:id="Lund-0035_38v.23.1">p<ex>ate</ex>r</w>
+<w xml:id="Lund-0035_38v.23.2">n<ex>oste</ex>r</w>
+<w xml:id="Lund-0035_38v.23.3">Aue</w>
+<w xml:id="Lund-0035_38v.23.4">ma<ex>ria</ex></w>
+</p></div>
+<div type="text">
+<p>
+<lb n="25"/>
+<w xml:id="Lund-0035_38v.25.1"><hi rend="red 2">H</hi>eel</w>
+<w xml:id="Lund-0035_38v.25.2">a<ex>n</ex>nen</w>
+<w xml:id="Lund-0035_38v.25.3">hand</w>
+<w xml:id="Lund-0035_38v.25.4">i</w>
+<w xml:id="Lund-0035_38v.25.5">pinæ</w>
+<w xml:id="Lund-0035_38v.25.6">lighæ</w>
+<w xml:id="Lund-0035_38v.25.7">som</w>
+<w xml:id="Lund-0035_38v.25.8">giø<lb n="26"/>mæn</w>
+<w xml:id="Lund-0035_38v.26.2">var</w>
+<w xml:id="Lund-0035_38v.26.3">slagæn</w>
+<w xml:id="Lund-0035_38v.26.4">m<ex>eth</ex></w>
+<w xml:id="Lund-0035_38v.26.5">iærnæ</w>
+<w xml:id="Lund-0035_38v.26.6">pighæ</w>
+<lb n="27"/>
+<w xml:id="Lund-0035_38v.27.1">leedh</w>
+<w xml:id="Lund-0035_38v.27.2">myn</w>
+<w xml:id="Lund-0035_38v.27.3">how</w>
+<w xml:id="Lund-0035_38v.27.4">fra</w>
+<w xml:id="Lund-0035_38v.27.5">værdzæns</w>
+<w xml:id="Lund-0035_38v.27.6">figh</w>
+<w xml:id="Lund-0035_38v.27.7">och</w>
+<w xml:id="Lund-0035_38v.27.8"><supplied>/i</supplied></w>
+<w xml:id="Lund-0035_38v.27.9">ræt</w>
+<pb n="39r"/>
+<lb n="1"/>
+<w xml:id="Lund-0035_39r.1.1">vey</w>
+<w xml:id="Lund-0035_39r.1.2">til</w>
+<w xml:id="Lund-0035_39r.1.3">hi<ex>m</ex>merigi</w>
+<w xml:id="Lund-0035_39r.1.4">Amen</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="2"/>
+<w xml:id="Lund-0035_39r.2.1">p<ex>ate</ex>r</w>
+<w xml:id="Lund-0035_39r.2.2">n<ex>oste</ex>r</w>
+<w xml:id="Lund-0035_39r.2.3">Aue</w>
+<w xml:id="Lund-0035_39r.2.4">maria</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="4"/>
+<w xml:id="Lund-0035_39r.4.1"><hi rend="red 2">H</hi>eel</w>
+<w xml:id="Lund-0035_39r.4.2">tridiæ</w>
+<w xml:id="Lund-0035_39r.4.3">saar</w>
+<w xml:id="Lund-0035_39r.4.4">i</w>
+<w xml:id="Lund-0035_39r.4.5">høgræ</w>
+<w xml:id="Lund-0035_39r.4.6">fodh</w>
+<w xml:id="Lund-0035_39r.4.7">som</w>
+<w xml:id="Lund-0035_39r.4.8">iær<lb n="5"/>næ</w>
+<w xml:id="Lund-0035_39r.5.2">naglæ</w>
+<w xml:id="Lund-0035_39r.5.3">i</w>
+<w xml:id="Lund-0035_39r.5.4">giø<ex>m</ex>men</w>
+<w xml:id="Lund-0035_39r.5.5">stodh</w>
+<w xml:id="Lund-0035_39r.5.6">och</w>
+<w xml:id="Lund-0035_39r.5.7">vdh</w>
+<w xml:id="Lund-0035_39r.5.8">rand</w>
+<lb n="6"/>
+<w xml:id="Lund-0035_39r.6.1">th<ex>et</ex></w>
+<w xml:id="Lund-0035_39r.6.2">claræ</w>
+<w xml:id="Lund-0035_39r.6.3">blodh</w>
+<w xml:id="Lund-0035_39r.6.4">tagh</w>
+<w xml:id="Lund-0035_39r.6.5">borth</w>
+<w xml:id="Lund-0035_39r.6.6">huat</w>
+<w xml:id="Lund-0035_39r.6.7">siælen</w>
+<lb n="7"/>
+<w xml:id="Lund-0035_39r.7.1">ær</w>
+<w xml:id="Lund-0035_39r.7.2">i</w>
+<w xml:id="Lund-0035_39r.7.3">modh</w>
+<w xml:id="Lund-0035_39r.7.4">Amen</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="8"/>
+<w xml:id="Lund-0035_39r.8.1">p<ex>ate</ex>r</w>
+<w xml:id="Lund-0035_39r.8.2">n<ex>oste</ex>r</w>
+<w xml:id="Lund-0035_39r.8.3">Aue</w>
+<w xml:id="Lund-0035_39r.8.4">maria</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="10"/>
+<w xml:id="Lund-0035_39r.10.1"><hi rend="red 2">H</hi>eel</w>
+<w xml:id="Lund-0035_39r.10.2">vinstræ</w>
+<w xml:id="Lund-0035_39r.10.3">fodh</w>
+<w xml:id="Lund-0035_39r.10.4">m<ex>eth</ex></w>
+<w xml:id="Lund-0035_39r.10.5">fiærdhæ</w>
+<w xml:id="Lund-0035_39r.10.6">saar</w>
+<lb n="11"/>
+<w xml:id="Lund-0035_39r.11.1">thu</w>
+<w xml:id="Lund-0035_39r.11.2">i<ex>n</ex>nærligh</w>
+<w xml:id="Lund-0035_39r.11.3">i</w>
+<w xml:id="Lund-0035_39r.11.4">mith</w>
+<w xml:id="Lund-0035_39r.11.5">hiærtæ</w>
+<w xml:id="Lund-0035_39r.11.6">stor</w>
+<w xml:id="Lund-0035_39r.11.7">ee<lb n="12"/>huare</w>
+<w xml:id="Lund-0035_39r.12.2">iæch</w>
+<w xml:id="Lund-0035_39r.12.3">ær</w>
+<w xml:id="Lund-0035_39r.12.4">och</w>
+<w xml:id="Lund-0035_39r.12.5">huort</w>
+<w xml:id="Lund-0035_39r.12.6">iæch</w>
+<w xml:id="Lund-0035_39r.12.7">gaar</w>
+<w xml:id="Lund-0035_39r.12.8">ladh</w>
+<lb n="13"/>
+<w xml:id="Lund-0035_39r.13.1">migh</w>
+<w xml:id="Lund-0035_39r.13.2">fellæ</w>
+<w xml:id="Lund-0035_39r.13.3">for</w>
+<w xml:id="Lund-0035_39r.13.4">syndæn</w>
+<w xml:id="Lund-0035_39r.13.5">thaare</w>
+<w xml:id="Lund-0035_39r.13.6">Amen</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="15"/>
+<w xml:id="Lund-0035_39r.15.1"><hi rend="red 2 ">H</hi>eel</w>
+<w xml:id="Lund-0035_39r.15.2">fæmte</w>
+<w xml:id="Lund-0035_39r.15.3">saar</w>
+<w xml:id="Lund-0035_39r.15.4">i</w>
+<w xml:id="Lund-0035_39r.15.5">oben</w>
+<w xml:id="Lund-0035_39r.15.6">sidhæ</w>
+<w xml:id="Lund-0035_39r.15.7">som</w>
+<w xml:id="Lund-0035_39r.15.8">vand</w>
+<lb n="16"/>
+<w xml:id="Lund-0035_39r.16.1">och</w>
+<w xml:id="Lund-0035_39r.16.2">blodh</w>
+<w xml:id="Lund-0035_39r.16.3">randh</w>
+<w xml:id="Lund-0035_39r.16.4">vdh</w>
+<w xml:id="Lund-0035_39r.16.5">so</w>
+<w xml:id="Lund-0035_39r.16.6">blidhæ</w>
+<w xml:id="Lund-0035_39r.16.7">hielp</w>
+<lb n="17"/>
+<w xml:id="Lund-0035_39r.17.1">migh</w>
+<w xml:id="Lund-0035_39r.17.2">i</w>
+<w xml:id="Lund-0035_39r.17.3">modh</w>
+<w xml:id="Lund-0035_39r.17.4">diefflin</w>
+<w xml:id="Lund-0035_39r.17.5">ath</w>
+<w xml:id="Lund-0035_39r.17.6">stridhæ</w>
+<w xml:id="Lund-0035_39r.17.7">och</w>
+<w xml:id="Lund-0035_39r.17.8">m<ex>eth</ex></w>
+<lb n="18"/>
+<w xml:id="Lund-0035_39r.18.1">thic</w>
+<w xml:id="Lund-0035_39r.18.2">i</w>
+<w xml:id="Lund-0035_39r.18.3">hi<ex>m</ex>merigis</w>
+<w xml:id="Lund-0035_39r.18.4">gledhæ</w>
+<w xml:id="Lund-0035_39r.18.5">ath</w>
+<w xml:id="Lund-0035_39r.18.6">bliffuæ</w>
+<w xml:id="Lund-0035_39r.18.7">Amen</w>
+</p></div>
+<div type="collect">
+<p>
+</p><div type="text">
+<p>
+<lb n="20"/>
+<w xml:id="Lund-0035_39r.20.1"><hi rend="red 2">O</hi></w>
+<w xml:id="Lund-0035_39r.20.2">sødhæ</w>
+<w xml:id="Lund-0035_39r.20.3">h<ex>er</ex>ræ</w>
+<w xml:id="Lund-0035_39r.20.4">ih<ex>es</ex>u</w>
+<w xml:id="Lund-0035_39r.20.5"><ex>christ</ex>e</w>
+<w xml:id="Lund-0035_39r.20.6">iæch</w>
+<w xml:id="Lund-0035_39r.20.7">syndughæ</w>
+<w xml:id="Lund-0035_39r.20.8">oc</w>
+<lb n="21"/>
+<w xml:id="Lund-0035_39r.21.1">vuærdughæ</w>
+<w xml:id="Lund-0035_39r.21.2">me<ex>n</ex>niskæ</w>
+<w xml:id="Lund-0035_39r.21.3">bedær</w>
+<w xml:id="Lund-0035_39r.21.4">thic</w>
+<w xml:id="Lund-0035_39r.21.5">for</w>
+<lb n="22"/>
+<w xml:id="Lund-0035_39r.22.1">th<ex>et</ex></w>
+<w xml:id="Lund-0035_39r.22.2">helligæ</w>
+<w xml:id="Lund-0035_39r.22.3">kors</w>
+<w xml:id="Lund-0035_39r.22.4">dygdh</w>
+<w xml:id="Lund-0035_39r.22.5">skyldh</w>
+<w xml:id="Lund-0035_39r.22.6">aa</w>
+<w xml:id="Lund-0035_39r.22.7">huilkæt</w>
+<lb n="23"/>
+<w xml:id="Lund-0035_39r.23.1">thu</w>
+<w xml:id="Lund-0035_39r.23.2">th<ex>e</ex>n</w>
+<w xml:id="Lund-0035_39r.23.3">hordæ</w>
+<w xml:id="Lund-0035_39r.23.4">dødh</w>
+<w xml:id="Lund-0035_39r.23.5">toldæ</w>
+<w xml:id="Lund-0035_39r.23.6">och</w>
+<w xml:id="Lund-0035_39r.23.7">for</w>
+<w xml:id="Lund-0035_39r.23.8">thit</w>
+<w xml:id="Lund-0035_39r.23.9">helli<lb n="24"/>gæ</w>
+<w xml:id="Lund-0035_39r.24.2">ligo<ex>m</ex>me</w>
+<w xml:id="Lund-0035_39r.24.3">och</w>
+<w xml:id="Lund-0035_39r.24.4">thinæ</w>
+<w xml:id="Lund-0035_39r.24.5">helligæ</w>
+<w xml:id="Lund-0035_39r.24.6">fæm</w>
+<w xml:id="Lund-0035_39r.24.7">vndær</w>
+<w xml:id="Lund-0035_39r.24.8">och</w>
+<lb n="25"/>
+<w xml:id="Lund-0035_39r.25.1">for</w>
+<w xml:id="Lund-0035_39r.25.2">thit</w>
+<w xml:id="Lund-0035_39r.25.3">helligæ</w>
+<w xml:id="Lund-0035_39r.25.4">blodh</w>
+<w xml:id="Lund-0035_39r.25.5">som</w>
+<w xml:id="Lund-0035_39r.25.6">voræ</w>
+<w xml:id="Lund-0035_39r.25.7">syndær</w>
+<w xml:id="Lund-0035_39r.25.8">aff</w>
+<lb n="26"/>
+<w xml:id="Lund-0035_39r.26.1">toffdhæ</w>
+<w xml:id="Lund-0035_39r.26.2">miskwndhæ</w>
+<w xml:id="Lund-0035_39r.26.3">migh</w>
+<w xml:id="Lund-0035_39r.26.4">och</w>
+<w xml:id="Lund-0035_39r.26.5">værne</w>
+<w xml:id="Lund-0035_39r.26.6">migh</w>
+<w xml:id="Lund-0035_39r.26.7">aff</w>
+<lb n="27"/>
+<w xml:id="Lund-0035_39r.27.1">diæffwilsens</w>
+<w xml:id="Lund-0035_39r.27.2">voldh</w>
+<w xml:id="Lund-0035_39r.27.3">och</w>
+<w xml:id="Lund-0035_39r.27.4">aff</w>
+<w xml:id="Lund-0035_39r.27.5">allæ</w>
+<w xml:id="Lund-0035_39r.27.6">syndærligh</w>
+<lb n="28"/>
+<w xml:id="Lund-0035_39r.28.1">tingh</w>
+<w xml:id="Lund-0035_39r.28.2">och</w>
+<w xml:id="Lund-0035_39r.28.3">ladh</w>
+<w xml:id="Lund-0035_39r.28.4">migh</w>
+<w xml:id="Lund-0035_39r.28.5">stadæligh</w>
+<w xml:id="Lund-0035_39r.28.6">bliffuæ</w>
+<w xml:id="Lund-0035_39r.28.7">i</w>
+<w xml:id="Lund-0035_39r.28.8">thin</w>
+<lb n="29"/>
+<w xml:id="Lund-0035_39r.29.1">hellige</w>
+<w xml:id="Lund-0035_39r.29.2">thie<ex>n</ex>nistæ</w>
+<w xml:id="Lund-0035_39r.29.3">til</w>
+<w xml:id="Lund-0035_39r.29.4">myn</w>
+<w xml:id="Lund-0035_39r.29.5">døsz</w>
+<w xml:id="Lund-0035_39r.29.6">timæ</w>
+<w xml:id="Lund-0035_39r.29.7">och</w>
+<pb n="39v"/>
+<lb n="1"/>
+<w xml:id="Lund-0035_39v.1.1">i</w>
+<w xml:id="Lund-0035_39v.1.2">dødæn</w>
+<w xml:id="Lund-0035_39v.1.3">hielp</w>
+<w xml:id="Lund-0035_39v.1.4">migh</w>
+<w xml:id="Lund-0035_39v.1.5">th<ex>et</ex></w>
+<w xml:id="Lund-0035_39v.1.6">diæfflen</w>
+<w xml:id="Lund-0035_39v.1.7">fongær</w>
+<lb n="2"/>
+<w xml:id="Lund-0035_39v.2.1">ey</w>
+<w xml:id="Lund-0035_39v.2.2">makt</w>
+<w xml:id="Lund-0035_39v.2.3"><supplied>h/</supplied>ellær</w>
+<w xml:id="Lund-0035_39v.2.4">voldh</w>
+<w xml:id="Lund-0035_39v.2.5">ouær</w>
+<w xml:id="Lund-0035_39v.2.6">migh</w>
+<w xml:id="Lund-0035_39v.2.7">som</w>
+<lb n="3"/>
+<w xml:id="Lund-0035_39v.3.1">thu</w>
+<w xml:id="Lund-0035_39v.3.2">m<ex>eth</ex></w>
+<w xml:id="Lund-0035_39v.3.3">thit</w>
+<w xml:id="Lund-0035_39v.3.4">dyræ</w>
+<w xml:id="Lund-0035_39v.3.5">blodh</w>
+<w xml:id="Lund-0035_39v.3.6">løstæ</w>
+<w xml:id="Lund-0035_39v.3.7">Amen</w>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="UUB-C496_003r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> A prayer for after eating</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="UPS"/>
+<repository key="UUB"/>
+<idno corresp="UUB-C496">C 496</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="3r" to="|"/>
+<title key="#other"> A prayer for after eating</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="3r"/>
+<div type="rubric">
+<p>
+<w xml:id="UUB-C496_3r.2.1">Dyt</w>
+<w xml:id="UUB-C496_3r.2.2">na</w>
+<w xml:id="UUB-C496_3r.2.3">gescreue<ex>n</ex></w>
+<lb n="3"/>
+<w xml:id="UUB-C496_3r.3.1">bedeken</w>
+<w xml:id="UUB-C496_3r.3.2">schal</w>
+<w xml:id="UUB-C496_3r.3.3">men</w>
+<w xml:id="UUB-C496_3r.3.4">lesen</w>
+<w xml:id="UUB-C496_3r.3.5">wen</w>
+<w xml:id="UUB-C496_3r.3.6">men</w>
+<w xml:id="UUB-C496_3r.3.7">gegeten</w>
+<lb n="4"/>
+<w xml:id="UUB-C496_3r.4.1">heuet</w>
+<w xml:id="UUB-C496_3r.4.2">so</w>
+<w xml:id="UUB-C496_3r.4.3">vordenet</w>
+<w xml:id="UUB-C496_3r.4.4">men</w>
+<w xml:id="UUB-C496_3r.4.5">xl</w>
+<w xml:id="UUB-C496_3r.4.6">dage</w>
+<w xml:id="UUB-C496_3r.4.7">afflates</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="6"/>
+<w xml:id="UUB-C496_3r.6.1"><hi rend="red 2">H</hi>ere</w>
+<w xml:id="UUB-C496_3r.6.2">ihesu</w>
+<w xml:id="UUB-C496_3r.6.3"><ex>christ</ex>e</w>
+<w xml:id="UUB-C496_3r.6.4">giff</w>
+<w xml:id="UUB-C496_3r.6.5">den</w>
+<w xml:id="UUB-C496_3r.6.6">leuendige<ex>n</ex></w>
+<lb n="7"/>
+<w xml:id="UUB-C496_3r.7.1">dyne</w>
+<w xml:id="UUB-C496_3r.7.2">gnade</w>
+<w xml:id="UUB-C496_3r.7.3">den</w>
+<w xml:id="UUB-C496_3r.7.4">doden</w>
+<w xml:id="UUB-C496_3r.7.5">de</w>
+<w xml:id="UUB-C496_3r.7.6">he<ex>m</ex>mel<lb n="8"/>sche</w>
+<w xml:id="UUB-C496_3r.8.2">rast</w>
+<w xml:id="UUB-C496_3r.8.3">dyner</w>
+<w xml:id="UUB-C496_3r.8.4">hilgen</w>
+<w xml:id="UUB-C496_3r.8.5">kerken</w>
+<w xml:id="UUB-C496_3r.8.6">den</w>
+<lb n="9"/>
+<w xml:id="UUB-C496_3r.9.1">vrede</w>
+<w xml:id="UUB-C496_3r.9.2">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_3r.9.3">vns</w>
+<w xml:id="UUB-C496_3r.9.4">armen</w>
+<w xml:id="UUB-C496_3r.9.5">sunders</w>
+<w xml:id="UUB-C496_3r.9.6">na</w>
+<w xml:id="UUB-C496_3r.9.7">des<lb n="10"/>seme</w>
+<w xml:id="UUB-C496_3r.10.2">leuende</w>
+<w xml:id="UUB-C496_3r.10.3">de</w>
+<w xml:id="UUB-C496_3r.10.4">vroude</w>
+<w xml:id="UUB-C496_3r.10.5">des</w>
+<w xml:id="UUB-C496_3r.10.6">ewigen</w>
+<w xml:id="UUB-C496_3r.10.7">le<lb n="11"/>uendes</w>
+<w xml:id="UUB-C496_3r.11.2">Amen</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

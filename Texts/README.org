@@ -95,8 +95,8 @@
 | [[./org/Kalmar-0033_037v.org]]       | Kalmar 33     | Magnificat                                   | MAGNIFICAT            | la         | proofread   | converted |
 | [[./org/Kalmar-0033_139v.org]]       | Kalmar 33     | Owner's prayer                               |                       | da         | begun       |           |
 | [[./org/Koln-W52_139v.org]]          | Köln W 52     | Das goldene Krongebet                        | KRONGEBET             | gml        | begun       |           |
-| [[./org/Lund-0035_023v.org]]         | Mh 35         | Magnificat                                   | MAGNIFICAT            | da         | proofread   |           |
-| [[./org/Lund-0035_038v.org]]         | Mh 35         | Five Wounds of Christ                        | WOUNDS MDB81          | da         | proofread   |           |
+| [[./org/Lund-0035_023v.org]]         | Mh 35         | Magnificat                                   | MAGNIFICAT            | da         | proofread   | converted |
+| [[./org/Lund-0035_038v.org]]         | Mh 35         | Five Wounds of Christ                        | WOUNDS MDB81          | da         | proofread   | converted |
 | [[./org/Lund-0035_064v.org]]         | Mh 35         | Golden Coronation Prayer                     | KRONGEBET MDB105      | da         | proofread   | converted |
 | [[./org/NKS08-0045_120v.org]]        | NKS 45 8vo    | Confessional formula                         |                       | da         | transcribed |           |
 | [[./org/NKS08-0045_166r.org]]        | NKS 45 8vo    | St. Erasmus                                  |                       | gml        | begun       |           |
@@ -106,18 +106,18 @@
 | [[./org/NKS08-0045_194r.org]]        | NKS 45 8vo    | A prayer to St. Antonius                     | ANTONIUS              | gml        | transcribed |           |
 | [[./org/Speghel_R1r.org]]            | Speghel       | A Prayer for Every Day in Lent               | LENT_DAILY            | gml        | transcribed |           |
 | [[./org/Thott04-0553_015v.org]]      | Thott 553 4to | A prayer for saints' virtues                 |                       | da         | transcribed |           |
-| [[../org/Thott04-0553_020v.org]]     | Thott 553 4to | Ave Maria lilia                              | AVE_MARIA_LILIA       | da         | proofread   |           |
-| [[../org/Thott04-0553_021r.org]]     | Thott 553 4to | A prayer to Christ                           | 183                   | da         | proofread   |           |
-| [[../org/Thott04-0553_021r-2.org]]   | Thott 553 4to | A prayer by St. Mechtild                     | 184                   | da         | proofread   |           |
-| [[../org/Thott04-0553_021v.org]]     | Thott 553 4to | Five Wounds of Christ                        | 185                   | da         | proofread   |           |
-| [[../org/Thott04-0553_022r.org]]     | Thott 553 4to | A prayer by St. Birgitta                     | 186                   | da         | proofread   |           |
+| [[../org/Thott04-0553_020v.org]]     | Thott 553 4to | Ave Maria lilia                              | AVE_MARIA_LILIA       | da         | proofread   | converted |
+| [[../org/Thott04-0553_021r.org]]     | Thott 553 4to | A prayer to Christ                           | 183                   | da         | proofread   | converted |
+| [[../org/Thott04-0553_021r-2.org]]   | Thott 553 4to | A prayer by St. Mechtild                     | 184                   | da         | proofread   | converted |
+| [[../org/Thott04-0553_021v.org]]     | Thott 553 4to | Five Wounds of Christ                        | 185                   | da         | proofread   | converted |
+| [[../org/Thott04-0553_022r.org]]     | Thott 553 4to | A prayer by St. Birgitta                     | 186                   | da         | proofread   | converted |
 | [[../org/Thott04-0553_125v.org]]     | Thott 553 4to | Das goldene Krongebet                        | KRONGEBET             | da         | begun       |           |
 | [[../org/UUB-C496_001r.org]]         | UUB C 496     | A prayer of confession (defective)           |                       | gml        | transcribed |           |
 | [[../org/UUB-C496_001v.org]]         | UUB C 496     | A prayer to Christ's body                    |                       | gml        | transcribed |           |
 | [[../org/UUB-C496_002r.org]]         | UUB C 496     | A prayer to God, Christ, Mary and the Saints |                       | gml        | transcribed |           |
-| [[../org/UUB-C496_003r.org]]         | UUB C 496     | A prayer for after eating                    |                       | gml        | proofread   |           |
+| [[../org/UUB-C496_003r.org]]         | UUB C 496     | A prayer for after eating                    |                       | gml        | proofread   | converted |
 | [[./org/UUB-C496_019v.org]]          | UUB C 496     | Prayers for the entire day                   |                       | gml        | begun       |           |
-| [[./org/UUB-C496_093r.org]]          | UUB C 496     | A rhymed prayer to the Virgin Mary           |                       | gml        | proofread   |           |
+| [[./org/UUB-C496_091v.org]]          | UUB C 496     | A rhymed prayer to the Virgin Mary           |                       | gml        | proofread   |converted  |
 | [[./org/UUB-C496_095r.org]]          | UUB C 496     | Das goldene Krongebet                        | KRONGEBET             | gml        | begun       |           |
 | [[./org/UUB-C496_136r.org]]          | UUB C 496     | Prayer for a traveller                       | TRAVELLER             | da         | transcribed |           |
 |----------------------------------+---------------+----------------------------------------------+-----------------------+------------+-------------+-----------|

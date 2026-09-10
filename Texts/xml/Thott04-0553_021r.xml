@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Thott04-0553_021r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A prayer to Christ</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="N/A"/>
+<repository key="N/A"/>
+<idno corresp="Thott04-0553">Thott 553 4to</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="21r2" to="21r"/>
+<title key="183">A prayer to Christ</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="21r2"/>
+<div type="rubric">
+<p>
+<w xml:id="Thott04-0553_21r2.1.1">It<ex>em</ex></w>
+<w xml:id="Thott04-0553_21r2.1.2">h<ex>er</ex></w>
+<w xml:id="Thott04-0553_21r2.1.3">effterscriffues</w>
+<w xml:id="Thott04-0553_21r2.1.4">een</w>
+<w xml:id="Thott04-0553_21r2.1.5">godh</w>
+<w xml:id="Thott04-0553_21r2.1.6">bøn</w>
+<w xml:id="Thott04-0553_21r2.1.7">aff</w>
+<lb n="2"/>
+<w xml:id="Thott04-0553_21r2.2.1">jh<ex>es</ex>u</w>
+<w xml:id="Thott04-0553_21r2.2.2">cristo</w>
+</p></div>
+<div type="text">
+<p>
+<w xml:id="Thott04-0553_21r2.2.3"><hi rend="red 9">J</hi>egh</w>
+<w xml:id="Thott04-0553_21r2.2.4">signer</w>
+<w xml:id="Thott04-0553_21r2.2.5">mek</w>
+<w xml:id="Thott04-0553_21r2.2.6">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_21r2.2.7">gutz</w>
+<lb n="3"/>
+<w xml:id="Thott04-0553_21r2.3.1">benedide</w>
+<w xml:id="Thott04-0553_21r2.3.2">macht</w>
+<w xml:id="Thott04-0553_21r2.3.3">Jek</w>
+<w xml:id="Thott04-0553_21r2.3.4">signer</w>
+<w xml:id="Thott04-0553_21r2.3.5">mek</w>
+<w xml:id="Thott04-0553_21r2.3.6">m<ex>eth</ex></w>
+<lb n="4"/>
+<w xml:id="Thott04-0553_21r2.4.1">gutz</w>
+<w xml:id="Thott04-0553_21r2.4.2">verduge</w>
+<w xml:id="Thott04-0553_21r2.4.3">benedide</w>
+<w xml:id="Thott04-0553_21r2.4.4">krafft</w>
+<w xml:id="Thott04-0553_21r2.4.5">Jek</w>
+<lb n="5"/>
+<w xml:id="Thott04-0553_21r2.5.1">signer</w>
+<w xml:id="Thott04-0553_21r2.5.2">mek</w>
+<w xml:id="Thott04-0553_21r2.5.3">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_21r2.5.4">the</w>
+<w xml:id="Thott04-0553_21r2.5.5">sa<ex>m</ex>me</w>
+<w xml:id="Thott04-0553_21r2.5.6">velsignete</w>
+<lb n="6"/>
+<w xml:id="Thott04-0553_21r2.6.1">ordh</w>
+<w xml:id="Thott04-0553_21r2.6.2">th<ex>e</ex>r</w>
+<w xml:id="Thott04-0553_21r2.6.3">gudh</w>
+<w xml:id="Thott04-0553_21r2.6.4">skob</w>
+<w xml:id="Thott04-0553_21r2.6.5">sigh</w>
+<w xml:id="Thott04-0553_21r2.6.6">selff</w>
+<w xml:id="Thott04-0553_21r2.6.7">til</w>
+<lb n="7"/>
+<w xml:id="Thott04-0553_21r2.7.1">kiød</w>
+<w xml:id="Thott04-0553_21r2.7.2">oc</w>
+<w xml:id="Thott04-0553_21r2.7.3">blodh</w>
+<w xml:id="Thott04-0553_21r2.7.4">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_21r2.7.5">j</w>
+<w xml:id="Thott04-0553_21r2.7.6">hans</w>
+<w xml:id="Thott04-0553_21r2.7.7">velsigh<lb n="8"/>nede</w>
+<w xml:id="Thott04-0553_21r2.8.2">moders</w>
+<w xml:id="Thott04-0553_21r2.8.3">liiff</w>
+<w xml:id="Thott04-0553_21r2.8.4">Jomf<ex>rv</ex></w>
+<w xml:id="Thott04-0553_21r2.8.5">s<ex>an</ex>c<ex>t</ex>a</w>
+<w xml:id="Thott04-0553_21r2.8.6">maria</w>
+<lb n="9"/>
+<w xml:id="Thott04-0553_21r2.9.1">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_21r2.9.2">tessæ</w>
+<w xml:id="Thott04-0553_21r2.9.3">sa<ex>m</ex>me</w>
+<w xml:id="Thott04-0553_21r2.9.4">vælsignete</w>
+<w xml:id="Thott04-0553_21r2.9.5">benedide</w>
+<lb n="10"/>
+<w xml:id="Thott04-0553_21r2.10.1">ordh</w>
+<w xml:id="Thott04-0553_21r2.10.2">tha</w>
+<w xml:id="Thott04-0553_21r2.10.3">signer</w>
+<w xml:id="Thott04-0553_21r2.10.4">jek</w>
+<w xml:id="Thott04-0553_21r2.10.5">mek</w>
+<w xml:id="Thott04-0553_21r2.10.6">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_21r2.10.7">j</w>
+<w xml:id="Thott04-0553_21r2.10.8">dagh</w>
+<lb n="11"/>
+<w xml:id="Thott04-0553_21r2.11.1">oc</w>
+<w xml:id="Thott04-0553_21r2.11.2">hwer</w>
+<w xml:id="Thott04-0553_21r2.11.3">dagh</w>
+<w xml:id="Thott04-0553_21r2.11.4">myn</w>
+<w xml:id="Thott04-0553_21r2.11.5">siæl</w>
+<w xml:id="Thott04-0553_21r2.11.6">oc</w>
+<w xml:id="Thott04-0553_21r2.11.7">mit</w>
+<w xml:id="Thott04-0553_21r2.11.8">liiff</w>
+<lb n="12"/>
+<w xml:id="Thott04-0553_21r2.12.1">my<ex>n</ex></w>
+<w xml:id="Thott04-0553_21r2.12.2">æræ</w>
+<w xml:id="Thott04-0553_21r2.12.3">oc</w>
+<w xml:id="Thott04-0553_21r2.12.4">my<ex>n</ex></w>
+<w xml:id="Thott04-0553_21r2.12.5">fridh</w>
+<w xml:id="Thott04-0553_21r2.12.6">so</w>
+<w xml:id="Thott04-0553_21r2.12.7">ath</w>
+<w xml:id="Thott04-0553_21r2.12.8">mek</w>
+<lb n="13"/>
+<w xml:id="Thott04-0553_21r2.13.1">jnth<ex>et</ex></w>
+<w xml:id="Thott04-0553_21r2.13.2">skade</w>
+<w xml:id="Thott04-0553_21r2.13.3">kan</w>
+<w xml:id="Thott04-0553_21r2.13.4">j</w>
+<w xml:id="Thott04-0553_21r2.13.5">naffn</w>
+<w xml:id="Thott04-0553_21r2.13.6">gudh</w>
+<w xml:id="Thott04-0553_21r2.13.7">faders</w>
+<lb n="14"/>
+<w xml:id="Thott04-0553_21r2.14.1">oc</w>
+<w xml:id="Thott04-0553_21r2.14.2">søns</w>
+<w xml:id="Thott04-0553_21r2.14.3">oc</w>
+<w xml:id="Thott04-0553_21r2.14.4">th<ex>e</ex>n</w>
+<w xml:id="Thott04-0553_21r2.14.5">hellige</w>
+<w xml:id="Thott04-0553_21r2.14.6">andz</w>
+<w xml:id="Thott04-0553_21r2.14.7">J</w>
+<w xml:id="Thott04-0553_21r2.14.8">fa<lb n="15"/>dhere<ex>n</ex>s</w>
+<w xml:id="Thott04-0553_21r2.15.2">naffn</w>
+<w xml:id="Thott04-0553_21r2.15.3">giffuer</w>
+<w xml:id="Thott04-0553_21r2.15.4">jek</w>
+<w xml:id="Thott04-0553_21r2.15.5">mek</w>
+<w xml:id="Thott04-0553_21r2.15.6">j</w>
+<w xml:id="Thott04-0553_21r2.15.7">søn<lb n="16"/>sæns</w>
+<w xml:id="Thott04-0553_21r2.16.2">lydnæ</w>
+<w xml:id="Thott04-0553_21r2.16.3">antworder</w>
+<w xml:id="Thott04-0553_21r2.16.4">jek</w>
+<w xml:id="Thott04-0553_21r2.16.5">megh</w>
+<lb n="17"/>
+<w xml:id="Thott04-0553_21r2.17.1">J</w>
+<w xml:id="Thott04-0553_21r2.17.2">th<ex>e</ex>n</w>
+<w xml:id="Thott04-0553_21r2.17.3">hellige</w>
+<w xml:id="Thott04-0553_21r2.17.4">andz</w>
+<w xml:id="Thott04-0553_21r2.17.5">væluillighedh</w>
+<w xml:id="Thott04-0553_21r2.17.6">be<lb n="18"/>faller</w>
+<w xml:id="Thott04-0553_21r2.18.2">jek</w>
+<w xml:id="Thott04-0553_21r2.18.3">mek</w>
+<w xml:id="Thott04-0553_21r2.18.4">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_21r2.18.5">siæl</w>
+<w xml:id="Thott04-0553_21r2.18.6">oc</w>
+<w xml:id="Thott04-0553_21r2.18.7">liiff</w>
+<w xml:id="Thott04-0553_21r2.18.8">nw</w>
+<lb n="19"/>
+<w xml:id="Thott04-0553_21r2.19.1">oc</w>
+<w xml:id="Thott04-0553_21r2.19.2">ewy<ex>n</ex>nelige</w>
+<w xml:id="Thott04-0553_21r2.19.3">Ame<ex>n</ex></w>
+</p></div>
+<div type="rubric">
+<p>
+<w xml:id="Thott04-0553_21r2.19.4">P<ex>ate</ex>r</w>
+<w xml:id="Thott04-0553_21r2.19.5">n<ex>oste</ex>r</w>
+<w xml:id="Thott04-0553_21r2.19.6">Aue</w>
+<w xml:id="Thott04-0553_21r2.19.7">ma<ex>r</ex>ia</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Thott04-0553_020v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ave Maria lilia</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="N/A"/>
+<repository key="N/A"/>
+<idno corresp="Thott04-0553">Thott 553 4to</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="20v20" to="21r"/>
+<title key="AVE_MARIA_LILIA">Ave Maria lilia</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="20v20"/>
+<div type="rubric">
+<p>
+<w xml:id="Thott04-0553_20v20.1.1">Huilken</w>
+<w xml:id="Thott04-0553_20v20.1.2">me<ex>n</ex>nisken</w>
+<w xml:id="Thott04-0553_20v20.1.3">th<ex>e</ex>n<ex>ne</ex></w>
+<w xml:id="Thott04-0553_20v20.1.4">effter<ex>skreffne</ex></w>
+<w xml:id="Thott04-0553_20v20.1.5">bøn</w>
+<w xml:id="Thott04-0553_20v20.1.6">læss</w>
+<lb n="2"/>
+<w xml:id="Thott04-0553_20v20.2.1">daglige</w>
+<w xml:id="Thott04-0553_20v20.2.2">han</w>
+<w xml:id="Thott04-0553_20v20.2.3">bliffuer</w>
+<w xml:id="Thott04-0553_20v20.2.4">aldrigh</w>
+<w xml:id="Thott04-0553_20v20.2.5">fordømt</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="3"/>
+<w xml:id="Thott04-0553_20v20.3.1"><hi rend="red 2">H</hi>eel</w>
+<w xml:id="Thott04-0553_20v20.3.2">ma<ex>r</ex>ia</w>
+<w xml:id="Thott04-0553_20v20.3.3">th<ex>e</ex>n</w>
+<w xml:id="Thott04-0553_20v20.3.4">sky<ex>n</ex>nende</w>
+<w xml:id="Thott04-0553_20v20.3.5">lilæ</w>
+<w xml:id="Thott04-0553_20v20.3.6">tw</w>
+<w xml:id="Thott04-0553_20v20.3.7">fø<lb n="4"/>dhe</w>
+<w xml:id="Thott04-0553_20v20.4.2">thin</w>
+<w xml:id="Thott04-0553_20v20.4.3">signede</w>
+<w xml:id="Thott04-0553_20v20.4.4">søn</w>
+<w xml:id="Thott04-0553_20v20.4.5">m<ex>eth</ex></w>
+<w xml:id="Thott04-0553_20v20.4.6">villiæ</w>
+<w xml:id="Thott04-0553_20v20.4.7">m<ex>eth</ex></w>
+<lb n="5"/>
+<w xml:id="Thott04-0553_20v20.5.1">the</w>
+<w xml:id="Thott04-0553_20v20.5.2">taaræ</w>
+<w xml:id="Thott04-0553_20v20.5.3">gudh</w>
+<w xml:id="Thott04-0553_20v20.5.4">selffuer</w>
+<w xml:id="Thott04-0553_20v20.5.5">dydæ</w>
+<w xml:id="Thott04-0553_20v20.5.6">fræls</w>
+<pb n="21r"/>
+<lb n="1"/>
+<w xml:id="Thott04-0553_21r.1.1">my<ex>n</ex></w>
+<w xml:id="Thott04-0553_21r.1.2">siæl</w>
+<w xml:id="Thott04-0553_21r.1.3">fra</w>
+<w xml:id="Thott04-0553_21r.1.4">hælffued<ex>is</ex></w>
+<w xml:id="Thott04-0553_21r.1.5">qwide</w>
+<w xml:id="Thott04-0553_21r.1.6">Am<ex>en</ex></w>
+</p></div>
+<div type="rubri">
+<p>
+<w xml:id="Thott04-0553_21r.1.7">Aue</w>
+<w xml:id="Thott04-0553_21r.1.8">m<ex>aria</ex></w>
+</p>
+</div>
+</body>
+</text>
+</TEI>
