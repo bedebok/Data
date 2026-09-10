@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM08-0073_011v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A prayer in verse</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM08-0073">AM 73 8vo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="11v" to="11v"/>
+<title key="#other">A prayer in verse</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="11v"/>
+<div type="text">
+<p>
+<w xml:id="AM08-0073_11v.1.1">Gudtz</w>
+<w xml:id="AM08-0073_11v.1.2">Guodhied</w>
+<w xml:id="AM08-0073_11v.1.3">will</w>
+<w xml:id="AM08-0073_11v.1.4">wi</w>
+<w xml:id="AM08-0073_11v.1.5">prise</w>
+<lb n="2"/>
+<w xml:id="AM08-0073_11v.2.1">vi</w>
+<w xml:id="AM08-0073_11v.2.2">Christne</w>
+<w xml:id="AM08-0073_11v.2.3">sture</w>
+<w xml:id="AM08-0073_11v.2.4">och</w>
+<w xml:id="AM08-0073_11v.2.5">smaa,</w>
+<lb n="3"/>
+<w xml:id="AM08-0073_11v.3.1">Vedt</w>
+<w xml:id="AM08-0073_11v.3.2">Sang</w>
+<w xml:id="AM08-0073_11v.3.3">och</w>
+<w xml:id="AM08-0073_11v.3.4">Andelig</w>
+<w xml:id="AM08-0073_11v.3.5">Viße</w>
+<lb n="4"/>
+<w xml:id="AM08-0073_11v.4.1">Hamm</w>
+<w xml:id="AM08-0073_11v.4.2">altid</w>
+<w xml:id="AM08-0073_11v.4.3">take</w>
+<w xml:id="AM08-0073_11v.4.4">saa,</w>
+<lb n="5"/>
+<w xml:id="AM08-0073_11v.5.1">For</w>
+<w xml:id="AM08-0073_11v.5.2">sin</w>
+<w xml:id="AM08-0073_11v.5.3">Velgerninger,</w>
+<lb n="6"/>
+<w xml:id="AM08-0073_11v.6.1">Hand</w>
+<w xml:id="AM08-0073_11v.6.2">dete</w>
+<w xml:id="AM08-0073_11v.6.3">Aar</w>
+<w xml:id="AM08-0073_11v.6.4">forgangenn</w>
+<lb n="7"/>
+<w xml:id="AM08-0073_11v.7.1">Beuisßit</w>
+<w xml:id="AM08-0073_11v.7.2">haffuer</w>
+<w xml:id="AM08-0073_11v.7.3">Manngenn</w>
+<lb n="8"/>
+<w xml:id="AM08-0073_11v.8.1">Som</w>
+<w xml:id="AM08-0073_11v.8.2">vell</w>
+<w xml:id="AM08-0073_11v.8.3">Beffundit</w>
+<w xml:id="AM08-0073_11v.8.4">Ær,</w>
+<lb n="9"/>
+<w xml:id="AM08-0073_11v.9.1">Si</w>
+<w xml:id="AM08-0073_11v.9.2">deus</w>
+<w xml:id="AM08-0073_11v.9.3">Pronobis,</w>
+<w xml:id="AM08-0073_11v.9.4">Quis</w>
+<w xml:id="AM08-0073_11v.9.5">Contra</w>
+<w xml:id="AM08-0073_11v.9.6">nos</w>
+<lb n="10"/>
+<w xml:id="AM08-0073_11v.10.1">Si</w>
+<w xml:id="AM08-0073_11v.10.2">Deus</w>
+<w xml:id="AM08-0073_11v.10.3">Diligeit,</w>
+<lb n="11"/>
+<w xml:id="AM08-0073_11v.11.1">est</w>
+<w xml:id="AM08-0073_11v.11.2">Anima</w>
+<w xml:id="AM08-0073_11v.11.3">mea</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

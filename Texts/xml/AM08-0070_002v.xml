@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM08-0070_002v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> A prayer to Christ</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM08-0070">AM 70 8vo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="2v" to="2v"/>
+<title key="#other"> A prayer to Christ</title>
+<textLang mainLang="Danish"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="2v"/>
+<div type="text">
+<p>
+<w xml:id="AM08-0070_2v.1.1"><hi rend="2">O</hi></w>
+<w xml:id="AM08-0070_2v.1.2">herræ</w>
+<w xml:id="AM08-0070_2v.1.3">ih<ex>es</ex>u</w>
+<w xml:id="AM08-0070_2v.1.4"><ex>christ</ex>e</w>
+<w xml:id="AM08-0070_2v.1.5">thu</w>
+<w xml:id="AM08-0070_2v.1.6">som</w>
+<w xml:id="AM08-0070_2v.1.7">togsth</w>
+<lb n="2"/>
+<w xml:id="AM08-0070_2v.2.1">thette</w>
+<w xml:id="AM08-0070_2v.2.2">alsomheligstæ</w>
+<w xml:id="AM08-0070_2v.2.3">lego<ex>m</ex>mæ</w>
+<lb n="3"/>
+<w xml:id="AM08-0070_2v.3.1">aff</w>
+<w xml:id="AM08-0070_2v.3.2">also<ex>m</ex>ærligste</w>
+<w xml:id="AM08-0070_2v.3.3">iomfrw</w>
+<w xml:id="AM08-0070_2v.3.4">mariæ</w>
+<lb n="4"/>
+<w xml:id="AM08-0070_2v.4.1">liiff</w>
+<w xml:id="AM08-0070_2v.4.2">th<ex>e</ex>r</w>
+<w xml:id="AM08-0070_2v.4.3">iech</w>
+<w xml:id="AM08-0070_2v.4.4">nw</w>
+<w xml:id="AM08-0070_2v.4.5">seer</w>
+<w xml:id="AM08-0070_2v.4.6">oc</w>
+<w xml:id="AM08-0070_2v.4.7">vtgast</w>
+<lb n="5"/>
+<w xml:id="AM08-0070_2v.5.1">uppaa</w>
+<w xml:id="AM08-0070_2v.5.2">th<ex>et</ex></w>
+<w xml:id="AM08-0070_2v.5.3">helliæ</w>
+<w xml:id="AM08-0070_2v.5.4">kors</w>
+<w xml:id="AM08-0070_2v.5.5">for</w>
+<w xml:id="AM08-0070_2v.5.6">vor</w>
+<lb n="6"/>
+<w xml:id="AM08-0070_2v.6.1">siæls</w>
+<w xml:id="AM08-0070_2v.6.2">helsæ</w>
+<w xml:id="AM08-0070_2v.6.3">aff</w>
+<w xml:id="AM08-0070_2v.6.4">thin</w>
+<w xml:id="AM08-0070_2v.6.5">alsomhæ<lb n="7"/>ligstæ</w>
+<w xml:id="AM08-0070_2v.7.2">sidæ</w>
+<w xml:id="AM08-0070_2v.7.3">oc</w>
+<w xml:id="AM08-0070_2v.7.4">aff</w>
+<w xml:id="AM08-0070_2v.7.5">alt</w>
+<w xml:id="AM08-0070_2v.7.6">thiit</w>
+<lb n="8"/>
+<w xml:id="AM08-0070_2v.8.1">gantze</w>
+<w xml:id="AM08-0070_2v.8.2">lego<ex>m</ex>me</w>
+<w xml:id="AM08-0070_2v.8.3">th<ex>ette</ex></w>
+<w xml:id="AM08-0070_2v.8.4">v<ex>er</ex>duge</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

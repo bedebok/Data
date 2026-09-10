@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM12-0421_030r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Stabat Mater</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM12-0421">AM 421 12mo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="30r" to="31v"/>
+<title key="STABAT_MATER">Stabat Mater</title>
+<textLang mainLang="da"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="30r"/>
+<div type="text">
+<p>
+<w xml:id="AM12-0421_30r.1.1"><hi rend="3 red">H</hi>Oss</w>
+<w xml:id="AM12-0421_30r.1.2">korssens</w>
+<w xml:id="AM12-0421_30r.1.3">tree.</w>
+<w xml:id="AM12-0421_30r.1.4">m<ex>et</ex></w>
+<w xml:id="AM12-0421_30r.1.5">sorg</w>
+<lb n="2"/>
+<w xml:id="AM12-0421_30r.2.1">oc</w>
+<w xml:id="AM12-0421_30r.2.2">wee.</w>
+<w xml:id="AM12-0421_30r.2.3">stood</w>
+<w xml:id="AM12-0421_30r.2.4"><ex>christ</ex>i</w>
+<w xml:id="AM12-0421_30r.2.5">mod<ex>er</ex>.</w>
+<lb n="3"/>
+<w xml:id="AM12-0421_30r.3.1">med</w>
+<w xml:id="AM12-0421_30r.3.2">graadzens</w>
+<w xml:id="AM12-0421_30r.3.3">floder.</w>
+<lb n="4"/>
+<w xml:id="AM12-0421_30r.4.1">hennes</w>
+<w xml:id="AM12-0421_30r.4.2">søn</w>
+<w xml:id="AM12-0421_30r.4.3">paa</w>
+<w xml:id="AM12-0421_30r.4.4">korssyt</w>
+<w xml:id="AM12-0421_30r.4.5">hengde.</w>
+<lb n="5"/>
+<w xml:id="AM12-0421_30r.5.1"><hi rend="blue">A</hi>ff</w>
+<w xml:id="AM12-0421_30r.5.2">sywck</w>
+<w xml:id="AM12-0421_30r.5.3">og</w>
+<w xml:id="AM12-0421_30r.5.4">graad.</w>
+<w xml:id="AM12-0421_30r.5.5">som</w>
+<w xml:id="AM12-0421_30r.5.6">ffør</w>
+<lb n="6"/>
+<w xml:id="AM12-0421_30r.6.1">war</w>
+<w xml:id="AM12-0421_30r.6.2">spaad.</w>
+<w xml:id="AM12-0421_30r.6.3">m<ex>et</ex></w>
+<w xml:id="AM12-0421_30r.6.4">stoor</w>
+<w xml:id="AM12-0421_30r.6.5">wffryd.</w>
+<lb n="7"/>
+<w xml:id="AM12-0421_30r.7.1">stack</w>
+<w xml:id="AM12-0421_30r.7.2">drøwelzens</w>
+<w xml:id="AM12-0421_30r.7.3">sypd.</w>
+<w xml:id="AM12-0421_30r.7.4">he<ex>n</ex>nes</w>
+<lb n="8"/>
+<w xml:id="AM12-0421_30r.8.1">hierthe</w>
+<w xml:id="AM12-0421_30r.8.2">th<ex>et</ex></w>
+<w xml:id="AM12-0421_30r.8.3">tha</w>
+<w xml:id="AM12-0421_30r.8.4">trengdhe.</w>
+<w xml:id="AM12-0421_30r.8.5"><hi rend="gold">H</hi>wad</w>
+<lb n="9"/>
+<w xml:id="AM12-0421_30r.9.1">sorg</w>
+<w xml:id="AM12-0421_30r.9.2">oc</w>
+<w xml:id="AM12-0421_30r.9.3">nød.</w>
+<w xml:id="AM12-0421_30r.9.4">aff</w>
+<w xml:id="AM12-0421_30r.9.5"><ex>christ</ex>i</w>
+<w xml:id="AM12-0421_30r.9.6">død.</w>
+<w xml:id="AM12-0421_30r.9.7">gwdz</w>
+<lb n="10"/>
+<w xml:id="AM12-0421_30r.10.1">modh<ex>e</ex>r</w>
+<w xml:id="AM12-0421_30r.10.2">mw<ex>n</ex>ne</w>
+<w xml:id="AM12-0421_30r.10.3">ffa.</w>
+<w xml:id="AM12-0421_30r.10.4">th<ex>e</ex>r</w>
+<w xml:id="AM12-0421_30r.10.5">hw<ex>er</ex></w>
+<w xml:id="AM12-0421_30r.10.6">th<ex>et</ex></w>
+<lb n="11"/>
+<w xml:id="AM12-0421_30r.11.1">ssaa.</w>
+<w xml:id="AM12-0421_30r.11.2">syn</w>
+<w xml:id="AM12-0421_30r.11.3"><add>søn</add></w>
+<w xml:id="AM12-0421_30r.11.4">tha</w>
+<w xml:id="AM12-0421_30r.11.5">pynthes</w>
+<w xml:id="AM12-0421_30r.11.6">sa</w>
+<w xml:id="AM12-0421_30r.11.7">sare.</w>
+<lb n="12"/>
+<w xml:id="AM12-0421_30r.12.1"><hi rend="green">H</hi>wn</w>
+<w xml:id="AM12-0421_30r.12.2">beeskelige</w>
+<w xml:id="AM12-0421_30r.12.3">greedh.</w>
+<lb n="13"/>
+<w xml:id="AM12-0421_30r.13.1">oc</w>
+<w xml:id="AM12-0421_30r.13.2">sorghede</w>
+<w xml:id="AM12-0421_30r.13.3">med.</w>
+<w xml:id="AM12-0421_30r.13.4">hw<ex>n</ex></w>
+<w xml:id="AM12-0421_30r.13.5">styrthe</w>
+<lb n="14"/>
+<w xml:id="AM12-0421_30r.14.1">ned.</w>
+<w xml:id="AM12-0421_30r.14.2">oc</w>
+<w xml:id="AM12-0421_30r.14.3">skaal</w>
+<w xml:id="AM12-0421_30r.14.4">tha</w>
+<w xml:id="AM12-0421_30r.14.5">wed.</w>
+<w xml:id="AM12-0421_30r.14.6">th<ex>e</ex>r</w>
+<w xml:id="AM12-0421_30r.14.7">han</w>
+<lb n="15"/>
+<w xml:id="AM12-0421_30r.15.1">skwlle</w>
+<w xml:id="AM12-0421_30r.15.2">lyde</w>
+<w xml:id="AM12-0421_30r.15.3">th<ex>e</ex>n</w>
+<w xml:id="AM12-0421_30r.15.4">fare.</w>
+<w xml:id="AM12-0421_30r.15.5"><hi rend="gold">H</hi>Wær</w>
+<lb n="16"/>
+<w xml:id="AM12-0421_30r.16.1">soo</w>
+<w xml:id="AM12-0421_30r.16.2">haar.</w>
+<w xml:id="AM12-0421_30r.16.3">han</w>
+<w xml:id="AM12-0421_30r.16.4">ffell<ex>e</ex>r</w>
+<w xml:id="AM12-0421_30r.16.5">ey</w>
+<w xml:id="AM12-0421_30r.16.6">taar.</w>
+<lb n="17"/>
+<w xml:id="AM12-0421_30r.17.1">om</w>
+<w xml:id="AM12-0421_30r.17.2">han</w>
+<w xml:id="AM12-0421_30r.17.3">kwnde</w>
+<w xml:id="AM12-0421_30r.17.4">see.</w>
+<w xml:id="AM12-0421_30r.17.5">m<ex>et</ex></w>
+<w xml:id="AM12-0421_30r.17.6">hwor</w>
+<pb n="30v"/>
+<lb n="1"/>
+<w xml:id="AM12-0421_30v.1.1">stor</w>
+<w xml:id="AM12-0421_30v.1.2">wee.</w>
+<w xml:id="AM12-0421_30v.1.3">Maria</w>
+<w xml:id="AM12-0421_30v.1.4">wed</w>
+<w xml:id="AM12-0421_30v.1.5">korssyth</w>
+<lb n="2"/>
+<w xml:id="AM12-0421_30v.2.1">pythes.</w>
+<w xml:id="AM12-0421_30v.2.2"><hi rend="red">H</hi>wa</w>
+<w xml:id="AM12-0421_30v.2.3">saa</w>
+<w xml:id="AM12-0421_30v.2.4">syn</w>
+<w xml:id="AM12-0421_30v.2.5">søn</w>
+<lb n="3"/>
+<w xml:id="AM12-0421_30v.3.1">for</w>
+<w xml:id="AM12-0421_30v.3.2">me<ex>n</ex>niskes</w>
+<w xml:id="AM12-0421_30v.3.3">køn.</w>
+<w xml:id="AM12-0421_30v.3.4">wnd<ex>er</ex></w>
+<w xml:id="AM12-0421_30v.3.5">swø<lb n="4"/>we</w>
+<w xml:id="AM12-0421_30v.4.2">oc</w>
+<w xml:id="AM12-0421_30v.4.3">lyme.</w>
+<w xml:id="AM12-0421_30v.4.4">m<ex>et</ex></w>
+<w xml:id="AM12-0421_30v.4.5">stoor</w>
+<w xml:id="AM12-0421_30v.4.6">beswyme.</w>
+<lb n="5"/>
+<w xml:id="AM12-0421_30v.5.1">meed</w>
+<w xml:id="AM12-0421_30v.5.2">reff</w>
+<w xml:id="AM12-0421_30v.5.3">tyl</w>
+<w xml:id="AM12-0421_30v.5.4">støtth<ex>e</ex>n</w>
+<w xml:id="AM12-0421_30v.5.5">bwndh<ex>e</ex>n.</w>
+<lb n="6"/>
+<w xml:id="AM12-0421_30v.6.1"><hi rend="blue">T</hi>H<ex>e</ex>r</w>
+<w xml:id="AM12-0421_30v.6.2">han</w>
+<w xml:id="AM12-0421_30v.6.3">syn</w>
+<w xml:id="AM12-0421_30v.6.4">and.</w>
+<w xml:id="AM12-0421_30v.6.5">gaff</w>
+<w xml:id="AM12-0421_30v.6.6">ffad<ex>er</ex></w>
+<lb n="7"/>
+<w xml:id="AM12-0421_30v.7.1">j</w>
+<w xml:id="AM12-0421_30v.7.2">hand.</w>
+<w xml:id="AM12-0421_30v.7.3">oc</w>
+<w xml:id="AM12-0421_30v.7.4">sydh<ex>e</ex>n</w>
+<w xml:id="AM12-0421_30v.7.5">wdrand.</w>
+<w xml:id="AM12-0421_30v.7.6">bode</w>
+<lb n="8"/>
+<w xml:id="AM12-0421_30v.8.1"><add>blod</add></w>
+<w xml:id="AM12-0421_30v.8.2">oc</w>
+<w xml:id="AM12-0421_30v.8.3">wand.</w>
+<w xml:id="AM12-0421_30v.8.4">tha</w>
+<w xml:id="AM12-0421_30v.8.5">wor</w>
+<w xml:id="AM12-0421_30v.8.6">hw<ex>n</ex></w>
+<w xml:id="AM12-0421_30v.8.7">nær</w>
+<w xml:id="AM12-0421_30v.8.8">for<lb n="9"/>swndh<ex>e</ex>n.</w>
+<w xml:id="AM12-0421_30v.9.2"><hi rend="gold">O</hi></w>
+<w xml:id="AM12-0421_30v.9.3">Modh<ex>e</ex>r</w>
+<w xml:id="AM12-0421_30v.9.4">sødh.</w>
+<w xml:id="AM12-0421_30v.9.5">ffor</w>
+<lb n="10"/>
+<w xml:id="AM12-0421_30v.10.1">thyn</w>
+<w xml:id="AM12-0421_30v.10.2">søns</w>
+<w xml:id="AM12-0421_30v.10.3">død.</w>
+<w xml:id="AM12-0421_30v.10.4">thw</w>
+<w xml:id="AM12-0421_30v.10.5">wnd</w>
+<w xml:id="AM12-0421_30v.10.6">nw</w>
+<lb n="11"/>
+<w xml:id="AM12-0421_30v.11.1">meg.</w>
+<w xml:id="AM12-0421_30v.11.2">at</w>
+<w xml:id="AM12-0421_30v.11.3">gredhe</w>
+<w xml:id="AM12-0421_30v.11.4">med</w>
+<w xml:id="AM12-0421_30v.11.5">tegh.</w>
+<lb n="12"/>
+<w xml:id="AM12-0421_30v.12.1">dijn</w>
+<w xml:id="AM12-0421_30v.12.2">sorch</w>
+<w xml:id="AM12-0421_30v.12.3">med</w>
+<w xml:id="AM12-0421_30v.12.4">tegh</w>
+<w xml:id="AM12-0421_30v.12.5">at</w>
+<w xml:id="AM12-0421_30v.12.6">tegh</w>
+<lb n="13"/>
+<w xml:id="AM12-0421_30v.13.1">at</w>
+<w xml:id="AM12-0421_30v.13.2">beræ.</w>
+<w xml:id="AM12-0421_30v.13.3"><hi rend="gold">G</hi>yff</w>
+<w xml:id="AM12-0421_30v.13.4">meg</w>
+<w xml:id="AM12-0421_30v.13.5">i</w>
+<w xml:id="AM12-0421_30v.13.6">synd.</w>
+<lb n="14"/>
+<w xml:id="AM12-0421_30v.14.1">ath</w>
+<w xml:id="AM12-0421_30v.14.2">legghe</w>
+<w xml:id="AM12-0421_30v.14.3">paa</w>
+<w xml:id="AM12-0421_30v.14.4">wind.</w>
+<w xml:id="AM12-0421_30v.14.5">ath</w>
+<lb n="15"/>
+<w xml:id="AM12-0421_30v.15.1">elske</w>
+<w xml:id="AM12-0421_30v.15.2">thyn</w>
+<w xml:id="AM12-0421_30v.15.3">søn.</w>
+<w xml:id="AM12-0421_30v.15.4">ssaa</w>
+<w xml:id="AM12-0421_30v.15.5">th<ex>en</ex>ne</w>
+<w xml:id="AM12-0421_30v.15.6">bøn</w>
+<lb n="16"/>
+<w xml:id="AM12-0421_30v.16.1">hannw<ex>m</ex></w>
+<w xml:id="AM12-0421_30v.16.2">teckelige</w>
+<w xml:id="AM12-0421_30v.16.3">mothe</w>
+<w xml:id="AM12-0421_30v.16.4">ware.</w>
+<lb n="17"/>
+<w xml:id="AM12-0421_30v.17.1"><hi rend="green">U</hi>Dij</w>
+<w xml:id="AM12-0421_30v.17.2">myth</w>
+<w xml:id="AM12-0421_30v.17.3">brysth.</w>
+<w xml:id="AM12-0421_30v.17.4">thw</w>
+<w xml:id="AM12-0421_30v.17.5">nw</w>
+<pb n="31r"/>
+<lb n="1"/>
+<w xml:id="AM12-0421_31r.1.1">yndkrysth.</w>
+<w xml:id="AM12-0421_31r.1.2">hans</w>
+<w xml:id="AM12-0421_31r.1.3">wndh<ex>e</ex>r</w>
+<w xml:id="AM12-0421_31r.1.4">ffem.</w>
+<lb n="2"/>
+<w xml:id="AM12-0421_31r.2.1">ath</w>
+<w xml:id="AM12-0421_31r.2.2">tenke</w>
+<w xml:id="AM12-0421_31r.2.3">paa</w>
+<w xml:id="AM12-0421_31r.2.4">th<ex>e</ex>m.</w>
+<w xml:id="AM12-0421_31r.2.5">myn</w>
+<w xml:id="AM12-0421_31r.2.6">siel</w>
+<w xml:id="AM12-0421_31r.2.7">tyl</w>
+<lb n="3"/>
+<w xml:id="AM12-0421_31r.3.1">stor</w>
+<w xml:id="AM12-0421_31r.3.2">hwffswale.</w>
+<w xml:id="AM12-0421_31r.3.3"><hi rend="red">L</hi>ad</w>
+<w xml:id="AM12-0421_31r.3.4"><add>meg</add></w>
+<w xml:id="AM12-0421_31r.3.5">oc</w>
+<w xml:id="AM12-0421_31r.3.6">sa</w>
+<w xml:id="AM12-0421_31r.3.7">j</w>
+<lb n="4"/>
+<w xml:id="AM12-0421_31r.4.1">hierth<ex>et</ex></w>
+<w xml:id="AM12-0421_31r.4.2">faa.</w>
+<w xml:id="AM12-0421_31r.4.3">bode</w>
+<w xml:id="AM12-0421_31r.4.4">willie</w>
+<w xml:id="AM12-0421_31r.4.5">oc</w>
+<w xml:id="AM12-0421_31r.4.6">hw.</w>
+<w xml:id="AM12-0421_31r.4.7">ath</w>
+<lb n="5"/>
+<w xml:id="AM12-0421_31r.5.1">tiene</w>
+<w xml:id="AM12-0421_31r.5.2">hannw<ex>m</ex></w>
+<w xml:id="AM12-0421_31r.5.3">sa</w>
+<w xml:id="AM12-0421_31r.5.4">nw.</w>
+<w xml:id="AM12-0421_31r.5.5">thi</w>
+<w xml:id="AM12-0421_31r.5.6">hand</w>
+<lb n="6"/>
+<w xml:id="AM12-0421_31r.6.1">slig</w>
+<w xml:id="AM12-0421_31r.6.2">død</w>
+<w xml:id="AM12-0421_31r.6.3">tolle.</w>
+<w xml:id="AM12-0421_31r.6.4"><hi rend="red">O</hi></w>
+<w xml:id="AM12-0421_31r.6.5">myldhe</w>
+<w xml:id="AM12-0421_31r.6.6">rooss.</w>
+<lb n="7"/>
+<w xml:id="AM12-0421_31r.7.1">lad</w>
+<w xml:id="AM12-0421_31r.7.2">meg</w>
+<w xml:id="AM12-0421_31r.7.3">sta</w>
+<w xml:id="AM12-0421_31r.7.4">hooss.</w>
+<w xml:id="AM12-0421_31r.7.5">oc</w>
+<w xml:id="AM12-0421_31r.7.6">bere</w>
+<w xml:id="AM12-0421_31r.7.7">meth</w>
+<lb n="8"/>
+<w xml:id="AM12-0421_31r.8.1">teg.</w>
+<w xml:id="AM12-0421_31r.8.2">aff</w>
+<w xml:id="AM12-0421_31r.8.3">drøffwelsse</w>
+<w xml:id="AM12-0421_31r.8.4">slig.</w>
+<w xml:id="AM12-0421_31r.8.5">som</w>
+<w xml:id="AM12-0421_31r.8.6">tha</w>
+<lb n="9"/>
+<w xml:id="AM12-0421_31r.9.1">tyth</w>
+<w xml:id="AM12-0421_31r.9.2">hierthe</w>
+<w xml:id="AM12-0421_31r.9.3">gesthe.</w>
+<w xml:id="AM12-0421_31r.9.4"><hi rend="blue">O</hi></w>
+<w xml:id="AM12-0421_31r.9.5">jomffrw</w>
+<lb n="10"/>
+<w xml:id="AM12-0421_31r.10.1">claar.</w>
+<w xml:id="AM12-0421_31r.10.2">hanss</w>
+<w xml:id="AM12-0421_31r.10.3">korss</w>
+<w xml:id="AM12-0421_31r.10.4">oc</w>
+<w xml:id="AM12-0421_31r.10.5">saar.</w>
+<w xml:id="AM12-0421_31r.10.6">hans</w>
+<lb n="11"/>
+<w xml:id="AM12-0421_31r.11.1">død</w>
+<w xml:id="AM12-0421_31r.11.2">oc</w>
+<w xml:id="AM12-0421_31r.11.3">pyne.</w>
+<w xml:id="AM12-0421_31r.11.4">m<ex>et</ex></w>
+<w xml:id="AM12-0421_31r.11.5">stytthe</w>
+<w xml:id="AM12-0421_31r.11.6">oc</w>
+<w xml:id="AM12-0421_31r.11.7">lyme.</w>
+<lb n="12"/>
+<w xml:id="AM12-0421_31r.12.1">dw</w>
+<w xml:id="AM12-0421_31r.12.2">y<ex>n</ex>nen</w>
+<w xml:id="AM12-0421_31r.12.3">myth</w>
+<w xml:id="AM12-0421_31r.12.4">hierthe</w>
+<w xml:id="AM12-0421_31r.12.5">festhe</w>
+<w xml:id="AM12-0421_31r.12.6">~</w>
+<lb n="13"/>
+<w xml:id="AM12-0421_31r.13.1"><hi rend="gold">I</hi>eg</w>
+<w xml:id="AM12-0421_31r.13.2">wylle</w>
+<w xml:id="AM12-0421_31r.13.3">oc</w>
+<w xml:id="AM12-0421_31r.13.4">saa.</w>
+<w xml:id="AM12-0421_31r.13.5">motthe</w>
+<w xml:id="AM12-0421_31r.13.6">th<ex>et</ex></w>
+<w xml:id="AM12-0421_31r.13.7">sa</w>
+<lb n="14"/>
+<w xml:id="AM12-0421_31r.14.1">gaa.</w>
+<w xml:id="AM12-0421_31r.14.2">i</w>
+<w xml:id="AM12-0421_31r.14.3">hierthe</w>
+<w xml:id="AM12-0421_31r.14.4">oc</w>
+<w xml:id="AM12-0421_31r.14.5">brysth.</w>
+<w xml:id="AM12-0421_31r.14.6">fra</w>
+<w xml:id="AM12-0421_31r.14.7">hand</w>
+<lb n="15"/>
+<w xml:id="AM12-0421_31r.15.1">oc</w>
+<w xml:id="AM12-0421_31r.15.2">toopp.</w>
+<w xml:id="AM12-0421_31r.15.3">hans</w>
+<w xml:id="AM12-0421_31r.15.4">saar</w>
+<w xml:id="AM12-0421_31r.15.5">oc</w>
+<w xml:id="AM12-0421_31r.15.6">hyd</w>
+<w xml:id="AM12-0421_31r.15.7">strygh</w>
+<lb n="16"/>
+<w xml:id="AM12-0421_31r.16.1">bere.</w>
+<w xml:id="AM12-0421_31r.16.2"><hi rend="gold">I</hi>eg</w>
+<w xml:id="AM12-0421_31r.16.3">bedh<ex>e</ex>r</w>
+<w xml:id="AM12-0421_31r.16.4">tegh</w>
+<w xml:id="AM12-0421_31r.16.5">nw.</w>
+<w xml:id="AM12-0421_31r.16.6">aff</w>
+<lb n="17"/>
+<w xml:id="AM12-0421_31r.17.1">hierthe</w>
+<w xml:id="AM12-0421_31r.17.2">oc</w>
+<w xml:id="AM12-0421_31r.17.3">hw.</w>
+<w xml:id="AM12-0421_31r.17.4">paa</w>
+<w xml:id="AM12-0421_31r.17.5">strenghe</w>
+<w xml:id="AM12-0421_31r.17.6">dom.</w>
+<pb n="31v"/>
+<lb n="1"/>
+<w xml:id="AM12-0421_31v.1.1">thw</w>
+<w xml:id="AM12-0421_31v.1.2">tyl</w>
+<w xml:id="AM12-0421_31v.1.3">megh</w>
+<w xml:id="AM12-0421_31v.1.4">kom.</w>
+<w xml:id="AM12-0421_31v.1.5">myth</w>
+<w xml:id="AM12-0421_31v.1.6">forswar</w>
+<lb n="2"/>
+<w xml:id="AM12-0421_31v.2.1">tha</w>
+<w xml:id="AM12-0421_31v.2.2">ath</w>
+<w xml:id="AM12-0421_31v.2.3">ware.</w>
+<w xml:id="AM12-0421_31v.2.4"><hi rend="red">F</hi>ra</w>
+<w xml:id="AM12-0421_31v.2.5">dieffwel<lb n="3"/>sens</w>
+<w xml:id="AM12-0421_31v.3.2">swigh.</w>
+<w xml:id="AM12-0421_31v.3.3">thw</w>
+<w xml:id="AM12-0421_31v.3.4">frelsth</w>
+<w xml:id="AM12-0421_31v.3.5">tha</w>
+<w xml:id="AM12-0421_31v.3.6">megh.</w>
+<lb n="4"/>
+<w xml:id="AM12-0421_31v.4.1">lad</w>
+<w xml:id="AM12-0421_31v.4.2">hannw<ex>m</ex></w>
+<w xml:id="AM12-0421_31v.4.3">ey</w>
+<w xml:id="AM12-0421_31v.4.4">tha.</w>
+<w xml:id="AM12-0421_31v.4.5">macth</w>
+<w xml:id="AM12-0421_31v.4.6">meth</w>
+<lb n="5"/>
+<w xml:id="AM12-0421_31v.5.1">megh</w>
+<w xml:id="AM12-0421_31v.5.2">ffaa.</w>
+<w xml:id="AM12-0421_31v.5.3">for</w>
+<w xml:id="AM12-0421_31v.5.4">thyn</w>
+<w xml:id="AM12-0421_31v.5.5">myskwnd</w>
+<w xml:id="AM12-0421_31v.5.6">oc</w>
+<lb n="6"/>
+<w xml:id="AM12-0421_31v.6.1">nadhe.</w>
+<w xml:id="AM12-0421_31v.6.2"><hi rend="blue">O</hi></w>
+<w xml:id="AM12-0421_31v.6.3">myldhe</w>
+<w xml:id="AM12-0421_31v.6.4">mø.</w>
+<w xml:id="AM12-0421_31v.6.5">naar</w>
+<w xml:id="AM12-0421_31v.6.6">jeg</w>
+<lb n="7"/>
+<w xml:id="AM12-0421_31v.7.1">skal</w>
+<w xml:id="AM12-0421_31v.7.2">dø.</w>
+<w xml:id="AM12-0421_31v.7.3">gack</w>
+<w xml:id="AM12-0421_31v.7.4">for</w>
+<w xml:id="AM12-0421_31v.7.5">tyn</w>
+<w xml:id="AM12-0421_31v.7.6">søn.</w>
+<w xml:id="AM12-0421_31v.7.7">medh</w>
+<lb n="8"/>
+<w xml:id="AM12-0421_31v.8.1">modh<ex>e</ex>rlig</w>
+<w xml:id="AM12-0421_31v.8.2">bøn.</w>
+<w xml:id="AM12-0421_31v.8.3">oc</w>
+<w xml:id="AM12-0421_31v.8.4">frelss</w>
+<w xml:id="AM12-0421_31v.8.5">my<ex>n</ex></w>
+<w xml:id="AM12-0421_31v.8.6">siel</w>
+<w xml:id="AM12-0421_31v.8.7">aff</w>
+<lb n="9"/>
+<w xml:id="AM12-0421_31v.9.1">waadhe</w>
+<w xml:id="AM12-0421_31v.9.2">Ame<ex>n</ex></w>
+</p>
+</div>
+</body>
+</text>
+</TEI>
