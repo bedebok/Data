@@ -26,13 +26,13 @@
 <msContents>
 <msItem class="prayer" n="1">
 <locus from="1r" to="4r" corresp="AM04-0782_001r" />
-<title>ADVENT_1</title>
+<title key="[[file:/Prayers/org/AM08-0782_001r.org][ADVENT_1]]">A prayer for the first Sunday in Advent</title>
 <rubric>Jtem hær effther fylligher en bøn tw skalth læsse førsthe søndagh y adwent før jwll Och er th<ex>et</ex> th<ex>e</ex>n førstæ søndagh som ko<ex>m</ex>mer effth<ex>e</ex>r s<ex>anc</ex>te andras dag</rubric>
 <incipit></incipit>
 </msItem>
 <msItem class="prayer" n="2">
 <locus from="4r" to="undefined"/>
-<title>ADVENT_ALL</title>
+<title key="ADVENT_ALL">A prayer for every day in Advent</title>
 <rubric>Jtem her efft<ex>e</ex>r ffølger en bøn tw skall læse hwer dag y adventh</rubric>
 <incipit></incipit>
 </msItem>
@@ -104,7 +104,7 @@
 </msItem>
 <msItem class="undefined" n="15">
 <locus from="22r" to="22v"/>
-<title>ADVENT_3</title>
+<title key="ADVENT_3">A prayer for the third Sunday in Advent</title>
 <rubric>Jtem her effth<ex>e</ex>r følg<ex>e</ex>r en bøn tw skalt læsse th<ex>e</ex>n tredie søndag i aduent faare Jwll <ex>et cetera</ex></rubric>
 <incipit></incipit>
 </msItem>
@@ -130,14 +130,14 @@
 </msItem>
 <msItem class="undefined" n="20">
 <locus from="23v" to="24v"/>
-<title>LUCIA</title>
+<title key="LUCIA">A prayer to St. Lucia</title>
 <rubric>En bøn aff th<ex>e</ex>n hellige jomfrw sancta lucia [...]</rubric>
 <incipit><hi>O</hi> Thw ædelige palma</incipit>
 <textLang mainLang="da"/>
 </msItem>
 <msItem class="undefined" n="21">
 <locus from="24v" to="undefined"/>
-<title>THOMAS</title>
+<title key="THOMAS">A prayer to St. Thomas</title>
 <rubric>En bøn af s<ex>anc</ex>te Tomes ap<ex>oste</ex>l er ha<ex>n</ex>s daw iij dagen fore jwle daw</rubric>
 <incipit><hi>T</hi>eg vær<ex>e</ex> lof</incipit>
 </msItem>
@@ -359,7 +359,7 @@
 </msItem>
 <msItem class="undefined" n="94">
 <locus from="77r" to="undefined"/>
-<title>OSWALD</title>
+<title/>
 </msItem>
 <msItem class="undefined" n="95">
 <locus from="77v" to="undefined"/>
@@ -367,7 +367,7 @@
 </msItem>
 <msItem class="undefined" n="96">
 <locus from="78r" to="undefined"/>
-<title>GABRIEL</title>
+<title/>
 </msItem>
 <msItem class="undefined" n="97">
 <locus from="78v" to="undefined"/>
@@ -422,7 +422,7 @@
 </msItem>
 <msItem class="prayer" n="113">
 <locus from="91r" to="92r" corresp="AM04-0782_091r" />
-<title>LENT_ALL</title>
+<title/>
 <rubric>It<ex>e</ex>m eynen beth de ga<ex>n</ex>zen vasten ower alle dage to bedende</rubric>
 <incipit><hi>O</hi> ewige here vth der groten dwpe</incipit>
 <explicit>in dat ewigen lewend aller vroude Amen p<ex>ate</ex>r n<ex>oste</ex>r ame<ex>n</ex></explicit>
