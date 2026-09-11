@@ -2,15 +2,15 @@
 A fifteenth century book of hours in Low German commissioned by the Count of Oldenburg.
 
 * PhysDesc
-|--------------+--------|
-| SUPPORT      | perg   |
-| NUMBER       | 87     |
-| SIZE         | 122 87 |
-| WRITING AREA | 80 60  |
-| COLUMNS      | 1      |
-| LINES        | 14 15  |
-| FOLIATION    | fol    |
-|--------------+--------|
+|--------------+------------|
+| SUPPORT      | perg       |
+| NUMBER       | i + 87 + i |
+| SIZE         | 122 87     |
+| WRITING AREA | 80 60      |
+| COLUMNS      | 1          |
+| LINES        | 14 15      |
+| FOLIATION    | fol        |
+|--------------+------------|
 
 ** Binding
 |------+-----------------|
@@ -31,7 +31,7 @@ A fifteenth century book of hours in Low German commissioned by the Count of Old
 | VI    |  50-59 | quinternion |          |
 | VII   |  60-69 | quinternion |          |
 | VIII  |  70-79 | quinternion |          |
-| IX    | 80-fly | quinternion |          |
+| IX    |  80-87 | quaternion  |          |
 |-------+--------+-------------+----------|
 * History
 |------------+---------------|

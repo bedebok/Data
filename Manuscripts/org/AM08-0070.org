@@ -43,15 +43,16 @@ A copy of [[BIRGITTA][St. Bridget]] of Sweden's /Cantus Sororum/ in Low German. 
 |       |  144-153 | quinternion |                                                    |
 |       |  154-163 | quinternion |                                                    |
 |       |  164-172 | quinternion | pages missing after 172                            |
-|       |  173-181 | quinternion | (catchword)                                        |
+|       |  173-181 | quinternion | 176bis (catchword)                                 |
 |       |  182-191 | quinternion | (catchword)                                        |
 |       |  192-201 | quinternion | (catchword)                                        |
 |       |  202-211 | quinternion | (catchword)                                        |
 |       |  212-220 | quinternion | page missing after 219 (catchword)                 |
 |       |  221-230 | quinternion | (catchword)                                        |
-|       |  231-240 | quinternion |                                                    |
+|       |  231-240 | quinternion | (catchword matches)                                |
 |       | 241-253? |             |                                                    |
-|       |  254-257 |             | Added later                                        |
+|       |  254-255 | bifolium    | Added later                                        |
+|       |      256 |             |                                                    |
 |-------+----------+-------------+----------------------------------------------------|
 
 
