@@ -379,7 +379,7 @@ vn(de) vorvulle de herte
 
 der louigen vn(de) entfenge
 
-mene dat vur diner leue
+in ene dat vur diner leue
 
 De du dat volck heuest
 
@@ -575,7 +575,7 @@ geiste [[red][A]]lso id was
 *** rubric
 psalmus
 
-*** text
+*** text                                                            :Psalm15:
 
 [[red 2][H]]Ere we mach werdichli-
 
@@ -651,7 +651,88 @@ uth doeit vppe woker vnde
 
 de uyne gaue nympt auer
 
-de vnschuldighen [[red][D]]e dess-
+de vnschuldighen [[red][D]]e dess
 
 ---10v---
 
+stucke helt de wert uth \des/ heren
+
+tafelen nicht gewiset vn(de) uth
+
+der he(m)melschen samelinghe
+
+[[blue][E]]re si dem vader vn(de) dem sone
+
+vn(de) dem hilghen geiste [[red][O]] hil-
+
+lighe geist kum vn(de) vorvulle
+
+de herte diner gelouinghe(n) vnd[e]
+
+entfenghe in ene \dat uur/ diner leue
+
+De du dat uolk heuest gesam-
+
+melt van me(n)nigherleie tun-
+
+ghen in de euicheit des gelo-
+
+uen Here vorbarme di Criste
+
+vorbarme di Here vorbarme
+
+di [[blue][P]]ater noster Aue maria
+
+Et ne uos inducas [[red][G]]ot be-
+
+---11r---
+
+stedighe sine gnade in vns
+
+God scippe in my eyn reine
+
+herte vn(de) vornye in my ene(n)
+
+luttere(n) geist [[blue][C]]redo in deum
+
+Ick loue in god Vorwerp my
+
+nicht van dine(n) gotliken an-
+
+gesichte vn(de) nym ock nicht
+
+van my dine(n) hillige(n) geist
+
+[[red][G]]if my wedder de vroude di-
+
+nes heiles vn(de) bestedige m[it/y]
+
+m[y/it] deme vostliken hilgen
+
+geist [[blue][O]] here wes vns eyn
+
+torne der stercke vor dem ant-
+
+late des viandes Here twy-
+
+de myn beth vn(de) myn rope(n)t 
+
+---11v---
+
+*** rubric
+Collecta
+
+*** text
+[[blue 2][O]] leue here wi
+
+bidden di dat de inge-
+
+tynghe des hillige(n) geistes vn-
+
+se herte reynighe Vnde ma-
+
+ke dat vruchtbar mit der in-
+
+wendighen besprenginge
+
+siner gnaden 
