@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GKS08-3423_020r" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A prayer to Christ (indulgences)</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="KBK"/>
+<idno corresp="GKS08-3423">GKS 3423 8vo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="20r" to="20r"/>
+<title key="#other">A prayer to Christ (indulgences)</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="20r"/>
+<div type="rubric">
+<p>
+<w xml:id="GKS08-3423_20r.1.1"><name key="SIXTUS">Sixtus</name></w>
+<w xml:id="GKS08-3423_20r.1.2">de</w>
+<w xml:id="GKS08-3423_20r.1.3">pawes</w>
+<w xml:id="GKS08-3423_20r.1.4">gift</w>
+<w xml:id="GKS08-3423_20r.1.5">al</w>
+<w xml:id="GKS08-3423_20r.1.6">den</w>
+<w xml:id="GKS08-3423_20r.1.7">gen<lb n="2"/>nen</w>
+<w xml:id="GKS08-3423_20r.2.2">de</w>
+<w xml:id="GKS08-3423_20r.2.3">dit</w>
+<w xml:id="GKS08-3423_20r.2.4">bet</w>
+<w xml:id="GKS08-3423_20r.2.5">lesen</w>
+<w xml:id="GKS08-3423_20r.2.6">vor</w>
+<w xml:id="GKS08-3423_20r.2.7">der</w>
+<w xml:id="GKS08-3423_20r.2.8">figuro<ex>m</ex></w>
+<lb n="3"/>
+<w xml:id="GKS08-3423_20r.3.1">des</w>
+<w xml:id="GKS08-3423_20r.3.2">namen</w>
+<w xml:id="GKS08-3423_20r.3.3">ih<ex>esu</ex>s</w>
+<w xml:id="GKS08-3423_20r.3.4">in</w>
+<w xml:id="GKS08-3423_20r.3.5">der</w>
+<w xml:id="GKS08-3423_20r.3.6">summe<ex>n</ex></w>
+<w xml:id="GKS08-3423_20r.3.7">xi m</w>
+<lb n="4"/>
+<w xml:id="GKS08-3423_20r.4.1">iar</w>
+<w xml:id="GKS08-3423_20r.4.2">aflates</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="6"/>
+<w xml:id="GKS08-3423_20r.6.1">Wes</w>
+<w xml:id="GKS08-3423_20r.6.2">gegrotet</w>
+<w xml:id="GKS08-3423_20r.6.3">O</w>
+<w xml:id="GKS08-3423_20r.6.4">gude</w>
+<w xml:id="GKS08-3423_20r.6.5">ih<ex>es</ex>u.</w>
+<lb n="7"/>
+<w xml:id="GKS08-3423_20r.7.1">eyn</w>
+<w xml:id="GKS08-3423_20r.7.2">vorwy<ex>n</ex>ner</w>
+<w xml:id="GKS08-3423_20r.7.3">des</w>
+<w xml:id="GKS08-3423_20r.7.4">dodes.</w>
+<w xml:id="GKS08-3423_20r.7.5">ey<ex>n</ex></w>
+<lb n="8"/>
+<w xml:id="GKS08-3423_20r.8.1">mylde</w>
+<w xml:id="GKS08-3423_20r.8.2">gheuer</w>
+<w xml:id="GKS08-3423_20r.8.3">der</w>
+<w xml:id="GKS08-3423_20r.8.4">gnaden:</w>
+<lb n="9"/>
+<w xml:id="GKS08-3423_20r.9.1">ey<ex>n</ex></w>
+<w xml:id="GKS08-3423_20r.9.2">troster</w>
+<w xml:id="GKS08-3423_20r.9.3">aller</w>
+<w xml:id="GKS08-3423_20r.9.4">bedroueden</w>
+<lb n="10"/>
+<w xml:id="GKS08-3423_20r.10.1">herten.</w>
+<w xml:id="GKS08-3423_20r.10.2">Ghewerdighe</w>
+<w xml:id="GKS08-3423_20r.10.3">dy</w>
+<w xml:id="GKS08-3423_20r.10.4">my</w>
+<lb n="11"/>
+<w xml:id="GKS08-3423_20r.11.1">to</w>
+<w xml:id="GKS08-3423_20r.11.2">trostende</w>
+<w xml:id="GKS08-3423_20r.11.3">nach</w>
+<w xml:id="GKS08-3423_20r.11.4">dineme</w>
+<w xml:id="GKS08-3423_20r.11.5">al<lb n="12"/>derleuesten</w>
+<w xml:id="GKS08-3423_20r.12.2">willen</w>
+<w xml:id="GKS08-3423_20r.12.3">Amen</w>
+</p></div>
+<div type="rubric">
+<p>
+<lb n="14"/>
+<w xml:id="GKS08-3423_20r.14.1">Hyr</w>
+<w xml:id="GKS08-3423_20r.14.2">na</w>
+<w xml:id="GKS08-3423_20r.14.3">ey<ex>n</ex></w>
+<w xml:id="GKS08-3423_20r.14.4">pater</w>
+<w xml:id="GKS08-3423_20r.14.5">n<ex>oste</ex>r</w>
+<w xml:id="GKS08-3423_20r.14.6">to</w>
+<w xml:id="GKS08-3423_20r.14.7">lesende</w>
+<lb n="15"/>
+<w xml:id="GKS08-3423_20r.15.1">wert</w>
+<w xml:id="GKS08-3423_20r.15.2">delaftich</w>
+<w xml:id="GKS08-3423_20r.15.3">iiij<ex>c</ex></w>
+<w xml:id="GKS08-3423_20r.15.4">missen</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

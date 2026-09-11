@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="UUB-C496_091v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A rhymed prayer to the Virgin Mary</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="UPS"/>
+<repository key="UUB"/>
+<idno corresp="UUB-C496">C 496</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="91v" to="93r"/>
+<title key="#other">A rhymed prayer to the Virgin Mary</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="91v"/>
+<div type="rubric">
+<p>
+<w xml:id="UUB-C496_91v.20.1">Van</w>
+<w xml:id="UUB-C496_91v.20.2">sunte</w>
+<w xml:id="UUB-C496_91v.20.3">teophilus</w>
+<w xml:id="UUB-C496_91v.20.4">dar</w>
+<w xml:id="UUB-C496_91v.20.5">he</w>
+<w xml:id="UUB-C496_91v.20.6">mede</w>
+<w xml:id="UUB-C496_91v.20.7">to</w>
+<lb n="21"/>
+<w xml:id="UUB-C496_91v.21.1">gnaden</w>
+<w xml:id="UUB-C496_91v.21.2">quam</w>
+<w xml:id="UUB-C496_91v.21.3">do</w>
+<w xml:id="UUB-C496_91v.21.4">he</w>
+<w xml:id="UUB-C496_91v.21.5">sik</w>
+<w xml:id="UUB-C496_91v.21.6">dem</w>
+<w xml:id="UUB-C496_91v.21.7">duuele</w>
+<w xml:id="UUB-C496_91v.21.8">had<lb n="22"/>de</w>
+<w xml:id="UUB-C496_91v.22.2">gegeuen</w>
+<w xml:id="UUB-C496_91v.22.3">do</w>
+<w xml:id="UUB-C496_91v.22.4">las</w>
+<w xml:id="UUB-C496_91v.22.5">he</w>
+<w xml:id="UUB-C496_91v.22.6">dit</w>
+<w xml:id="UUB-C496_91v.22.7">nascreue<ex>n</ex></w>
+<w xml:id="UUB-C496_91v.22.8">bet</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="23"/>
+<w xml:id="UUB-C496_91v.23.1"><hi rend="red 2">G</hi>egrotet</w>
+<w xml:id="UUB-C496_91v.23.2">sistu</w>
+<w xml:id="UUB-C496_91v.23.3">maria</w>
+<w xml:id="UUB-C496_91v.23.4">moder</w>
+<w xml:id="UUB-C496_91v.23.5">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_91v.23.6">maget</w>
+<pb n="92r"/>
+<lb n="1"/>
+<w xml:id="UUB-C496_92r.1.1">De</w>
+<w xml:id="UUB-C496_92r.1.2">scrift</w>
+<w xml:id="UUB-C496_92r.1.3">heft</w>
+<w xml:id="UUB-C496_92r.1.4">vele</w>
+<w xml:id="UUB-C496_92r.1.5">van</w>
+<w xml:id="UUB-C496_92r.1.6">dy</w>
+<w xml:id="UUB-C496_92r.1.7">gesaget</w>
+<w xml:id="UUB-C496_92r.1.8">Ge<lb n="2"/>grotet</w>
+<w xml:id="UUB-C496_92r.2.2">sy</w>
+<w xml:id="UUB-C496_92r.2.3">dyn</w>
+<w xml:id="UUB-C496_92r.2.4">reyne</w>
+<w xml:id="UUB-C496_92r.2.5">kusche</w>
+<w xml:id="UUB-C496_92r.2.6">liff</w>
+<w xml:id="UUB-C496_92r.2.7">Du</w>
+<lb n="3"/>
+<w xml:id="UUB-C496_92r.3.1">bist</w>
+<w xml:id="UUB-C496_92r.3.2">gebenediet</w>
+<w xml:id="UUB-C496_92r.3.3">bouen</w>
+<w xml:id="UUB-C496_92r.3.4">alle</w>
+<w xml:id="UUB-C496_92r.3.5">wiff</w>
+<w xml:id="UUB-C496_92r.3.6">Du</w>
+<lb n="4"/>
+<w xml:id="UUB-C496_92r.4.1">bisst</w>
+<w xml:id="UUB-C496_92r.4.2">aller</w>
+<w xml:id="UUB-C496_92r.4.3">gnaden</w>
+<w xml:id="UUB-C496_92r.4.4">vul</w>
+<w xml:id="UUB-C496_92r.4.5">Do</w>
+<w xml:id="UUB-C496_92r.4.6">durch</w>
+<w xml:id="UUB-C496_92r.4.7">dyne</w>
+<lb n="5"/>
+<w xml:id="UUB-C496_92r.5.1">gude</w>
+<w xml:id="UUB-C496_92r.5.2">wol</w>
+<w xml:id="UUB-C496_92r.5.3">De</w>
+<w xml:id="UUB-C496_92r.5.4">duuel</w>
+<w xml:id="UUB-C496_92r.5.5">heuet</w>
+<w xml:id="UUB-C496_92r.5.6">my</w>
+<w xml:id="UUB-C496_92r.5.7">van</w>
+<w xml:id="UUB-C496_92r.5.8">hen<lb n="6"/>ne</w>
+<w xml:id="UUB-C496_92r.6.2">getogen</w>
+<w xml:id="UUB-C496_92r.6.3">Des</w>
+<w xml:id="UUB-C496_92r.6.4">byn</w>
+<w xml:id="UUB-C496_92r.6.5">ik</w>
+<w xml:id="UUB-C496_92r.6.6">wedder</w>
+<w xml:id="UUB-C496_92r.6.7">to</w>
+<w xml:id="UUB-C496_92r.6.8">dy</w>
+<lb n="7"/>
+<w xml:id="UUB-C496_92r.7.1">gevlogen</w>
+<w xml:id="UUB-C496_92r.7.2">O</w>
+<w xml:id="UUB-C496_92r.7.3">moder</w>
+<w xml:id="UUB-C496_92r.7.4">aller</w>
+<w xml:id="UUB-C496_92r.7.5">barmherti<lb n="8"/>cheit</w>
+<w xml:id="UUB-C496_92r.8.2">vorbarme</w>
+<w xml:id="UUB-C496_92r.8.3">dy</w>
+<w xml:id="UUB-C496_92r.8.4">ouer</w>
+<w xml:id="UUB-C496_92r.8.5">myn</w>
+<w xml:id="UUB-C496_92r.8.6">grote</w>
+<w xml:id="UUB-C496_92r.8.7">her<lb n="9"/>te</w>
+<w xml:id="UUB-C496_92r.9.2">leit</w>
+<w xml:id="UUB-C496_92r.9.3">Gegrotet</w>
+<w xml:id="UUB-C496_92r.9.4">sistu</w>
+<w xml:id="UUB-C496_92r.9.5">reyne</w>
+<w xml:id="UUB-C496_92r.9.6">kussche</w>
+<w xml:id="UUB-C496_92r.9.7">blo<lb n="10"/>me</w>
+<w xml:id="UUB-C496_92r.10.2">Du</w>
+<w xml:id="UUB-C496_92r.10.3">bist</w>
+<w xml:id="UUB-C496_92r.10.4">van</w>
+<w xml:id="UUB-C496_92r.10.5">allen</w>
+<w xml:id="UUB-C496_92r.10.6">vlecken</w>
+<w xml:id="UUB-C496_92r.10.7">schone</w>
+<lb n="11"/>
+<w xml:id="UUB-C496_92r.11.1">Du</w>
+<w xml:id="UUB-C496_92r.11.2">bist</w>
+<w xml:id="UUB-C496_92r.11.3">van</w>
+<w xml:id="UUB-C496_92r.11.4">also</w>
+<w xml:id="UUB-C496_92r.11.5">milder</w>
+<w xml:id="UUB-C496_92r.11.6">art</w>
+<w xml:id="UUB-C496_92r.11.7">dat</w>
+<w xml:id="UUB-C496_92r.11.8">ny</w>
+<lb n="12"/>
+<w xml:id="UUB-C496_92r.12.1">sundere</w>
+<w xml:id="UUB-C496_92r.12.2">van</w>
+<w xml:id="UUB-C496_92r.12.3">dy</w>
+<w xml:id="UUB-C496_92r.12.4">vordreuen</w>
+<w xml:id="UUB-C496_92r.12.5">wart</w>
+<w xml:id="UUB-C496_92r.12.6">De</w>
+<lb n="13"/>
+<w xml:id="UUB-C496_92r.13.1">dy</w>
+<w xml:id="UUB-C496_92r.13.2">ynnichliken</w>
+<w xml:id="UUB-C496_92r.13.3">anrepe</w>
+<w xml:id="UUB-C496_92r.13.4">Dyne</w>
+<w xml:id="UUB-C496_92r.13.5">barm<lb n="14"/>herticheit</w>
+<w xml:id="UUB-C496_92r.14.2">is</w>
+<w xml:id="UUB-C496_92r.14.3">so</w>
+<w xml:id="UUB-C496_92r.14.4">depe</w>
+<w xml:id="UUB-C496_92r.14.5">O</w>
+<w xml:id="UUB-C496_92r.14.6">ioncfrouwe</w>
+<w xml:id="UUB-C496_92r.14.7">ro<lb n="15"/>ke</w>
+<w xml:id="UUB-C496_92r.15.2">myner</w>
+<w xml:id="UUB-C496_92r.15.3">not</w>
+<w xml:id="UUB-C496_92r.15.4">Wente</w>
+<w xml:id="UUB-C496_92r.15.5">ik</w>
+<w xml:id="UUB-C496_92r.15.6">my</w>
+<w xml:id="UUB-C496_92r.15.7">myner</w>
+<lb n="16"/>
+<w xml:id="UUB-C496_92r.16.1">sunde</w>
+<w xml:id="UUB-C496_92r.16.2">sere</w>
+<w xml:id="UUB-C496_92r.16.3">schemen</w>
+<w xml:id="UUB-C496_92r.16.4">mot</w>
+<w xml:id="UUB-C496_92r.16.5">Vor</w>
+<w xml:id="UUB-C496_92r.16.6">dy</w>
+<w xml:id="UUB-C496_92r.16.7">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_92r.16.8">dy<lb n="17"/>neme</w>
+<w xml:id="UUB-C496_92r.17.2">leuen</w>
+<w xml:id="UUB-C496_92r.17.3">kynde</w>
+<w xml:id="UUB-C496_92r.17.4">Help</w>
+<w xml:id="UUB-C496_92r.17.5">my</w>
+<w xml:id="UUB-C496_92r.17.6">dat</w>
+<w xml:id="UUB-C496_92r.17.7">ik</w>
+<lb n="18"/>
+<w xml:id="UUB-C496_92r.18.1">gnade</w>
+<w xml:id="UUB-C496_92r.18.2">by</w>
+<w xml:id="UUB-C496_92r.18.3">dy</w>
+<w xml:id="UUB-C496_92r.18.4">vynde</w>
+<w xml:id="UUB-C496_92r.18.5">Dyn</w>
+<w xml:id="UUB-C496_92r.18.6">kynt</w>
+<w xml:id="UUB-C496_92r.18.7">vor</w>
+<w xml:id="UUB-C496_92r.18.8">vns</w>
+<lb n="19"/>
+<w xml:id="UUB-C496_92r.19.1">in</w>
+<w xml:id="UUB-C496_92r.19.2">dem</w>
+<w xml:id="UUB-C496_92r.19.3">cruce</w>
+<w xml:id="UUB-C496_92r.19.4">starff</w>
+<w xml:id="UUB-C496_92r.19.5">Synes</w>
+<w xml:id="UUB-C496_92r.19.6">he<ex>m</ex>melschen</w>
+<lb n="20"/>
+<w xml:id="UUB-C496_92r.20.1">vaders</w>
+<w xml:id="UUB-C496_92r.20.2">hulde</w>
+<w xml:id="UUB-C496_92r.20.3">he</w>
+<w xml:id="UUB-C496_92r.20.4">vns</w>
+<w xml:id="UUB-C496_92r.20.5">vorwarff</w>
+<w xml:id="UUB-C496_92r.20.6">De</w>
+<w xml:id="UUB-C496_92r.20.7">ik</w>
+<lb n="21"/>
+<w xml:id="UUB-C496_92r.21.1">so</w>
+<w xml:id="UUB-C496_92r.21.2">dicke</w>
+<w xml:id="UUB-C496_92r.21.3">hebbe</w>
+<w xml:id="UUB-C496_92r.21.4">vorloren</w>
+<w xml:id="UUB-C496_92r.21.5">Jk</w>
+<w xml:id="UUB-C496_92r.21.6">byn</w>
+<w xml:id="UUB-C496_92r.21.7">also</w>
+<lb n="22"/>
+<w xml:id="UUB-C496_92r.22.1">in</w>
+<w xml:id="UUB-C496_92r.22.2">den</w>
+<w xml:id="UUB-C496_92r.22.3">sunden</w>
+<w xml:id="UUB-C496_92r.22.4">geboren</w>
+<w xml:id="UUB-C496_92r.22.5">Jk</w>
+<w xml:id="UUB-C496_92r.22.6">hebbe</w>
+<w xml:id="UUB-C496_92r.22.7">me<ex>n</ex><lb n="23"/>nich</w>
+<w xml:id="UUB-C496_92r.23.2">Jar</w>
+<w xml:id="UUB-C496_92r.23.3">in</w>
+<w xml:id="UUB-C496_92r.23.4">den</w>
+<w xml:id="UUB-C496_92r.23.5">sunden</w>
+<w xml:id="UUB-C496_92r.23.6">geleuet</w>
+<w xml:id="UUB-C496_92r.23.7">Dar</w>
+<pb n="92v"/>
+<lb n="1"/>
+<w xml:id="UUB-C496_92v.1.1">vor</w>
+<w xml:id="UUB-C496_92v.1.2">myn</w>
+<w xml:id="UUB-C496_92v.1.3">herte</w>
+<w xml:id="UUB-C496_92v.1.4">sere</w>
+<w xml:id="UUB-C496_92v.1.5">beuet</w>
+<w xml:id="UUB-C496_92v.1.6">Dat</w>
+<w xml:id="UUB-C496_92v.1.7">rouwet</w>
+<lb n="2"/>
+<w xml:id="UUB-C496_92v.2.1">my</w>
+<w xml:id="UUB-C496_92v.2.2">sere</w>
+<w xml:id="UUB-C496_92v.2.3">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_92v.2.4">is</w>
+<w xml:id="UUB-C496_92v.2.5">my</w>
+<w xml:id="UUB-C496_92v.2.6">leit</w>
+<w xml:id="UUB-C496_92v.2.7">Vorbarme</w>
+<w xml:id="UUB-C496_92v.2.8">dy</w>
+<lb n="3"/>
+<w xml:id="UUB-C496_92v.3.1">moder</w>
+<w xml:id="UUB-C496_92v.3.2">aller</w>
+<w xml:id="UUB-C496_92v.3.3">barmherticheit</w>
+<w xml:id="UUB-C496_92v.3.4">God</w>
+<w xml:id="UUB-C496_92v.3.5">is</w>
+<lb n="4"/>
+<w xml:id="UUB-C496_92v.4.1">vor</w>
+<w xml:id="UUB-C496_92v.4.2">vns</w>
+<w xml:id="UUB-C496_92v.4.3">mynsche</w>
+<w xml:id="UUB-C496_92v.4.4">worden</w>
+<w xml:id="UUB-C496_92v.4.5">Vn<ex>de</ex></w>
+<w xml:id="UUB-C496_92v.4.6">is</w>
+<w xml:id="UUB-C496_92v.4.7">vor</w>
+<lb n="5"/>
+<w xml:id="UUB-C496_92v.5.1">vns</w>
+<w xml:id="UUB-C496_92v.5.2">sundere</w>
+<w xml:id="UUB-C496_92v.5.3">gestorue<ex>n</ex></w>
+<w xml:id="UUB-C496_92v.5.4">He</w>
+<w xml:id="UUB-C496_92v.5.5">heuet</w>
+<w xml:id="UUB-C496_92v.5.6">geke<lb n="6"/>ret</w>
+<w xml:id="UUB-C496_92v.6.2">vnse</w>
+<w xml:id="UUB-C496_92v.6.3">schult</w>
+<w xml:id="UUB-C496_92v.6.4">Dar</w>
+<w xml:id="UUB-C496_92v.6.5">v<ex>m</ex>me</w>
+<w xml:id="UUB-C496_92v.6.6">schaltu</w>
+<w xml:id="UUB-C496_92v.6.7">wen</w>
+<lb n="7"/>
+<w xml:id="UUB-C496_92v.7.1">du</w>
+<w xml:id="UUB-C496_92v.7.2">wult</w>
+<w xml:id="UUB-C496_92v.7.3">Vns</w>
+<w xml:id="UUB-C496_92v.7.4">de</w>
+<w xml:id="UUB-C496_92v.7.5">hulde</w>
+<w xml:id="UUB-C496_92v.7.6">wedder</w>
+<w xml:id="UUB-C496_92v.7.7">geuen</w>
+<lb n="8"/>
+<w xml:id="UUB-C496_92v.8.1">Dar</w>
+<w xml:id="UUB-C496_92v.8.2">ik</w>
+<w xml:id="UUB-C496_92v.8.3">so</w>
+<w xml:id="UUB-C496_92v.8.4">dicke</w>
+<w xml:id="UUB-C496_92v.8.5">byn</w>
+<w xml:id="UUB-C496_92v.8.6">aff</w>
+<w xml:id="UUB-C496_92v.8.7">gedreuen</w>
+<lb n="9"/>
+<w xml:id="UUB-C496_92v.9.1">Hebbe</w>
+<w xml:id="UUB-C496_92v.9.2">wy</w>
+<w xml:id="UUB-C496_92v.9.3">se</w>
+<w xml:id="UUB-C496_92v.9.4">vorloren</w>
+<w xml:id="UUB-C496_92v.9.5">du</w>
+<w xml:id="UUB-C496_92v.9.6">heuest</w>
+<w xml:id="UUB-C496_92v.9.7">se</w>
+<lb n="10"/>
+<w xml:id="UUB-C496_92v.10.1">vunden</w>
+<w xml:id="UUB-C496_92v.10.2">Du</w>
+<w xml:id="UUB-C496_92v.10.3">bist</w>
+<w xml:id="UUB-C496_92v.10.4">myt</w>
+<w xml:id="UUB-C496_92v.10.5">rechte</w>
+<w xml:id="UUB-C496_92v.10.6">dar</w>
+<w xml:id="UUB-C496_92v.10.7">to</w>
+<lb n="11"/>
+<w xml:id="UUB-C496_92v.11.1">vorbunden</w>
+<w xml:id="UUB-C496_92v.11.2">Dat</w>
+<w xml:id="UUB-C496_92v.11.3">du</w>
+<w xml:id="UUB-C496_92v.11.4">vns</w>
+<w xml:id="UUB-C496_92v.11.5">in</w>
+<w xml:id="UUB-C496_92v.11.6">nenen</w>
+<w xml:id="UUB-C496_92v.11.7">no<lb n="12"/>den</w>
+<w xml:id="UUB-C496_92v.12.2">aff</w>
+<w xml:id="UUB-C496_92v.12.3">en</w>
+<w xml:id="UUB-C496_92v.12.4">staest</w>
+<w xml:id="UUB-C496_92v.12.5">Wente</w>
+<w xml:id="UUB-C496_92v.12.6">du</w>
+<w xml:id="UUB-C496_92v.12.7">by</w>
+<w xml:id="UUB-C496_92v.12.8">den</w>
+<w xml:id="UUB-C496_92v.12.9">sun<lb n="13"/>deren</w>
+<w xml:id="UUB-C496_92v.13.2">so</w>
+<w xml:id="UUB-C496_92v.13.3">grote</w>
+<w xml:id="UUB-C496_92v.13.4">ere</w>
+<w xml:id="UUB-C496_92v.13.5">haest</w>
+<w xml:id="UUB-C496_92v.13.6">O</w>
+<w xml:id="UUB-C496_92v.13.7">du</w>
+<w xml:id="UUB-C496_92v.13.8">vrouden</w>
+<lb n="14"/>
+<w xml:id="UUB-C496_92v.14.1">vul</w>
+<w xml:id="UUB-C496_92v.14.2">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_92v.14.3">gnaden</w>
+<w xml:id="UUB-C496_92v.14.4">rike</w>
+<w xml:id="UUB-C496_92v.14.5">Jndeme</w>
+<w xml:id="UUB-C496_92v.14.6">he<ex>m</ex>mele</w>
+<lb n="15"/>
+<w xml:id="UUB-C496_92v.15.1">en</w>
+<w xml:id="UUB-C496_92v.15.2">is</w>
+<w xml:id="UUB-C496_92v.15.3">nicht</w>
+<w xml:id="UUB-C496_92v.15.4">dyn</w>
+<w xml:id="UUB-C496_92v.15.5">gelike</w>
+<w xml:id="UUB-C496_92v.15.6">De</w>
+<w xml:id="UUB-C496_92v.15.7">vns</w>
+<w xml:id="UUB-C496_92v.15.8">vor</w>
+<lb n="16"/>
+<w xml:id="UUB-C496_92v.16.1">gode</w>
+<w xml:id="UUB-C496_92v.16.2">also</w>
+<w xml:id="UUB-C496_92v.16.3">nutte</w>
+<w xml:id="UUB-C496_92v.16.4">sy</w>
+<w xml:id="UUB-C496_92v.16.5">Also</w>
+<w xml:id="UUB-C496_92v.16.6">du</w>
+<w xml:id="UUB-C496_92v.16.7">ioncfrouwe</w>
+<lb n="17"/>
+<w xml:id="UUB-C496_92v.17.1">van</w>
+<w xml:id="UUB-C496_92v.17.2">sunden</w>
+<w xml:id="UUB-C496_92v.17.3">vry</w>
+<w xml:id="UUB-C496_92v.17.4">Du</w>
+<w xml:id="UUB-C496_92v.17.5">bist</w>
+<w xml:id="UUB-C496_92v.17.6">ene</w>
+<w xml:id="UUB-C496_92v.17.7">rose</w>
+<w xml:id="UUB-C496_92v.17.8">al</w>
+<lb n="18"/>
+<w xml:id="UUB-C496_92v.18.1">sunder</w>
+<w xml:id="UUB-C496_92v.18.2">dorn</w>
+<w xml:id="UUB-C496_92v.18.3">Du</w>
+<w xml:id="UUB-C496_92v.18.4">kanst</w>
+<w xml:id="UUB-C496_92v.18.5">wol</w>
+<w xml:id="UUB-C496_92v.18.6">stillen</w>
+<w xml:id="UUB-C496_92v.18.7">go<lb n="19"/>des</w>
+<w xml:id="UUB-C496_92v.19.2">torn</w>
+<w xml:id="UUB-C496_92v.19.3">Du</w>
+<w xml:id="UUB-C496_92v.19.4">bist</w>
+<w xml:id="UUB-C496_92v.19.5">in</w>
+<w xml:id="UUB-C496_92v.19.6">allen</w>
+<w xml:id="UUB-C496_92v.19.7">dogeden</w>
+<lb n="20"/>
+<w xml:id="UUB-C496_92v.20.1">vullenkomen</w>
+<w xml:id="UUB-C496_92v.20.2">Werff</w>
+<w xml:id="UUB-C496_92v.20.3">by</w>
+<w xml:id="UUB-C496_92v.20.4">dyneme</w>
+<w xml:id="UUB-C496_92v.20.5">kyn<lb n="21"/>de</w>
+<w xml:id="UUB-C496_92v.21.2">vnsen</w>
+<w xml:id="UUB-C496_92v.21.3">vromen</w>
+<w xml:id="UUB-C496_92v.21.4">Wente</w>
+<w xml:id="UUB-C496_92v.21.5">du</w>
+<w xml:id="UUB-C496_92v.21.6">by</w>
+<w xml:id="UUB-C496_92v.21.7">gode</w>
+<lb n="22"/>
+<w xml:id="UUB-C496_92v.22.1">so</w>
+<w xml:id="UUB-C496_92v.22.2">mechtich</w>
+<w xml:id="UUB-C496_92v.22.3">bist</w>
+<w xml:id="UUB-C496_92v.22.4">So</w>
+<w xml:id="UUB-C496_92v.22.5">bidde</w>
+<w xml:id="UUB-C496_92v.22.6">vor</w>
+<w xml:id="UUB-C496_92v.22.7">my</w>
+<lb n="23"/>
+<w xml:id="UUB-C496_92v.23.1">vnsen</w>
+<w xml:id="UUB-C496_92v.23.2">leuen</w>
+<w xml:id="UUB-C496_92v.23.3">heren</w>
+<w xml:id="UUB-C496_92v.23.4">ihesum</w>
+<w xml:id="UUB-C496_92v.23.5">crist</w>
+<w xml:id="UUB-C496_92v.23.6">He</w>
+<w xml:id="UUB-C496_92v.23.7">is</w>
+<pb n="93r"/>
+<lb n="1"/>
+<w xml:id="UUB-C496_93r.1.1">in</w>
+<w xml:id="UUB-C496_93r.1.2">der</w>
+<w xml:id="UUB-C496_93r.1.3">mynscheit</w>
+<w xml:id="UUB-C496_93r.1.4">vnse</w>
+<w xml:id="UUB-C496_93r.1.5">broder</w>
+<w xml:id="UUB-C496_93r.1.6">Du</w>
+<w xml:id="UUB-C496_93r.1.7">bist</w>
+<lb n="2"/>
+<w xml:id="UUB-C496_93r.2.1">vnser</w>
+<w xml:id="UUB-C496_93r.2.2">twier</w>
+<w xml:id="UUB-C496_93r.2.3">moder</w>
+<w xml:id="UUB-C496_93r.2.4">So</w>
+<w xml:id="UUB-C496_93r.2.5">is</w>
+<w xml:id="UUB-C496_93r.2.6">dat</w>
+<w xml:id="UUB-C496_93r.2.7">ener</w>
+<lb n="3"/>
+<w xml:id="UUB-C496_93r.3.1">guden</w>
+<w xml:id="UUB-C496_93r.3.2">moder</w>
+<w xml:id="UUB-C496_93r.3.3">sede</w>
+<w xml:id="UUB-C496_93r.3.4">Dat</w>
+<w xml:id="UUB-C496_93r.3.5">se</w>
+<w xml:id="UUB-C496_93r.3.6">make</w>
+<w xml:id="UUB-C496_93r.3.7">tus<lb n="4"/>schen</w>
+<w xml:id="UUB-C496_93r.4.2">eren</w>
+<w xml:id="UUB-C496_93r.4.3">kynderen</w>
+<w xml:id="UUB-C496_93r.4.4">steden</w>
+<w xml:id="UUB-C496_93r.4.5">vrede</w>
+<w xml:id="UUB-C496_93r.4.6">Nw</w>
+<lb n="5"/>
+<w xml:id="UUB-C496_93r.5.1">so</w>
+<w xml:id="UUB-C496_93r.5.2">help</w>
+<w xml:id="UUB-C496_93r.5.3">my</w>
+<w xml:id="UUB-C496_93r.5.4">leue</w>
+<w xml:id="UUB-C496_93r.5.5">ioncfrouwe</w>
+<w xml:id="UUB-C496_93r.5.6">Vn<ex>de</ex></w>
+<w xml:id="UUB-C496_93r.5.7">vor<lb n="6"/>werff</w>
+<w xml:id="UUB-C496_93r.6.2">my</w>
+<w xml:id="UUB-C496_93r.6.3">rechte</w>
+<w xml:id="UUB-C496_93r.6.4">bekantenisse</w>
+<w xml:id="UUB-C496_93r.6.5">vn<ex>de</ex></w>
+<lb n="7"/>
+<w xml:id="UUB-C496_93r.7.1">ware</w>
+<w xml:id="UUB-C496_93r.7.2">ruwe</w>
+<w xml:id="UUB-C496_93r.7.3">Dat</w>
+<w xml:id="UUB-C496_93r.7.4">ik</w>
+<w xml:id="UUB-C496_93r.7.5">de</w>
+<w xml:id="UUB-C496_93r.7.6">gnade</w>
+<w xml:id="UUB-C496_93r.7.7">mote</w>
+<lb n="8"/>
+<w xml:id="UUB-C496_93r.8.1">wedder</w>
+<w xml:id="UUB-C496_93r.8.2">krygen</w>
+<w xml:id="UUB-C496_93r.8.3">Dynes</w>
+<w xml:id="UUB-C496_93r.8.4">loues</w>
+<w xml:id="UUB-C496_93r.8.5">en</w>
+<w xml:id="UUB-C496_93r.8.6">wil</w>
+<lb n="9"/>
+<w xml:id="UUB-C496_93r.9.1">ik</w>
+<w xml:id="UUB-C496_93r.9.2">nu<ex>m</ex>mer</w>
+<w xml:id="UUB-C496_93r.9.3">mere</w>
+<w xml:id="UUB-C496_93r.9.4">swigen</w>
+<w xml:id="UUB-C496_93r.9.5">AmeN</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

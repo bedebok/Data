@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GKS08-3423_103v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A prayer to the Face of Christ</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="KBK"/>
+<idno corresp="GKS08-3423">GKS 3423 8vo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="103v" to="104v"/>
+<title key="#other">A prayer to the Face of Christ</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="103v"/>
+<div type="rubric">
+<p>
+<w xml:id="GKS08-3423_103v.9.1">Eyn</w>
+<w xml:id="GKS08-3423_103v.9.2">beth</w>
+<w xml:id="GKS08-3423_103v.9.3">van</w>
+<w xml:id="GKS08-3423_103v.9.4">deme</w>
+<w xml:id="GKS08-3423_103v.9.5">ant<lb n="10"/>lathe</w>
+<w xml:id="GKS08-3423_103v.10.2">vnses</w>
+<w xml:id="GKS08-3423_103v.10.3">leue<ex>n</ex></w>
+<w xml:id="GKS08-3423_103v.10.4">here<ex>n</ex></w>
+<w xml:id="GKS08-3423_103v.10.5">yh<ex>es</ex>u</w>
+<lb n="11"/>
+<w xml:id="GKS08-3423_103v.11.1"><ex>christ</ex>e</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="13"/>
+<w xml:id="GKS08-3423_103v.13.1"><hi rend="red 2">G</hi>hegrotet</w>
+<w xml:id="GKS08-3423_103v.13.2">systu</w>
+<w xml:id="GKS08-3423_103v.13.3">schone</w>
+<lb n="14"/>
+<w xml:id="GKS08-3423_103v.14.1">antlat</w>
+<w xml:id="GKS08-3423_103v.14.2">vnses</w>
+<w xml:id="GKS08-3423_103v.14.3">here<ex>n</ex></w>
+<w xml:id="GKS08-3423_103v.14.4">yh<ex>es</ex>u</w>
+<lb n="15"/>
+<w xml:id="GKS08-3423_103v.15.1"><ex>christ</ex>e</w>
+<w xml:id="GKS08-3423_103v.15.2">dat</w>
+<w xml:id="GKS08-3423_103v.15.3">anblycket</w>
+<w xml:id="GKS08-3423_103v.15.4">de</w>
+<w xml:id="GKS08-3423_103v.15.5">scho<ex>n</ex><lb n="16"/>heyt</w>
+<w xml:id="GKS08-3423_103v.16.2">des</w>
+<w xml:id="GKS08-3423_103v.16.3">gotlyken</w>
+<w xml:id="GKS08-3423_103v.16.4">schynes</w>
+<pb n="104r"/>
+<lb n="1"/>
+<w xml:id="GKS08-3423_104r.1.1">dat</w>
+<w xml:id="GKS08-3423_104r.1.2">dar</w>
+<w xml:id="GKS08-3423_104r.1.3">wart</w>
+<w xml:id="GKS08-3423_104r.1.4">ghedrucket</w>
+<lb n="2"/>
+<w xml:id="GKS08-3423_104r.2.1">an</w>
+<w xml:id="GKS08-3423_104r.2.2">eyne<ex>m</ex></w>
+<w xml:id="GKS08-3423_104r.2.3">snewytten</w>
+<w xml:id="GKS08-3423_104r.2.4">dok</w>
+<w xml:id="GKS08-3423_104r.2.5">vn<ex>de</ex></w>
+<lb n="3"/>
+<w xml:id="GKS08-3423_104r.3.1">wort</w>
+<w xml:id="GKS08-3423_104r.3.2">ghegeuen</w>
+<w xml:id="GKS08-3423_104r.3.3"><name key="VERONICA">veroneken</name></w>
+<lb n="4"/>
+<w xml:id="GKS08-3423_104r.4.1">to</w>
+<w xml:id="GKS08-3423_104r.4.2">eneme</w>
+<w xml:id="GKS08-3423_104r.4.3">teken</w>
+<w xml:id="GKS08-3423_104r.4.4">der</w>
+<w xml:id="GKS08-3423_104r.4.5">leue</w>
+<lb n="5"/>
+<w xml:id="GKS08-3423_104r.5.1"><hi rend="red">G</hi>hegrotet</w>
+<w xml:id="GKS08-3423_104r.5.2">systu</w>
+<w xml:id="GKS08-3423_104r.5.3">eyn</w>
+<w xml:id="GKS08-3423_104r.5.4">loff</w>
+<lb n="6"/>
+<w xml:id="GKS08-3423_104r.6.1">der</w>
+<w xml:id="GKS08-3423_104r.6.2">werlde</w>
+<w xml:id="GKS08-3423_104r.6.3">eyn</w>
+<w xml:id="GKS08-3423_104r.6.4">spegel</w>
+<w xml:id="GKS08-3423_104r.6.5">der</w>
+<lb n="7"/>
+<w xml:id="GKS08-3423_104r.7.1">hylghen</w>
+<w xml:id="GKS08-3423_104r.7.2">den</w>
+<w xml:id="GKS08-3423_104r.7.3">de</w>
+<w xml:id="GKS08-3423_104r.7.4">geste</w>
+<w xml:id="GKS08-3423_104r.7.5">des</w>
+<w xml:id="GKS08-3423_104r.7.6">he<ex>m</ex><lb n="8"/>mels</w>
+<w xml:id="GKS08-3423_104r.8.2">begere<ex>n</ex></w>
+<w xml:id="GKS08-3423_104r.8.3">to</w>
+<w xml:id="GKS08-3423_104r.8.4">sende</w>
+<w xml:id="GKS08-3423_104r.8.5">lose</w>
+<lb n="9"/>
+<w xml:id="GKS08-3423_104r.9.1">vns</w>
+<w xml:id="GKS08-3423_104r.9.2">van</w>
+<w xml:id="GKS08-3423_104r.9.3">allen</w>
+<w xml:id="GKS08-3423_104r.9.4">der</w>
+<w xml:id="GKS08-3423_104r.9.5">sunde</w>
+<w xml:id="GKS08-3423_104r.9.6">vn<ex>de</ex></w>
+<lb n="10"/>
+<w xml:id="GKS08-3423_104r.10.1">voghe</w>
+<w xml:id="GKS08-3423_104r.10.2">vns</w>
+<w xml:id="GKS08-3423_104r.10.3">to</w>
+<w xml:id="GKS08-3423_104r.10.4">der</w>
+<w xml:id="GKS08-3423_104r.10.5">selschop</w>
+<lb n="11"/>
+<w xml:id="GKS08-3423_104r.11.1">dyner</w>
+<w xml:id="GKS08-3423_104r.11.2">hylghe<ex>n</ex></w>
+<w xml:id="GKS08-3423_104r.11.3"><hi rend="red">G</hi>hegrotet</w>
+<lb n="12"/>
+<w xml:id="GKS08-3423_104r.12.1">systu</w>
+<w xml:id="GKS08-3423_104r.12.2">vnse</w>
+<w xml:id="GKS08-3423_104r.12.3"><supplied>/h</supplied>ere</w>
+<w xml:id="GKS08-3423_104r.12.4">yn</w>
+<w xml:id="GKS08-3423_104r.12.5">dessem</w>
+<w xml:id="GKS08-3423_104r.12.6">her<lb n="13"/>den</w>
+<w xml:id="GKS08-3423_104r.13.2">leuende</w>
+<w xml:id="GKS08-3423_104r.13.3">dat</w>
+<w xml:id="GKS08-3423_104r.13.4">dar</w>
+<w xml:id="GKS08-3423_104r.13.5">vor<lb n="14"/>varlyk</w>
+<w xml:id="GKS08-3423_104r.14.2">ys</w>
+<w xml:id="GKS08-3423_104r.14.3">vn<ex>de</ex></w>
+<w xml:id="GKS08-3423_104r.14.4">drade</w>
+<w xml:id="GKS08-3423_104r.14.5">vor<pb n="104v"/><lb n="1"/>varlyk</w>
+<w xml:id="GKS08-3423_104v.1.2">ys</w>
+<w xml:id="GKS08-3423_104v.1.3">vn<ex>de</ex></w>
+<w xml:id="GKS08-3423_104v.1.4">drade</w>
+<w xml:id="GKS08-3423_104v.1.5">vor gan<lb n="2"/>de</w>
+<w xml:id="GKS08-3423_104v.2.2">ys</w>
+<w xml:id="GKS08-3423_104v.2.3">vn<ex>de</ex></w>
+<w xml:id="GKS08-3423_104v.2.4"><del>bl</del> breckelyk</w>
+<w xml:id="GKS08-3423_104v.2.5">ys</w>
+<w xml:id="GKS08-3423_104v.2.6">bry<lb n="3"/>nk</w>
+<w xml:id="GKS08-3423_104v.3.2">vns</w>
+<w xml:id="GKS08-3423_104v.3.3">to</w>
+<w xml:id="GKS08-3423_104v.3.4">dyne<ex>m</ex></w>
+<w xml:id="GKS08-3423_104v.3.5">ryke</w>
+<w xml:id="GKS08-3423_104v.3.6">du</w>
+<lb n="4"/>
+<w xml:id="GKS08-3423_104v.4.1">selyghe</w>
+<w xml:id="GKS08-3423_104v.4.2">bylde</w>
+<w xml:id="GKS08-3423_104v.4.3">an</w>
+<w xml:id="GKS08-3423_104v.4.4">sende</w>
+<w xml:id="GKS08-3423_104v.4.5">dat</w>
+<lb n="5"/>
+<w xml:id="GKS08-3423_104v.5.1">pure</w>
+<w xml:id="GKS08-3423_104v.5.2">antlat</w>
+<w xml:id="GKS08-3423_104v.5.3">dat</w>
+<w xml:id="GKS08-3423_104v.5.4">dar</w>
+<w xml:id="GKS08-3423_104v.5.5">ys</w>
+<w xml:id="GKS08-3423_104v.5.6">vn<lb n="6"/>ses</w>
+<w xml:id="GKS08-3423_104v.6.2">here<ex>n</ex></w>
+<w xml:id="GKS08-3423_104v.6.3">yh<ex>es</ex>u</w>
+<w xml:id="GKS08-3423_104v.6.4"><ex>christ</ex>e</w>
+<w xml:id="GKS08-3423_104v.6.5">wy</w>
+<w xml:id="GKS08-3423_104v.6.6">byd<lb n="7"/>den</w>
+<w xml:id="GKS08-3423_104v.7.2">dy</w>
+<w xml:id="GKS08-3423_104v.7.3">wes</w>
+<w xml:id="GKS08-3423_104v.7.4">vns</w>
+<w xml:id="GKS08-3423_104v.7.5">ene</w>
+<w xml:id="GKS08-3423_104v.7.6">gude</w>
+<lb n="8"/>
+<w xml:id="GKS08-3423_104v.8.1">hulpe</w>
+<w xml:id="GKS08-3423_104v.8.2">Eyne</w>
+<w xml:id="GKS08-3423_104v.8.3">sote</w>
+<w xml:id="GKS08-3423_104v.8.4">vorquyc<lb n="9"/>kynghe</w>
+<w xml:id="GKS08-3423_104v.9.2">vn<ex>de</ex></w>
+<w xml:id="GKS08-3423_104v.9.3">eyn</w>
+<w xml:id="GKS08-3423_104v.9.4">trost</w>
+<w xml:id="GKS08-3423_104v.9.5">dat</w>
+<lb n="10"/>
+<w xml:id="GKS08-3423_104v.10.1">vns</w>
+<w xml:id="GKS08-3423_104v.10.2">nycht</w>
+<w xml:id="GKS08-3423_104v.10.3">en</w>
+<w xml:id="GKS08-3423_104v.10.4">schade</w>
+<w xml:id="GKS08-3423_104v.10.5">des</w>
+<w xml:id="GKS08-3423_104v.10.6">du<lb n="11"/>uels</w>
+<w xml:id="GKS08-3423_104v.11.2">beswarynghe</w>
+<w xml:id="GKS08-3423_104v.11.3">Sunder</w>
+<lb n="12"/>
+<w xml:id="GKS08-3423_104v.12.1">dat</w>
+<w xml:id="GKS08-3423_104v.12.2">wy</w>
+<w xml:id="GKS08-3423_104v.12.3">bruke<ex>n</ex></w>
+<w xml:id="GKS08-3423_104v.12.4">der</w>
+<w xml:id="GKS08-3423_104v.12.5">ewyghe<ex>n</ex></w>
+<lb n="13"/>
+<w xml:id="GKS08-3423_104v.13.1">vroude</w>
+<w xml:id="GKS08-3423_104v.13.2">des</w>
+<w xml:id="GKS08-3423_104v.13.3">helpe</w>
+<w xml:id="GKS08-3423_104v.13.4">vns</w>
+<w xml:id="GKS08-3423_104v.13.5">de</w>
+<lb n="14"/>
+<w xml:id="GKS08-3423_104v.14.1">vader</w>
+<w xml:id="GKS08-3423_104v.14.2">vn<ex>de</ex></w>
+<w xml:id="GKS08-3423_104v.14.3">de</w>
+<w xml:id="GKS08-3423_104v.14.4">sone</w>
+<w xml:id="GKS08-3423_104v.14.5">vn<ex>de</ex></w>
+<w xml:id="GKS08-3423_104v.14.6">de</w>
+<lb n="15"/>
+<w xml:id="GKS08-3423_104v.15.1">hylghe</w>
+<w xml:id="GKS08-3423_104v.15.2">gest</w>
+<w xml:id="GKS08-3423_104v.15.3">Amen</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>

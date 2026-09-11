@@ -25,14 +25,14 @@
 </head>
 <msContents>
 <msItem class="prayer" n="1">
-<locus from="1r" to="4r"/>
-<title>ADVENT_1</title>
+<locus from="1r" to="4r" corresp="AM04-0782_001r" />
+<title key="[[file:/Prayers/org/AM08-0782_001r.org][ADVENT_1]]">A prayer for the first Sunday in Advent</title>
 <rubric>Jtem hær effther fylligher en bøn tw skalth læsse førsthe søndagh y adwent før jwll Och er th<ex>et</ex> th<ex>e</ex>n førstæ søndagh som ko<ex>m</ex>mer effth<ex>e</ex>r s<ex>anc</ex>te andras dag</rubric>
 <incipit></incipit>
 </msItem>
 <msItem class="prayer" n="2">
 <locus from="4r" to="undefined"/>
-<title>ADVENT_ALL</title>
+<title key="ADVENT_ALL">A prayer for every day in Advent</title>
 <rubric>Jtem her efft<ex>e</ex>r ffølger en bøn tw skall læse hwer dag y adventh</rubric>
 <incipit></incipit>
 </msItem>
@@ -99,12 +99,12 @@
 <msItem class="undefined" n="14">
 <locus from="17v" to="21v"/>
 <title/>
-<incipit><hi>O</hi> ære fwld være tw s<ex>anc</ex>ta Anna </incipit>
+<incipit><hi>O</hi> ære fwld være tw s<ex>anc</ex>ta Anna</incipit>
 <explicit></explicit>
 </msItem>
 <msItem class="undefined" n="15">
 <locus from="22r" to="22v"/>
-<title>ADVENT_3</title>
+<title key="ADVENT_3">A prayer for the third Sunday in Advent</title>
 <rubric>Jtem her effth<ex>e</ex>r følg<ex>e</ex>r en bøn tw skalt læsse th<ex>e</ex>n tredie søndag i aduent faare Jwll <ex>et cetera</ex></rubric>
 <incipit></incipit>
 </msItem>
@@ -130,16 +130,16 @@
 </msItem>
 <msItem class="undefined" n="20">
 <locus from="23v" to="24v"/>
-<title>LUCIA</title>
+<title key="LUCIA">A prayer to St. Lucia</title>
 <rubric>En bøn aff th<ex>e</ex>n hellige jomfrw sancta lucia [...]</rubric>
-<incipit> <hi>O</hi> Thw ædelige palma</incipit>
+<incipit><hi>O</hi> Thw ædelige palma</incipit>
 <textLang mainLang="da"/>
 </msItem>
 <msItem class="undefined" n="21">
 <locus from="24v" to="undefined"/>
-<title>THOMAS</title>
+<title key="THOMAS">A prayer to St. Thomas</title>
 <rubric>En bøn af s<ex>anc</ex>te Tomes ap<ex>oste</ex>l er ha<ex>n</ex>s daw iij dagen fore jwle daw</rubric>
-<incipit> <hi>T</hi>eg vær<ex>e</ex> lof</incipit>
+<incipit><hi>T</hi>eg vær<ex>e</ex> lof</incipit>
 </msItem>
 <msItem class="undefined" n="22">
 <title/>
@@ -359,7 +359,7 @@
 </msItem>
 <msItem class="undefined" n="94">
 <locus from="77r" to="undefined"/>
-<title>OSWALD</title>
+<title/>
 </msItem>
 <msItem class="undefined" n="95">
 <locus from="77v" to="undefined"/>
@@ -367,7 +367,7 @@
 </msItem>
 <msItem class="undefined" n="96">
 <locus from="78r" to="undefined"/>
-<title>GABRIEL</title>
+<title/>
 </msItem>
 <msItem class="undefined" n="97">
 <locus from="78v" to="undefined"/>
@@ -421,11 +421,11 @@
 <title/>
 </msItem>
 <msItem class="prayer" n="113">
-<locus from="91r" to="92r"/>
-<title>LENT_ALL</title>
+<locus from="91r" to="92r" corresp="AM04-0782_091r" />
+<title/>
 <rubric>It<ex>e</ex>m eynen beth de ga<ex>n</ex>zen vasten ower alle dage to bedende</rubric>
-<incipit> <hi>O</hi> ewige here vth der groten dwpe </incipit>
-<explicit> in dat ewigen lewend aller vroude Amen p<ex>ate</ex>r n<ex>oste</ex>r ame<ex>n</ex></explicit>
+<incipit><hi>O</hi> ewige here vth der groten dwpe</incipit>
+<explicit>in dat ewigen lewend aller vroude Amen p<ex>ate</ex>r n<ex>oste</ex>r ame<ex>n</ex></explicit>
 <textLang mainLang="gml"/>
 </msItem>
 <msItem class="undefined" n="114">
@@ -1094,94 +1094,136 @@
 <list>
 <item n="1">
 <locus from="1" to="6"/>
+<desc>ternion</desc>
 </item><item n="2">
 <locus from="7" to="12"/>
+<desc>ternion</desc>
 </item><item n="3">
 <locus from="13" to="16"/>
-<desc>New hand</desc>
+<desc>binion</desc>
 </item><item n="5">
 <locus from="17" to="22"/>
-<desc>17, 18+21, 19+20, 22</desc>
+<desc>ternion. 17 and 22 loose</desc>
 </item><item n="7">
 <locus from="23" to="24"/>
+<desc>bifolium</desc>
 </item><item n="8">
 <locus from="25" to="31"/>
+<desc>ternion. 25 added</desc>
 </item><item n="9">
 <locus from="32" to="37"/>
+<desc>ternion</desc>
 </item><item n="10">
 <locus from="38" to="43"/>
+<desc>ternion</desc>
 </item><item n="11">
 <locus from="44" to="49"/>
+<desc>ternion</desc>
 </item><item n="12">
 <locus from="50" to="55"/>
+<desc>ternion</desc>
 </item><item n="13">
 <locus from="56" to="61"/>
+<desc>ternion</desc>
 </item><item n="14">
 <locus from="62" to="67"/>
+<desc>ternion</desc>
 </item><item n="15">
 <locus from="68" to="73"/>
+<desc>ternion</desc>
 </item><item n="16">
 <locus from="74" to="79"/>
-</item><item n="17">
-<locus from="80" to="85"/>
+<desc>ternion</desc>
 </item><item n="18">
-<locus from="86" to="91"/>
+<locus from="80" to="85"/>
+<desc>ternion</desc>
 </item><item n="19">
-<locus from="92" to="97"/>
+<locus from="86" to="91"/>
+<desc>ternion</desc>
 </item><item n="20">
-<locus from="98" to="103"/>
+<locus from="92" to="97"/>
+<desc>ternion</desc>
 </item><item n="21">
-<locus from="104" to="109"/>
+<locus from="98" to="103"/>
+<desc>ternion</desc>
 </item><item n="22">
-<locus from="110" to="115"/>
+<locus from="104" to="109"/>
+<desc>ternion</desc>
 </item><item n="23">
-<locus from="116" to="121"/>
+<locus from="110" to="115"/>
+<desc>ternion</desc>
 </item><item n="24">
-<locus from="122" to="127"/>
+<locus from="116" to="121"/>
+<desc>ternion</desc>
 </item><item n="25">
-<locus from="128" to="133"/>
+<locus from="122" to="127"/>
+<desc>ternion</desc>
 </item><item n="26">
-<locus from="134" to="139"/>
+<locus from="128" to="133"/>
+<desc>ternion</desc>
 </item><item n="27">
-<locus from="140" to="143"/>
+<locus from="134" to="139"/>
+<desc>ternion</desc>
 </item><item n="28">
-<locus from="144" to="149"/>
+<locus from="140" to="143"/>
+<desc>binion</desc>
 </item><item n="29">
-<locus from="150" to="155"/>
+<locus from="144" to="149"/>
+<desc>ternion</desc>
 </item><item n="30">
-<locus from="156" to="160"/>
+<locus from="150" to="155"/>
+<desc>ternion</desc>
 </item><item n="31">
-<locus from="161" to="166"/>
+<locus from="156" to="160"/>
+<desc>ternion. only five leaves</desc>
 </item><item n="32">
-<locus from="167" to="171"/>
+<locus from="161" to="166"/>
+<desc>ternion</desc>
 </item><item n="33">
-<locus from="173" to="178"/>
+<locus from="167" to="171"/>
+<desc>ternion. irregular?</desc>
 </item><item n="34">
-<locus from="179" to="185"/>
+<locus from="173" to="178"/>
+<desc>ternion</desc>
 </item><item n="35">
-<locus from="186" to="189"/>
+<locus from="179" to="185"/>
+<desc>ternion. one leaf added?</desc>
 </item><item n="36">
-<locus from="191" to="195"/>
+<locus from="186" to="189"/>
+<desc>ternion. one leaf missing?</desc>
 </item><item n="37">
-<locus from="196" to="200"/>
+<locus from="191" to="195"/>
+<desc>ternion. one leaf missing?</desc>
 </item><item n="38">
-<locus from="201" to="206"/>
+<locus from="196" to="200"/>
+<desc>ternion. one leaf missing?</desc>
 </item><item n="39">
-<locus from="207" to="211"/>
+<locus from="201" to="206"/>
+<desc>ternion</desc>
 </item><item n="40">
-<locus from="212" to="217"/>
+<locus from="207" to="211"/>
+<desc>ternion. one leaf missing?</desc>
 </item><item n="41">
-<locus from="218" to="223"/>
+<locus from="212" to="217"/>
+<desc>ternion</desc>
 </item><item n="42">
-<locus from="224" to="229"/>
+<locus from="218" to="223"/>
+<desc>ternion</desc>
 </item><item n="43">
-<locus from="230" to="235"/>
+<locus from="224" to="229"/>
+<desc>ternion</desc>
 </item><item n="44">
-<locus from="236" to="241"/>
+<locus from="230" to="235"/>
+<desc>ternion</desc>
 </item><item n="45">
-<locus from="242" to="247"/>
+<locus from="236" to="241"/>
+<desc>ternion</desc>
 </item><item n="46">
+<locus from="242" to="247"/>
+<desc>ternion</desc>
+</item><item n="47">
 <locus from="248" to="253"/>
+<desc>ternion. one added at end</desc>
 </item></list>
 </collation></supportDesc>
 </objectDesc>

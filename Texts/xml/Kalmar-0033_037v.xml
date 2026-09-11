@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Kalmar-0033_037v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Magnificat</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KAL"/>
+<repository key="KSB"/>
+<idno corresp="Kalmar-0033">Kalmar 33</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="37v" to="38v"/>
+<title key="MAGNIFICAT">Magnificat</title>
+<textLang mainLang="la"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="37v"/>
+<div type="text">
+<p>
+<w xml:id="Kalmar-0033_37v.7.1"><hi rend="blue 2">M</hi>Agnificat</w>
+<w xml:id="Kalmar-0033_37v.7.2">a<ex>n</ex>i<ex>m</ex>a</w>
+<w xml:id="Kalmar-0033_37v.7.3">mea</w>
+<lb n="8"/>
+<w xml:id="Kalmar-0033_37v.8.1">d<ex>omi</ex>n<ex>u</ex>m</w>
+<w xml:id="Kalmar-0033_37v.8.2"><hi rend="red">E</hi>t</w>
+<w xml:id="Kalmar-0033_37v.8.3">exultauit</w>
+<lb n="9"/>
+<w xml:id="Kalmar-0033_37v.9.1">sp<ex>irit</ex>us</w>
+<w xml:id="Kalmar-0033_37v.9.2">meus</w>
+<w xml:id="Kalmar-0033_37v.9.3">in</w>
+<w xml:id="Kalmar-0033_37v.9.4">deo</w>
+<w xml:id="Kalmar-0033_37v.9.5">salutari</w>
+<lb n="10"/>
+<w xml:id="Kalmar-0033_37v.10.1">meo</w>
+<w xml:id="Kalmar-0033_37v.10.2"><hi rend="blue">Q</hi>uia</w>
+<w xml:id="Kalmar-0033_37v.10.3">respexit</w>
+<w xml:id="Kalmar-0033_37v.10.4">h<ex>u</ex>m<ex>i</ex>lita<lb n="11"/>te<ex>m</ex></w>
+<w xml:id="Kalmar-0033_37v.11.2">ancille</w>
+<w xml:id="Kalmar-0033_37v.11.3">sue</w>
+<w xml:id="Kalmar-0033_37v.11.4">ecce</w>
+<w xml:id="Kalmar-0033_37v.11.5">eni<ex>m</ex></w>
+<w xml:id="Kalmar-0033_37v.11.6">ex</w>
+<w xml:id="Kalmar-0033_37v.11.7">hoc</w>
+<lb n="12"/>
+<w xml:id="Kalmar-0033_37v.12.1">b<ex>ea</ex>ta<ex>m</ex></w>
+<w xml:id="Kalmar-0033_37v.12.2">me</w>
+<w xml:id="Kalmar-0033_37v.12.3">dicent</w>
+<w xml:id="Kalmar-0033_37v.12.4">om<ex>n</ex>es</w>
+<w xml:id="Kalmar-0033_37v.12.5">g<ex>e</ex>n<ex>er</ex>a<lb n="13"/>c<ex>i</ex>ones</w>
+<w xml:id="Kalmar-0033_37v.13.2"><hi rend="red">Q</hi>uia</w>
+<w xml:id="Kalmar-0033_37v.13.3">fecit</w>
+<w xml:id="Kalmar-0033_37v.13.4">m<ex>ihi</ex></w>
+<w xml:id="Kalmar-0033_37v.13.5">mag<ex>na</ex></w>
+<lb n="14"/>
+<w xml:id="Kalmar-0033_37v.14.1">qui</w>
+<w xml:id="Kalmar-0033_37v.14.2">potens</w>
+<w xml:id="Kalmar-0033_37v.14.3">est</w>
+<w xml:id="Kalmar-0033_37v.14.4">et</w>
+<w xml:id="Kalmar-0033_37v.14.5">s<ex>an</ex>c<ex>tu</ex>m</w>
+<w xml:id="Kalmar-0033_37v.14.6">nom<ex>en</ex></w>
+<lb n="15"/>
+<w xml:id="Kalmar-0033_37v.15.1">eius</w>
+<w xml:id="Kalmar-0033_37v.15.2"><hi rend="blue">E</hi>t</w>
+<w xml:id="Kalmar-0033_37v.15.3">m<ex>isericord</ex>ia</w>
+<w xml:id="Kalmar-0033_37v.15.4">eius</w>
+<w xml:id="Kalmar-0033_37v.15.5">a</w>
+<w xml:id="Kalmar-0033_37v.15.6">p<ex>ro</ex>ge<lb n="16"/>nie</w>
+<w xml:id="Kalmar-0033_37v.16.2">in</w>
+<w xml:id="Kalmar-0033_37v.16.3">p<ex>ro</ex>genies</w>
+<w xml:id="Kalmar-0033_37v.16.4">time<ex>n</ex>tib<ex>us</ex></w>
+<w xml:id="Kalmar-0033_37v.16.5">eu<ex>m</ex>.</w>
+<pb n="38r"/>
+<lb n="1"/>
+<w xml:id="Kalmar-0033_38r.1.1"><hi rend="red">F</hi>ecit</w>
+<w xml:id="Kalmar-0033_38r.1.2">pote<ex>n</ex>cia<ex>m</ex></w>
+<w xml:id="Kalmar-0033_38r.1.3">in</w>
+<w xml:id="Kalmar-0033_38r.1.4">brachio</w>
+<lb n="2"/>
+<w xml:id="Kalmar-0033_38r.2.1">suo</w>
+<w xml:id="Kalmar-0033_38r.2.2">disp<ex>er</ex>sit</w>
+<w xml:id="Kalmar-0033_38r.2.3">sup<ex>er</ex>bos</w>
+<w xml:id="Kalmar-0033_38r.2.4">mente</w>
+<lb n="3"/>
+<w xml:id="Kalmar-0033_38r.3.1">cordis</w>
+<w xml:id="Kalmar-0033_38r.3.2">sui.</w>
+<w xml:id="Kalmar-0033_38r.3.3"><hi rend="blue">D</hi>eposuit</w>
+<w xml:id="Kalmar-0033_38r.3.4">pote<ex>n</ex><lb n="4"/>tes</w>
+<w xml:id="Kalmar-0033_38r.4.2">de</w>
+<w xml:id="Kalmar-0033_38r.4.3">sede</w>
+<w xml:id="Kalmar-0033_38r.4.4">et</w>
+<w xml:id="Kalmar-0033_38r.4.5">exaltauit</w>
+<w xml:id="Kalmar-0033_38r.4.6">hu<lb n="5"/>miles.</w>
+<w xml:id="Kalmar-0033_38r.5.2"><hi rend="red">E</hi>surientes</w>
+<w xml:id="Kalmar-0033_38r.5.3">imple<ex>uit</ex></w>
+<lb n="6"/>
+<w xml:id="Kalmar-0033_38r.6.1">bonis</w>
+<w xml:id="Kalmar-0033_38r.6.2"><ex>et</ex></w>
+<w xml:id="Kalmar-0033_38r.6.3">diuites</w>
+<w xml:id="Kalmar-0033_38r.6.4">dimisit</w>
+<w xml:id="Kalmar-0033_38r.6.5">in<lb n="7"/>anes.</w>
+<w xml:id="Kalmar-0033_38r.7.2"><hi rend="blue">S</hi>uscepit</w>
+<w xml:id="Kalmar-0033_38r.7.3">isr<ex>ae</ex>l</w>
+<w xml:id="Kalmar-0033_38r.7.4">pue<ex>rum</ex></w>
+<lb n="8"/>
+<w xml:id="Kalmar-0033_38r.8.1">suu<ex>m</ex></w>
+<w xml:id="Kalmar-0033_38r.8.2">recordatus</w>
+<w xml:id="Kalmar-0033_38r.8.3">m<ex>isericord</ex>ie</w>
+<w xml:id="Kalmar-0033_38r.8.4">sue</w>
+<w xml:id="Kalmar-0033_38r.8.5"><hi rend="red">S</hi><lb n="9"/>icut</w>
+<w xml:id="Kalmar-0033_38r.9.2">locutus</w>
+<w xml:id="Kalmar-0033_38r.9.3">est</w>
+<w xml:id="Kalmar-0033_38r.9.4">ad</w>
+<w xml:id="Kalmar-0033_38r.9.5">patres</w>
+<lb n="10"/>
+<w xml:id="Kalmar-0033_38r.10.1">n<ex>ost</ex>ros</w>
+<w xml:id="Kalmar-0033_38r.10.2">abraha<ex>m</ex></w>
+<w xml:id="Kalmar-0033_38r.10.3">et</w>
+<w xml:id="Kalmar-0033_38r.10.4">semini</w>
+<w xml:id="Kalmar-0033_38r.10.5">ei<ex>us</ex></w>
+<lb n="11"/>
+<w xml:id="Kalmar-0033_38r.11.1">in</w>
+<w xml:id="Kalmar-0033_38r.11.2">secula</w>
+<w xml:id="Kalmar-0033_38r.11.3"><hi rend="blue">G</hi>l<ex>ori</ex>a</w>
+<w xml:id="Kalmar-0033_38r.11.4">p<ex>at</ex>ri</w>
+<w xml:id="Kalmar-0033_38r.11.5"><ex>et cetera</ex></w>
+</p></div>
+<div type="antiphone">
+<p>
+</p><div type="rubric">
+<p>
+<lb n="12"/>
+<w xml:id="Kalmar-0033_38r.12.1">An<ex>tiphona</ex></w>
+</p></div>
+<div type="text">
+<p>
+<lb n="14"/>
+<w xml:id="Kalmar-0033_38r.14.1">Sancta</w>
+<w xml:id="Kalmar-0033_38r.14.2">maria</w>
+<w xml:id="Kalmar-0033_38r.14.3">succurre</w>
+<w xml:id="Kalmar-0033_38r.14.4">mi<lb n="15"/>seris.</w>
+<w xml:id="Kalmar-0033_38r.15.2">juua</w>
+<w xml:id="Kalmar-0033_38r.15.3">pusillanimes.</w>
+<lb n="16"/>
+<w xml:id="Kalmar-0033_38r.16.1">refoue</w>
+<w xml:id="Kalmar-0033_38r.16.2">flebiles.</w>
+<w xml:id="Kalmar-0033_38r.16.3">Ora</w>
+<w xml:id="Kalmar-0033_38r.16.4">p<ex>ro</ex></w>
+<w xml:id="Kalmar-0033_38r.16.5">p<ex>o</ex>p<ex>u</ex>lo</w>
+<lb n="17"/>
+<w xml:id="Kalmar-0033_38r.17.1">int<ex>er</ex>ueni</w>
+<w xml:id="Kalmar-0033_38r.17.2">p<ex>ro</ex></w>
+<w xml:id="Kalmar-0033_38r.17.3">clero</w>
+<w xml:id="Kalmar-0033_38r.17.4">int<ex>er</ex>cede</w>
+<w xml:id="Kalmar-0033_38r.17.5">p<ex>ro</ex></w>
+<pb n="38v"/>
+<lb n="1"/>
+<w xml:id="Kalmar-0033_38v.1.1">deuoto</w>
+<w xml:id="Kalmar-0033_38v.1.2">femineo</w>
+<w xml:id="Kalmar-0033_38v.1.3">sexu</w>
+<w xml:id="Kalmar-0033_38v.1.4">senci<lb n="2"/>ant</w>
+<w xml:id="Kalmar-0033_38v.2.2">om<ex>n</ex>es</w>
+<w xml:id="Kalmar-0033_38v.2.3">iuuame<ex>n</ex></w>
+<w xml:id="Kalmar-0033_38v.2.4">quicu<ex>m</ex><lb n="3"/>q<ex>ue</ex></w>
+<w xml:id="Kalmar-0033_38v.3.2">celebrant</w>
+<w xml:id="Kalmar-0033_38v.3.3">tua<ex>m</ex></w>
+<w xml:id="Kalmar-0033_38v.3.4">co<ex>m</ex>memo<ex>ra</ex><lb n="4"/>c<ex>i</ex>o<ex>nem</ex>.</w>
+<w xml:id="Kalmar-0033_38v.4.2">D<ex>omi</ex>ne</w>
+<w xml:id="Kalmar-0033_38v.4.3">exaudi.</w>
+<w xml:id="Kalmar-0033_38v.4.4">Et</w>
+<w xml:id="Kalmar-0033_38v.4.5">clam<ex>or</ex>.</w>
+</p></div>
+</div>
+<div type="collect">
+<p>
+</p><div type="text">
+<p>
+<lb n="6"/>
+<w xml:id="Kalmar-0033_38v.6.1"><hi rend="red">C</hi>oncede</w>
+<w xml:id="Kalmar-0033_38v.6.2">nos</w>
+<w xml:id="Kalmar-0033_38v.6.3">famulos</w>
+<lb n="7"/>
+<w xml:id="Kalmar-0033_38v.7.1">tuos</w>
+<w xml:id="Kalmar-0033_38v.7.2"><ex>et cetera</ex>.</w>
+<w xml:id="Kalmar-0033_38v.7.3">D<ex>omi</ex>ne</w>
+<w xml:id="Kalmar-0033_38v.7.4">exaudi.</w>
+<w xml:id="Kalmar-0033_38v.7.5">Et</w>
+<lb n="8"/>
+<w xml:id="Kalmar-0033_38v.8.1">clamor.</w>
+<w xml:id="Kalmar-0033_38v.8.2">B<ex>e</ex>n<ex>e</ex>dicam<ex>us</ex></w>
+<w xml:id="Kalmar-0033_38v.8.3">d<ex>omi</ex>no.</w>
+<lb n="9"/>
+<w xml:id="Kalmar-0033_38v.9.1">De</w>
+<w xml:id="Kalmar-0033_38v.9.2">gr<ex>aci</ex>as.</w>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>
