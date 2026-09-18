@@ -8,7 +8,7 @@ A book of hours belonging to <<Karen Ludvigsdatter Rosenkrantz>> (d. 1535) aroun
 |-------------+---------------------------------+-------+---------|
 | ORIGIN      |                                 | DK    | c. 1500 |
 | USER        | Karen Ludvigsdatter Rosenkrantz | DK    |         |
-g| OWNER       | Erik Joh. Meck                  | SE    |         |
+| OWNER       | Erik Joh. Meck                  | SE    |         |
 | ACQUISITION | Lund University Library         | SE    | 1704    |
 |-------------+---------------------------------+-------+---------|
 
@@ -22,6 +22,13 @@ g| OWNER       | Erik Joh. Meck                  | SE    |         |
 | LINES        | 24 26   |
 | FOLIATION    | f 1-112 |
 |--------------+---------|
+
+** Binding
+|------+------------------------------------------------------------------------|
+| TYPE | Full leather with blind tooling and two brass clasps (both preserved). |
+| DATE | XVI                                                                    |
+| SIZE | 200 130 45                                                             |
+|------+------------------------------------------------------------------------|
 
 ** Quire structure
 |-------+---------+------------+----------------------------------|
@@ -65,8 +72,8 @@ g| OWNER       | Erik Joh. Meck                  | SE    |         |
 |     1 | 36v 37r |  78 | prayer      |                          |                    |                                                                                                                                                                                                                                            | da   | main   |          |
 |     1 | 37r 37r |  79 | cycle       |                          |                    | *[[T]]he(n)næ lidlæ bøn ær vd skreffuæt i ro(m) och til hi(n)næ giiffuær tho thusind aar och ij hu(n)dræt oc sextyue daghe Amen* [[O]] helligæ fadær och ewærdæligh gudh [...] ath iæc maa fi(n)næ thik i myn døsz timæ Amen                       | da   | main   |          |
 |     1 | 37r 38v |  80 | prayer      |                          |                    | *een læghæ brodær i s(an)c(t)i bernardi ordan ... th(e)n sa(m)mæ nadhæ och affløsi(n)ngh aff syndær Amen* [[H]](er)ræ ih(es)u (christ)e leffwindis gusz søn [...] thin signæth viliæ och storæ miskwndh Amen **p(ate)r n(oste)r Aue maria**    | da   | main   | BERNHARD |
-|       |         |  81 |             |                          |                    |                                                                                                                                                                                                                                            |      |        |          |
-|       |         |  82 |             |                          |                    |                                                                                                                                                                                                                                            |      |        |          |
+|     1 | 38v 39v |  81 | cycle       |                          | AVE_MANUS_DEXTRA   | **[[T]]il huært værs och collecter som hær æffth(e)r skriffuæs om thu læsær th(e)n m(et) gudeligh(et) ...* [[H]]eel ih(es)u (christ)i høgræ handh [...] m(et) thit dyræ blodh løstæ Amen                                                           | da   | main   |          |
+|       | 39v     |  82 |             |                          |                    | *[[T]]hissæ tre stackæt effth(e)r skreffnæ bønær skal læsæs m(et) tre p(ate)r n(oste)r ...*                                                                                                                                                |      |        |          |
 |       |         |  83 |             |                          |                    |                                                                                                                                                                                                                                            |      |        |          |
 |       |         |  84 |             |                          |                    |                                                                                                                                                                                                                                            |      |        |          |
 |       |         |  85 |             |                          |                    |                                                                                                                                                                                                                                            |      |        |          |

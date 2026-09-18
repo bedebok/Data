@@ -117,8 +117,9 @@
 | [[../org/UUB-C496_002r.org]]         | UUB C 496     | A prayer to God, Christ, Mary and the Saints |                       | gml        | transcribed |           |
 | [[../org/UUB-C496_003r.org]]         | UUB C 496     | A prayer for after eating                    |                       | gml        | proofread   | converted |
 | [[./org/UUB-C496_019v.org]]          | UUB C 496     | Prayers for the entire day                   |                       | gml        | begun       |           |
-| [[./org/UUB-C496_091v.org]]          | UUB C 496     | A rhymed prayer to the Virgin Mary           |                       | gml        | proofread   |converted  |
+| [[./org/UUB-C496_091v.org]]          | UUB C 496     | A rhymed prayer to the Virgin Mary           |                       | gml        | proofread   | converted |
 | [[./org/UUB-C496_095r.org]]          | UUB C 496     | Das goldene Krongebet                        | KRONGEBET             | gml        | begun       |           |
+| [[./org/UUB-C496_119r.org]]          | UUB C 496     | Ave manus dextra                             | AVE_MANUS_DEXTRA      | gml        | transcribed |           |
 | [[./org/UUB-C496_136r.org]]          | UUB C 496     | Prayer for a traveller                       | TRAVELLER             | da         | transcribed |           |
 |----------------------------------+---------------+----------------------------------------------+-----------------------+------------+-------------+-----------|
 
