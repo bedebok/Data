@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AM12-0417_073v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seven Penitential Psalms</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="KBH"/>
+<repository key="AMS"/>
+<idno corresp="AM12-0417">AM 417 12mo</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="73v1" to="85v"/>
+<title key="PENITENTIAL_PSALMS">Seven Penitential Psalms</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="73v1"/>
+<div type="rubric">
+<p>
+<w xml:id="AM12-0417_73v1.1.1">Hijr</w>
+<w xml:id="AM12-0417_73v1.1.2">beginnet</w>
+<w xml:id="AM12-0417_73v1.1.3">de</w>
+<w xml:id="AM12-0417_73v1.1.4">seue<ex>n</ex></w>
+<w xml:id="AM12-0417_73v1.1.5">Salme</w>
+</p></div>
+<div type="psalm" corresp="PSALM_6">
+<head>PSALM_6</head><p></p><div type="text">
+<p>
+<lb n="2"/>
+<w xml:id="AM12-0417_73v1.2.1"><hi rend="blue red 3">H</hi>Ere</w>
+<w xml:id="AM12-0417_73v1.2.2">beschelt</w>
+<w xml:id="AM12-0417_73v1.2.3">my</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_73v1.3.1">nicht</w>
+<w xml:id="AM12-0417_73v1.3.2">in</w>
+<w xml:id="AM12-0417_73v1.3.3">dinen</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_73v1.4.1">vnmode</w>
+<w xml:id="AM12-0417_73v1.4.2">vnde</w>
+<w xml:id="AM12-0417_73v1.4.3">en</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_73v1.5.1">straffe</w>
+<w xml:id="AM12-0417_73v1.5.2">my</w>
+<w xml:id="AM12-0417_73v1.5.3">nicht</w>
+<w xml:id="AM12-0417_73v1.5.4">in</w>
+<w xml:id="AM12-0417_73v1.5.5">dinen</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_73v1.6.1">torne</w>
+<w xml:id="AM12-0417_73v1.6.2"><hi rend="red">H</hi>ere</w>
+<w xml:id="AM12-0417_73v1.6.3">vorbarme</w>
+<w xml:id="AM12-0417_73v1.6.4">dy</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_73v1.7.1">auer</w>
+<w xml:id="AM12-0417_73v1.7.2">my</w>
+<w xml:id="AM12-0417_73v1.7.3">wente</w>
+<w xml:id="AM12-0417_73v1.7.4">ik</w>
+<w xml:id="AM12-0417_73v1.7.5">kranck</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_73v1.8.1">byn</w>
+<w xml:id="AM12-0417_73v1.8.2">make</w>
+<w xml:id="AM12-0417_73v1.8.3">my</w>
+<w xml:id="AM12-0417_73v1.8.4">gesunt</w>
+<w xml:id="AM12-0417_73v1.8.5">wen<lb n="9"/>te</w>
+<w xml:id="AM12-0417_73v1.9.2">alle</w>
+<w xml:id="AM12-0417_73v1.9.3">myne</w>
+<w xml:id="AM12-0417_73v1.9.4">knaken</w>
+<w xml:id="AM12-0417_73v1.9.5">bedro<lb n="10"/>uet</w>
+<w xml:id="AM12-0417_73v1.10.2">sint</w>
+<w xml:id="AM12-0417_73v1.10.3"><hi rend="red">U</hi>nde</w>
+<w xml:id="AM12-0417_73v1.10.4">myne</w>
+<w xml:id="AM12-0417_73v1.10.5">sele</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_73v1.11.1">is</w>
+<w xml:id="AM12-0417_73v1.11.2">sere</w>
+<w xml:id="AM12-0417_73v1.11.3">bedrouet</w>
+<w xml:id="AM12-0417_73v1.11.4">sunder</w>
+<w xml:id="AM12-0417_73v1.11.5">du</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_73v1.12.1">here</w>
+<w xml:id="AM12-0417_73v1.12.2">wo</w>
+<w xml:id="AM12-0417_73v1.12.3">lange</w>
+<w xml:id="AM12-0417_73v1.12.4"><hi rend="red">K</hi>ere</w>
+<w xml:id="AM12-0417_73v1.12.5">di</w>
+<w xml:id="AM12-0417_73v1.12.6">here</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_73v1.13.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_73v1.13.2">lose</w>
+<w xml:id="AM12-0417_73v1.13.3">myne</w>
+<w xml:id="AM12-0417_73v1.13.4">sele</w>
+<w xml:id="AM12-0417_73v1.13.5">make</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_73v1.14.1">my</w>
+<w xml:id="AM12-0417_73v1.14.2">gesunt</w>
+<w xml:id="AM12-0417_73v1.14.3">dorch</w>
+<w xml:id="AM12-0417_73v1.14.4">dine</w>
+<w xml:id="AM12-0417_73v1.14.5">barm<lb n="15"/>herticheit</w>
+<w xml:id="AM12-0417_73v1.15.2"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_73v1.15.3">nemant</w>
+<pb n="74r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_74r.1.1">en</w>
+<w xml:id="AM12-0417_74r.1.2">is</w>
+<w xml:id="AM12-0417_74r.1.3">in</w>
+<w xml:id="AM12-0417_74r.1.4">dem</w>
+<w xml:id="AM12-0417_74r.1.5">dode</w>
+<w xml:id="AM12-0417_74r.1.6">De</w>
+<w xml:id="AM12-0417_74r.1.7">diner</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_74r.2.1">ghedencket</w>
+<w xml:id="AM12-0417_74r.2.2">ofte</w>
+<w xml:id="AM12-0417_74r.2.3">we</w>
+<w xml:id="AM12-0417_74r.2.4">bichtet</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_74r.3.1">dy</w>
+<w xml:id="AM12-0417_74r.3.2"><del>in dy</del></w>
+<w xml:id="AM12-0417_74r.3.3">in</w>
+<w xml:id="AM12-0417_74r.3.4">der</w>
+<w xml:id="AM12-0417_74r.3.5">helle</w>
+<w xml:id="AM12-0417_74r.3.6"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_74r.3.7">arbey<lb n="4"/>dede</w>
+<w xml:id="AM12-0417_74r.4.2">in</w>
+<w xml:id="AM12-0417_74r.4.3">myner</w>
+<w xml:id="AM12-0417_74r.4.4">suchtinge</w>
+<w xml:id="AM12-0417_74r.4.5">ick</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_74r.5.1">wil</w>
+<w xml:id="AM12-0417_74r.5.2">wassche<ex>n</ex></w>
+<w xml:id="AM12-0417_74r.5.3">alle</w>
+<w xml:id="AM12-0417_74r.5.4">nacht</w>
+<w xml:id="AM12-0417_74r.5.5">my<ex>n</ex></w>
+<lb n="6"/>
+<w xml:id="AM12-0417_74r.6.1">bedde</w>
+<w xml:id="AM12-0417_74r.6.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_74r.6.3">uetten</w>
+<w xml:id="AM12-0417_74r.6.4">myne</w>
+<w xml:id="AM12-0417_74r.6.5">leger<lb n="7"/>stede</w>
+<w xml:id="AM12-0417_74r.7.2">myt</w>
+<w xml:id="AM12-0417_74r.7.3">myne</w>
+<w xml:id="AM12-0417_74r.7.4">tranen</w>
+<w xml:id="AM12-0417_74r.7.5"><hi rend="red">M</hi>y<ex>n</ex></w>
+<lb n="8"/>
+<w xml:id="AM12-0417_74r.8.1">oghen</w>
+<w xml:id="AM12-0417_74r.8.2">sint</w>
+<w xml:id="AM12-0417_74r.8.3">bedrouet</w>
+<w xml:id="AM12-0417_74r.8.4">van</w>
+<w xml:id="AM12-0417_74r.8.5"><add>v<ex>n</ex>mode</add></w>
+<lb n="9"/>
+<w xml:id="AM12-0417_74r.9.1">ik</w>
+<w xml:id="AM12-0417_74r.9.2">wart</w>
+<w xml:id="AM12-0417_74r.9.3">alt</w>
+<w xml:id="AM12-0417_74r.9.4">manck</w>
+<w xml:id="AM12-0417_74r.9.5">alle</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_74r.10.1">mynen</w>
+<w xml:id="AM12-0417_74r.10.2">viande</w>
+<w xml:id="AM12-0417_74r.10.3"><hi rend="red">W</hi>yket</w>
+<w xml:id="AM12-0417_74r.10.4">va<ex>n</ex></w>
+<lb n="11"/>
+<w xml:id="AM12-0417_74r.11.1">my</w>
+<w xml:id="AM12-0417_74r.11.2">alle</w>
+<w xml:id="AM12-0417_74r.11.3">de</w>
+<w xml:id="AM12-0417_74r.11.4">dar</w>
+<w xml:id="AM12-0417_74r.11.5">werken</w>
+<w xml:id="AM12-0417_74r.11.6">bos<lb n="12"/>heit</w>
+<w xml:id="AM12-0417_74r.12.2">wente</w>
+<w xml:id="AM12-0417_74r.12.3">de</w>
+<w xml:id="AM12-0417_74r.12.4">here</w>
+<w xml:id="AM12-0417_74r.12.5">heuet</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_74r.13.1">ge horet</w>
+<w xml:id="AM12-0417_74r.13.2">de</w>
+<w xml:id="AM12-0417_74r.13.3">stempne</w>
+<w xml:id="AM12-0417_74r.13.4">mynes</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_74r.14.1">bedes</w>
+<w xml:id="AM12-0417_74r.14.2"><hi rend="red">D</hi>e</w>
+<w xml:id="AM12-0417_74r.14.3">here</w>
+<w xml:id="AM12-0417_74r.14.4">heft</w>
+<w xml:id="AM12-0417_74r.14.5">myn</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_74r.15.1">bet</w>
+<w xml:id="AM12-0417_74r.15.2">ghe twidet</w>
+<w xml:id="AM12-0417_74r.15.3">de</w>
+<w xml:id="AM12-0417_74r.15.4">here</w>
+<w xml:id="AM12-0417_74r.15.5">heft</w>
+<pb n="74v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_74v.1.1">myn</w>
+<w xml:id="AM12-0417_74v.1.2">beth</w>
+<w xml:id="AM12-0417_74v.1.3">vntfanghen</w>
+<w xml:id="AM12-0417_74v.1.4"><hi rend="red">A</hi>l<lb n="2"/>le</w>
+<w xml:id="AM12-0417_74v.2.2">myne</w>
+<w xml:id="AM12-0417_74v.2.3">viande</w>
+<w xml:id="AM12-0417_74v.2.4">schemen</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_74v.3.1">sick</w>
+<w xml:id="AM12-0417_74v.3.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_74v.3.3">werden</w>
+<w xml:id="AM12-0417_74v.3.4">bekert</w>
+<w xml:id="AM12-0417_74v.3.5">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_74v.3.6">sche<lb n="4"/>men</w>
+<w xml:id="AM12-0417_74v.4.2">sick</w>
+<w xml:id="AM12-0417_74v.4.3">vil</w>
+<w xml:id="AM12-0417_74v.4.4">sere</w>
+<w xml:id="AM12-0417_74v.4.5"><hi rend="red">E</hi>re</w>
+<w xml:id="AM12-0417_74v.4.6">si</w>
+<w xml:id="AM12-0417_74v.4.7">dem</w>
+</p></div>
+</div>
+<div type="psalm" corresp="PSALM_32v31">
+<head>PSALM_32v31</head><p></p><div type="text">
+<p>
+<lb n="5"/>
+<w xml:id="AM12-0417_74v.5.1"><hi rend="red 2">S</hi>Alich</w>
+<w xml:id="AM12-0417_74v.5.2">synt</w>
+<w xml:id="AM12-0417_74v.5.3">de</w>
+<w xml:id="AM12-0417_74v.5.4">den</w>
+<w xml:id="AM12-0417_74v.5.5">ere</w>
+<w xml:id="AM12-0417_74v.5.6">bos<lb n="6"/>heit</w>
+<w xml:id="AM12-0417_74v.6.2">sint</w>
+<w xml:id="AM12-0417_74v.6.3">vorlete<ex>n</ex></w>
+<w xml:id="AM12-0417_74v.6.4">vnde</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_74v.7.1">ere</w>
+<w xml:id="AM12-0417_74v.7.2">sunde</w>
+<w xml:id="AM12-0417_74v.7.3">bedecket</w>
+<w xml:id="AM12-0417_74v.7.4">syn</w>
+<w xml:id="AM12-0417_74v.7.5"><hi rend="red">S</hi>a<lb n="8"/>lich</w>
+<w xml:id="AM12-0417_74v.8.2">is</w>
+<w xml:id="AM12-0417_74v.8.3">de</w>
+<w xml:id="AM12-0417_74v.8.4">ma<ex>n</ex></w>
+<w xml:id="AM12-0417_74v.8.5">de<ex>n</ex></w>
+<w xml:id="AM12-0417_74v.8.6">de</w>
+<w xml:id="AM12-0417_74v.8.7">here</w>
+<w xml:id="AM12-0417_74v.8.8">nicht</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_74v.9.1">en</w>
+<w xml:id="AM12-0417_74v.9.2">witet</w>
+<w xml:id="AM12-0417_74v.9.3">de</w>
+<w xml:id="AM12-0417_74v.9.4">sunde</w>
+<w xml:id="AM12-0417_74v.9.5">noch</w>
+<w xml:id="AM12-0417_74v.9.6">in</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_74v.10.1">sinen</w>
+<w xml:id="AM12-0417_74v.10.2">geiste</w>
+<w xml:id="AM12-0417_74v.10.3">en</w>
+<w xml:id="AM12-0417_74v.10.4">is</w>
+<w xml:id="AM12-0417_74v.10.5">ghen</w>
+<w xml:id="AM12-0417_74v.10.6">dro<lb n="11"/>ghen</w>
+<w xml:id="AM12-0417_74v.11.2"><hi rend="red">M</hi>yne</w>
+<w xml:id="AM12-0417_74v.11.3">knaken</w>
+<w xml:id="AM12-0417_74v.11.4">synt</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_74v.12.1">vor</w>
+<w xml:id="AM12-0417_74v.12.2">oldet</w>
+<w xml:id="AM12-0417_74v.12.3">wente</w>
+<w xml:id="AM12-0417_74v.12.4">ik</w>
+<w xml:id="AM12-0417_74v.12.5">geswe<lb n="13"/>ghen</w>
+<w xml:id="AM12-0417_74v.13.2">hebbe</w>
+<w xml:id="AM12-0417_74v.13.3">do</w>
+<w xml:id="AM12-0417_74v.13.4">ik</w>
+<w xml:id="AM12-0417_74v.13.5">al</w>
+<w xml:id="AM12-0417_74v.13.6">den</w>
+<w xml:id="AM12-0417_74v.13.7">dach</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_74v.14.1">rep</w>
+<w xml:id="AM12-0417_74v.14.2"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_74v.14.3">dach</w>
+<w xml:id="AM12-0417_74v.14.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_74v.14.5">nacht</w>
+<pb n="75r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_75r.1.1">is</w>
+<w xml:id="AM12-0417_75r.1.2">dyn</w>
+<w xml:id="AM12-0417_75r.1.3">hant</w>
+<w xml:id="AM12-0417_75r.1.4">bewart</w>
+<w xml:id="AM12-0417_75r.1.5">baue<ex>n</ex></w>
+<lb n="2"/>
+<w xml:id="AM12-0417_75r.2.1">my</w>
+<w xml:id="AM12-0417_75r.2.2">ik</w>
+<w xml:id="AM12-0417_75r.2.3">bin</w>
+<w xml:id="AM12-0417_75r.2.4">gekeret</w>
+<w xml:id="AM12-0417_75r.2.5">am</w>
+<w xml:id="AM12-0417_75r.2.6">my<lb n="3"/>nen</w>
+<w xml:id="AM12-0417_75r.3.2">iammer</w>
+<w xml:id="AM12-0417_75r.3.3">also</w>
+<w xml:id="AM12-0417_75r.3.4">de</w>
+<w xml:id="AM12-0417_75r.3.5">dorn</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_75r.4.1">gestucket</w>
+<w xml:id="AM12-0417_75r.4.2">wert</w>
+<w xml:id="AM12-0417_75r.4.3"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_75r.4.4">dede</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_75r.5.1">di</w>
+<w xml:id="AM12-0417_75r.5.2">witliken</w>
+<w xml:id="AM12-0417_75r.5.3">myne<ex>n</ex></w>
+<w xml:id="AM12-0417_75r.5.4">broke</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_75r.6.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_75r.6.2">en</w>
+<w xml:id="AM12-0417_75r.6.3">behude</w>
+<w xml:id="AM12-0417_75r.6.4">nicht</w>
+<w xml:id="AM12-0417_75r.6.5">myne</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_75r.7.1">vnrechticheit</w>
+<w xml:id="AM12-0417_75r.7.2"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_75r.7.3">sprack</w>
+<w xml:id="AM12-0417_75r.7.4">ik</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_75r.8.1">wil</w>
+<w xml:id="AM12-0417_75r.8.2">wedder</w>
+<w xml:id="AM12-0417_75r.8.3">my</w>
+<w xml:id="AM12-0417_75r.8.4">bichte<ex>n</ex></w>
+<w xml:id="AM12-0417_75r.8.5">den</w>
+<w xml:id="AM12-0417_75r.8.6">he<lb n="9"/>ren</w>
+<w xml:id="AM12-0417_75r.9.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_75r.9.3">du</w>
+<w xml:id="AM12-0417_75r.9.4">vor</w>
+<w xml:id="AM12-0417_75r.9.5">geuest</w>
+<w xml:id="AM12-0417_75r.9.6">my</w>
+<w xml:id="AM12-0417_75r.9.7">de</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_75r.10.1">bosheit</w>
+<w xml:id="AM12-0417_75r.10.2">myner</w>
+<w xml:id="AM12-0417_75r.10.3">sunde</w>
+<w xml:id="AM12-0417_75r.10.4"><hi>D</hi>ar</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_75r.11.1">v<ex>m</ex>me</w>
+<w xml:id="AM12-0417_75r.11.2">schal</w>
+<w xml:id="AM12-0417_75r.11.3">to</w>
+<w xml:id="AM12-0417_75r.11.4">di</w>
+<w xml:id="AM12-0417_75r.11.5">beden</w>
+<w xml:id="AM12-0417_75r.11.6">eyn</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_75r.12.1">iewelik</w>
+<w xml:id="AM12-0417_75r.12.2">hillige</w>
+<w xml:id="AM12-0417_75r.12.3">in</w>
+<w xml:id="AM12-0417_75r.12.4">der</w>
+<w xml:id="AM12-0417_75r.12.5">morge<ex>n</ex></w>
+<lb n="13"/>
+<w xml:id="AM12-0417_75r.13.1">tyt</w>
+<w xml:id="AM12-0417_75r.13.2"><hi rend="red">D</hi>o</w>
+<w xml:id="AM12-0417_75r.13.3">doch</w>
+<w xml:id="AM12-0417_75r.13.4">in</w>
+<w xml:id="AM12-0417_75r.13.5">deme</w>
+<w xml:id="AM12-0417_75r.13.6">auer<lb n="14"/>vlode</w>
+<w xml:id="AM12-0417_75r.14.2">ueler</w>
+<w xml:id="AM12-0417_75r.14.3">watere</w>
+<w xml:id="AM12-0417_75r.14.4">en</w>
+<w xml:id="AM12-0417_75r.14.5">scole<ex>n</ex></w>
+<lb n="15"/>
+<w xml:id="AM12-0417_75r.15.1">se</w>
+<w xml:id="AM12-0417_75r.15.2">nicht</w>
+<w xml:id="AM12-0417_75r.15.3">to</w>
+<w xml:id="AM12-0417_75r.15.4">em</w>
+<w xml:id="AM12-0417_75r.15.5">nalen</w>
+<w xml:id="AM12-0417_75r.15.6"><hi rend="red">D</hi>u</w>
+<pb n="75v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_75v.1.1">bist</w>
+<w xml:id="AM12-0417_75v.1.2">my<ex>n</ex></w>
+<w xml:id="AM12-0417_75v.1.3">to</w>
+<w xml:id="AM12-0417_75v.1.4">vlocht</w>
+<w xml:id="AM12-0417_75v.1.5">va<ex>n</ex></w>
+<w xml:id="AM12-0417_75v.1.6">der</w>
+<w xml:id="AM12-0417_75v.1.7">drof<lb n="2"/>fenisse</w>
+<w xml:id="AM12-0417_75v.2.2">de</w>
+<w xml:id="AM12-0417_75v.2.3">my</w>
+<w xml:id="AM12-0417_75v.2.4">heft</w>
+<w xml:id="AM12-0417_75v.2.5">be vange<ex>n</ex></w>
+<lb n="3"/>
+<w xml:id="AM12-0417_75v.3.1">myn</w>
+<w xml:id="AM12-0417_75v.3.2">vroude</w>
+<w xml:id="AM12-0417_75v.3.3">lose</w>
+<w xml:id="AM12-0417_75v.3.4">my</w>
+<w xml:id="AM12-0417_75v.3.5">va<ex>n</ex></w>
+<w xml:id="AM12-0417_75v.3.6">den</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_75v.4.1">de</w>
+<w xml:id="AM12-0417_75v.4.2">my</w>
+<w xml:id="AM12-0417_75v.4.3">v<ex>m</ex>me</w>
+<w xml:id="AM12-0417_75v.4.4">vange</w>
+<w xml:id="AM12-0417_75v.4.5">hebbe<ex>n</ex></w>
+<lb n="5"/>
+<w xml:id="AM12-0417_75v.5.1"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_75v.5.2">wil</w>
+<w xml:id="AM12-0417_75v.5.3">di</w>
+<w xml:id="AM12-0417_75v.5.4">geuen</w>
+<w xml:id="AM12-0417_75v.5.5">vorstante<lb n="6"/>nisse</w>
+<w xml:id="AM12-0417_75v.6.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_75v.6.3">wil</w>
+<w xml:id="AM12-0417_75v.6.4">di</w>
+<w xml:id="AM12-0417_75v.6.5">an wisen</w>
+<w xml:id="AM12-0417_75v.6.6">in</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_75v.7.1">deme</w>
+<w xml:id="AM12-0417_75v.7.2">wege</w>
+<w xml:id="AM12-0417_75v.7.3">den</w>
+<w xml:id="AM12-0417_75v.7.4">du</w>
+<w xml:id="AM12-0417_75v.7.5">gaen</w>
+<w xml:id="AM12-0417_75v.7.6">scalt</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_75v.8.1">ik</w>
+<w xml:id="AM12-0417_75v.8.2">wil</w>
+<w xml:id="AM12-0417_75v.8.3">myne</w>
+<w xml:id="AM12-0417_75v.8.4">oghen</w>
+<w xml:id="AM12-0417_75v.8.5">baue<ex>n</ex></w>
+<w xml:id="AM12-0417_75v.8.6">di</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_75v.9.1">stedighen</w>
+<w xml:id="AM12-0417_75v.9.2"><hi rend="red">E</hi>n</w>
+<w xml:id="AM12-0417_75v.9.3">werdet</w>
+<w xml:id="AM12-0417_75v.9.4">nicht</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_75v.10.1">also</w>
+<w xml:id="AM12-0417_75v.10.2">eyn</w>
+<w xml:id="AM12-0417_75v.10.3">pert</w>
+<w xml:id="AM12-0417_75v.10.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_75v.10.5">en</w>
+<w xml:id="AM12-0417_75v.10.6">wul</w>
+<w xml:id="AM12-0417_75v.10.7">in</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_75v.11.1">dem</w>
+<w xml:id="AM12-0417_75v.11.2">nyn</w>
+<w xml:id="AM12-0417_75v.11.3">vor nuft</w>
+<w xml:id="AM12-0417_75v.11.4">en</w>
+<w xml:id="AM12-0417_75v.11.5">is</w>
+<w xml:id="AM12-0417_75v.11.6"><hi rend="red">D</hi><lb n="12"/>winge</w>
+<w xml:id="AM12-0417_75v.12.2">ere</w>
+<w xml:id="AM12-0417_75v.12.3">wangen</w>
+<w xml:id="AM12-0417_75v.12.4">in</w>
+<w xml:id="AM12-0417_75v.12.5">den</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_75v.13.1">halteren</w>
+<w xml:id="AM12-0417_75v.13.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_75v.13.3">in</w>
+<w xml:id="AM12-0417_75v.13.4">tome<ex>n</ex>de</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_75v.14.1">nicht</w>
+<w xml:id="AM12-0417_75v.14.2">en</w>
+<w xml:id="AM12-0417_75v.14.3">nalen</w>
+<w xml:id="AM12-0417_75v.14.4">to</w>
+<w xml:id="AM12-0417_75v.14.5">dy</w>
+<w xml:id="AM12-0417_75v.14.6"><hi rend="red">U</hi>ele</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_75v.15.1">geyselen</w>
+<w xml:id="AM12-0417_75v.15.2">sint</w>
+<w xml:id="AM12-0417_75v.15.3">des</w>
+<w xml:id="AM12-0417_75v.15.4">sunders</w>
+<pb n="76r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_76r.1.1">me<ex>n</ex></w>
+<w xml:id="AM12-0417_76r.1.2">de</w>
+<w xml:id="AM12-0417_76r.1.3">barmherticheit</w>
+<w xml:id="AM12-0417_76r.1.4">schal</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_76r.2.1">v<ex>m</ex>me</w>
+<w xml:id="AM12-0417_76r.2.2">van</w>
+<w xml:id="AM12-0417_76r.2.3">de</w>
+<w xml:id="AM12-0417_76r.2.4">in</w>
+<w xml:id="AM12-0417_76r.2.5">den</w>
+<w xml:id="AM12-0417_76r.2.6">hapen</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_76r.3.1"><hi rend="red">G</hi>i</w>
+<w xml:id="AM12-0417_76r.3.2">rechten</w>
+<w xml:id="AM12-0417_76r.3.3">vrouwet</w>
+<w xml:id="AM12-0417_76r.3.4">in</w>
+<w xml:id="AM12-0417_76r.3.5">alle<ex>n</ex></w>
+<lb n="4"/>
+<w xml:id="AM12-0417_76r.4.1">de</w>
+<w xml:id="AM12-0417_76r.4.2">van</w>
+<w xml:id="AM12-0417_76r.4.3">rechte<ex>n</ex></w>
+<w xml:id="AM12-0417_76r.4.4"><add>herte<ex>n</ex></add></w>
+<w xml:id="AM12-0417_76r.4.5">syn</w>
+<w xml:id="AM12-0417_76r.4.6"><hi rend="red">E</hi>re</w>
+<w xml:id="AM12-0417_76r.4.7">si</w>
+<w xml:id="AM12-0417_76r.4.8">de<ex>n</ex></w>
+<lb n="5"/>
+<w xml:id="AM12-0417_76r.5.1">vader</w>
+<w xml:id="AM12-0417_76r.5.2">vnde</w>
+<w xml:id="AM12-0417_76r.5.3">den</w>
+<w xml:id="AM12-0417_76r.5.4">sone</w>
+<w xml:id="AM12-0417_76r.5.5">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_76r.5.6">den</w>
+</p></div>
+</div>
+<div type="psalm" corresp="PSALM_38v37">
+<head>PSALM_38v37</head><p></p><div type="text">
+<p>
+<lb n="6"/>
+<w xml:id="AM12-0417_76r.6.1"><hi rend="red 3">H</hi>Ere</w>
+<w xml:id="AM12-0417_76r.6.2">beschelt</w>
+<w xml:id="AM12-0417_76r.6.3">nicht</w>
+<w xml:id="AM12-0417_76r.6.4">in</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_76r.7.1">dine<ex>n</ex></w>
+<w xml:id="AM12-0417_76r.7.2">vnmode</w>
+<w xml:id="AM12-0417_76r.7.3">vnde</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_76r.8.1">tuchtige</w>
+<w xml:id="AM12-0417_76r.8.2">my</w>
+<w xml:id="AM12-0417_76r.8.3">nicht</w>
+<w xml:id="AM12-0417_76r.8.4">in</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_76r.9.1">dynen</w>
+<w xml:id="AM12-0417_76r.9.2">torne</w>
+<w xml:id="AM12-0417_76r.9.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_76r.9.4">dine</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_76r.10.1">schote</w>
+<w xml:id="AM12-0417_76r.10.2">sint</w>
+<w xml:id="AM12-0417_76r.10.3">in</w>
+<w xml:id="AM12-0417_76r.10.4">my</w>
+<w xml:id="AM12-0417_76r.10.5">gescicket</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_76r.11.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_76r.11.2">du</w>
+<w xml:id="AM12-0417_76r.11.3">heuest</w>
+<w xml:id="AM12-0417_76r.11.4">dine</w>
+<w xml:id="AM12-0417_76r.11.5">hant</w>
+<w xml:id="AM12-0417_76r.11.6"><add>gefrediget</add></w>
+<w xml:id="AM12-0417_76r.11.7">ba<lb n="12"/>uen</w>
+<w xml:id="AM12-0417_76r.12.2">my</w>
+<w xml:id="AM12-0417_76r.12.3"><hi rend="blue">I</hi>n</w>
+<w xml:id="AM12-0417_76r.12.4">myne<ex>n</ex></w>
+<w xml:id="AM12-0417_76r.12.5">vlesche</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_76r.13.1">en</w>
+<w xml:id="AM12-0417_76r.13.2">is</w>
+<w xml:id="AM12-0417_76r.13.3">nyn</w>
+<w xml:id="AM12-0417_76r.13.4">suntheit</w>
+<w xml:id="AM12-0417_76r.13.5">va<ex>n</ex></w>
+<w xml:id="AM12-0417_76r.13.6">den</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_76r.14.1">antlate</w>
+<w xml:id="AM12-0417_76r.14.2">myner</w>
+<w xml:id="AM12-0417_76r.14.3">sunde</w>
+<w xml:id="AM12-0417_76r.14.4"><hi rend="red">W</hi>en<lb n="15"/>te</w>
+<w xml:id="AM12-0417_76r.15.2">myne</w>
+<w xml:id="AM12-0417_76r.15.3">bosheit</w>
+<w xml:id="AM12-0417_76r.15.4">bauen</w>
+<w xml:id="AM12-0417_76r.15.5">my<ex>n</ex></w>
+<pb n="76v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_76v.1.1">houet</w>
+<w xml:id="AM12-0417_76v.1.2">synt</w>
+<w xml:id="AM12-0417_76v.1.3">gegan</w>
+<w xml:id="AM12-0417_76v.1.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_76v.1.5">sint</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_76v.2.1">beswaret</w>
+<w xml:id="AM12-0417_76v.2.2">bauen</w>
+<w xml:id="AM12-0417_76v.2.3">my</w>
+<w xml:id="AM12-0417_76v.2.4">so</w>
+<w xml:id="AM12-0417_76v.2.5">eyn</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_76v.3.1">sware</w>
+<w xml:id="AM12-0417_76v.3.2">borden</w>
+<w xml:id="AM12-0417_76v.3.3"><hi rend="red">M</hi>yne</w>
+<w xml:id="AM12-0417_76v.3.4">nare<ex>n</ex></w>
+<lb n="4"/>
+<w xml:id="AM12-0417_76v.4.1">sint</w>
+<w xml:id="AM12-0417_76v.4.2">vor</w>
+<w xml:id="AM12-0417_76v.4.3">vn let</w>
+<w xml:id="AM12-0417_76v.4.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_76v.4.5">vor</w>
+<w xml:id="AM12-0417_76v.4.6">dor<lb n="5"/>uen</w>
+<w xml:id="AM12-0417_76v.5.2">van</w>
+<w xml:id="AM12-0417_76v.5.3">dem</w>
+<w xml:id="AM12-0417_76v.5.4">antlate</w>
+<w xml:id="AM12-0417_76v.5.5">myn<ex>er</ex></w>
+<lb n="6"/>
+<w xml:id="AM12-0417_76v.6.1">dul heit</w>
+<w xml:id="AM12-0417_76v.6.2"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_76v.6.3">byn</w>
+<w xml:id="AM12-0417_76v.6.4">arm</w>
+<w xml:id="AM12-0417_76v.6.5"><del>vn<ex>de</ex></del></w>
+<lb n="7"/>
+<w xml:id="AM12-0417_76v.7.1"><del>0000000</del></w>
+<w xml:id="AM12-0417_76v.7.2">ge worden</w>
+<w xml:id="AM12-0417_76v.7.3">vnde</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_76v.8.1">gekru<ex>m</ex>met</w>
+<w xml:id="AM12-0417_76v.8.2">wente</w>
+<w xml:id="AM12-0417_76v.8.3">in</w>
+<w xml:id="AM12-0417_76v.8.4">den</w>
+<w xml:id="AM12-0417_76v.8.5">en<lb n="9"/>den</w>
+<w xml:id="AM12-0417_76v.9.2">allen</w>
+<w xml:id="AM12-0417_76v.9.3">dach</w>
+<w xml:id="AM12-0417_76v.9.4">ginck</w>
+<w xml:id="AM12-0417_76v.9.5">ik</w>
+<w xml:id="AM12-0417_76v.9.6">tro<lb n="10"/>uich</w>
+<w xml:id="AM12-0417_76v.10.2">in</w>
+<w xml:id="AM12-0417_76v.10.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_76v.10.4">myne</w>
+<w xml:id="AM12-0417_76v.10.5">seuen</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_76v.11.1">sint</w>
+<w xml:id="AM12-0417_76v.11.2">vor vullet</w>
+<w xml:id="AM12-0417_76v.11.3">myt</w>
+<w xml:id="AM12-0417_76v.11.4">bespot<lb n="12"/>tynge</w>
+<w xml:id="AM12-0417_76v.12.2">unde</w>
+<w xml:id="AM12-0417_76v.12.3">in</w>
+<w xml:id="AM12-0417_76v.12.4">mynen</w>
+<w xml:id="AM12-0417_76v.12.5">vlesche</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_76v.13.1">en</w>
+<w xml:id="AM12-0417_76v.13.2">is</w>
+<w xml:id="AM12-0417_76v.13.3">nyn</w>
+<w xml:id="AM12-0417_76v.13.4">suntheit</w>
+<w xml:id="AM12-0417_76v.13.5"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_76v.13.6">bin</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_76v.14.1">ge piniget</w>
+<w xml:id="AM12-0417_76v.14.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_76v.14.3">also</w>
+<w xml:id="AM12-0417_76v.14.4">sere</w>
+<w xml:id="AM12-0417_76v.14.5">oth<lb n="15"/>modiget</w>
+<w xml:id="AM12-0417_76v.15.2">ik</w>
+<w xml:id="AM12-0417_76v.15.3">bru<ex>m</ex>mede</w>
+<w xml:id="AM12-0417_76v.15.4">van</w>
+<pb n="77r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_77r.1.1">der</w>
+<w xml:id="AM12-0417_77r.1.2">luchtinghe</w>
+<w xml:id="AM12-0417_77r.1.3">mynes</w>
+<w xml:id="AM12-0417_77r.1.4">h<ex>er</ex>ten</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_77r.2.1"><hi rend="red">H</hi>ere</w>
+<w xml:id="AM12-0417_77r.2.2">vor</w>
+<w xml:id="AM12-0417_77r.2.3">di</w>
+<w xml:id="AM12-0417_77r.2.4">is</w>
+<w xml:id="AM12-0417_77r.2.5">alle</w>
+<w xml:id="AM12-0417_77r.2.6">myne</w>
+<w xml:id="AM12-0417_77r.2.7">be<lb n="3"/>gheringhe</w>
+<w xml:id="AM12-0417_77r.3.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_77r.3.3">my<ex>n</ex></w>
+<w xml:id="AM12-0417_77r.3.4">suchtunge</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_77r.4.1">is</w>
+<w xml:id="AM12-0417_77r.4.2">vor</w>
+<w xml:id="AM12-0417_77r.4.3">dy</w>
+<w xml:id="AM12-0417_77r.4.4">nicht</w>
+<w xml:id="AM12-0417_77r.4.5">vor</w>
+<w xml:id="AM12-0417_77r.4.6">borgen</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_77r.5.1"><hi rend="red">M</hi>yn</w>
+<w xml:id="AM12-0417_77r.5.2">herte</w>
+<w xml:id="AM12-0417_77r.5.3">is</w>
+<w xml:id="AM12-0417_77r.5.4">bedrouet</w>
+<w xml:id="AM12-0417_77r.5.5">my<ex>n</ex></w>
+<lb n="6"/>
+<w xml:id="AM12-0417_77r.6.1">kraft</w>
+<w xml:id="AM12-0417_77r.6.2">heuet</w>
+<w xml:id="AM12-0417_77r.6.3">my</w>
+<w xml:id="AM12-0417_77r.6.4">vorlaten</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_77r.7.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_77r.7.2">dat</w>
+<w xml:id="AM12-0417_77r.7.3">licht</w>
+<w xml:id="AM12-0417_77r.7.4">myner</w>
+<w xml:id="AM12-0417_77r.7.5">oghen</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_77r.8.1">en</w>
+<w xml:id="AM12-0417_77r.8.2">is</w>
+<w xml:id="AM12-0417_77r.8.3">nicht</w>
+<w xml:id="AM12-0417_77r.8.4">myt</w>
+<w xml:id="AM12-0417_77r.8.5">my</w>
+<w xml:id="AM12-0417_77r.8.6"><hi rend="red">M</hi>yne</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_77r.9.1">vrund</w>
+<w xml:id="AM12-0417_77r.9.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_77r.9.3">myne</w>
+<w xml:id="AM12-0417_77r.9.4">negesten</w>
+<w xml:id="AM12-0417_77r.9.5">na<lb n="10"/>leden</w>
+<w xml:id="AM12-0417_77r.10.2">wedder</w>
+<w xml:id="AM12-0417_77r.10.3">my</w>
+<w xml:id="AM12-0417_77r.10.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_77r.10.5">stunden</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_77r.11.1">verne</w>
+<w xml:id="AM12-0417_77r.11.2">van</w>
+<w xml:id="AM12-0417_77r.11.3">my</w>
+<w xml:id="AM12-0417_77r.11.4"><hi rend="red">U</hi>nde</w>
+<w xml:id="AM12-0417_77r.11.5">de</w>
+<w xml:id="AM12-0417_77r.11.6">my</w>
+<w xml:id="AM12-0417_77r.11.7">bose</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_77r.12.1">dinck</w>
+<w xml:id="AM12-0417_77r.12.2">vrageden</w>
+<w xml:id="AM12-0417_77r.12.3">de</w>
+<w xml:id="AM12-0417_77r.12.4">spreken</w>
+<pb n="77v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_77v.1.1">ydelicheit</w>
+<w xml:id="AM12-0417_77v.1.2">vnde</w>
+<w xml:id="AM12-0417_77v.1.3">dachten</w>
+<w xml:id="AM12-0417_77v.1.4">alle</w>
+<w xml:id="AM12-0417_77v.1.5">de<ex>n</ex></w>
+<lb n="2"/>
+<w xml:id="AM12-0417_77v.2.1">dach</w>
+<w xml:id="AM12-0417_77v.2.2">drogene</w>
+<w xml:id="AM12-0417_77v.2.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_77v.2.4">ick</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_77v.3.1">also</w>
+<w xml:id="AM12-0417_77v.3.2">eyn</w>
+<w xml:id="AM12-0417_77v.3.3">doue</w>
+<w xml:id="AM12-0417_77v.3.4">dede</w>
+<w xml:id="AM12-0417_77v.3.5">nicht</w>
+<w xml:id="AM12-0417_77v.3.6">hor<lb n="4"/>de</w>
+<w xml:id="AM12-0417_77v.4.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_77v.4.3">also</w>
+<w xml:id="AM12-0417_77v.4.4">stumme</w>
+<w xml:id="AM12-0417_77v.4.5">de</w>
+<w xml:id="AM12-0417_77v.4.6">sinen</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_77v.5.1">mu<ex>n</ex>t</w>
+<w xml:id="AM12-0417_77v.5.2">nicht</w>
+<w xml:id="AM12-0417_77v.5.3">vp</w>
+<w xml:id="AM12-0417_77v.5.4">en</w>
+<w xml:id="AM12-0417_77v.5.5">doeyt</w>
+<w xml:id="AM12-0417_77v.5.6"><hi rend="red">U</hi>n<lb n="6"/>de</w>
+<w xml:id="AM12-0417_77v.6.2">ik</w>
+<w xml:id="AM12-0417_77v.6.3">geworden</w>
+<w xml:id="AM12-0417_77v.6.4">also</w>
+<w xml:id="AM12-0417_77v.6.5">eyn</w>
+<w xml:id="AM12-0417_77v.6.6">my<ex>n</ex><lb n="7"/>sche</w>
+<w xml:id="AM12-0417_77v.7.2">de</w>
+<w xml:id="AM12-0417_77v.7.3">nicht</w>
+<w xml:id="AM12-0417_77v.7.4">en</w>
+<w xml:id="AM12-0417_77v.7.5">horet</w>
+<w xml:id="AM12-0417_77v.7.6">vnde</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_77v.8.1">heuet</w>
+<w xml:id="AM12-0417_77v.8.2">an</w>
+<w xml:id="AM12-0417_77v.8.3">sinen</w>
+<w xml:id="AM12-0417_77v.8.4">mu<ex>n</ex>de</w>
+<w xml:id="AM12-0417_77v.8.5">nene</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_77v.9.1">wedder</w>
+<w xml:id="AM12-0417_77v.9.2">rede</w>
+<w xml:id="AM12-0417_77v.9.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_77v.9.4">ick</w>
+<w xml:id="AM12-0417_77v.9.5">hape<lb n="10"/>de</w>
+<w xml:id="AM12-0417_77v.10.2">in</w>
+<w xml:id="AM12-0417_77v.10.3">dy</w>
+<w xml:id="AM12-0417_77v.10.4">here</w>
+<w xml:id="AM12-0417_77v.10.5">my<ex>n</ex></w>
+<w xml:id="AM12-0417_77v.10.6">god</w>
+<w xml:id="AM12-0417_77v.10.7">du</w>
+<w xml:id="AM12-0417_77v.10.8">vult</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_77v.11.1">my</w>
+<w xml:id="AM12-0417_77v.11.2">twyden</w>
+<w xml:id="AM12-0417_77v.11.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_77v.11.4">ik</w>
+<w xml:id="AM12-0417_77v.11.5">sprack</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_77v.12.1">dat</w>
+<w xml:id="AM12-0417_77v.12.2">ichteswanne</w>
+<w xml:id="AM12-0417_77v.12.3">myne</w>
+<w xml:id="AM12-0417_77v.12.4">via<ex>n</ex><lb n="13"/>de</w>
+<w xml:id="AM12-0417_77v.13.2">nicht</w>
+<w xml:id="AM12-0417_77v.13.3">en</w>
+<w xml:id="AM12-0417_77v.13.4">vrouwen</w>
+<w xml:id="AM12-0417_77v.13.5">vp</w>
+<w xml:id="AM12-0417_77v.13.6">my</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_77v.14.1">vnde</w>
+<w xml:id="AM12-0417_77v.14.2">went</w>
+<w xml:id="AM12-0417_77v.14.3">sick</w>
+<w xml:id="AM12-0417_77v.14.4">myne</w>
+<w xml:id="AM12-0417_77v.14.5"><add>vote</add></w>
+<w xml:id="AM12-0417_77v.14.6">bewe<lb n="15"/>ghen</w>
+<w xml:id="AM12-0417_77v.15.2">so</w>
+<w xml:id="AM12-0417_77v.15.3">spreken</w>
+<w xml:id="AM12-0417_77v.15.4">se</w>
+<w xml:id="AM12-0417_77v.15.5">grote</w>
+<w xml:id="AM12-0417_77v.15.6">dinck</w>
+<pb n="78r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_78r.1.1">vp</w>
+<w xml:id="AM12-0417_78r.1.2">my</w>
+<w xml:id="AM12-0417_78r.1.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_78r.1.4">ick</w>
+<w xml:id="AM12-0417_78r.1.5">bereyt</w>
+<w xml:id="AM12-0417_78r.1.6"><add>byn</add></w>
+<w xml:id="AM12-0417_78r.1.7">in</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_78r.2.1">den</w>
+<w xml:id="AM12-0417_78r.2.2">geiselen</w>
+<w xml:id="AM12-0417_78r.2.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_78r.2.4">myn</w>
+<w xml:id="AM12-0417_78r.2.5">droffe<lb n="3"/>nisse</w>
+<w xml:id="AM12-0417_78r.3.2">is</w>
+<w xml:id="AM12-0417_78r.3.3">iu<ex>m</ex>mer</w>
+<w xml:id="AM12-0417_78r.3.4">in</w>
+<w xml:id="AM12-0417_78r.3.5">dine<ex>n</ex></w>
+<w xml:id="AM12-0417_78r.3.6">ange<lb n="4"/>sichte</w>
+<w xml:id="AM12-0417_78r.4.2"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_78r.4.3">ik</w>
+<w xml:id="AM12-0417_78r.4.4">kundighen</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_78r.5.1">myne</w>
+<w xml:id="AM12-0417_78r.5.2">bosheit</w>
+<w xml:id="AM12-0417_78r.5.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_78r.5.4">wil</w>
+<w xml:id="AM12-0417_78r.5.5">dencke<ex>n</ex></w>
+<lb n="6"/>
+<w xml:id="AM12-0417_78r.6.1">v<ex>m</ex>me</w>
+<w xml:id="AM12-0417_78r.6.2"><add>myne</add></w>
+<w xml:id="AM12-0417_78r.6.3">sunde</w>
+<w xml:id="AM12-0417_78r.6.4"><hi rend="red">M</hi>yne</w>
+<w xml:id="AM12-0417_78r.6.5">viande</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_78r.7.1">leuen</w>
+<w xml:id="AM12-0417_78r.7.2">vn<ex>De</ex></w>
+<w xml:id="AM12-0417_78r.7.3">sin</w>
+<w xml:id="AM12-0417_78r.7.4">gestediget</w>
+<w xml:id="AM12-0417_78r.7.5">ba<lb n="8"/>uen</w>
+<w xml:id="AM12-0417_78r.8.2">my</w>
+<w xml:id="AM12-0417_78r.8.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_78r.8.4">se</w>
+<w xml:id="AM12-0417_78r.8.5">sint</w>
+<w xml:id="AM12-0417_78r.8.6">me<ex>n</ex>nych.</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_78r.9.1">uoldich</w>
+<w xml:id="AM12-0417_78r.9.2">de</w>
+<w xml:id="AM12-0417_78r.9.3">my</w>
+<w xml:id="AM12-0417_78r.9.4">bosliken</w>
+<w xml:id="AM12-0417_78r.9.5">hate<ex>n</ex></w>
+<lb n="10"/>
+<w xml:id="AM12-0417_78r.10.1"><hi rend="red">D</hi>e</w>
+<w xml:id="AM12-0417_78r.10.2">dar</w>
+<w xml:id="AM12-0417_78r.10.3">bose</w>
+<w xml:id="AM12-0417_78r.10.4">dinck</w>
+<w xml:id="AM12-0417_78r.10.5">wedder</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_78r.11.1">my</w>
+<w xml:id="AM12-0417_78r.11.2">geuen</w>
+<w xml:id="AM12-0417_78r.11.3">v<ex>m</ex>me</w>
+<w xml:id="AM12-0417_78r.11.4">de</w>
+<w xml:id="AM12-0417_78r.11.5">guden</w>
+<w xml:id="AM12-0417_78r.11.6">de</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_78r.12.1">achter</w>
+<w xml:id="AM12-0417_78r.12.2">spreken</w>
+<w xml:id="AM12-0417_78r.12.3">my</w>
+<w xml:id="AM12-0417_78r.12.4">wente</w>
+<w xml:id="AM12-0417_78r.12.5">ick</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_78r.13.1">volgede</w>
+<w xml:id="AM12-0417_78r.13.2">der</w>
+<w xml:id="AM12-0417_78r.13.3">gude</w>
+<w xml:id="AM12-0417_78r.13.4"><hi rend="red">H</hi>ere</w>
+<w xml:id="AM12-0417_78r.13.5">myn</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_78r.14.1">god</w>
+<w xml:id="AM12-0417_78r.14.2">vorlat</w>
+<w xml:id="AM12-0417_78r.14.3">my</w>
+<w xml:id="AM12-0417_78r.14.4">nicht</w>
+<w xml:id="AM12-0417_78r.14.5">en</w>
+<w xml:id="AM12-0417_78r.14.6">vare</w>
+<pb n="78v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_78v.1.1">nicht</w>
+<w xml:id="AM12-0417_78v.1.2">va<ex>n</ex></w>
+<w xml:id="AM12-0417_78v.1.3">my</w>
+<w xml:id="AM12-0417_78v.1.4"><hi rend="red">H</hi>ere</w>
+<w xml:id="AM12-0417_78v.1.5">mynes</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_78v.2.1">heiles</w>
+<w xml:id="AM12-0417_78v.2.2">god</w>
+<w xml:id="AM12-0417_78v.2.3">dencke</w>
+<w xml:id="AM12-0417_78v.2.4">an</w>
+<w xml:id="AM12-0417_78v.2.5">myne</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_78v.3.1">hulpe</w>
+<w xml:id="AM12-0417_78v.3.2"><hi rend="red">E</hi>re</w>
+<w xml:id="AM12-0417_78v.3.3">si</w>
+<w xml:id="AM12-0417_78v.3.4">deme</w>
+<w xml:id="AM12-0417_78v.3.5">vader</w>
+</p></div>
+</div>
+<div type="psalm" corresp="PSALM_51v50">
+<head>PSALM_51v50</head><p></p><div type="text">
+<p>
+<lb n="4"/>
+<w xml:id="AM12-0417_78v.4.1"><hi rend="red 2">G</hi>Od</w>
+<w xml:id="AM12-0417_78v.4.2">vorbarme</w>
+<w xml:id="AM12-0417_78v.4.3">di</w>
+<w xml:id="AM12-0417_78v.4.4">auer</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_78v.5.1">my</w>
+<w xml:id="AM12-0417_78v.5.2">na</w>
+<w xml:id="AM12-0417_78v.5.3">diner</w>
+<w xml:id="AM12-0417_78v.5.4">groten</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_78v.6.1">barmherticheit</w>
+<w xml:id="AM12-0417_78v.6.2"><hi rend="red">U</hi>nde</w>
+<w xml:id="AM12-0417_78v.6.3">na</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_78v.7.1">der</w>
+<w xml:id="AM12-0417_78v.7.2">me<ex>n</ex>nichuoldicheit</w>
+<w xml:id="AM12-0417_78v.7.3">diner</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_78v.8.1">gnade</w>
+<w xml:id="AM12-0417_78v.8.2">delge</w>
+<w xml:id="AM12-0417_78v.8.3">myne</w>
+<w xml:id="AM12-0417_78v.8.4">bosheit</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_78v.9.1">vortmer</w>
+<w xml:id="AM12-0417_78v.9.2">wassche</w>
+<w xml:id="AM12-0417_78v.9.3">my</w>
+<w xml:id="AM12-0417_78v.9.4">van</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_78v.10.1">myner</w>
+<w xml:id="AM12-0417_78v.10.2">bosheit</w>
+<w xml:id="AM12-0417_78v.10.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_78v.10.4">reynige</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_78v.11.1">my</w>
+<w xml:id="AM12-0417_78v.11.2">van</w>
+<w xml:id="AM12-0417_78v.11.3">mynen</w>
+<w xml:id="AM12-0417_78v.11.4">sunden</w>
+<w xml:id="AM12-0417_78v.11.5"><hi rend="red">W</hi>e<ex>n</ex><lb n="12"/>te</w>
+<w xml:id="AM12-0417_78v.12.2">ik</w>
+<w xml:id="AM12-0417_78v.12.3">bekenne</w>
+<w xml:id="AM12-0417_78v.12.4">myne</w>
+<w xml:id="AM12-0417_78v.12.5">bosheit</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_78v.13.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_78v.13.2">myne</w>
+<w xml:id="AM12-0417_78v.13.3">sunde</w>
+<w xml:id="AM12-0417_78v.13.4">sunt</w>
+<w xml:id="AM12-0417_78v.13.5">iu<ex>m</ex>mer</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_78v.14.1">wedder</w>
+<w xml:id="AM12-0417_78v.14.2">my</w>
+<w xml:id="AM12-0417_78v.14.3"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_78v.14.4">hebbe</w>
+<w xml:id="AM12-0417_78v.14.5">di</w>
+<w xml:id="AM12-0417_78v.14.6">al<pb n="79r"/><lb n="1"/>lene</w>
+<w xml:id="AM12-0417_79r.1.2">ge luudiget</w>
+<w xml:id="AM12-0417_79r.1.3">vnde</w>
+<w xml:id="AM12-0417_79r.1.4">ouele</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_79r.2.1">ieghen</w>
+<w xml:id="AM12-0417_79r.2.2">di</w>
+<w xml:id="AM12-0417_79r.2.3">ge daen</w>
+<w xml:id="AM12-0417_79r.2.4">dat</w>
+<w xml:id="AM12-0417_79r.2.5">du</w>
+<w xml:id="AM12-0417_79r.2.6">wer<lb n="3"/>dest</w>
+<w xml:id="AM12-0417_79r.3.2">ge richtet</w>
+<w xml:id="AM12-0417_79r.3.3">in</w>
+<w xml:id="AM12-0417_79r.3.4">dine<ex>n</ex></w>
+<w xml:id="AM12-0417_79r.3.5">reden</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_79r.4.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79r.4.2">vor wynnest</w>
+<w xml:id="AM12-0417_79r.4.3">wen</w>
+<w xml:id="AM12-0417_79r.4.4">du</w>
+<w xml:id="AM12-0417_79r.4.5">we<lb n="5"/>rst</w>
+<w xml:id="AM12-0417_79r.5.2">richtende</w>
+<w xml:id="AM12-0417_79r.5.3"><hi rend="red">S</hi>e</w>
+<w xml:id="AM12-0417_79r.5.4">ik</w>
+<w xml:id="AM12-0417_79r.5.5">bin</w>
+<w xml:id="AM12-0417_79r.5.6">vnt<lb n="6"/>fangen</w>
+<w xml:id="AM12-0417_79r.6.2">in</w>
+<w xml:id="AM12-0417_79r.6.3">bosheit</w>
+<w xml:id="AM12-0417_79r.6.4">vnde</w>
+<w xml:id="AM12-0417_79r.6.5">in</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_79r.7.1">sunden</w>
+<w xml:id="AM12-0417_79r.7.2">entfynck</w>
+<w xml:id="AM12-0417_79r.7.3">my</w>
+<w xml:id="AM12-0417_79r.7.4">my<ex>n</ex></w>
+<w xml:id="AM12-0417_79r.7.5">mo<lb n="8"/>der</w>
+<w xml:id="AM12-0417_79r.8.2"><hi rend="red">S</hi>e</w>
+<w xml:id="AM12-0417_79r.8.3">wente</w>
+<w xml:id="AM12-0417_79r.8.4">du</w>
+<w xml:id="AM12-0417_79r.8.5">heuest</w>
+<w xml:id="AM12-0417_79r.8.6">ghe<lb n="9"/>000de</w>
+<w xml:id="AM12-0417_79r.9.2">warheit</w>
+<w xml:id="AM12-0417_79r.9.3">du</w>
+<w xml:id="AM12-0417_79r.9.4">heuest</w>
+<w xml:id="AM12-0417_79r.9.5">my</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_79r.10.1">ge apenbaret</w>
+<w xml:id="AM12-0417_79r.10.2">de</w>
+<w xml:id="AM12-0417_79r.10.3">unwissen</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_79r.11.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79r.11.2">vnvorborghen</w>
+<w xml:id="AM12-0417_79r.11.3">dynck</w>
+<w xml:id="AM12-0417_79r.11.4">di<lb n="12"/>ner</w>
+<w xml:id="AM12-0417_79r.12.2">wisheit</w>
+<w xml:id="AM12-0417_79r.12.3"><hi rend="red">H</hi>ere</w>
+<w xml:id="AM12-0417_79r.12.4">bespren<lb n="13"/>ge</w>
+<w xml:id="AM12-0417_79r.13.2">my</w>
+<w xml:id="AM12-0417_79r.13.3">myt</w>
+<w xml:id="AM12-0417_79r.13.4">ysopen</w>
+<w xml:id="AM12-0417_79r.13.5">vnde</w>
+<w xml:id="AM12-0417_79r.13.6">den</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_79r.14.1">werde</w>
+<w xml:id="AM12-0417_79r.14.2">ik</w>
+<w xml:id="AM12-0417_79r.14.3">gereynighet</w>
+<w xml:id="AM12-0417_79r.14.4">du</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_79r.15.1">scalt</w>
+<w xml:id="AM12-0417_79r.15.2">my</w>
+<w xml:id="AM12-0417_79r.15.3">wasschen</w>
+<w xml:id="AM12-0417_79r.15.4">vnde</w>
+<w xml:id="AM12-0417_79r.15.5">den</w>
+<pb n="79v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_79v.1.1">so</w>
+<w xml:id="AM12-0417_79v.1.2">werde</w>
+<w xml:id="AM12-0417_79v.1.3">ik</w>
+<w xml:id="AM12-0417_79v.1.4">witter</w>
+<w xml:id="AM12-0417_79v.1.5">dan</w>
+<w xml:id="AM12-0417_79v.1.6">de</w>
+<w xml:id="AM12-0417_79v.1.7">snee</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_79v.3.1"><hi rend="red">G</hi>ijf</w>
+<w xml:id="AM12-0417_79v.3.2">mynen</w>
+<w xml:id="AM12-0417_79v.3.3">horende</w>
+<w xml:id="AM12-0417_79v.3.4">vroude</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_79v.4.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79v.4.2">wunne</w>
+<w xml:id="AM12-0417_79v.4.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79v.4.4">othmodighen</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_79v.5.1">knoken</w>
+<w xml:id="AM12-0417_79v.5.2">scholen</w>
+<w xml:id="AM12-0417_79v.5.3">sick</w>
+<w xml:id="AM12-0417_79v.5.4">vrouwe<ex>n</ex></w>
+<lb n="6"/>
+<w xml:id="AM12-0417_79v.6.1"><hi rend="red">K</hi>ere</w>
+<w xml:id="AM12-0417_79v.6.2">din</w>
+<w xml:id="AM12-0417_79v.6.3">antlat</w>
+<w xml:id="AM12-0417_79v.6.4">van</w>
+<w xml:id="AM12-0417_79v.6.5">mynen</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_79v.7.1">sunden</w>
+<w xml:id="AM12-0417_79v.7.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79v.7.3">delge</w>
+<w xml:id="AM12-0417_79v.7.4">al</w>
+<w xml:id="AM12-0417_79v.7.5">myne</w>
+<w xml:id="AM12-0417_79v.7.6">bos<lb n="8"/>heit</w>
+<w xml:id="AM12-0417_79v.8.2"><hi rend="red">G</hi>od</w>
+<w xml:id="AM12-0417_79v.8.3">scippe</w>
+<w xml:id="AM12-0417_79v.8.4">in</w>
+<w xml:id="AM12-0417_79v.8.5">my</w>
+<w xml:id="AM12-0417_79v.8.6">en</w>
+<w xml:id="AM12-0417_79v.8.7">re<lb n="9"/>ne</w>
+<w xml:id="AM12-0417_79v.9.2">herte</w>
+<w xml:id="AM12-0417_79v.9.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79v.9.4">vor nye</w>
+<w xml:id="AM12-0417_79v.9.5">in</w>
+<w xml:id="AM12-0417_79v.9.6">myn</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_79v.10.1">jngeweide</w>
+<w xml:id="AM12-0417_79v.10.2">eynen</w>
+<w xml:id="AM12-0417_79v.10.3">rechte<ex>n</ex></w>
+<w xml:id="AM12-0417_79v.10.4">geist</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_79v.11.1"><hi rend="red">W</hi>erp</w>
+<w xml:id="AM12-0417_79v.11.2">my</w>
+<w xml:id="AM12-0417_79v.11.3">nicht</w>
+<w xml:id="AM12-0417_79v.11.4">van</w>
+<w xml:id="AM12-0417_79v.11.5">dinen</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_79v.12.1">angesicht</w>
+<w xml:id="AM12-0417_79v.12.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79v.12.3">nym</w>
+<w xml:id="AM12-0417_79v.12.4">va<ex>n</ex></w>
+<w xml:id="AM12-0417_79v.12.5">my</w>
+<w xml:id="AM12-0417_79v.12.6">nicht</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_79v.13.1">dinen</w>
+<w xml:id="AM12-0417_79v.13.2">hilghen</w>
+<w xml:id="AM12-0417_79v.13.3">geist</w>
+<w xml:id="AM12-0417_79v.13.4"><hi rend="red">G</hi>if</w>
+<w xml:id="AM12-0417_79v.13.5">my</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_79v.14.1">dines</w>
+<w xml:id="AM12-0417_79v.14.2">heiles</w>
+<w xml:id="AM12-0417_79v.14.3">vroude</w>
+<w xml:id="AM12-0417_79v.14.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_79v.14.5">stedige</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_79v.15.1">my</w>
+<w xml:id="AM12-0417_79v.15.2">myt</w>
+<w xml:id="AM12-0417_79v.15.3">den</w>
+<w xml:id="AM12-0417_79v.15.4">ouersten</w>
+<w xml:id="AM12-0417_79v.15.5">geiste</w>
+<lb n="16"/>
+<w xml:id="AM12-0417_79v.16.1"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_79v.16.2">wil</w>
+<w xml:id="AM12-0417_79v.16.3">den</w>
+<w xml:id="AM12-0417_79v.16.4">bosen</w>
+<w xml:id="AM12-0417_79v.16.5">leren</w>
+<w xml:id="AM12-0417_79v.16.6">dyne</w>
+<pb n="80r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_80r.1.1">weghe</w>
+<w xml:id="AM12-0417_80r.1.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_80r.1.3">arghen</w>
+<w xml:id="AM12-0417_80r.1.4">scholen</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_80r.2.1">to</w>
+<w xml:id="AM12-0417_80r.2.2">dy</w>
+<w xml:id="AM12-0417_80r.2.3">keret</w>
+<w xml:id="AM12-0417_80r.2.4">werden</w>
+<w xml:id="AM12-0417_80r.2.5"><hi rend="red">G</hi>od</w>
+<w xml:id="AM12-0417_80r.2.6">my<lb n="3"/>nes</w>
+<w xml:id="AM12-0417_80r.3.2">heiles</w>
+<w xml:id="AM12-0417_80r.3.3">lose</w>
+<w xml:id="AM12-0417_80r.3.4">my</w>
+<w xml:id="AM12-0417_80r.3.5">van</w>
+<w xml:id="AM12-0417_80r.3.6">den</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_80r.4.1">sunden</w>
+<w xml:id="AM12-0417_80r.4.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_80r.4.3">myn</w>
+<w xml:id="AM12-0417_80r.4.4">tunghe</w>
+<w xml:id="AM12-0417_80r.4.5">scal</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_80r.5.1">sick</w>
+<w xml:id="AM12-0417_80r.5.2">vrouwen</w>
+<w xml:id="AM12-0417_80r.5.3">diner</w>
+<w xml:id="AM12-0417_80r.5.4">rechtuer<lb n="6"/>dicheit</w>
+<w xml:id="AM12-0417_80r.6.2"><hi rend="blue">H</hi>ere</w>
+<w xml:id="AM12-0417_80r.6.3">opene</w>
+<w xml:id="AM12-0417_80r.6.4">myne</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_80r.7.1">lippen</w>
+<w xml:id="AM12-0417_80r.7.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_80r.7.3">myn</w>
+<w xml:id="AM12-0417_80r.7.4">mu<ex>n</ex>t</w>
+<w xml:id="AM12-0417_80r.7.5">schal</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_80r.8.1">kundigen</w>
+<w xml:id="AM12-0417_80r.8.2">dyn</w>
+<w xml:id="AM12-0417_80r.8.3">lof</w>
+<w xml:id="AM12-0417_80r.8.4"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_80r.8.5">of<lb n="9"/>te</w>
+<w xml:id="AM12-0417_80r.9.2">du</w>
+<w xml:id="AM12-0417_80r.9.3">dat</w>
+<w xml:id="AM12-0417_80r.9.4">offer</w>
+<w xml:id="AM12-0417_80r.9.5">woldest</w>
+<w xml:id="AM12-0417_80r.9.6">gehat</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_80r.10.1">hebben</w>
+<w xml:id="AM12-0417_80r.10.2">ik</w>
+<w xml:id="AM12-0417_80r.10.3">hadde</w>
+<w xml:id="AM12-0417_80r.10.4">id</w>
+<w xml:id="AM12-0417_80r.10.5">di</w>
+<w xml:id="AM12-0417_80r.10.6">geghe<lb n="11"/>uen</w>
+<w xml:id="AM12-0417_80r.11.2">di</w>
+<w xml:id="AM12-0417_80r.11.3">en</w>
+<w xml:id="AM12-0417_80r.11.4">lustede</w>
+<w xml:id="AM12-0417_80r.11.5">nicht</w>
+<w xml:id="AM12-0417_80r.11.6">des</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_80r.12.1">offers</w>
+<w xml:id="AM12-0417_80r.12.2"><del><hi rend="red">M</hi></del><add>E</add>yn</w>
+<w xml:id="AM12-0417_80r.12.3">bedrouet</w>
+<w xml:id="AM12-0417_80r.12.4">geist</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_80r.13.1"><del>is gode</del></w>
+<w xml:id="AM12-0417_80r.13.2">is</w>
+<w xml:id="AM12-0417_80r.13.3">gode</w>
+<w xml:id="AM12-0417_80r.13.4">eyn</w>
+<w xml:id="AM12-0417_80r.13.5">offer</w>
+<w xml:id="AM12-0417_80r.13.6">god</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_80r.14.1">vor sma</w>
+<w xml:id="AM12-0417_80r.14.2">nicht</w>
+<w xml:id="AM12-0417_80r.14.3">eyn</w>
+<w xml:id="AM12-0417_80r.14.4">rouwelick</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_80r.15.1">othmodich</w>
+<w xml:id="AM12-0417_80r.15.2">harte</w>
+<w xml:id="AM12-0417_80r.15.3"><hi rend="blue">D</hi>o</w>
+<w xml:id="AM12-0417_80r.15.4">gutlike<ex>n</ex></w>
+<pb n="80v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_80v.1.1">sion</w>
+<w xml:id="AM12-0417_80v.1.2">in</w>
+<w xml:id="AM12-0417_80v.1.3">dine<ex>n</ex></w>
+<w xml:id="AM12-0417_80v.1.4">gude<ex>n</ex></w>
+<w xml:id="AM12-0417_80v.1.5">willen</w>
+<w xml:id="AM12-0417_80v.1.6">dat</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_80v.2.1">iherusalemes</w>
+<w xml:id="AM12-0417_80v.2.2">muren</w>
+<w xml:id="AM12-0417_80v.2.3">gebu<lb n="3"/>wet</w>
+<w xml:id="AM12-0417_80v.3.2">werden</w>
+<w xml:id="AM12-0417_80v.3.3"><hi rend="blue">D</hi>an</w>
+<w xml:id="AM12-0417_80v.3.4">scaltu</w>
+<w xml:id="AM12-0417_80v.3.5">an<lb n="4"/>namen</w>
+<w xml:id="AM12-0417_80v.4.2">dat</w>
+<w xml:id="AM12-0417_80v.4.3">offer</w>
+<w xml:id="AM12-0417_80v.4.4">der</w>
+<w xml:id="AM12-0417_80v.4.5">rechtich<lb n="5"/>eit</w>
+<w xml:id="AM12-0417_80v.5.2">vnde</w>
+<w xml:id="AM12-0417_80v.5.3">der</w>
+<w xml:id="AM12-0417_80v.5.4">gaue</w>
+<w xml:id="AM12-0417_80v.5.5">so</w>
+<w xml:id="AM12-0417_80v.5.6">scholen</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_80v.6.1">se</w>
+<w xml:id="AM12-0417_80v.6.2">de</w>
+<w xml:id="AM12-0417_80v.6.3">caluer</w>
+<w xml:id="AM12-0417_80v.6.4">leggen</w>
+<w xml:id="AM12-0417_80v.6.5">up</w>
+<w xml:id="AM12-0417_80v.6.6">din</w>
+<w xml:id="AM12-0417_80v.6.7">al<lb n="7"/>tare</w>
+<w xml:id="AM12-0417_80v.7.2"><hi rend="red">E</hi>re</w>
+<w xml:id="AM12-0417_80v.7.3">si</w>
+<w xml:id="AM12-0417_80v.7.4">dem</w>
+<w xml:id="AM12-0417_80v.7.5">vader</w>
+<w xml:id="AM12-0417_80v.7.6">vn<ex>de</ex></w>
+</p></div>
+</div>
+<div type="psalm" corresp="PSALM_102v101">
+<head>PSALM_102v101</head><p></p><div type="text">
+<p>
+<lb n="8"/>
+<w xml:id="AM12-0417_80v.8.1"><hi rend="red 2">H</hi>Ere</w>
+<w xml:id="AM12-0417_80v.8.2">twyde</w>
+<w xml:id="AM12-0417_80v.8.3">myn</w>
+<w xml:id="AM12-0417_80v.8.4">bet</w>
+<w xml:id="AM12-0417_80v.8.5">vn<ex>de</ex></w>
+<lb n="9"/>
+<w xml:id="AM12-0417_80v.9.1">myn</w>
+<w xml:id="AM12-0417_80v.9.2">ropent</w>
+<w xml:id="AM12-0417_80v.9.3">kame</w>
+<w xml:id="AM12-0417_80v.9.4">tho</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_80v.10.1">di</w>
+<w xml:id="AM12-0417_80v.10.2"><hi rend="blue">E</hi>n</w>
+<w xml:id="AM12-0417_80v.10.3">kere</w>
+<w xml:id="AM12-0417_80v.10.4">din</w>
+<w xml:id="AM12-0417_80v.10.5">antlat</w>
+<w xml:id="AM12-0417_80v.10.6">nicht</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_80v.11.1">van</w>
+<w xml:id="AM12-0417_80v.11.2">my</w>
+<w xml:id="AM12-0417_80v.11.3">in</w>
+<w xml:id="AM12-0417_80v.11.4">welke<ex>n</ex></w>
+<w xml:id="AM12-0417_80v.11.5">daghen</w>
+<w xml:id="AM12-0417_80v.11.6">ik</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_80v.12.1">bedrouet</w>
+<w xml:id="AM12-0417_80v.12.2">bin</w>
+<w xml:id="AM12-0417_80v.12.3">so</w>
+<w xml:id="AM12-0417_80v.12.4">kere</w>
+<w xml:id="AM12-0417_80v.12.5">dyn</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_80v.13.1">ore</w>
+<w xml:id="AM12-0417_80v.13.2">to</w>
+<w xml:id="AM12-0417_80v.13.3">my</w>
+<w xml:id="AM12-0417_80v.13.4"><hi rend="red">I</hi>n</w>
+<w xml:id="AM12-0417_80v.13.5">welken</w>
+<w xml:id="AM12-0417_80v.13.6">dage</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_80v.14.1">ik</w>
+<w xml:id="AM12-0417_80v.14.2">di</w>
+<w xml:id="AM12-0417_80v.14.3">an</w>
+<w xml:id="AM12-0417_80v.14.4">rope</w>
+<w xml:id="AM12-0417_80v.14.5">so</w>
+<w xml:id="AM12-0417_80v.14.6">twide</w>
+<w xml:id="AM12-0417_80v.14.7">my</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_80v.15.1">snelliken</w>
+<w xml:id="AM12-0417_80v.15.2"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_80v.15.3">myne</w>
+<w xml:id="AM12-0417_80v.15.4">da<pb n="81r"/><lb n="1"/>ghe</w>
+<w xml:id="AM12-0417_81r.1.2">sint</w>
+<w xml:id="AM12-0417_81r.1.3">vorswunden</w>
+<w xml:id="AM12-0417_81r.1.4">also</w>
+<w xml:id="AM12-0417_81r.1.5">ey<ex>n</ex></w>
+<lb n="2"/>
+<w xml:id="AM12-0417_81r.2.1">rock</w>
+<w xml:id="AM12-0417_81r.2.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_81r.2.3">myne</w>
+<w xml:id="AM12-0417_81r.2.4"><add>lede</add></w>
+<w xml:id="AM12-0417_81r.2.5">sint</w>
+<w xml:id="AM12-0417_81r.2.6">vor doret</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_81r.3.1">wente</w>
+<w xml:id="AM12-0417_81r.3.2">ik</w>
+<w xml:id="AM12-0417_81r.3.3">hebbe</w>
+<w xml:id="AM12-0417_81r.3.4">vor gheten</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_81r.4.1">my<ex>n</ex></w>
+<w xml:id="AM12-0417_81r.4.2">brot</w>
+<w xml:id="AM12-0417_81r.4.3">to</w>
+<w xml:id="AM12-0417_81r.4.4">etende</w>
+<w xml:id="AM12-0417_81r.4.5"><hi rend="red">U</hi>an</w>
+<w xml:id="AM12-0417_81r.4.6">der</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_81r.5.1">stempne</w>
+<w xml:id="AM12-0417_81r.5.2">myner</w>
+<w xml:id="AM12-0417_81r.5.3">suchtunge</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_81r.6.1">so</w>
+<w xml:id="AM12-0417_81r.6.2">hangeden</w>
+<w xml:id="AM12-0417_81r.6.3">myne</w>
+<w xml:id="AM12-0417_81r.6.4">knoken</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_81r.7.1">to</w>
+<w xml:id="AM12-0417_81r.7.2">mynen</w>
+<w xml:id="AM12-0417_81r.7.3">vlesche</w>
+<w xml:id="AM12-0417_81r.7.4"><hi rend="blue">I</hi>k</w>
+<w xml:id="AM12-0417_81r.7.5">byn</w>
+<w xml:id="AM12-0417_81r.7.6">ge<lb n="8"/><add>lik</add> wurden</w>
+<w xml:id="AM12-0417_81r.8.2">den</w>
+<w xml:id="AM12-0417_81r.8.3">pellicano</w>
+<w xml:id="AM12-0417_81r.8.4">in</w>
+<w xml:id="AM12-0417_81r.8.5">der</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_81r.9.1">wostenye</w>
+<w xml:id="AM12-0417_81r.9.2">ik</w>
+<w xml:id="AM12-0417_81r.9.3">geworden</w>
+<w xml:id="AM12-0417_81r.9.4">by<ex>n</ex></w>
+<w xml:id="AM12-0417_81r.9.5">also</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_81r.10.1">eyn</w>
+<w xml:id="AM12-0417_81r.10.2">nachtrauen</w>
+<w xml:id="AM12-0417_81r.10.3">in</w>
+<w xml:id="AM12-0417_81r.10.4">dem</w>
+<w xml:id="AM12-0417_81r.10.5">bure</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_81r.11.1"><hi rend="red">I</hi>k</w>
+<w xml:id="AM12-0417_81r.11.2">wakede</w>
+<w xml:id="AM12-0417_81r.11.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_81r.11.4">bin</w>
+<w xml:id="AM12-0417_81r.11.5">geworde<ex>n</ex></w>
+<lb n="12"/>
+<w xml:id="AM12-0417_81r.12.1">also</w>
+<w xml:id="AM12-0417_81r.12.2">eyn</w>
+<w xml:id="AM12-0417_81r.12.3">tam</w>
+<w xml:id="AM12-0417_81r.12.4">lunynck</w>
+<w xml:id="AM12-0417_81r.12.5">in</w>
+<w xml:id="AM12-0417_81r.12.6">dem</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_81r.13.1">dake</w>
+<w xml:id="AM12-0417_81r.13.2"><hi rend="blue">A</hi>lle</w>
+<w xml:id="AM12-0417_81r.13.3">dage</w>
+<w xml:id="AM12-0417_81r.13.4">straffeden</w>
+<w xml:id="AM12-0417_81r.13.5">my</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_81r.14.1">myne</w>
+<w xml:id="AM12-0417_81r.14.2">viande</w>
+<w xml:id="AM12-0417_81r.14.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_81r.14.4">de</w>
+<w xml:id="AM12-0417_81r.14.5">my</w>
+<w xml:id="AM12-0417_81r.14.6">laue<lb n="15"/>den</w>
+<w xml:id="AM12-0417_81r.15.2">de</w>
+<w xml:id="AM12-0417_81r.15.3">sworen</w>
+<w xml:id="AM12-0417_81r.15.4">ieghen</w>
+<w xml:id="AM12-0417_81r.15.5">my</w>
+<pb n="81v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_81v.1.1"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_81v.1.2"><add>ik</add></w>
+<w xml:id="AM12-0417_81v.1.3">at</w>
+<w xml:id="AM12-0417_81v.1.4">asschen</w>
+<w xml:id="AM12-0417_81v.1.5">also</w>
+<w xml:id="AM12-0417_81v.1.6">brot</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_81v.2.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_81v.2.2">mengede</w>
+<w xml:id="AM12-0417_81v.2.3">myne<ex>n</ex></w>
+<w xml:id="AM12-0417_81v.2.4">dranck</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_81v.3.1">myt</w>
+<w xml:id="AM12-0417_81v.3.2">mynen</w>
+<w xml:id="AM12-0417_81v.3.3">tranen</w>
+<w xml:id="AM12-0417_81v.3.4"><hi rend="red">U</hi>an</w>
+<w xml:id="AM12-0417_81v.3.5">de<ex>m</ex></w>
+<lb n="4"/>
+<w xml:id="AM12-0417_81v.4.1">antlate</w>
+<w xml:id="AM12-0417_81v.4.2">des</w>
+<w xml:id="AM12-0417_81v.4.3">tornes</w>
+<w xml:id="AM12-0417_81v.4.4">dines</w>
+<w xml:id="AM12-0417_81v.4.5">vn<lb n="5"/>modes</w>
+<w xml:id="AM12-0417_81v.5.2">wente</w>
+<w xml:id="AM12-0417_81v.5.3">ere<ex>n</ex></w>
+<w xml:id="AM12-0417_81v.5.4">houede</w>
+<w xml:id="AM12-0417_81v.5.5">du</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_81v.6.1">my</w>
+<w xml:id="AM12-0417_81v.6.2">to</w>
+<w xml:id="AM12-0417_81v.6.3">brekest</w>
+<w xml:id="AM12-0417_81v.6.4"><hi rend="blue">M</hi>yne</w>
+<w xml:id="AM12-0417_81v.6.5">dage</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_81v.7.1">neghen</w>
+<w xml:id="AM12-0417_81v.7.2">sick</w>
+<w xml:id="AM12-0417_81v.7.3">also</w>
+<w xml:id="AM12-0417_81v.7.4">eyn</w>
+<w xml:id="AM12-0417_81v.7.5">scheme</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_81v.8.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_81v.8.2">vor</w>
+<w xml:id="AM12-0417_81v.8.3">dorrede</w>
+<w xml:id="AM12-0417_81v.8.4">also</w>
+<w xml:id="AM12-0417_81v.8.5">hoy</w>
+<w xml:id="AM12-0417_81v.8.6"><hi rend="red">M</hi>en</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_81v.9.1">du</w>
+<w xml:id="AM12-0417_81v.9.2">here</w>
+<w xml:id="AM12-0417_81v.9.3">b<supplied>l</supplied>iuest</w>
+<w xml:id="AM12-0417_81v.9.4">ewichliken</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_81v.10.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_81v.10.2">dyn</w>
+<w xml:id="AM12-0417_81v.10.3">dechtenisse</w>
+<w xml:id="AM12-0417_81v.10.4">is</w>
+<w xml:id="AM12-0417_81v.10.5">va<ex>n</ex></w>
+<w xml:id="AM12-0417_81v.10.6">slech<lb n="11"/>ten</w>
+<w xml:id="AM12-0417_81v.11.2">to</w>
+<w xml:id="AM12-0417_81v.11.3">slechten</w>
+<w xml:id="AM12-0417_81v.11.4"><hi rend="red">S</hi>ta</w>
+<w xml:id="AM12-0417_81v.11.5">up</w>
+<w xml:id="AM12-0417_81v.11.6">vn<ex>de</ex></w>
+<lb n="12"/>
+<w xml:id="AM12-0417_81v.12.1">vorbarme</w>
+<w xml:id="AM12-0417_81v.12.2">di</w>
+<w xml:id="AM12-0417_81v.12.3">auer</w>
+<w xml:id="AM12-0417_81v.12.4">sion</w>
+<w xml:id="AM12-0417_81v.12.5">wen<lb n="13"/>te</w>
+<w xml:id="AM12-0417_81v.13.2">de</w>
+<w xml:id="AM12-0417_81v.13.3">tijd</w>
+<w xml:id="AM12-0417_81v.13.4">erer</w>
+<w xml:id="AM12-0417_81v.13.5">gnade</w>
+<w xml:id="AM12-0417_81v.13.6">is</w>
+<w xml:id="AM12-0417_81v.13.7">wente</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_81v.14.1">de</w>
+<w xml:id="AM12-0417_81v.14.2">tijd</w>
+<w xml:id="AM12-0417_81v.14.3">is</w>
+<w xml:id="AM12-0417_81v.14.4">gekomen</w>
+<w xml:id="AM12-0417_81v.14.5"><hi rend="red">W</hi>ente</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_81v.15.1">dinen</w>
+<w xml:id="AM12-0417_81v.15.2">knechten</w>
+<w xml:id="AM12-0417_81v.15.3">behageden</w>
+<pb n="82r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_82r.1.1">de</w>
+<w xml:id="AM12-0417_82r.1.2">steyne</w>
+<w xml:id="AM12-0417_82r.1.3">van</w>
+<w xml:id="AM12-0417_82r.1.4">sion</w>
+<w xml:id="AM12-0417_82r.1.5">vnde</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_82r.2.1">scholen</w>
+<w xml:id="AM12-0417_82r.2.2">sick</w>
+<w xml:id="AM12-0417_82r.2.3">vorbarme<ex>n</ex></w>
+<w xml:id="AM12-0417_82r.2.4">ouer</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_82r.3.1">sion</w>
+<w xml:id="AM12-0417_82r.3.2">dat</w>
+<w xml:id="AM12-0417_82r.3.3">lant</w>
+<w xml:id="AM12-0417_82r.3.4"><hi rend="blue">U</hi>n<ex>de</ex></w>
+<w xml:id="AM12-0417_82r.3.5">de</w>
+<w xml:id="AM12-0417_82r.3.6">slechte</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_82r.4.1">scolen</w>
+<w xml:id="AM12-0417_82r.4.2">vruchte</w>
+<w xml:id="AM12-0417_82r.4.3">dinen</w>
+<w xml:id="AM12-0417_82r.4.4">name<ex>n</ex></w>
+<lb n="5"/>
+<w xml:id="AM12-0417_82r.5.1">here</w>
+<w xml:id="AM12-0417_82r.5.2">va<ex>n</ex></w>
+<w xml:id="AM12-0417_82r.5.3">alle</w>
+<w xml:id="AM12-0417_82r.5.4">de</w>
+<w xml:id="AM12-0417_82r.5.5">koni<ex>n</ex>ghe</w>
+<w xml:id="AM12-0417_82r.5.6">der</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_82r.6.1">erden</w>
+<w xml:id="AM12-0417_82r.6.2">dine</w>
+<w xml:id="AM12-0417_82r.6.3">ere</w>
+<w xml:id="AM12-0417_82r.6.4"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_82r.6.5">de</w>
+<w xml:id="AM12-0417_82r.6.6">he<lb n="7"/>re</w>
+<w xml:id="AM12-0417_82r.7.2">buwede</w>
+<w xml:id="AM12-0417_82r.7.3">syon</w>
+<w xml:id="AM12-0417_82r.7.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_82r.7.5">schal</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_82r.8.1">werden</w>
+<w xml:id="AM12-0417_82r.8.2">geseen</w>
+<w xml:id="AM12-0417_82r.8.3">in</w>
+<w xml:id="AM12-0417_82r.8.4">synre</w>
+<w xml:id="AM12-0417_82r.8.5">ere</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_82r.9.1"><hi rend="blue">H</hi>e</w>
+<w xml:id="AM12-0417_82r.9.2">sath</w>
+<w xml:id="AM12-0417_82r.9.3">an</w>
+<w xml:id="AM12-0417_82r.9.4">dat</w>
+<w xml:id="AM12-0417_82r.9.5">beth</w>
+<w xml:id="AM12-0417_82r.9.6">der</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_82r.10.1">othmodigen</w>
+<w xml:id="AM12-0417_82r.10.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_82r.10.3">vorsmade</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_82r.11.1">nicht</w>
+<w xml:id="AM12-0417_82r.11.2">ere</w>
+<w xml:id="AM12-0417_82r.11.3">beth</w>
+<w xml:id="AM12-0417_82r.11.4"><hi rend="red">D</hi>esse</w>
+<w xml:id="AM12-0417_82r.11.5">dinck</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_82r.12.1">werden</w>
+<w xml:id="AM12-0417_82r.12.2">gescreuen</w>
+<w xml:id="AM12-0417_82r.12.3">in</w>
+<w xml:id="AM12-0417_82r.12.4">eyn</w>
+<w xml:id="AM12-0417_82r.12.5">an<lb n="13"/>der</w>
+<w xml:id="AM12-0417_82r.13.2">slechte</w>
+<w xml:id="AM12-0417_82r.13.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_82r.13.4">dat</w>
+<w xml:id="AM12-0417_82r.13.5">volck</w>
+<w xml:id="AM12-0417_82r.13.6">dat</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_82r.14.1">ge scapen</w>
+<w xml:id="AM12-0417_82r.14.2">wert</w>
+<w xml:id="AM12-0417_82r.14.3">scal</w>
+<w xml:id="AM12-0417_82r.14.4">den</w>
+<w xml:id="AM12-0417_82r.14.5">here<ex>n</ex></w>
+<pb n="82v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_82v.1.1">louen</w>
+<w xml:id="AM12-0417_82v.1.2"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_82v.1.3">he</w>
+<w xml:id="AM12-0417_82v.1.4">satch</w>
+<w xml:id="AM12-0417_82v.1.5">van</w>
+<w xml:id="AM12-0417_82v.1.6">si<lb n="2"/>ner</w>
+<w xml:id="AM12-0417_82v.2.2">hillige<ex>n</ex></w>
+<w xml:id="AM12-0417_82v.2.3">hoghe</w>
+<w xml:id="AM12-0417_82v.2.4">de</w>
+<w xml:id="AM12-0417_82v.2.5">here</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_82v.3.1">sach</w>
+<w xml:id="AM12-0417_82v.3.2">van</w>
+<w xml:id="AM12-0417_82v.3.3">deme</w>
+<w xml:id="AM12-0417_82v.3.4">he<ex>m</ex>mele</w>
+<w xml:id="AM12-0417_82v.3.5">in</w>
+<w xml:id="AM12-0417_82v.3.6">de</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_82v.4.1">erden</w>
+<w xml:id="AM12-0417_82v.4.2"><hi rend="red">D</hi>ar</w>
+<w xml:id="AM12-0417_82v.4.3">he</w>
+<w xml:id="AM12-0417_82v.4.4">horde</w>
+<w xml:id="AM12-0417_82v.4.5">der</w>
+<w xml:id="AM12-0417_82v.4.6">va<ex>n</ex><lb n="5"/>genne</w>
+<w xml:id="AM12-0417_82v.5.2">suchtent</w>
+<w xml:id="AM12-0417_82v.5.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_82v.5.4">losede</w>
+<w xml:id="AM12-0417_82v.5.5">de</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_82v.6.1">vor</w>
+<w xml:id="AM12-0417_82v.6.2">kosten</w>
+<w xml:id="AM12-0417_82v.6.3">kindere</w>
+<w xml:id="AM12-0417_82v.6.4"><hi rend="red">D</hi>at</w>
+<w xml:id="AM12-0417_82v.6.5">se</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_82v.7.1">kundigeden</w>
+<w xml:id="AM12-0417_82v.7.2">in</w>
+<w xml:id="AM12-0417_82v.7.3">syon</w>
+<w xml:id="AM12-0417_82v.7.4">des</w>
+<w xml:id="AM12-0417_82v.7.5">here<ex>n</ex></w>
+<lb n="8"/>
+<w xml:id="AM12-0417_82v.8.1">namen</w>
+<w xml:id="AM12-0417_82v.8.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_82v.8.3">syn</w>
+<w xml:id="AM12-0417_82v.8.4">lof</w>
+<w xml:id="AM12-0417_82v.8.5">in</w>
+<w xml:id="AM12-0417_82v.8.6">iheru<lb n="9"/>salem</w>
+<w xml:id="AM12-0417_82v.9.2"><hi rend="red">D</hi>o</w>
+<w xml:id="AM12-0417_82v.9.3">sick</w>
+<w xml:id="AM12-0417_82v.9.4">dat</w>
+<w xml:id="AM12-0417_82v.9.5">volck</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_82v.10.1">sammelde</w>
+<w xml:id="AM12-0417_82v.10.2">in</w>
+<w xml:id="AM12-0417_82v.10.3">eyn</w>
+<w xml:id="AM12-0417_82v.10.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_82v.10.5">de</w>
+<w xml:id="AM12-0417_82v.10.6">ko<lb n="11"/>ni<ex>n</ex>ghe</w>
+<w xml:id="AM12-0417_82v.11.2">dat</w>
+<w xml:id="AM12-0417_82v.11.3">se</w>
+<w xml:id="AM12-0417_82v.11.4">denen</w>
+<w xml:id="AM12-0417_82v.11.5">den</w>
+<w xml:id="AM12-0417_82v.11.6">here<ex>n</ex></w>
+<lb n="12"/>
+<w xml:id="AM12-0417_82v.12.1"><hi rend="red">H</hi>e</w>
+<w xml:id="AM12-0417_82v.12.2">antworde</w>
+<w xml:id="AM12-0417_82v.12.3">eme</w>
+<w xml:id="AM12-0417_82v.12.4">i<ex>n</ex></w>
+<w xml:id="AM12-0417_82v.12.5">deme</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_82v.13.1">weghe</w>
+<w xml:id="AM12-0417_82v.13.2">der</w>
+<w xml:id="AM12-0417_82v.13.3">doghet</w>
+<w xml:id="AM12-0417_82v.13.4">kundige</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_82v.14.1">my</w>
+<w xml:id="AM12-0417_82v.14.2">de</w>
+<w xml:id="AM12-0417_82v.14.3">klenheit</w>
+<w xml:id="AM12-0417_82v.14.4">myner</w>
+<w xml:id="AM12-0417_82v.14.5">da<pb n="83r"/><lb n="1"/>ghe</w>
+<w xml:id="AM12-0417_83r.1.2"><hi rend="red">I</hi>in</w>
+<w xml:id="AM12-0417_83r.1.3">wedder</w>
+<w xml:id="AM12-0417_83r.1.4">lade</w>
+<w xml:id="AM12-0417_83r.1.5">my</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_83r.2.1">nicht</w>
+<w xml:id="AM12-0417_83r.2.2">in</w>
+<w xml:id="AM12-0417_83r.2.3">de</w>
+<w xml:id="AM12-0417_83r.2.4">helfte</w>
+<w xml:id="AM12-0417_83r.2.5">myner</w>
+<w xml:id="AM12-0417_83r.2.6">dage</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_83r.3.1">van</w>
+<w xml:id="AM12-0417_83r.3.2">slechten</w>
+<w xml:id="AM12-0417_83r.3.3">to</w>
+<w xml:id="AM12-0417_83r.3.4">slechten</w>
+<w xml:id="AM12-0417_83r.3.5">sint</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_83r.4.1">dine</w>
+<w xml:id="AM12-0417_83r.4.2">iare</w>
+<w xml:id="AM12-0417_83r.4.3"><hi rend="blue">H</hi>ere</w>
+<w xml:id="AM12-0417_83r.4.4">va<ex>n</ex></w>
+<w xml:id="AM12-0417_83r.4.5">deme</w>
+<w xml:id="AM12-0417_83r.4.6">a<ex>n</ex><lb n="5"/>begynne</w>
+<w xml:id="AM12-0417_83r.5.2">heuestu</w>
+<w xml:id="AM12-0417_83r.5.3">geuestiget</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_83r.6.1">de</w>
+<w xml:id="AM12-0417_83r.6.2">erde</w>
+<w xml:id="AM12-0417_83r.6.3">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83r.6.4">dine</w>
+<w xml:id="AM12-0417_83r.6.5">hant werke</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_83r.7.1">sint</w>
+<w xml:id="AM12-0417_83r.7.2">de</w>
+<w xml:id="AM12-0417_83r.7.3">hemmele</w>
+<w xml:id="AM12-0417_83r.7.4"><hi rend="red">S</hi>e</w>
+<w xml:id="AM12-0417_83r.7.5">scolen</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_83r.8.1">vor gan</w>
+<w xml:id="AM12-0417_83r.8.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83r.8.3">du</w>
+<w xml:id="AM12-0417_83r.8.4">bliuest</w>
+<w xml:id="AM12-0417_83r.8.5">ewich<lb n="9"/>liken</w>
+<w xml:id="AM12-0417_83r.9.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83r.9.3">so</w>
+<w xml:id="AM12-0417_83r.9.4">scholen</w>
+<w xml:id="AM12-0417_83r.9.5">vor olde<ex>n</ex></w>
+<lb n="10"/>
+<w xml:id="AM12-0417_83r.10.1">also</w>
+<w xml:id="AM12-0417_83r.10.2">eyn</w>
+<w xml:id="AM12-0417_83r.10.3">cleit</w>
+<w xml:id="AM12-0417_83r.10.4"><hi rend="blue">U</hi>nde</w>
+<w xml:id="AM12-0417_83r.10.5">du</w>
+<w xml:id="AM12-0417_83r.10.6">sca<lb n="11"/>lt</w>
+<w xml:id="AM12-0417_83r.11.2">se</w>
+<w xml:id="AM12-0417_83r.11.3">vor wandelen</w>
+<w xml:id="AM12-0417_83r.11.4">also</w>
+<w xml:id="AM12-0417_83r.11.5">eyn</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_83r.12.1">deken</w>
+<w xml:id="AM12-0417_83r.12.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83r.12.3">se</w>
+<w xml:id="AM12-0417_83r.12.4">werden</w>
+<w xml:id="AM12-0417_83r.12.5">vor</w>
+<w xml:id="AM12-0417_83r.12.6">wan<lb n="13"/>delet</w>
+<w xml:id="AM12-0417_83r.13.2">men</w>
+<w xml:id="AM12-0417_83r.13.3">du</w>
+<w xml:id="AM12-0417_83r.13.4">bliuest</w>
+<w xml:id="AM12-0417_83r.13.5">de</w>
+<w xml:id="AM12-0417_83r.13.6">sulue</w>
+<lb n="14"/>
+<w xml:id="AM12-0417_83r.14.1">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83r.14.2">dine</w>
+<w xml:id="AM12-0417_83r.14.3">iare</w>
+<w xml:id="AM12-0417_83r.14.4">vor gan</w>
+<w xml:id="AM12-0417_83r.14.5">nicht</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_83r.15.1"><hi rend="red">D</hi>e</w>
+<w xml:id="AM12-0417_83r.15.2">kindere</w>
+<w xml:id="AM12-0417_83r.15.3">dynre</w>
+<w xml:id="AM12-0417_83r.15.4">knechte</w>
+<pb n="83v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_83v.1.1">scholen</w>
+<w xml:id="AM12-0417_83v.1.2">wone<ex>n</ex></w>
+<w xml:id="AM12-0417_83v.1.3">vnde</w>
+<w xml:id="AM12-0417_83v.1.4">saet</w>
+<w xml:id="AM12-0417_83v.1.5">schal</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_83v.2.1">ewichliken</w>
+<w xml:id="AM12-0417_83v.2.2">gherichtet</w>
+<w xml:id="AM12-0417_83v.2.3">werden</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_83v.3.1"><hi rend="red">E</hi>re</w>
+<w xml:id="AM12-0417_83v.3.2">si</w>
+<w xml:id="AM12-0417_83v.3.3">deme</w>
+<w xml:id="AM12-0417_83v.3.4">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83v.3.5">deme</w>
+<w xml:id="AM12-0417_83v.3.6">sone</w>
+</p></div>
+</div>
+<div type="psalm" corresp="PSALM_130v129">
+<head>PSALM_130v129</head><p></p><div type="text">
+<p>
+<lb n="4"/>
+<w xml:id="AM12-0417_83v.4.1"><hi rend="blue 2">H</hi>Ere</w>
+<w xml:id="AM12-0417_83v.4.2">ik</w>
+<w xml:id="AM12-0417_83v.4.3">rep</w>
+<w xml:id="AM12-0417_83v.4.4">to</w>
+<w xml:id="AM12-0417_83v.4.5">di</w>
+<w xml:id="AM12-0417_83v.4.6">van</w>
+<w xml:id="AM12-0417_83v.4.7">der</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_83v.5.1">dupe</w>
+<w xml:id="AM12-0417_83v.5.2">here</w>
+<w xml:id="AM12-0417_83v.5.3">twyde</w>
+<w xml:id="AM12-0417_83v.5.4">myne</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_83v.6.1">stempne</w>
+<w xml:id="AM12-0417_83v.6.2"><hi rend="red">M</hi>yne</w>
+<w xml:id="AM12-0417_83v.6.3">oren</w>
+<w xml:id="AM12-0417_83v.6.4">werden</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_83v.7.1">an</w>
+<w xml:id="AM12-0417_83v.7.2">denckende</w>
+<w xml:id="AM12-0417_83v.7.3">in</w>
+<w xml:id="AM12-0417_83v.7.4">de</w>
+<w xml:id="AM12-0417_83v.7.5">stempne</w>
+<w xml:id="AM12-0417_83v.7.6">my<lb n="8"/>nes</w>
+<w xml:id="AM12-0417_83v.8.2">gebedes</w>
+<w xml:id="AM12-0417_83v.8.3"><hi rend="red">H</hi>ere</w>
+<w xml:id="AM12-0417_83v.8.4">oftu</w>
+<w xml:id="AM12-0417_83v.8.5">behol<lb n="9"/>dest</w>
+<w xml:id="AM12-0417_83v.9.2">de</w>
+<w xml:id="AM12-0417_83v.9.3">bosheit</w>
+<w xml:id="AM12-0417_83v.9.4">here</w>
+<w xml:id="AM12-0417_83v.9.5">we</w>
+<w xml:id="AM12-0417_83v.9.6">mach</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_83v.10.1">dat</w>
+<w xml:id="AM12-0417_83v.10.2">liden</w>
+<w xml:id="AM12-0417_83v.10.3"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_83v.10.4">bi</w>
+<w xml:id="AM12-0417_83v.10.5">di</w>
+<w xml:id="AM12-0417_83v.10.6">is</w>
+<w xml:id="AM12-0417_83v.10.7">gne<lb n="11"/>dicheit</w>
+<w xml:id="AM12-0417_83v.11.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_83v.11.3">ik</w>
+<w xml:id="AM12-0417_83v.11.4">dogede</w>
+<w xml:id="AM12-0417_83v.11.5">here</w>
+<w xml:id="AM12-0417_83v.11.6">dor</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_83v.12.1">dine</w>
+<w xml:id="AM12-0417_83v.12.2">ee</w>
+<w xml:id="AM12-0417_83v.12.3"><hi rend="red">M</hi>yne</w>
+<w xml:id="AM12-0417_83v.12.4">sele</w>
+<w xml:id="AM12-0417_83v.12.5">dogede</w>
+<w xml:id="AM12-0417_83v.12.6">in</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_83v.13.1">sine<ex>n</ex></w>
+<w xml:id="AM12-0417_83v.13.2">worde</w>
+<w xml:id="AM12-0417_83v.13.3">myn</w>
+<w xml:id="AM12-0417_83v.13.4">hapede</w>
+<w xml:id="AM12-0417_83v.13.5">in</w>
+<w xml:id="AM12-0417_83v.13.6">de<ex>n</ex></w>
+<lb n="14"/>
+<w xml:id="AM12-0417_83v.14.1">heren</w>
+<w xml:id="AM12-0417_83v.14.2"><hi rend="red">U</hi>an</w>
+<w xml:id="AM12-0417_83v.14.3">der</w>
+<w xml:id="AM12-0417_83v.14.4">mettyn</w>
+<w xml:id="AM12-0417_83v.14.5">tyd</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_83v.15.1">vro</w>
+<w xml:id="AM12-0417_83v.15.2">went</w>
+<w xml:id="AM12-0417_83v.15.3">in</w>
+<w xml:id="AM12-0417_83v.15.4">de</w>
+<w xml:id="AM12-0417_83v.15.5">nacht</w>
+<w xml:id="AM12-0417_83v.15.6">schal</w>
+<w xml:id="AM12-0417_83v.15.7">is<pb n="84r"/><lb n="1"/>rahel</w>
+<w xml:id="AM12-0417_84r.1.2">hapen</w>
+<w xml:id="AM12-0417_84r.1.3">an</w>
+<w xml:id="AM12-0417_84r.1.4">den</w>
+<w xml:id="AM12-0417_84r.1.5">heren</w>
+<lb n="2"/>
+<w xml:id="AM12-0417_84r.2.1"><hi rend="red">W</hi>ente</w>
+<w xml:id="AM12-0417_84r.2.2">bi</w>
+<w xml:id="AM12-0417_84r.2.3">deme</w>
+<w xml:id="AM12-0417_84r.2.4">here<ex>n</ex></w>
+<w xml:id="AM12-0417_84r.2.5">is</w>
+<w xml:id="AM12-0417_84r.2.6">barm<lb n="3"/>herticheit</w>
+<w xml:id="AM12-0417_84r.3.2">vnde</w>
+<w xml:id="AM12-0417_84r.3.3">vullenkome<ex>n</ex></w>
+<lb n="4"/>
+<w xml:id="AM12-0417_84r.4.1">losinghe</w>
+<w xml:id="AM12-0417_84r.4.2">is</w>
+<w xml:id="AM12-0417_84r.4.3">bi</w>
+<w xml:id="AM12-0417_84r.4.4">eme</w>
+<w xml:id="AM12-0417_84r.4.5">vnde</w>
+<w xml:id="AM12-0417_84r.4.6">he</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_84r.5.1">losen</w>
+<w xml:id="AM12-0417_84r.5.2">israhel</w>
+<w xml:id="AM12-0417_84r.5.3">van</w>
+<w xml:id="AM12-0417_84r.5.4">aller</w>
+<w xml:id="AM12-0417_84r.5.5">bos<lb n="6"/>heit</w>
+<w xml:id="AM12-0417_84r.6.2"><hi rend="red">E</hi>re</w>
+<w xml:id="AM12-0417_84r.6.3">si</w>
+<w xml:id="AM12-0417_84r.6.4">deme</w>
+<w xml:id="AM12-0417_84r.6.5">vader</w>
+<w xml:id="AM12-0417_84r.6.6">vnde</w>
+</p></div>
+</div>
+<div type="psalm" corresp="PSALM_143v142">
+<head>PSALM_143v142</head><p></p><div type="text">
+<p>
+<lb n="7"/>
+<w xml:id="AM12-0417_84r.7.1"><hi rend="red 2">H</hi>Ere</w>
+<w xml:id="AM12-0417_84r.7.2">twide</w>
+<w xml:id="AM12-0417_84r.7.3">my<ex>n</ex></w>
+<w xml:id="AM12-0417_84r.7.4">betch</w>
+<w xml:id="AM12-0417_84r.7.5">vn<ex>de</ex></w>
+<lb n="8"/>
+<w xml:id="AM12-0417_84r.8.1">myn</w>
+<w xml:id="AM12-0417_84r.8.2">ropent</w>
+<w xml:id="AM12-0417_84r.8.3">kame</w>
+<w xml:id="AM12-0417_84r.8.4">to</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_84r.9.1">di</w>
+<w xml:id="AM12-0417_84r.9.2">vor</w>
+<w xml:id="AM12-0417_84r.9.3">nym</w>
+<w xml:id="AM12-0417_84r.9.4">myt</w>
+<w xml:id="AM12-0417_84r.9.5">dine<ex>n</ex></w>
+<w xml:id="AM12-0417_84r.9.6">oren</w>
+<w xml:id="AM12-0417_84r.9.7">my<lb n="10"/>ne</w>
+<w xml:id="AM12-0417_84r.10.2">bede</w>
+<w xml:id="AM12-0417_84r.10.3">in</w>
+<w xml:id="AM12-0417_84r.10.4">diner</w>
+<w xml:id="AM12-0417_84r.10.5">warheit</w>
+<w xml:id="AM12-0417_84r.10.6">twi<lb n="11"/>de</w>
+<w xml:id="AM12-0417_84r.11.2">my</w>
+<w xml:id="AM12-0417_84r.11.3">in</w>
+<w xml:id="AM12-0417_84r.11.4">diner</w>
+<w xml:id="AM12-0417_84r.11.5">rechticheit</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_84r.12.1"><hi rend="red">U</hi>n<ex>de</ex></w>
+<w xml:id="AM12-0417_84r.12.2">en</w>
+<w xml:id="AM12-0417_84r.12.3">ga</w>
+<w xml:id="AM12-0417_84r.12.4">nicht</w>
+<w xml:id="AM12-0417_84r.12.5">in</w>
+<w xml:id="AM12-0417_84r.12.6">gerichte</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_84r.13.1">myt</w>
+<w xml:id="AM12-0417_84r.13.2">dinen</w>
+<w xml:id="AM12-0417_84r.13.3">knechte</w>
+<w xml:id="AM12-0417_84r.13.4">wente</w>
+<w xml:id="AM12-0417_84r.13.5">ey<ex>n</ex></w>
+<lb n="14"/>
+<w xml:id="AM12-0417_84r.14.1">ewichlike</w>
+<w xml:id="AM12-0417_84r.14.2">leuent</w>
+<w xml:id="AM12-0417_84r.14.3">wart</w>
+<w xml:id="AM12-0417_84r.14.4">nicht</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_84r.15.1">recht</w>
+<w xml:id="AM12-0417_84r.15.2">in</w>
+<w xml:id="AM12-0417_84r.15.3">dyne<ex>n</ex></w>
+<w xml:id="AM12-0417_84r.15.4">angesichte</w>
+<w xml:id="AM12-0417_84r.15.5"><hi rend="red">W</hi>e<ex>n</ex>te</w>
+<pb n="84v"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_84v.1.1">de</w>
+<w xml:id="AM12-0417_84v.1.2">viant</w>
+<w xml:id="AM12-0417_84v.1.3">heuet</w>
+<w xml:id="AM12-0417_84v.1.4">myne</w>
+<w xml:id="AM12-0417_84v.1.5"><add>sele</add></w>
+<w xml:id="AM12-0417_84v.1.6">vor vol<lb n="2"/>ghet</w>
+<w xml:id="AM12-0417_84v.2.2">he</w>
+<w xml:id="AM12-0417_84v.2.3">heft</w>
+<w xml:id="AM12-0417_84v.2.4">myn</w>
+<w xml:id="AM12-0417_84v.2.5">leue<ex>n</ex>t</w>
+<w xml:id="AM12-0417_84v.2.6">ghe<lb n="3"/>ontmodiget</w>
+<w xml:id="AM12-0417_84v.3.2">in</w>
+<w xml:id="AM12-0417_84v.3.3">der</w>
+<w xml:id="AM12-0417_84v.3.4">erden</w>
+<w xml:id="AM12-0417_84v.3.5"><hi rend="red">H</hi>ee</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_84v.4.1">sette</w>
+<w xml:id="AM12-0417_84v.4.2">{h}</w>
+<w xml:id="AM12-0417_84v.4.3">my</w>
+<w xml:id="AM12-0417_84v.4.4">in</w>
+<w xml:id="AM12-0417_84v.4.5">de</w>
+<w xml:id="AM12-0417_84v.4.6">dusternisse</w>
+<lb n="5"/>
+<w xml:id="AM12-0417_84v.5.1">also</w>
+<w xml:id="AM12-0417_84v.5.2">de</w>
+<w xml:id="AM12-0417_84v.5.3">doden</w>
+<w xml:id="AM12-0417_84v.5.4">der</w>
+<w xml:id="AM12-0417_84v.5.5">werlt</w>
+<w xml:id="AM12-0417_84v.5.6">vnde</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_84v.6.1">myn</w>
+<w xml:id="AM12-0417_84v.6.2">geist</w>
+<w xml:id="AM12-0417_84v.6.3">is</w>
+<w xml:id="AM12-0417_84v.6.4">bedrouet</w>
+<w xml:id="AM12-0417_84v.6.5">baue<ex>n</ex></w>
+<lb n="7"/>
+<w xml:id="AM12-0417_84v.7.1">my</w>
+<w xml:id="AM12-0417_84v.7.2">vnde</w>
+<w xml:id="AM12-0417_84v.7.3">myn</w>
+<w xml:id="AM12-0417_84v.7.4">herte</w>
+<w xml:id="AM12-0417_84v.7.5">is</w>
+<w xml:id="AM12-0417_84v.7.6">in</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_84v.8.1">my</w>
+<w xml:id="AM12-0417_84v.8.2">bedrouet</w>
+<w xml:id="AM12-0417_84v.8.3"><hi rend="blue">I</hi>k</w>
+<w xml:id="AM12-0417_84v.8.4">dachte</w>
+<w xml:id="AM12-0417_84v.8.5">in</w>
+<lb n="9"/>
+<w xml:id="AM12-0417_84v.9.1">olden</w>
+<w xml:id="AM12-0417_84v.9.2">daghe</w>
+<w xml:id="AM12-0417_84v.9.3">ik</w>
+<w xml:id="AM12-0417_84v.9.4">betrachte</w>
+<w xml:id="AM12-0417_84v.9.5">se</w>
+<lb n="10"/>
+<w xml:id="AM12-0417_84v.10.1">in</w>
+<w xml:id="AM12-0417_84v.10.2">alle</w>
+<w xml:id="AM12-0417_84v.10.3">myne<ex>n</ex></w>
+<w xml:id="AM12-0417_84v.10.4">werken</w>
+<w xml:id="AM12-0417_84v.10.5"><hi rend="red">I</hi>k</w>
+<lb n="11"/>
+<w xml:id="AM12-0417_84v.11.1">reckede</w>
+<w xml:id="AM12-0417_84v.11.2">myne</w>
+<w xml:id="AM12-0417_84v.11.3">hende</w>
+<w xml:id="AM12-0417_84v.11.4">to</w>
+<w xml:id="AM12-0417_84v.11.5">dy</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_84v.12.1">myn</w>
+<w xml:id="AM12-0417_84v.12.2">sele</w>
+<w xml:id="AM12-0417_84v.12.3">is</w>
+<w xml:id="AM12-0417_84v.12.4">also</w>
+<w xml:id="AM12-0417_84v.12.5">erde</w>
+<w xml:id="AM12-0417_84v.12.6">ane</w>
+<lb n="13"/>
+<w xml:id="AM12-0417_84v.13.1">water</w>
+<w xml:id="AM12-0417_84v.13.2"><hi rend="blue">H</hi>ere</w>
+<w xml:id="AM12-0417_84v.13.3">twide</w>
+<w xml:id="AM12-0417_84v.13.4">my</w>
+<w xml:id="AM12-0417_84v.13.5">snel<lb n="14"/>liken</w>
+<w xml:id="AM12-0417_84v.14.2">wente</w>
+<w xml:id="AM12-0417_84v.14.3">myn</w>
+<w xml:id="AM12-0417_84v.14.4">geist</w>
+<w xml:id="AM12-0417_84v.14.5">is</w>
+<lb n="15"/>
+<w xml:id="AM12-0417_84v.15.1">vor worden</w>
+<w xml:id="AM12-0417_84v.15.2"><hi rend="red">E</hi>n</w>
+<w xml:id="AM12-0417_84v.15.3">kere</w>
+<w xml:id="AM12-0417_84v.15.4">din</w>
+<pb n="85r"/>
+<lb n="1"/>
+<w xml:id="AM12-0417_85r.1.1">antlat</w>
+<w xml:id="AM12-0417_85r.1.2">nicht</w>
+<w xml:id="AM12-0417_85r.1.3">va<ex>n</ex></w>
+<w xml:id="AM12-0417_85r.1.4">my</w>
+<w xml:id="AM12-0417_85r.1.5">vnde</w>
+<w xml:id="AM12-0417_85r.1.6">wer<lb n="2"/>de</w>
+<w xml:id="AM12-0417_85r.2.2">gelick</w>
+<w xml:id="AM12-0417_85r.2.3">den</w>
+<w xml:id="AM12-0417_85r.2.4">dem</w>
+<w xml:id="AM12-0417_85r.2.5">dat</w>
+<w xml:id="AM12-0417_85r.2.6">strick</w>
+<lb n="3"/>
+<w xml:id="AM12-0417_85r.3.1">vallen</w>
+<w xml:id="AM12-0417_85r.3.2"><hi rend="red">M</hi>ake</w>
+<w xml:id="AM12-0417_85r.3.3">my</w>
+<w xml:id="AM12-0417_85r.3.4">vro</w>
+<w xml:id="AM12-0417_85r.3.5">horen</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_85r.4.1">de</w>
+<w xml:id="AM12-0417_85r.4.2">dine</w>
+<w xml:id="AM12-0417_85r.4.3">barmherticheit</w>
+<w xml:id="AM12-0417_85r.4.4">wen<lb n="5"/>te</w>
+<w xml:id="AM12-0417_85r.5.2">ik</w>
+<w xml:id="AM12-0417_85r.5.3">in</w>
+<w xml:id="AM12-0417_85r.5.4">dy</w>
+<w xml:id="AM12-0417_85r.5.5">hapede</w>
+<w xml:id="AM12-0417_85r.5.6"><hi rend="red">M</hi>ake</w>
+<w xml:id="AM12-0417_85r.5.7">my</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_85r.6.1">kundich</w>
+<w xml:id="AM12-0417_85r.6.2">den</w>
+<w xml:id="AM12-0417_85r.6.3">wech</w>
+<w xml:id="AM12-0417_85r.6.4">dar</w>
+<w xml:id="AM12-0417_85r.6.5">ik</w>
+<w xml:id="AM12-0417_85r.6.6">ane</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_85r.7.1">wandere</w>
+<w xml:id="AM12-0417_85r.7.2">wente</w>
+<w xml:id="AM12-0417_85r.7.3">ik</w>
+<w xml:id="AM12-0417_85r.7.4">hebbe</w>
+<lb n="8"/>
+<w xml:id="AM12-0417_85r.8.1">myne</w>
+<w xml:id="AM12-0417_85r.8.2">sele</w>
+<w xml:id="AM12-0417_85r.8.3">to</w>
+<w xml:id="AM12-0417_85r.8.4">di</w>
+<w xml:id="AM12-0417_85r.8.5">erhauen</w>
+<w xml:id="AM12-0417_85r.8.6"><hi rend="red">H</hi>e<lb n="9"/>re</w>
+<w xml:id="AM12-0417_85r.9.2">lose</w>
+<w xml:id="AM12-0417_85r.9.3">my</w>
+<w xml:id="AM12-0417_85r.9.4">van</w>
+<w xml:id="AM12-0417_85r.9.5">myne<ex>n</ex></w>
+<w xml:id="AM12-0417_85r.9.6">viande<ex>n</ex></w>
+<lb n="10"/>
+<w xml:id="AM12-0417_85r.10.1">ik</w>
+<w xml:id="AM12-0417_85r.10.2">vlo<del>ch</del></w>
+<w xml:id="AM12-0417_85r.10.3">to</w>
+<w xml:id="AM12-0417_85r.10.4">dy</w>
+<w xml:id="AM12-0417_85r.10.5">lere</w>
+<w xml:id="AM12-0417_85r.10.6">my</w>
+<w xml:id="AM12-0417_85r.10.7">dine<ex>n</ex></w>
+<lb n="11"/>
+<w xml:id="AM12-0417_85r.11.1">willen</w>
+<w xml:id="AM12-0417_85r.11.2">doen</w>
+<w xml:id="AM12-0417_85r.11.3">wente</w>
+<w xml:id="AM12-0417_85r.11.4">du</w>
+<w xml:id="AM12-0417_85r.11.5">myn</w>
+<lb n="12"/>
+<w xml:id="AM12-0417_85r.12.1">god</w>
+<w xml:id="AM12-0417_85r.12.2">bist</w>
+<w xml:id="AM12-0417_85r.12.3"><hi rend="red">D</hi>yn</w>
+<w xml:id="AM12-0417_85r.12.4">gude</w>
+<w xml:id="AM12-0417_85r.12.5">geist</w>
+<w xml:id="AM12-0417_85r.12.6">lei<lb n="13"/>de</w>
+<w xml:id="AM12-0417_85r.13.2">my</w>
+<w xml:id="AM12-0417_85r.13.3">in</w>
+<w xml:id="AM12-0417_85r.13.4">de</w>
+<w xml:id="AM12-0417_85r.13.5">rechten</w>
+<w xml:id="AM12-0417_85r.13.6">erden</w>
+<w xml:id="AM12-0417_85r.13.7">he<lb n="14"/>re</w>
+<w xml:id="AM12-0417_85r.14.2">dorch</w>
+<w xml:id="AM12-0417_85r.14.3">dinen</w>
+<w xml:id="AM12-0417_85r.14.4">name<ex>n</ex></w>
+<w xml:id="AM12-0417_85r.14.5">make</w>
+<pb n=""/>
+<lb n="1"/>
+<w xml:id="AM12-0417_.1.1">my</w>
+<w xml:id="AM12-0417_.1.2"><add>leue<ex>n</ex>dich</add></w>
+<w xml:id="AM12-0417_.1.3">in</w>
+<w xml:id="AM12-0417_.1.4">diner</w>
+<w xml:id="AM12-0417_.1.5">rechticheit</w>
+<w xml:id="AM12-0417_.1.6"><hi rend="red">H</hi>e<lb n="2"/>re</w>
+<w xml:id="AM12-0417_.2.2">leide</w>
+<w xml:id="AM12-0417_.2.3">myne</w>
+<w xml:id="AM12-0417_.2.4"><add>zele</add></w>
+<w xml:id="AM12-0417_.2.5">van</w>
+<w xml:id="AM12-0417_.2.6">der</w>
+<w xml:id="AM12-0417_.2.7">drof<lb n="3"/>fenisse</w>
+<w xml:id="AM12-0417_.3.2">vnde</w>
+<w xml:id="AM12-0417_.3.3">vorsstore</w>
+<w xml:id="AM12-0417_.3.4">myne</w>
+<lb n="4"/>
+<w xml:id="AM12-0417_.4.1">viande</w>
+<w xml:id="AM12-0417_.4.2">in</w>
+<w xml:id="AM12-0417_.4.3">diner</w>
+<w xml:id="AM12-0417_.4.4">barmher<lb n="5"/>ticheit</w>
+<w xml:id="AM12-0417_.5.2">vn<ex>de</ex></w>
+<w xml:id="AM12-0417_.5.3">vorstore</w>
+<w xml:id="AM12-0417_.5.4">alle</w>
+<w xml:id="AM12-0417_.5.5">de</w>
+<lb n="6"/>
+<w xml:id="AM12-0417_.6.1">myne</w>
+<w xml:id="AM12-0417_.6.2"><add>zele</add></w>
+<w xml:id="AM12-0417_.6.3">bedrouen</w>
+<w xml:id="AM12-0417_.6.4">wente</w>
+<w xml:id="AM12-0417_.6.5">ick</w>
+<lb n="7"/>
+<w xml:id="AM12-0417_.7.1">dyn</w>
+<w xml:id="AM12-0417_.7.2">knecht</w>
+<w xml:id="AM12-0417_.7.3">byn</w>
+<w xml:id="AM12-0417_.7.4"><hi rend="blue">E</hi>re</w>
+<w xml:id="AM12-0417_.7.5">si</w>
+<w xml:id="AM12-0417_.7.6">dem</w>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

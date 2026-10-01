@@ -1,6 +1,6 @@
-#+Title: Holm A 51
+#+TITLE: Holm A 51
 
-* PhysDesc
+* Physical Description
 |--------------+------------|
 | SUPPORT      | pap        |
 | NUMBER       | i + 73 + i |
@@ -23,16 +23,16 @@ Leather binding in poor condition. No indication of blind tooling.
 Single clasp has gone missing.
 
 ** Quire structure
-|-------+---------------+-----------+----------------------------|
-| Quire | Leaves        | Structure | Changes                    |
-|-------+---------------+-----------+----------------------------|
-| I     | 5+6 1-10      |           | 5+6                        |
-| II    | 11-25 (17+18) |           | ij                         |
-| III   | 26-37         |           | iij. leaf cut at beginning |
-| IV    | 38-49 (43+44) |           | iiij                       |
-| VI    | 50-61 (55+56) |           | v                          |
-| VII   | 62- (67-68)   |           | vj                         |
-|-------+---------------+-----------+----------------------------|
+|-------+--------+-------------+----------------------------|
+| Quire | Leaves | Structure   | Changes                    |
+|-------+--------+-------------+----------------------------|
+| I     |   1-10 | quinternion | 5+6                        |
+| II    |  11-25 |             | ij 17+18                   |
+| III   |  26-37 |             | iij. leaf cut at beginning |
+| IV    |  38-49 |             | iiij 43+44                 |
+| VI    |  50-61 |             | v 55+56                    |
+| VII   |  62-73 |             | vj 67-68                   |
+|-------+--------+-------------+----------------------------|
 
 * History
 |------------+----------|
@@ -42,11 +42,11 @@ Single clasp has gone missing.
 |------------+----------|
 
 * Contents
-|---------+--------------+-----+-------------------------------+-------------+--------+--------|
-| Loc     | Type         | MDB | Text                          | Rub/Inc/Exp | Lang   | Status |
-|---------+--------------+-----+-------------------------------+-------------+--------+--------|
-| 1r 67v  | Instructions |     | Readings for /Cantus Sororum/ |             | da lat | main   |
-| 67v 72r | Cycle        | 105 | KRONGEBET                     |             | da     | added  |
-| 72r 72v | Instructions |     | Extra readings                |             | da lat | added  |
-| 72v 72v | Instructions |     | Extra readings                |             | da lat | added  |
-|---------+--------------+-----+-------------------------------+-------------+--------+--------|
+|---------+--------------+-----+-------------------------------+-------------+--------+--------+-------+-----------|
+| Loc     | Type         | MDB | Text                          | Rub/Inc/Exp | Lang   | Status | Level | Key       |
+|---------+--------------+-----+-------------------------------+-------------+--------+--------+-------+-----------|
+| 1r 67v  | Instructions |     | Readings for /Cantus Sororum/ |             | da lat | main   |     1 |           |
+| 67v 72r | Cycle        | 105 | Das goldene Krongebet         |             | da     | added  |     1 | KRONGEBET |
+| 72r 72v | Instructions |     | Extra readings                |             | da lat | added  |     1 |           |
+| 72v 72v | Instructions |     | Extra readings                |             | da lat | added  |     1 |           |
+|---------+--------------+-----+-------------------------------+-------------+--------+--------+-------+-----------|

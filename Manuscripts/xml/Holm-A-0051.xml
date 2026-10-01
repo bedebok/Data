@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Holm-A-0051" type="manuscript">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Holm A 51</title>
+<respStmt xml:id="SDV">
+<resp when="2026">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="STH"/>
+<repository key="KBS"/>
+<idno corresp="Holm-A-0051"/>
+</msIdentifier>
+<head>
+
+</head>
+<msContents>
+<msItem class="Instructions" n="1">
+<locus from="1r" to="67v"/>
+<title>Readings for /Cantus Sororum/</title>
+<textLang mainLang="da" otherLangs="lat"/>
+</msItem>
+<msItem class="Cycle" n="2">
+<locus from="67v" to="72r"/>
+<title key="KRONGEBET">Das goldene Krongebet</title>
+<textLang mainLang="da"/>
+</msItem>
+<msItem class="Instructions" n="3">
+<locus from="72r" to="72v"/>
+<title>Extra readings</title>
+<textLang mainLang="da" otherLangs="lat"/>
+</msItem>
+<msItem class="Instructions" n="4">
+<locus from="72v" to="72v"/>
+<title>Extra readings</title>
+<textLang mainLang="da" otherLangs="lat"/>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc material="pap">
+<support>paper</support>
+<extent>i + 73 + i.<dimensions>
+<height>215</height>
+<width>145</width>
+</dimensions>
+</extent>
+<foliation><p>f. 1-72</p></foliation>
+<collation>
+<list>
+<item n="1">
+<locus from="1" to="10"/>
+<desc>quinternion. 5+6</desc>
+</item><item n="2">
+<locus from="11" to="25"/>
+<desc>ij 17+18</desc>
+</item><item n="3">
+<locus from="26" to="37"/>
+<desc>iij. leaf cut at beginning</desc>
+</item><item n="4">
+<locus from="38" to="49"/>
+<desc>iiij 43+44</desc>
+</item><item n="5">
+<locus from="50" to="61"/>
+<desc>v 55+56</desc>
+</item><item n="6">
+<locus from="62" to="73"/>
+<desc>vj 67-68</desc>
+</item></list>
+</collation></supportDesc>
+<layoutDesc>
+<layout columns="1" writtenLines="17"/></layoutDesc>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface/>
+</facsimile>
+</TEI>

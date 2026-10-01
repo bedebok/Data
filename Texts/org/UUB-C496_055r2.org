@@ -1,12 +1,12 @@
 #+TITLE: A Prayer to St. Christopher
 
-|------------+--------|
-| Manuscript | C 496  |
-| Locus      | 55r9   |
-| Work       | MDB320 |
-| Language   | gml    |
-| Status     | begun  |
-|------------+--------|
+|------------+-------------|
+| Manuscript | C 496       |
+| Locus      | 55r9        |
+| Work       | MDB320      |
+| Language   | gml         |
+| qStatus    | transcribed |
+|------------+-------------|
 
 * Transcription
 ** Rubric
@@ -43,3 +43,63 @@ dyner blode ouerwynnen mach alle
 myn viande. De my edder de myn(n)e
 
 ---55v---
+
+anvechten. myd worden. edder myt 
+
+werken. myt loghenen. myt valscher 
+
+tuchnisse. Wat my an lyue. an sele. an
+
+ere. vn(de) an gude. mach krenken dat 
+
+lat my leue here god ouer_wynne(n). Vn(de)
+
+bescherme my armen sunderynne(n). an
+
+deme lyue vn(de) an sele. Dat ik alle tijt
+
+mach rasten vn(de) rouwen in ih(esu)m (christu)m
+
+vnsen leuen heren Holt sy my god de
+
+gude here sunte iohan. Viff vn(de) man vn(de)
+
+alle de my seen an Des helpe my de
+
+gude here sunte iohan. De sy my vn(de) 
+
+den mynen eyn leydesman Helyas
+
+vn(de) enoch. de suluen twe propheten
+
+leuen beide noch. De en worden ny
+
+werlde gevangen edder gebunden
+
+So mote ik an desseme hogen dage
+
+des helpe my god vn(de) syne hilgen viff
+
+wunden Vnses leuen heres helgeste
+
+rok Sy ouer myn lyff vn(de) ouer myn
+
+leuent gestort. Dat ik sy so wal behat
+
+vn(de) bewart also de leue Juncfr(o)wwe ma-
+
+ria was do se des hilgen kerstes genas
+
+---56r---
+
+Des bidde ik dy leue konink der ewi-
+
+cheit Dat my dyne hulpe sy bereit
+
+So behode my nw vn(de) to allen tyden
+
+Dorch dyn gebenedide hilge lident Jn
+
+deme namen des vaderes vn(de) sones
+
+vn(de) des hilgen geistes Amen

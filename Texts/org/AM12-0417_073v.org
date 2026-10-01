@@ -1,11 +1,11 @@
 #+TITLE: Seven Penitential Psalms
 
 |------------+--------------------|
-| Manuscript | AM12-0417          |
-| Locus      | 73v 85v            |
+| Manuscript | AM 417 12mo        |
+| Locus      | 73v1 85v           |
 | Work       | PENITENTIAL_PSALMS |
 | Language   | gml                |
-| Status     | Transcribed        |
+| Status     | transcribed        |
 |------------+--------------------|
 
 * Transcription
@@ -216,9 +216,9 @@ sint vor vn_let vn(de) vor dor-
 
 uen van dem antlate myn(er)
 
-dul_heit [[red][I]]k byn arm ⸠vn(de)
+dul_heit [[red][I]]k byn arm ⸠vn(de)⸡
 
-0000000⸡ ge_worden vnde
+⸠0000000⸡ ge_worden vnde
 
 gekru(m)met wente in den en-
 
@@ -629,7 +629,7 @@ sint de hemmele [[red][S]]e scolen
 
 vor_gan vn(de) du bliuest ewich-
 
-liken vn(de) so scholen vor_olde(n=
+liken vn(de) so scholen vor_olde(n)
 
 also eyn cleit [[blue][U]]nde du sca-
 

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="textDisplay.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="UUB-C496_098v" type="text">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Alma redemptoris</title>
+<respStmt xml:id="SDV">
+<resp when="2024">Catalogue</resp>
+<persName>Seán D. Vrieland</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>When Danes Prayed in German</authority>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement key="UPS"/>
+<repository key="UUB"/>
+<idno corresp="UUB-C496">C 496</idno>
+</msIdentifier>
+<msContents>
+<msItem>
+<locus from="98v8" to="98v"/>
+<title key="ALMA_REDEMPTORIS">Alma redemptoris</title>
+<textLang mainLang="gml"/>
+</msItem>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="98v8"/>
+<div type="rubric">
+<p>
+<w xml:id="UUB-C496_98v8.1.1">Hyr</w>
+<w xml:id="UUB-C496_98v8.1.2">na</w>
+<w xml:id="UUB-C496_98v8.1.3">volget</w>
+<w xml:id="UUB-C496_98v8.1.4">alma</w>
+<w xml:id="UUB-C496_98v8.1.5">redemptoris</w>
+<w xml:id="UUB-C496_98v8.1.6">to</w>
+<lb n="2"/>
+<w xml:id="UUB-C496_98v8.2.1">dude</w>
+<w xml:id="UUB-C496_98v8.2.2">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_98v8.2.3">we</w>
+<w xml:id="UUB-C496_98v8.2.4">dat</w>
+<w xml:id="UUB-C496_98v8.2.5">alle</w>
+<w xml:id="UUB-C496_98v8.2.6">leset</w>
+<w xml:id="UUB-C496_98v8.2.7">de</w>
+<w xml:id="UUB-C496_98v8.2.8">en</w>
+<w xml:id="UUB-C496_98v8.2.9">wert</w>
+<lb n="3"/>
+<w xml:id="UUB-C496_98v8.3.1">nu<ex>m</ex>mer</w>
+<w xml:id="UUB-C496_98v8.3.2">meer</w>
+<w xml:id="UUB-C496_98v8.3.3">vorloren</w>
+</p></div>
+<div type="text">
+<p>
+<lb n="5"/>
+<w xml:id="UUB-C496_98v8.5.1"><hi rend="red 2">O</hi></w>
+<w xml:id="UUB-C496_98v8.5.2">Du</w>
+<w xml:id="UUB-C496_98v8.5.3">hilge</w>
+<w xml:id="UUB-C496_98v8.5.4">moder</w>
+<w xml:id="UUB-C496_98v8.5.5">godes</w>
+<w xml:id="UUB-C496_98v8.5.6">vnse</w>
+<w xml:id="UUB-C496_98v8.5.7">vor<lb n="6"/>loserynne</w>
+<w xml:id="UUB-C496_98v8.6.2">du</w>
+<w xml:id="UUB-C496_98v8.6.3">bloyende</w>
+<w xml:id="UUB-C496_98v8.6.4">dorschy<lb n="7"/>nende</w>
+<w xml:id="UUB-C496_98v8.7.2">porte</w>
+<w xml:id="UUB-C496_98v8.7.3">des</w>
+<w xml:id="UUB-C496_98v8.7.4">he<ex>m</ex>mels</w>
+<w xml:id="UUB-C496_98v8.7.5">Eyne</w>
+<w xml:id="UUB-C496_98v8.7.6">ster<lb n="8"/>ne</w>
+<w xml:id="UUB-C496_98v8.8.2">des</w>
+<w xml:id="UUB-C496_98v8.8.3">meres</w>
+<w xml:id="UUB-C496_98v8.8.4">kum</w>
+<w xml:id="UUB-C496_98v8.8.5">huden</w>
+<w xml:id="UUB-C496_98v8.8.6">to</w>
+<w xml:id="UUB-C496_98v8.8.7">hulpe</w>
+<lb n="9"/>
+<w xml:id="UUB-C496_98v8.9.1">deme</w>
+<w xml:id="UUB-C496_98v8.9.2">vallende</w>
+<w xml:id="UUB-C496_98v8.9.3">volke</w>
+<w xml:id="UUB-C496_98v8.9.4">Du</w>
+<w xml:id="UUB-C496_98v8.9.5">salige</w>
+<w xml:id="UUB-C496_98v8.9.6">mo<lb n="10"/>der</w>
+<w xml:id="UUB-C496_98v8.10.2">du</w>
+<w xml:id="UUB-C496_98v8.10.3">teledest</w>
+<w xml:id="UUB-C496_98v8.10.4">dynen</w>
+<w xml:id="UUB-C496_98v8.10.5">schepper</w>
+<w xml:id="UUB-C496_98v8.10.6">myt</w>
+<lb n="11"/>
+<w xml:id="UUB-C496_98v8.11.1">wunderliker</w>
+<w xml:id="UUB-C496_98v8.11.2">naturen</w>
+<w xml:id="UUB-C496_98v8.11.3">vn<ex>de</ex></w>
+<w xml:id="UUB-C496_98v8.11.4">bleuest</w>
+<w xml:id="UUB-C496_98v8.11.5">ionc<lb n="12"/>frouwe</w>
+<w xml:id="UUB-C496_98v8.12.2">vor</w>
+<w xml:id="UUB-C496_98v8.12.3">der</w>
+<w xml:id="UUB-C496_98v8.12.4">bort</w>
+<w xml:id="UUB-C496_98v8.12.5">in</w>
+<w xml:id="UUB-C496_98v8.12.6">der</w>
+<w xml:id="UUB-C496_98v8.12.7">bort</w>
+<w xml:id="UUB-C496_98v8.12.8">vn<ex>de</ex></w>
+<lb n="13"/>
+<w xml:id="UUB-C496_98v8.13.1">na</w>
+<w xml:id="UUB-C496_98v8.13.2">der</w>
+<w xml:id="UUB-C496_98v8.13.3">bort</w>
+<w xml:id="UUB-C496_98v8.13.4">de</w>
+<w xml:id="UUB-C496_98v8.13.5">du</w>
+<w xml:id="UUB-C496_98v8.13.6">vntfyngest</w>
+<w xml:id="UUB-C496_98v8.13.7">den</w>
+<lb n="14"/>
+<w xml:id="UUB-C496_98v8.14.1">grot</w>
+<w xml:id="UUB-C496_98v8.14.2">van</w>
+<w xml:id="UUB-C496_98v8.14.3">deme</w>
+<w xml:id="UUB-C496_98v8.14.4">engele</w>
+<w xml:id="UUB-C496_98v8.14.5">gabriel</w>
+<w xml:id="UUB-C496_98v8.14.6">vor<lb n="15"/>barme</w>
+<w xml:id="UUB-C496_98v8.15.2">dy</w>
+<w xml:id="UUB-C496_98v8.15.3">ouer</w>
+<w xml:id="UUB-C496_98v8.15.4">vns</w>
+<w xml:id="UUB-C496_98v8.15.5">armen</w>
+<w xml:id="UUB-C496_98v8.15.6">sunde<lb n="16"/>re</w>
+<w xml:id="UUB-C496_98v8.16.2">Amen</w>
+</p>
+</div>
+</body>
+</text>
+</TEI>
